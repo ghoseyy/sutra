@@ -3,6 +3,7 @@
  * the graph data handed to <GraphView>. Components below it are presentational.
  */
 import { useCallback, useEffect, useMemo, useRef, useState, lazy, Suspense } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { nodes, links, nodeById, adjacency, stats } from './data/index.js';
 import { CATEGORIES, EDGE_TYPES, ERAS, LINEAGES, AVATAR_HUBS } from './data/meta.js';
 import { shortestPath, computeLineage, layoutFamilyTree, layoutAvatars } from './lib/graph.js';
@@ -305,6 +306,7 @@ export default function App() {
   return (
     <div className={`app ${filtersOpen ? 'filters-open' : ''}`}>
       <style>{categoryCss}</style>
+      <SpeedInsights />
       <Header
         view={view} setView={setView}
         lineageId={lineageId} setLineageId={setLineageId}
