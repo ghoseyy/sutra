@@ -1,0 +1,4224 @@
+{
+ "section": "20-events",
+ "nodes": [
+  {
+   "id": "samudra-manthan",
+   "name": "Samudra Manthan (Churning of the Ocean)",
+   "devanagari": "समुद्र मन्थन",
+   "aliases": [
+    "Churning of the Ocean of Milk",
+    "Kshirasagara Manthana",
+    "Amrita Manthana",
+    "Sagara Manthana"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "The devas and asuras jointly churned the cosmic ocean, using Mount Mandara as the churning rod and the serpent Vasuki as the rope, to obtain amrita, the nectar of immortality. The episode yields the poison halahala, drunk by Shiva, and a series of treasures including Lakshmi, and ends with Vishnu as Mohini denying the nectar to the asuras.",
+   "story": "Weakened, the gods allied with their rivals the asuras to churn the ocean for amrita. Mount Mandara was uprooted and set in the sea as the churning stick, and the serpent Vasuki was wound around it as the rope, the asuras holding the head and the gods the tail. When the mountain began to sink, Vishnu took the form of a great tortoise, Kurma, and bore it on his back. The first thing to rise was the deadly poison halahala, which threatened to burn the worlds until Shiva drank it and held it in his throat, which turned blue. Then arose the moon, the goddess Shri, the white horse Uchchaihshravas, the jewel Kaustubha, the wish-granting cow, the elephant Airavata, and finally Dhanvantari bearing the pot of amrita. When the asuras seized it, Vishnu appeared as the enchantress Mohini and served the nectar to the gods alone.",
+   "symbols": [
+    "Mount Mandara",
+    "Vasuki as the churning rope",
+    "Kurma (the tortoise)",
+    "Halahala poison",
+    "Pot of amrita",
+    "Kaustubha jewel",
+    "Kalpavriksha / Parijata tree",
+    "Varuni (goddess of wine)"
+   ],
+   "weapons": [
+    "Sudarshana Chakra",
+    "Vajra"
+   ],
+   "vahana": null,
+   "abode": "Kshira Sagara (Ocean of Milk)",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda 45",
+    "Mahabharata, Adi Parva 15-17",
+    "Vishnu Purana 1.9",
+    "Bhagavata Purana, Canto 8 (chs. 5-12)",
+    "Matsya Purana",
+    "Padma Purana"
+   ],
+   "variations": [
+    "The Ramayana and Mahabharata place the churning in the ordinary ocean (turned to milk by herbs in the Mahabharata); the Puranas name it the Ocean of Milk.",
+    "The Vishnu Purana ascribes the gods' weakness to Durvasa's curse on Indra; the Bhagavata names Bali as leader of the asuras.",
+    "The number and order of the treasures (ratnas) vary; later lists fix them at fourteen, sometimes including Alakshmi (Jyeshtha) as the first to emerge.",
+    "In the Ramayana Vishnu himself supports the mountain; the explicit Kurma avatar is elaborated in the Puranas."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "daksha-yajna",
+   "name": "Daksha Yajna",
+   "devanagari": "दक्षयज्ञ",
+   "aliases": [
+    "Destruction of Daksha's Sacrifice",
+    "Dakshayajna-vidhvamsa",
+    "Daksha's Sacrifice"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "The Prajapati Daksha held a great sacrifice to which he did not invite Shiva, and in the Puranic versions his daughter Sati gave up her life in protest. Shiva's wrath, embodied in Virabhadra and Bhadrakali, destroyed the sacrifice before Daksha was restored and Shiva given his due share.",
+   "story": "Daksha, a son of Brahma, bore a grudge against his son-in-law Shiva, whose ascetic ways he despised. He organised a grand sacrifice and invited all the gods except Shiva. Sati, Daksha's daughter and Shiva's wife, went uninvited to her father's house; insulted there, she gave up her body in the sacrificial fire through yogic power. Learning of her death, Shiva tore a lock of his matted hair and dashed it to the ground, and from it sprang Virabhadra, with Bhadrakali born of the Goddess's wrath. Their hosts overran the sacrifice: Bhaga lost his eyes, Pushan his teeth, Bhrigu his beard, and Daksha was beheaded. At Brahma's plea Shiva relented, restored the gods, and gave Daksha the head of a goat, and Daksha thereafter honoured Shiva with a share of every sacrifice.",
+   "symbols": [
+    "Sacrificial fire",
+    "Goat's head of Daksha",
+    "Shiva's matted lock",
+    "Sati's body"
+   ],
+   "weapons": [
+    "Trishula",
+    "Pinaka bow",
+    "Sudarshana Chakra"
+   ],
+   "vahana": null,
+   "abode": "Kanakhala, near Haridwar",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda 66 (Shiva's bow used at Daksha's sacrifice)",
+    "Mahabharata, Shanti Parva",
+    "Vayu Purana",
+    "Kurma Purana",
+    "Linga Purana",
+    "Bhagavata Purana, Canto 4 (chs. 2-7)",
+    "Shiva Purana, Rudra Samhita",
+    "Devi Bhagavata Purana",
+    "Kalika Purana"
+   ],
+   "variations": [
+    "Vedic precursor: Rudra, excluded from the gods' sacrifice, pierces it; Bhaga is blinded and Pushan loses his teeth (Taittiriya Samhita 2.6.8, Shatapatha and Gopatha Brahmanas).",
+    "In the Mahabharata Shiva destroys the sacrifice (sometimes himself, sometimes through Virabhadra) at Uma's distress; Sati's self-immolation belongs to the Puranas.",
+    "Later Shakta texts (Devi Bhagavata, Kalika Purana) have Shiva wander carrying Sati's corpse until Vishnu's discus divides it, the pieces founding the Shakti Pithas.",
+    "In the Mahabhagavata Purana Sati manifests the ten Mahavidyas to overcome Shiva's refusal to let her go."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "ganga-descent",
+   "name": "Descent of the Ganga (Gangavatarana)",
+   "devanagari": "गङ्गावतरण",
+   "aliases": [
+    "Gangavatarana",
+    "Bhagiratha's Penance",
+    "Descent of the Ganges"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "King Bhagiratha of the Ikshvaku line brought the celestial river Ganga down to earth to purify the ashes of his ancestors, the sixty thousand sons of Sagara burnt by the sage Kapila. Shiva caught the torrent in his matted locks to spare the earth its force.",
+   "story": "King Sagara of Ayodhya performed a horse sacrifice, but the horse vanished. His sixty thousand sons dug down into the earth searching for it and found it grazing beside the sage Kapila. Accusing him of theft, they rushed at him, and the sage reduced them to ashes with a glance. Sagara's grandson Anshuman recovered the horse and learned from Garuda that only the waters of the heavenly Ganga could redeem them. Anshuman and his son Dilipa died without success, but Dilipa's son Bhagiratha performed fierce austerities. Brahma granted the boon, but warned that only Shiva could bear the river's fall. Pleased by further penance, Shiva received Ganga in his matted hair, subdued her pride, and released her in streams. Bhagiratha led her across the land and down to the netherworld, where her waters washed the ashes and freed his ancestors.",
+   "symbols": [
+    "Shiva's matted locks (jata)",
+    "Sacrificial horse",
+    "Ashes of Sagara's sons",
+    "Bhagiratha's chariot"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Himalayas (Gangotri) to Ganga Sagar",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda 38-44",
+    "Mahabharata, Vana Parva 104-109",
+    "Bhagavata Purana, Canto 9 (chs. 8-9)",
+    "Vishnu Purana 4.4",
+    "Brahmanda Purana"
+   ],
+   "variations": [
+    "In the Ramayana Ganga is the elder daughter of Himavan and Mena; Vaishnava Puranas describe her as flowing from Vishnu's foot, washed by Brahma at the Vamana episode.",
+    "The sage Jahnu swallowed the river when it flooded his hermitage and released it from his ear, giving it the name Jahnavi.",
+    "In the Ramayana Indra steals the horse; some Puranas leave the thief unnamed or blame the asuras."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "lingodbhava",
+   "name": "Lingodbhava (the Pillar of Fire)",
+   "devanagari": "लिङ्गोद्भव",
+   "aliases": [
+    "Jyotirlinga manifestation",
+    "Emergence of the Linga",
+    "Annamalai legend",
+    "Lingodbhavamurti"
+   ],
+   "category": "event",
+   "era": "early-puranas",
+   "group": false,
+   "description": "During a dispute between Brahma and Vishnu over supremacy, Shiva appeared as an endless pillar of fire. Neither god could find its top or bottom, and they acknowledged Shiva as the supreme.",
+   "story": "Brahma and Vishnu once quarrelled over which of them was the greater creator. Suddenly a blazing column of fire appeared between them, stretching beyond sight in both directions. They agreed that whoever found its end would be supreme. Vishnu took the form of a boar and dug downward for ages, while Brahma became a swan and flew upward. Neither reached the limit. Vishnu returned and humbly admitted failure, but in several Puranic versions Brahma falsely claimed to have seen the top, citing as witness a ketaki flower that had been falling from the summit. Shiva then emerged from the pillar, revealing himself as the infinite source of both. He honoured Vishnu's honesty, and in the Shiva Purana cursed Brahma to receive no worship and the ketaki never to be offered to him.",
+   "symbols": [
+    "Column of fire (jyotirlinga)",
+    "Ketaki flower",
+    "Boar and swan",
+    "Om (Pranava)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Arunachala (Tiruvannamalai), in Tamil tradition",
+   "sources": [
+    "Vayu Purana 55",
+    "Linga Purana 1.17",
+    "Kurma Purana",
+    "Shiva Purana, Vidyeshvara Samhita",
+    "Skanda Purana"
+   ],
+   "variations": [
+    "Brahma's lie and the ketaki flower appear in the Shiva and Skanda Puranas, not in the earliest (Vayu, Linga) accounts.",
+    "In the Shiva Purana Shiva sends Bhairava, who cuts off Brahma's fifth head for his falsehood.",
+    "Tamil tradition locates the pillar at Arunachala, celebrated in the Karthigai Deepam festival.",
+    "Some versions add the cow Surabhi as a second false witness."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "tripura-dahana",
+   "name": "Tripura Dahana (Burning of the Three Cities)",
+   "devanagari": "त्रिपुरदहन",
+   "aliases": [
+    "Tripurantaka",
+    "Tripuravadha",
+    "Destruction of the Three Cities"
+   ],
+   "category": "event",
+   "era": "later-vedic",
+   "group": false,
+   "description": "The asuras built three fortified cities of iron, silver and gold that could be destroyed only by a single arrow when they aligned. Shiva (Rudra), using a cosmic chariot and an arrow made of the gods themselves, burnt all three at once, earning the name Tripurantaka.",
+   "story": "Three asura lords, sons of Taraka, won from Brahma the boon of three cities, one in heaven, one in the sky and one on earth, built by the architect Maya of gold, silver and iron. They could be destroyed only by a single arrow at the moment, once in a thousand years, when the cities aligned. Protected, the asuras oppressed the worlds, and the gods turned to Shiva. The gods fashioned for him a chariot from the whole cosmos: the earth was its body, the sun and moon its wheels, the Vedas its horses, and Brahma its charioteer. Vishnu became the arrow, with Agni at its point and Soma at its shaft. When the three cities came into line, Shiva loosed the arrow and burnt them all in an instant, and the asuras perished within them.",
+   "symbols": [
+    "Three cities of gold, silver and iron",
+    "Cosmic chariot",
+    "Mount Meru as bow (in Puranas)",
+    "Single flaming arrow"
+   ],
+   "weapons": [
+    "Pinaka bow",
+    "Pashupata / the arrow formed of Vishnu, Agni and Soma"
+   ],
+   "vahana": null,
+   "abode": "The three worlds (heaven, sky and earth)",
+   "sources": [
+    "Taittiriya Samhita 6.2.3",
+    "Shatapatha Brahmana 3.4.4",
+    "Aitareya Brahmana 1.23",
+    "Mahabharata, Karna Parva 24",
+    "Matsya Purana",
+    "Linga Purana",
+    "Shiva Purana, Rudra Samhita"
+   ],
+   "variations": [
+    "In the Brahmanas the gods conquer the asuras' three forts (of iron, silver and gold) by the power of the upasad offerings, with an arrow compounded of Agni, Soma and Vishnu.",
+    "The Mahabharata (Karna Parva) narrates the cosmic chariot, with Brahma as charioteer and the three sons of Taraka as the cities' lords.",
+    "In the Shiva and Linga Puranas Mount Meru becomes the bow and Vasuki the bowstring; Maya survives as a devotee of Shiva.",
+    "Some Puranas add that Vishnu first corrupted the asuras' virtue so that they became vulnerable, and that Ganesha had to be worshipped before the chariot could move."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "kama-dahana",
+   "name": "Kama Dahana (Burning of Kama)",
+   "devanagari": "कामदहन",
+   "aliases": [
+    "Burning of Kamadeva",
+    "Madana Dahana",
+    "Ananga episode"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "Kamadeva, god of desire, disturbed Shiva's meditation with his flower-arrows and was burnt to ashes by the fire of Shiva's third eye, becoming Ananga, the bodiless one. In the Puranic and Kalidasa tradition the gods sent him so that Shiva would wed Parvati and father a son to kill Tarakasura.",
+   "story": "The asura Tarakasura, invulnerable save to a son of Shiva, tormented the gods, but Shiva, grieving for Sati, sat absorbed in austerity on the Himalaya. Parvati, daughter of Himavan, served him daily in the hope of winning him. At Indra's urging, Kamadeva went with his wife Rati and his friend Vasanta, the spring, to awaken desire in Shiva. As Parvati approached, Kama drew his sugarcane bow and loosed a flower-arrow. Shiva felt a stir of longing, saw the archer, and opened his third eye; a flame leapt out and reduced Kama to ashes. Rati lamented bitterly, and Shiva, or the gods, promised that Kama would live again, bodiless or reborn. Parvati, realising that beauty alone could not win Shiva, turned to severe penance, and through it won him as husband.",
+   "symbols": [
+    "Third eye of Shiva",
+    "Sugarcane bow",
+    "Five flower-arrows",
+    "Ashes of Kama",
+    "Spring (Vasanta)"
+   ],
+   "weapons": [
+    "Kama's sugarcane bow and flower-arrows"
+   ],
+   "vahana": null,
+   "abode": "Himalaya; the Ramayana places it at the Kamashrama near the Sarayu-Ganga confluence",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda 23",
+    "Kalidasa, Kumarasambhava, canto 3",
+    "Matsya Purana",
+    "Shiva Purana, Rudra Samhita, Parvati Khanda",
+    "Skanda Purana"
+   ],
+   "variations": [
+    "In the Ramayana the story is brief: Kama struck Shiva during his austerities and was burnt, becoming bodiless (Ananga); Parvati and Taraka are not mentioned.",
+    "The Harivamsha, Vishnu and Bhagavata Puranas say Kama was reborn as Pradyumna, son of Krishna and Rukmini, and Rati as Mayavati.",
+    "In South India Holi is associated with the burning of Kama rather than Holika."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "skanda-birth",
+   "name": "Birth of Skanda and slaying of Taraka",
+   "devanagari": "स्कन्दोत्पत्ति",
+   "aliases": [
+    "Kumara-sambhava",
+    "Birth of Kartikeya",
+    "Taraka-vadha",
+    "Skandotpatti"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "Shiva's fiery seed, too potent to be borne, passed through Agni and the Ganga and was nursed by the Krittikas, giving rise to the six-faced war-god Skanda (Kartikeya). Made general of the gods, he slew the asura Tarakasura.",
+   "story": "The gods needed a commander who could defeat the asuras, and above all Taraka, whom Brahma's boon made vulnerable only to a child of Shiva. Shiva's seed was so fiery that no one could bear it. Agni received it, and unable to hold it, cast it into the Ganga, who in turn deposited it among the reeds of the Sharavana on the mountainside. There a radiant child was born. The six Krittikas, the stars of the Pleiades, came to nurse him, and he grew six faces to drink from them all, earning the name Kartikeya. Only days old, he split the Krauncha mountain with his spear. Indra, fearing him, attacked and was defeated, then consecrated him as senapati, commander of the divine army. Leading the gods, Skanda slew Tarakasura with his spear, restoring heaven to the gods.",
+   "symbols": [
+    "Sharavana reed-bed",
+    "Six faces",
+    "Krittikas (Pleiades)",
+    "Krauncha mountain",
+    "Peacock",
+    "Cockerel banner"
+   ],
+   "weapons": [
+    "Shakti (spear, later Vel)"
+   ],
+   "vahana": null,
+   "abode": "Sharavana on the Himalaya; Krauncha mountain",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda 36-37",
+    "Mahabharata, Vana Parva 213-221",
+    "Mahabharata, Shalya Parva 43-45",
+    "Kalidasa, Kumarasambhava",
+    "Matsya Purana",
+    "Shiva Purana, Rudra Samhita, Kumara Khanda",
+    "Skanda Purana"
+   ],
+   "variations": [
+    "In the Mahabharata's Vana Parva Skanda is the son of Agni and Svaha, who took the forms of six of the seven Rishis' wives; Arundhati alone could not be imitated.",
+    "In the Vana Parva Skanda's chief foe is Mahisha; Taraka's slaying is prominent in the Shalya Parva, Kalidasa and the Puranas.",
+    "Tamil tradition (Kandha Puranam) makes the demon Surapadma his principal adversary and gives him a second wife, Valli.",
+    "Some versions have Parvati embrace the six infants, merging them into one child with six heads."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "kurukshetra-war",
+   "name": "Kurukshetra War",
+   "devanagari": "कुरुक्षेत्र युद्ध",
+   "aliases": [
+    "Bharata War",
+    "Mahabharata War",
+    "Eighteen-day War",
+    "Dharmayuddha"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "The eighteen-day war fought at Kurukshetra between the Pandavas and their cousins the Kauravas for the throne of Hastinapura. It is the climax of the Mahabharata, ending in the near-annihilation of both armies and Yudhishthira's joyless victory.",
+   "story": "After thirteen years of exile, the Pandavas' claim to half the kingdom was refused by Duryodhana, and Krishna's embassy for peace failed. Eighteen armies gathered on the plain of Kurukshetra, seven for the Pandavas and eleven for the Kauravas. Krishna, sworn not to fight, served as Arjuna's charioteer. Bhishma commanded the Kauravas for ten days until Arjuna, sheltering behind Shikhandi, laid him on a bed of arrows. Drona then led; the young Abhimanyu died in his wheel formation, and Drona himself laid down his arms on hearing the false report of Ashwatthama's death and was beheaded by Dhrishtadyumna. Karna fell to Arjuna when his chariot wheel sank, Shalya to Yudhishthira, and on the last day Bhima shattered Duryodhana's thigh with his mace. That night Ashwatthama massacred the sleeping Pandava camp. Of the vast hosts, only a handful survived.",
+   "symbols": [
+    "Arjuna's chariot with the ape banner",
+    "Panchajanya and Devadatta conches",
+    "Bed of arrows",
+    "Chakravyuha formation",
+    "Duryodhana's broken thigh"
+   ],
+   "weapons": [
+    "Gandiva",
+    "Sudarshana Chakra",
+    "Vasavi Shakti",
+    "Brahmashira",
+    "Narayanastra",
+    "Bhima's mace"
+   ],
+   "vahana": null,
+   "abode": "Kurukshetra (Dharmakshetra), Haryana",
+   "sources": [
+    "Mahabharata, Bhishma, Drona, Karna, Shalya and Sauptika Parvas",
+    "Mahabharata, Udyoga Parva (preparations)",
+    "Mahabharata, Stri Parva (aftermath)"
+   ],
+   "variations": [
+    "Regional and folk traditions add figures absent from the Sanskrit epic, such as Barbarika (Skanda Purana, Rajasthan) watching the war from a hilltop.",
+    "Tamil tradition relates Iravan's self-sacrifice to Kali before the war to ensure the Pandavas' victory.",
+    "The Critical Edition places some passages, such as Arjuna's hymn to Durga before the battle, in its appendices."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "bhagavad-gita",
+   "name": "The Bhagavad Gita discourse",
+   "devanagari": "भगवद्गीता",
+   "aliases": [
+    "Gita",
+    "Song of the Lord",
+    "Gitopadesha",
+    "Krishna-Arjuna samvada"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "The dialogue between Krishna and Arjuna on the battlefield of Kurukshetra, just before the war, in which Krishna teaches the paths of duty, knowledge and devotion. Narrated by Sanjaya to Dhritarashtra, it forms eighteen chapters of the Bhishma Parva.",
+   "story": "As the two armies faced each other, Arjuna asked Krishna to drive his chariot between them. Seeing grandfather Bhishma, teacher Drona, cousins and friends arrayed to fight, he was overcome with grief, laid down his bow Gandiva and refused to fight. Krishna answered his despair with a teaching: the self is eternal and cannot be slain; one must do one's duty without attachment to its fruits; action offered to the divine binds no one. He explained the disciplines of action, knowledge, meditation and devotion. At Arjuna's request he revealed his universal form, in which Arjuna saw all creation and the warriors of both armies rushing into Krishna's mouths like moths into flame. Finally Krishna told him to surrender to him alone. Arjuna's doubts dispelled, he took up Gandiva again, ready to fight.",
+   "symbols": [
+    "Arjuna's chariot between the armies",
+    "Gandiva laid down",
+    "Vishvarupa (universal form)",
+    "Conches sounded at the outset"
+   ],
+   "weapons": [
+    "Gandiva"
+   ],
+   "vahana": null,
+   "abode": "Kurukshetra, between the two armies",
+   "sources": [
+    "Mahabharata, Bhishma Parva 23-40 (Bhagavad Gita chs. 1-18)"
+   ],
+   "variations": [
+    "The 700-verse vulgate is standard; a longer Kashmiri recension exists.",
+    "Commentators (Shankara, Ramanuja, Madhva and others) read the teaching through non-dual, qualified non-dual and dualist lenses.",
+    "The Anugita (Ashvamedhika Parva) is Krishna's later restatement when Arjuna says he has forgotten the teaching."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "game-of-dice",
+   "name": "The Game of Dice",
+   "devanagari": "द्यूतक्रीडा",
+   "aliases": [
+    "Dyuta",
+    "Dyuta Parva",
+    "Draupadi Vastraharana",
+    "The Dicing"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "At Hastinapura, Yudhishthira lost his kingdom, his brothers, himself and Draupadi to Shakuni's loaded dice on Duryodhana's behalf. Draupadi's humiliation in the assembly hall, and a second game that sent the Pandavas into thirteen years of exile, set the course toward war.",
+   "story": "Envious of the Pandavas' wealth after the Rajasuya, Duryodhana, with his uncle Shakuni, persuaded Dhritarashtra to invite Yudhishthira to a game of dice. Bound by honour to accept, Yudhishthira played against Shakuni and lost his wealth, his kingdom, his brothers, himself and finally Draupadi. Dushasana dragged Draupadi by the hair into the assembly. She asked whether a man who had already lost himself could stake his wife; the elders fell silent, and only Vikarna and Vidura spoke for her. Karna ordered her stripped, but as Dushasana pulled at her garment, cloth kept appearing without end. Bhima vowed to break Duryodhana's thigh and drink Dushasana's blood. Terrified by evil omens, Dhritarashtra granted Draupadi boons and freed the Pandavas, but a second game cost them twelve years in the forest and a thirteenth in disguise.",
+   "symbols": [
+    "Shakuni's dice",
+    "Assembly hall of Hastinapura",
+    "Draupadi's endless garment",
+    "Draupadi's unbound hair"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura (the assembly hall)",
+   "sources": [
+    "Mahabharata, Sabha Parva 43-72 (Dyuta and Anudyuta Parvas)"
+   ],
+   "variations": [
+    "In the Critical Edition the garment multiplies without Draupadi explicitly invoking Krishna; the vulgate and later devotional retellings have her pray to Krishna, who saves her.",
+    "Popular tradition holds that Shakuni's dice were made from his father's bones and obeyed his will; this is not in the Sanskrit epic."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "draupadi-svayamvara",
+   "name": "Draupadi's Svayamvara",
+   "devanagari": "द्रौपदी स्वयंवर",
+   "aliases": [
+    "Draupadi's bridegroom-choice",
+    "Svayamvara Parva",
+    "Matsya-yantra test"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "King Drupada of Panchala held a contest for his daughter Draupadi's hand: the suitor had to string a mighty bow and hit a target through a revolving device. Arjuna, disguised as a brahmin, won, and by Kunti's word Draupadi became the wife of all five Pandavas.",
+   "story": "Hoping that Arjuna, whom he believed dead, might still win his daughter, Drupada set a formidable test: string a great bow and shoot five arrows through a revolving aperture to strike a target above. Kings from across the land came, Duryodhana, Shishupala, Jarasandha, Shalya and others, and one after another failed. The Pandavas, living in disguise as brahmins since escaping the house of lac, sat among the priests. Arjuna rose, strung the bow in an instant and struck the target, and Draupadi garlanded him. The outraged kings attacked, but Arjuna and Bhima drove them off while Krishna, recognising his cousins, calmed the rest. Returning home, the brothers called out that they had brought alms; Kunti, unseeing, told them to share it equally. With Vyasa's sanction, Draupadi was wedded to all five brothers.",
+   "symbols": [
+    "Great bow",
+    "Revolving target (matsya-yantra in later versions)",
+    "Bridal garland",
+    "Brahmin disguise"
+   ],
+   "weapons": [
+    "Drupada's great bow"
+   ],
+   "vahana": null,
+   "abode": "Kampilya, capital of Panchala",
+   "sources": [
+    "Mahabharata, Adi Parva 174-189 (Svayamvara Parva)",
+    "Mahabharata, Adi Parva 190-191 (Vaivahika Parva)"
+   ],
+   "variations": [
+    "In the vulgate Karna strings the bow but Draupadi refuses him as a charioteer's son; in the Critical Edition he fails by a hair's breadth and her refusal is not in the constituted text.",
+    "Later versions describe the target as a fish (matsya) on a revolving wheel, shot while looking at its reflection in water.",
+    "Vyasa justifies the polyandrous marriage by Draupadi's past life, in which she asked Shiva five times for a husband."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "rajasuya",
+   "name": "Yudhishthira's Rajasuya",
+   "devanagari": "राजसूय",
+   "aliases": [
+    "Rajasuya Yajna",
+    "Imperial consecration of Yudhishthira",
+    "Sabha Parva sacrifice"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "The imperial consecration sacrifice performed by Yudhishthira at Indraprastha after his brothers subdued the kings of the four quarters. It was marked by the killing of Jarasandha beforehand, Krishna's slaying of Shishupala at the ceremony, and Duryodhana's humiliation in Maya's illusory hall.",
+   "story": "Urged by Narada, who brought word that Pandu wished it, Yudhishthira resolved to perform the Rajasuya. Krishna warned that Jarasandha of Magadha, who held many kings captive, must first be removed; Bhima killed him in a wrestling match of many days. Arjuna, Bhima, Nakula and Sahadeva then conquered the four quarters and gathered tribute. At the sacrifice, with Vyasa and the great priests officiating, Bhishma advised that the first honour be given to Krishna. Shishupala of Chedi objected and heaped insults on Krishna, who had promised his mother to forgive a hundred offences; when the hundredth was passed, Krishna severed his head with the Sudarshana discus. Staying on in the wondrous hall built by Maya, Duryodhana mistook a crystal floor for water and water for floor, and was laughed at. His resentment led to the game of dice.",
+   "symbols": [
+    "Maya Sabha (the illusory hall)",
+    "Agrapuja (first honour)",
+    "Tribute of the four quarters",
+    "Sudarshana discus"
+   ],
+   "weapons": [
+    "Sudarshana Chakra"
+   ],
+   "vahana": null,
+   "abode": "Indraprastha",
+   "sources": [
+    "Mahabharata, Sabha Parva 1-42 (Sabha, Mantra, Jarasandha-vadha, Digvijaya, Rajasuya, Arghabharana and Shishupala-vadha Parvas)",
+    "Bhagavata Purana, Canto 10 (chs. 72-75)"
+   ],
+   "variations": [
+    "The famous taunt by Draupadi, a blind man's son is blind, is not in the Critical Edition; there, Bhima and others laugh at Duryodhana.",
+    "Southern and vulgate recensions have Sahadeva send Ghatotkacha to Lanka to collect tribute from Vibhishana."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "khandava-dahana",
+   "name": "Burning of the Khandava Forest",
+   "devanagari": "खाण्डवदाह",
+   "aliases": [
+    "Khandava-daha",
+    "Khandavadahana Parva"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "To cure Agni of the surfeit caused by endless sacrificial butter, Krishna and Arjuna let him consume the Khandava forest, holding off Indra, who was protecting his friend the naga Takshaka. In return they received divine weapons, including the Gandiva bow and the Sudarshana discus.",
+   "story": "Agni, sickened by the ghee of countless sacrifices, learned from Brahma that he could recover by devouring the Khandava forest, but every attempt was quenched by Indra's rains, for Indra's friend Takshaka lived there. Disguised as a brahmin, Agni approached Krishna and Arjuna on the banks of the Yamuna and asked for help. At their request he had Varuna give Arjuna the bow Gandiva, two inexhaustible quivers and a chariot with an ape banner, and Krishna the discus and the mace Kaumodaki. As the forest burned, the two warriors circled it, shooting down every creature that tried to escape and driving back Indra and the gods who attacked them. A heavenly voice told Indra that his friend Takshaka was away, and he withdrew. Only a few escaped, among them Takshaka's son Ashvasena and the asura architect Maya, whom Arjuna spared.",
+   "symbols": [
+    "Burning forest",
+    "Gandiva bow",
+    "Inexhaustible quivers",
+    "Ape-bannered chariot",
+    "Indra's rain-clouds"
+   ],
+   "weapons": [
+    "Gandiva",
+    "Sudarshana Chakra",
+    "Kaumodaki",
+    "Vajra"
+   ],
+   "vahana": null,
+   "abode": "Khandava forest (later Indraprastha), on the Yamuna",
+   "sources": [
+    "Mahabharata, Adi Parva 214-225 (Khandavadahana Parva)"
+   ],
+   "variations": [
+    "The episode includes the sub-story of the Sharngaka birds, the sage Mandapala's children, whom Agni spared.",
+    "Some scholars read the episode as a memory of forest clearance for settlement and the displacement of naga peoples."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "lanka-war",
+   "name": "The War of Lanka",
+   "devanagari": "लङ्का युद्ध",
+   "aliases": [
+    "Rama-Ravana Yuddha",
+    "Yuddha Kanda war",
+    "Battle of Lanka"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "The war fought by Rama, Lakshmana and the vanara army against Ravana and the rakshasas of Lanka to rescue Sita. It ends with Ravana's death at Rama's hands, Vibhishana's coronation and Sita's ordeal by fire.",
+   "story": "Having crossed the ocean by the bridge, Rama besieged Lanka with Sugriva's vanara hosts, joined by Ravana's brother Vibhishana. Angada went as envoy but Ravana refused to return Sita. In the fighting Nila slew the commander Prahasta, and Indrajit, striking invisibly, bound Rama and Lakshmana with serpent-arrows until Garuda freed them. Awakened from his long sleep, Kumbhakarna devoured vanaras until Rama cut him down. Indrajit felled Lakshmana, who was revived when Hanuman carried back a Himalayan peak bearing healing herbs; later Lakshmana killed Indrajit at the Nikumbhila shrine. Finally Ravana himself took the field. Rama, taught the Aditya Hridaya hymn by Agastya and riding Indra's chariot driven by Matali, fought him long, and slew him with the Brahmastra. Vibhishana was crowned king of Lanka, and Sita, after proving her purity through fire, was restored to Rama.",
+   "symbols": [
+    "Indra's chariot driven by Matali",
+    "Sanjivani herbs and the mountain peak",
+    "Naga-pasha (serpent-arrows)",
+    "Agni Pariksha fire"
+   ],
+   "weapons": [
+    "Kodanda (Rama's bow)",
+    "Brahmastra",
+    "Nagapasha",
+    "Shakti spear",
+    "Chandrahasa"
+   ],
+   "vahana": null,
+   "abode": "Lanka",
+   "sources": [
+    "Valmiki Ramayana, Yuddha Kanda",
+    "Mahabharata, Vana Parva 258-275 (Ramopakhyana)",
+    "Adhyatma Ramayana",
+    "Kamba Ramayanam",
+    "Ramcharitmanas, Lanka Kand"
+   ],
+   "variations": [
+    "The Ahiravana (Mahiravana) episode, in which Hanuman rescues Rama and Lakshmana from the netherworld and meets his son Makardhvaja, is found in later and regional Ramayanas.",
+    "In the Adhyatma Ramayana and Ramcharitmanas the captive was a shadow Sita, and the fire ordeal restores the real Sita from Agni's keeping.",
+    "Bengali tradition (Krittivasi Ramayana) has Rama perform an untimely worship of Durga (akala bodhana) before the final battle.",
+    "Kalanemi's attempt to delay Hanuman on his way to the herbs appears in the Adhyatma Ramayana and Tulsidas."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "sita-svayamvara",
+   "name": "Sita's Svayamvara (breaking of Shiva's bow)",
+   "devanagari": "सीता स्वयंवर",
+   "aliases": [
+    "Dhanur-bhanga",
+    "Breaking of the Pinaka",
+    "Sita-Rama vivaha"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "At Mithila, Rama lifted, strung and broke the great bow of Shiva kept by King Janaka, winning Sita as his bride. The four sons of Dasharatha were then married to Sita, Urmila, Mandavi and Shrutakirti.",
+   "story": "Janaka of Mithila had found Sita in a furrow while ploughing and vowed to give her only to a man who could string the mighty bow of Shiva, entrusted to his ancestors after Shiva had wielded it at Daksha's sacrifice. Many kings had failed even to lift it. The sage Vishvamitra brought the young princes Rama and Lakshmana to Mithila. At his word, Rama drew the bow from its iron chest, lifted it lightly, strung it and drew it so hard that it broke with a thunderous crash. Janaka sent for Dasharatha, and in a great wedding Rama married Sita, Lakshmana married Urmila, and Bharata and Shatrughna married Mandavi and Shrutakirti, daughters of Janaka's brother Kushadhvaja. On the journey home, Parashurama confronted Rama over the broken bow and was humbled.",
+   "symbols": [
+    "Shiva's bow (Pinaka / Tryambaka)",
+    "Iron bow-chest on wheels",
+    "Bridal garland",
+    "The furrow (sita)"
+   ],
+   "weapons": [
+    "Shiva's bow",
+    "Vishnu's bow (brought by Parashurama)"
+   ],
+   "vahana": null,
+   "abode": "Mithila (Videha)",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda 66-76",
+    "Adhyatma Ramayana",
+    "Kamba Ramayanam",
+    "Ramcharitmanas, Bala Kand"
+   ],
+   "variations": [
+    "In Valmiki there is no assembled svayamvara: Rama breaks the bow on a visit with Vishvamitra; later versions stage a contest before many kings.",
+    "Some later and folk versions have Ravana attend the contest and fail to lift the bow.",
+    "In the Ramcharitmanas Parashurama confronts Rama in the assembly itself; in Valmiki the meeting occurs on the road back to Ayodhya.",
+    "Janaka's queen is named Sunaina only in later texts."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "rama-vanavasa",
+   "name": "Rama's Exile",
+   "devanagari": "रामवनवास",
+   "aliases": [
+    "Vanavasa",
+    "Fourteen-year exile",
+    "Ayodhya Kanda exile"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "On the eve of his consecration as heir, Rama was exiled to the forest for fourteen years when Queen Kaikeyi claimed two boons from King Dasharatha. Accompanied by Sita and Lakshmana, he wandered through hermitages from Chitrakuta to Panchavati while Bharata ruled in his name.",
+   "story": "Dasharatha announced that Rama would be made heir. Stirred by the maid Manthara, Queen Kaikeyi reminded the king of two boons he owed her and demanded that her son Bharata be crowned and Rama banished for fourteen years. Bound by his word, the king collapsed in grief, but Rama calmly accepted. Sita and Lakshmana insisted on going with him. Crossing the Ganga with the help of the Nishada chief Guha, they visited the sage Bharadvaja and settled at Chitrakuta. Dasharatha died of sorrow, recalling his curse for killing Shravana. Bharata refused the throne, came to the forest and begged Rama to return; when Rama would not break his father's word, Bharata carried his sandals back to rule as regent. The exiles moved south through the hermitages of Atri and Agastya to Panchavati.",
+   "symbols": [
+    "Rama's sandals (paduka)",
+    "Bark garments",
+    "Chitrakuta hill",
+    "Panchavati hermitage"
+   ],
+   "weapons": [
+    "Kodanda (Rama's bow)",
+    "Weapons given by Agastya"
+   ],
+   "vahana": null,
+   "abode": "Dandaka forest: Chitrakuta, Panchavati",
+   "sources": [
+    "Valmiki Ramayana, Ayodhya and Aranya Kandas",
+    "Mahabharata, Vana Parva (Ramopakhyana)",
+    "Adhyatma Ramayana",
+    "Ramcharitmanas, Ayodhya and Aranya Kands"
+   ],
+   "variations": [
+    "Later tradition tells that Urmila slept through the fourteen years, taking on Lakshmana's sleep so that he could guard Rama; this is not in Valmiki.",
+    "Some retellings soften Kaikeyi's role, making her act at the gods' prompting so that Rama could fulfil his mission against Ravana."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "sita-abduction",
+   "name": "Abduction of Sita",
+   "devanagari": "सीताहरण",
+   "aliases": [
+    "Sita-harana",
+    "Golden deer episode",
+    "Maricha-vadha"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "Provoked by Shurpanakha, Ravana used the rakshasa Maricha, disguised as a golden deer, to lure Rama and Lakshmana away from Panchavati, then carried Sita off to Lanka. The vulture Jatayu died trying to stop him.",
+   "story": "At Panchavati, Ravana's sister Shurpanakha tried to seduce Rama and, when rebuffed, attacked Sita; Lakshmana cut off her nose and ears. Rama then destroyed the rakshasa army of Khara and Dushana. Shurpanakha fled to Ravana and inflamed him with praise of Sita's beauty. Ravana compelled his uncle Maricha to take the form of a golden deer. Sita begged Rama to catch it; struck by his arrow, Maricha cried out in Rama's voice for help. Sita, frantic, sent Lakshmana after him. Ravana, disguised as a wandering ascetic, came to beg alms, revealed himself and carried Sita off in his aerial chariot. The aged vulture Jatayu fought him and fell with clipped wings. Sita dropped her ornaments to a group of vanaras below. The dying Jatayu told Rama what had happened, and the brothers began their search.",
+   "symbols": [
+    "Golden deer",
+    "Pushpaka (aerial chariot)",
+    "Sita's dropped ornaments",
+    "Ascetic's guise"
+   ],
+   "weapons": [
+    "Chandrahasa (Ravana's sword)",
+    "Rama's arrows"
+   ],
+   "vahana": null,
+   "abode": "Panchavati (Dandaka forest)",
+   "sources": [
+    "Valmiki Ramayana, Aranya Kanda 17-56",
+    "Mahabharata, Vana Parva (Ramopakhyana)",
+    "Adhyatma Ramayana",
+    "Ramcharitmanas, Aranya Kand"
+   ],
+   "variations": [
+    "The Lakshmana Rekha, the protective line Sita crossed, is absent from Valmiki and appears in later and popular retellings.",
+    "In the Adhyatma Ramayana and later texts Sita entrusts herself to Agni and a shadow Sita (Maya Sita), sometimes identified with Vedavati, is abducted.",
+    "In Valmiki Ravana seizes Sita by her hair and thighs; in Kamban he lifts the ground she stands on, leaving her untouched."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "lanka-dahana",
+   "name": "Burning of Lanka",
+   "devanagari": "लङ्कादहन",
+   "aliases": [
+    "Sundara Kanda mission",
+    "Hanuman's leap and burning of Lanka",
+    "Lankadahana"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "Hanuman leapt across the ocean, found Sita in Ravana's Ashoka grove and, after being captured and having his tail set alight, burnt the city of Lanka. The episode forms the heart of the Sundara Kanda.",
+   "story": "Told by Sampati that Sita was in Lanka and urged on by Jambavan, Hanuman leapt across the ocean. On the way the mountain Mainaka rose to offer him rest, the serpent-mother Surasa tested him, and he killed the shadow-seizing Simhika. Overcoming the city's guardian goddess, he searched the palace, found Sita in the Ashoka grove guarded by rakshasis, and gave her Rama's ring. He then wrecked the grove and killed Ravana's son Akshayakumara. Indrajit bound him with the Brahmastra, and he let himself be led before Ravana. Vibhishana argued that an envoy must not be killed, so Ravana ordered his tail set on fire. Sita prayed that the fire be cool to him. Hanuman slipped his bonds, leapt from roof to roof and set Lanka ablaze, then, assured Sita was unharmed, flew back with her jewel for Rama.",
+   "symbols": [
+    "Hanuman's burning tail",
+    "Rama's signet ring",
+    "Sita's chudamani (hair jewel)",
+    "Ashoka grove"
+   ],
+   "weapons": [
+    "Brahmastra (binding Hanuman)"
+   ],
+   "vahana": null,
+   "abode": "Lanka",
+   "sources": [
+    "Valmiki Ramayana, Sundara Kanda",
+    "Adhyatma Ramayana",
+    "Ramcharitmanas, Sundar Kand"
+   ],
+   "variations": [
+    "Tulsidas names the guardian of the city Lankini; in Valmiki she is the personified city, Lanka.",
+    "Regional traditions tell that Makardhvaja was born when a drop of Hanuman's sweat fell into the sea as he cooled his tail."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "rama-setu",
+   "name": "Building of Rama Setu",
+   "devanagari": "रामसेतु",
+   "aliases": [
+    "Setubandha",
+    "Nala Setu",
+    "Adam's Bridge (modern)"
+   ],
+   "category": "event",
+   "era": "ramayana",
+   "group": false,
+   "description": "To bring his army across the ocean to Lanka, Rama had the vanara engineer Nala build a causeway of rocks and trees across the sea. The ocean god, humbled by Rama, promised to hold the materials afloat.",
+   "story": "The vanara army reached the southern shore, but the ocean barred the way to Lanka. On Vibhishana's advice Rama lay on kusha grass for three days praying to the ocean for passage. When the ocean did not appear, Rama in anger aimed his arrows to dry up the sea. The ocean god rose before him, explained that he could not change his nature, but promised to bear up a bridge, and named the vanara Nala, son of the divine architect Vishvakarma, as able to build it. The vanaras uprooted trees and hurled boulders and mountain crags into the sea, and in five days Nala completed a causeway a hundred yojanas long. The army crossed over to Lanka, Rama and Lakshmana carried on the shoulders of Hanuman and Angada.",
+   "symbols": [
+    "Floating stones",
+    "Kusha grass",
+    "Rama's arrow aimed at the ocean",
+    "Squirrel (in later retellings)"
+   ],
+   "weapons": [
+    "Brahmastra (aimed at the ocean)"
+   ],
+   "vahana": null,
+   "abode": "Rameshvaram to Lanka (Setu)",
+   "sources": [
+    "Valmiki Ramayana, Yuddha Kanda 19-22",
+    "Kalidasa, Raghuvamsha 12-13",
+    "Pravarasena, Setubandha",
+    "Kamba Ramayanam",
+    "Ramcharitmanas, Lanka Kand"
+   ],
+   "variations": [
+    "Later retellings add that stones inscribed with Rama's name floated, and that Nala and Nila had been cursed so that anything they threw into water would float.",
+    "The tale of the squirrel carrying sand for the bridge, blessed with stripes by Rama, is a popular South Indian tradition.",
+    "Rama's worship of Shiva at Rameshvaram before or after the crossing is elaborated in later texts such as the Adhyatma Ramayana and Skanda Purana."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "sarpa-satra",
+   "name": "Janamejaya's Snake Sacrifice",
+   "devanagari": "सर्पसत्र",
+   "aliases": [
+    "Sarpa Satra",
+    "Sarpayajna",
+    "Snake sacrifice of Janamejaya"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "King Janamejaya, to avenge his father Parikshit's death by the naga Takshaka, performed a sacrifice that drew serpents into the fire. It was halted by the young sage Astika, and during its sessions Vaishampayana first recited the Mahabharata.",
+   "story": "Parikshit, cursed by a sage's son, died from the bite of the serpent Takshaka. When his son Janamejaya learned the truth, he resolved on a great snake sacrifice. As the priests chanted, serpents by thousands were drawn helplessly through the air into the fire, fulfilling an old curse of their mother Kadru. Takshaka fled to Indra for refuge, but the mantras dragged even Indra toward the flames, and he let Takshaka go. Just then the young brahmin Astika, son of the sage Jaratkaru and the naga woman Jaratkaru, sister of Vasuki, arrived and so pleased the king with his praise that Janamejaya granted him a boon. Astika asked that the sacrifice end, and Takshaka was saved in mid-air. During the long sessions of the rite, Vaishampayana, at Vyasa's bidding, recited the story of the Bharatas to the king.",
+   "symbols": [
+    "Sacrificial fire",
+    "Serpents falling from the sky",
+    "The Mahabharata recitation"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Takshashila / Hastinapura (the sacrificial ground)",
+   "sources": [
+    "Mahabharata, Adi Parva 13-53 (Astika Parva)",
+    "Mahabharata, Adi Parva 1 and 54-55",
+    "Devi Bhagavata Purana"
+   ],
+   "variations": [
+    "The Mahabharata is framed as recited twice: by Vaishampayana at the snake sacrifice, and later by Ugrashravas to the sages of the Naimisha forest.",
+    "Bengali and later Puranic tradition identify Astika's mother, the naga Jaratkaru, with the goddess Manasa."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "three-strides",
+   "name": "Vamana's Three Strides",
+   "devanagari": "त्रिविक्रम",
+   "aliases": [
+    "Trivikrama",
+    "Vamana avatara",
+    "Bali-bandhana",
+    "Urukrama"
+   ],
+   "category": "event",
+   "era": "rigveda",
+   "group": false,
+   "description": "Vishnu, as the dwarf brahmin Vamana, asked the asura king Bali for as much land as he could cover in three steps, then grew to cosmic size and spanned the earth, sky and heaven, restoring the worlds to Indra. The striding Vishnu is praised already in the Rig Veda.",
+   "story": "Bali, grandson of Prahlada, had conquered the three worlds and driven Indra from heaven. Aditi, mother of the gods, grieved, and on Kashyapa's advice performed a vow, and Vishnu was born to her as Vamana, a dwarf brahmin boy. Vamana came to Bali's sacrifice and asked only for three paces of land. Bali's preceptor Shukracharya recognised Vishnu and warned him, but Bali would not break his word and poured the water of gift. At once the dwarf grew to fill the universe: with one step he covered the earth, with the second the heavens, and there was no place left for the third. Bali bowed and offered his own head. Pleased by his truthfulness, Vishnu sent him to rule Sutala in the netherworld and returned heaven to Indra.",
+   "symbols": [
+    "Three strides",
+    "Brahmin boy's umbrella and water-pot",
+    "Water of gift",
+    "Vishnu's foot on Bali's head"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Bali's sacrificial ground on the Narmada (Bhagavata); the three worlds",
+   "sources": [
+    "Rig Veda 1.22.16-21",
+    "Rig Veda 1.154",
+    "Shatapatha Brahmana 1.2.5",
+    "Taittiriya Samhita",
+    "Valmiki Ramayana, Bala Kanda 29",
+    "Mahabharata",
+    "Vishnu Purana",
+    "Bhagavata Purana, Canto 8 (chs. 15-23)",
+    "Vamana Purana"
+   ],
+   "variations": [
+    "In the Rig Veda Vishnu takes three strides across the worlds without any dwarf or Bali; the dwarf form (vamana) appears in the Shatapatha Brahmana, where the gods win as much land as the dwarf Vishnu can lie upon.",
+    "In the Bhagavata, Shukracharya tries to block the spout of the water-pot and loses an eye to a blade of grass.",
+    "In Kerala tradition, Mahabali was a just and beloved king allowed to visit his people once a year, celebrated at Onam.",
+    "Vaishnava Puranas say the Ganga issued from the water with which Brahma washed Vishnu's raised foot."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "holika-dahan",
+   "name": "Holika Dahan",
+   "devanagari": "होलिका दहन",
+   "aliases": [
+    "Burning of Holika",
+    "Holika Dahana",
+    "Chhoti Holi"
+   ],
+   "category": "event",
+   "era": "late-puranas",
+   "group": false,
+   "description": "The demoness Holika, sister of Hiranyakashipu, sat in a fire holding the boy Prahlada, relying on her immunity to flame, but she was burnt while Prahlada, protected by his devotion to Vishnu, came out unharmed. The event is re-enacted with bonfires on the eve of Holi.",
+   "story": "Hiranyakashipu could not break his son Prahlada's devotion to Vishnu. He had the boy thrown from cliffs, trampled by elephants and bitten by serpents, but Prahlada survived every attempt. At last the king called on his sister Holika, who possessed a boon, or in some tellings a cloak, that made her immune to fire. A great pyre was built, and Holika sat in it with Prahlada on her lap. As the flames rose, Prahlada kept chanting the name of Vishnu. The protection passed from Holika to the boy: she was reduced to ashes, while Prahlada stepped from the fire unharmed. The triumph of devotion over malice is remembered each year by lighting bonfires on the full-moon night of Phalguna, the eve of the festival of colours.",
+   "symbols": [
+    "Bonfire",
+    "Fire-proof boon or cloak",
+    "Prahlada on Holika's lap",
+    "Full moon of Phalguna"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Court of Hiranyakashipu (traditionally Multan, or Eranch in Uttar Pradesh)",
+   "sources": [
+    "Narada Purana",
+    "Bhavishya Purana (Holika festival)",
+    "Vishnu Purana 1.17-20 (Prahlada's fire ordeal, without Holika)",
+    "Bhagavata Purana, Canto 7 (Prahlada's trials)"
+   ],
+   "variations": [
+    "In the Vishnu and Bhagavata Puranas Prahlada survives fire among other trials, but Holika is not named; the Holika story is found in later Puranic and folk tradition.",
+    "Some versions say Holika's immunity came from a boon of Brahma, others from a shawl given by Agni that flew onto Prahlada.",
+    "The Bhavishya Purana links the Holi bonfire to a demoness named Dhundha; South Indian tradition links Holi to Kama Dahana."
+   ],
+   "disputed": true
+  },
+  {
+   "id": "mahishasura-vadha",
+   "name": "Slaying of Mahishasura",
+   "devanagari": "महिषासुरवध",
+   "aliases": [
+    "Mahishasuramardini",
+    "Durga's victory over the buffalo demon",
+    "Madhyama Charita"
+   ],
+   "category": "event",
+   "era": "early-puranas",
+   "group": false,
+   "description": "When the buffalo-demon Mahishasura conquered heaven, the combined radiance of the gods took form as the Goddess Durga, armed with their weapons, who slew him after a great battle. The episode forms the middle section of the Devi Mahatmya and is celebrated at Navaratri and Durga Puja.",
+   "story": "Mahishasura, lord of the asuras, defeated the gods in a hundred-year war and seized Indra's throne. The gods, led by Brahma, went to Shiva and Vishnu, whose anger blazed forth as light; from the bodies of Indra and all the gods poured further radiance, which merged into a single luminous Goddess. Each god gave her a weapon: Shiva his trident, Vishnu his discus, Varuna a conch and noose, Agni a spear, Vayu a bow, Indra the thunderbolt and Airavata's bell, Yama his staff, Kubera a drinking cup, Vishvakarma an axe and armour, and Himavan a lion to ride. Her laughter shook the worlds. She destroyed Mahisha's generals and armies, then faced the shape-shifting demon, who became buffalo, lion, man and elephant. Drinking wine, she pinned him with her foot and, as he half-emerged from the buffalo, cut off his head.",
+   "symbols": [
+    "Lion mount",
+    "Trident in the buffalo",
+    "Weapons of all the gods",
+    "Mahisha half-emerged from the buffalo"
+   ],
+   "weapons": [
+    "Trishula",
+    "Sudarshana Chakra",
+    "Vajra",
+    "Sword and shield",
+    "Bow and arrows",
+    "Axe",
+    "Noose"
+   ],
+   "vahana": null,
+   "abode": "Heaven and earth; traditionally the Vindhya hills or Mysore (Chamundi Hill)",
+   "sources": [
+    "Markandeya Purana, Devi Mahatmya chs. 2-4",
+    "Vamana Purana",
+    "Devi Bhagavata Purana, Book 5",
+    "Kalika Purana"
+   ],
+   "variations": [
+    "In the Mahabharata (Vana Parva) Skanda, not the Goddess, slays Mahisha.",
+    "The Vamana Purana names the Goddess Katyayani, born in the hermitage of the sage Katyayana.",
+    "Later Puranas give Mahisha's origin as the son of the asura Rambha and a she-buffalo.",
+    "The Kalika Purana describes three killings of Mahisha in successive ages."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "mausala",
+   "name": "Mausala — End of the Yadavas",
+   "devanagari": "मौसल",
+   "aliases": [
+    "Mausala Parva",
+    "Destruction of the Yadavas",
+    "Yadava fratricide",
+    "Submergence of Dvaraka"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "Thirty-six years after the Kurukshetra war, a curse brought on by a prank caused the Yadavas to slaughter one another with iron-hard reeds at Prabhasa. Balarama and Krishna then left the world, and Dvaraka was swallowed by the sea.",
+   "story": "Young Yadavas dressed Samba as a pregnant woman and mockingly asked the visiting sages Vishvamitra, Kanva and Narada what she would bear. The sages cursed that she would give birth to an iron club that would destroy the race. Samba brought forth a club; it was ground to powder and cast into the sea, but it grew into reeds on the shore. Thirty-six years after the war, as Gandhari had cursed, the Yadavas went to Prabhasa and, drunk, quarrelled. Satyaki slew Kritavarma, and the fight became a massacre with the reeds, which turned to iron clubs in their hands. Pradyumna, Samba and Aniruddha perished. Balarama departed in yoga, a great serpent leaving his mouth. Krishna, lying in the forest, was struck in the foot by the hunter Jara's arrow and left the world. Arjuna led the women away as the sea swallowed Dvaraka.",
+   "symbols": [
+    "Iron club (musala)",
+    "Eraka reeds",
+    "Jara's arrow",
+    "Dvaraka submerged"
+   ],
+   "weapons": [
+    "Musala (iron club)",
+    "Reeds turned to clubs",
+    "Gandiva (failing Arjuna)"
+   ],
+   "vahana": null,
+   "abode": "Prabhasa (near Somnath) and Dvaraka",
+   "sources": [
+    "Mahabharata, Mausala Parva",
+    "Harivamsha",
+    "Vishnu Purana, Book 5 (chs. 37-38)",
+    "Bhagavata Purana, Canto 11 (chs. 1, 30-31)"
+   ],
+   "variations": [
+    "The Bhagavata Purana inserts Krishna's teaching to Uddhava (the Uddhava Gita) before the end.",
+    "Later tradition identifies the hunter Jara as a rebirth of Vali, repaying Rama's arrow from hiding.",
+    "Puranic reckoning dates the start of the Kali Yuga to Krishna's departure."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "garuda-amrita",
+   "name": "Garuda Steals the Amrita",
+   "devanagari": "अमृतहरण",
+   "aliases": [
+    "Amrita-harana",
+    "Suparna and the Soma",
+    "Garuda's theft of the nectar"
+   ],
+   "category": "event",
+   "era": "later-vedic",
+   "group": false,
+   "description": "To free his mother Vinata from slavery to her co-wife Kadru, the eagle Garuda flew to heaven, overcame the gods and seized the amrita. On the way he won boons from Vishnu and a pact with Indra, and the serpents lost the nectar they had bargained for.",
+   "story": "Vinata and Kadru, wives of Kashyapa, wagered on the colour of the tail of the horse Uchchaihshravas; Kadru's serpent sons blackened it by clinging to it, and Vinata became Kadru's slave. Her son Garuda asked the serpents their price for her freedom, and they demanded the amrita. Garuda flew to heaven, scattered the gods who guarded it, passed through a whirling wheel of blades, killed the two serpents guarding the nectar and carried it off without tasting it. Vishnu, pleased by his restraint, granted him immortality and a place above his banner, and Garuda became his mount. Indra struck him with the thunderbolt, but Garuda dropped only a feather, and the two became friends. Garuda set the amrita on kusha grass before the serpents, freeing his mother; while they bathed, Indra took it back, and the serpents licking the grass split their tongues.",
+   "symbols": [
+    "Pot of amrita",
+    "Uchchaihshravas' tail",
+    "Kusha grass",
+    "Garuda's single dropped feather",
+    "Wheel of blades"
+   ],
+   "weapons": [
+    "Vajra"
+   ],
+   "vahana": null,
+   "abode": "Svarga (heaven) and the serpents' realm",
+   "sources": [
+    "Rig Veda 4.26-27 (the falcon brings Soma)",
+    "Shatapatha Brahmana 3.6.2",
+    "Taittiriya Samhita 6.1.6",
+    "Mahabharata, Adi Parva 14-30 (Astika Parva)",
+    "Suparnadhyaya"
+   ],
+   "variations": [
+    "In the Rig Veda an eagle or falcon (shyena) steals Soma from heaven for Indra; the Brahmanas tell of the wager between Kadru and Suparni, with the metre Gayatri in bird form fetching Soma.",
+    "The full Garuda-Vinata narrative is first found in the Mahabharata's Astika Parva.",
+    "Garuda's elder brother Aruna, born prematurely when Vinata broke his egg, cursed her to servitude."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "vritra-vadha",
+   "name": "Slaying of Vritra",
+   "devanagari": "वृत्रवध",
+   "aliases": [
+    "Vritrahatya",
+    "Indra's victory over Vritra",
+    "Release of the waters"
+   ],
+   "category": "event",
+   "era": "rigveda",
+   "group": false,
+   "description": "Indra, strengthened by Soma, slew the serpent Vritra, who had enclosed the waters, with the thunderbolt fashioned by Tvashtr, releasing the rivers to flow to the sea. It is the central myth of the Rig Veda; later versions make Vritra a son of Tvashtr and have the vajra made from the sage Dadhichi's bones.",
+   "story": "The serpent Vritra lay coiled upon the mountains, holding back the waters. Indra drank deeply of Soma from three bowls, took up the vajra that Tvashtr had fashioned for him and struck Vritra, the first-born of serpents. The waters rushed over the fallen body toward the sea like lowing cows, and Vritra's mother Danu, lying above him, was struck down too. In the Rig Veda, Indra's companions the Maruts and his friend Vishnu stand beside him. In later tellings Tvashtr created Vritra to avenge his son Vishvarupa, whom Indra had slain. No weapon could harm the demon, until Vishnu advised the gods to ask the sage Dadhichi for his bones, from which a new thunderbolt was made. Burdened by the sin of the killing, Indra hid, and Nahusha ruled heaven in his place.",
+   "symbols": [
+    "Vajra (thunderbolt)",
+    "Released waters and rivers",
+    "Soma bowls",
+    "Dadhichi's bones",
+    "Coiled serpent on the mountain"
+   ],
+   "weapons": [
+    "Vajra"
+   ],
+   "vahana": null,
+   "abode": "The mountains and the cosmic waters",
+   "sources": [
+    "Rig Veda 1.32",
+    "Rig Veda 1.80, 8.100",
+    "Taittiriya Samhita 2.5",
+    "Shatapatha Brahmana 1.6.3",
+    "Mahabharata, Vana Parva 98-100",
+    "Mahabharata, Udyoga Parva 9-18",
+    "Bhagavata Purana, Canto 6 (chs. 9-13)"
+   ],
+   "variations": [
+    "In the Rig Veda Vritra is a serpent or dragon (ahi) withholding the waters; in the Brahmanas and epics he is Tvashtr's creation to avenge Vishvarupa.",
+    "The Mahabharata and Bhagavata have the new vajra made from Dadhichi's bones; the Bhagavata portrays Vritra as a great devotee of Vishnu.",
+    "Some Rig Vedic hymns say all the gods deserted Indra except the Maruts or Vishnu."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "mahaprasthana",
+   "name": "Mahaprasthana — the Great Departure",
+   "devanagari": "महाप्रस्थान",
+   "aliases": [
+    "Mahaprasthanika Parva",
+    "Great Journey",
+    "Svargarohana"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "After Krishna's death, the five Pandavas and Draupadi renounced the kingdom and walked toward the Himalaya and Mount Meru, followed by a dog. One by one they fell, until only Yudhishthira and the dog, Dharma in disguise, reached the gate of heaven.",
+   "story": "Hearing of the Yadavas' end, Yudhishthira crowned Parikshit, entrusted him to Kripa and Yuyutsu, and set out with his brothers and Draupadi, a dog following them. At the sea Agni appeared and asked Arjuna to return the Gandiva, which he cast into the water for Varuna. Circling the land, they climbed into the Himalaya. Draupadi fell first, then Sahadeva, Nakula, Arjuna and Bhima; to Bhima's questions Yudhishthira named each one's fault. Indra came in his chariot to carry Yudhishthira to heaven, but he refused to enter without the faithful dog. The dog then revealed himself as Dharma, testing his son. In heaven Yudhishthira found Duryodhana enthroned and was shown his brothers in a hell, but it was an illusion; bathing in the heavenly Ganga, he shed his human body and joined his kin in glory.",
+   "symbols": [
+    "The faithful dog",
+    "Gandiva cast into the sea",
+    "Himalaya and Mount Meru",
+    "Indra's chariot"
+   ],
+   "weapons": [
+    "Gandiva (surrendered)"
+   ],
+   "vahana": null,
+   "abode": "Himalaya, Mount Meru and Svarga",
+   "sources": [
+    "Mahabharata, Mahaprasthanika Parva",
+    "Mahabharata, Svargarohana Parva",
+    "Bhagavata Purana, Canto 1 (ch. 15)"
+   ],
+   "variations": [
+    "The epic names the dog as Dharma, Yudhishthira's divine father; Dharma is commonly identified with Yama (Dharmaraja).",
+    "In Uttarakhand tradition the route is associated with Badrinath and the Swargarohini peak."
+   ],
+   "disputed": false
+  },
+  {
+   "id": "govardhana-lila",
+   "name": "Lifting of Govardhana",
+   "devanagari": "गोवर्धनधारण",
+   "aliases": [
+    "Govardhana Dhari",
+    "Giridhari",
+    "Govardhana Puja",
+    "Annakuta"
+   ],
+   "category": "event",
+   "era": "mahabharata",
+   "group": false,
+   "description": "Krishna persuaded the cowherds of Vraja to worship Mount Govardhana instead of Indra; when the angry Indra sent a deluge, Krishna lifted the mountain and held it as an umbrella for seven days. Humbled, Indra consecrated Krishna as Govinda.",
+   "story": "Each year the cowherds of Vraja offered a sacrifice to Indra, lord of rain. The boy Krishna asked his foster-father Nanda why they worshipped a distant god when their cattle lived from the grass of Mount Govardhana, and urged them to honour the mountain, the cows and the brahmins instead. They agreed, and offered their feast to the hill. Enraged, Indra unleashed torrential storm clouds on Vraja. The terrified cowherds and their herds ran to Krishna, who lifted Govardhana with one hand and held it aloft like an umbrella. For seven days and nights the whole village sheltered beneath it while the rain beat down in vain. At last Indra withdrew his clouds, came down on his elephant Airavata and bowed to Krishna, and with the cow of plenty consecrated him as Govinda, lord of cows.",
+   "symbols": [
+    "Mount Govardhana held on one finger",
+    "Storm clouds",
+    "Cows of Vraja",
+    "Annakuta (mountain of food offerings)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Vraja (Govardhana hill, near Mathura)",
+   "sources": [
+    "Harivamsha, Vishnu Parva",
+    "Mahabharata, Sabha Parva (mentioned in Shishupala's taunts)",
+    "Vishnu Purana 5.10-12",
+    "Bhagavata Purana, Canto 10 (chs. 24-27)"
+   ],
+   "variations": [
+    "In the Harivamsha Indra consecrates Krishna himself; in the Bhagavata the cow Surabhi bathes him with milk and names him Govinda.",
+    "Radha's presence at the event belongs to later devotional tradition (e.g. Gaudiya and Pushti Marga).",
+    "The episode is commemorated by Govardhana Puja and the Annakuta offering the day after Diwali."
+   ],
+   "disputed": false
+  }
+ ],
+ "edges": [
+  {
+   "source": "vishnu",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Devised the churning and guided both sides; later took Lakshmi as consort"
+  },
+  {
+   "source": "kurma",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Bore the sinking Mount Mandara on his back as a giant tortoise"
+  },
+  {
+   "source": "mohini",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Beguiled the asuras and distributed the amrita to the gods alone"
+  },
+  {
+   "source": "shiva",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Drank the halahala poison to save the worlds, becoming Nilakantha (blue-throated)"
+  },
+  {
+   "source": "brahma",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Led the weakened gods to seek Vishnu's counsel before the churning"
+  },
+  {
+   "source": "indra",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Led the devas at the churning; his loss of fortune prompted it"
+  },
+  {
+   "source": "vasuki",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Served as the churning rope wound around Mount Mandara"
+  },
+  {
+   "source": "shesha",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Uprooted Mount Mandara at the gods' request (Mahabharata)",
+   "disputed": true,
+   "variation": "Found in the Mahabharata, Adi Parva; the Bhagavata instead has Vishnu carry the mountain on Garuda"
+  },
+  {
+   "source": "garuda",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Carried Mount Mandara to the ocean on Vishnu's behalf (Bhagavata)",
+   "disputed": true,
+   "variation": "Bhagavata Purana only"
+  },
+  {
+   "source": "bali",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Led the asuras at the churning (Bhagavata Purana)",
+   "disputed": true,
+   "variation": "Bali is named as the asura leader in the Bhagavata; earlier accounts name no single leader"
+  },
+  {
+   "source": "rahu",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Disguised himself among the gods and tasted the amrita before being beheaded by Vishnu's discus"
+  },
+  {
+   "source": "ketu",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "The headless body of the beheaded asura, immortal after tasting the amrita",
+   "disputed": true,
+   "variation": "Ketu as the separated tail is a Puranic development; the epics mention only Rahu"
+  },
+  {
+   "source": "soma",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "The moon rose from the churning ocean (Mahabharata, Ramayana); later he exposed Rahu",
+   "disputed": true,
+   "variation": "Some lists include the moon among the ratnas, others do not"
+  },
+  {
+   "source": "surya",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Together with the moon, exposed Rahu's disguise, earning his eternal enmity"
+  },
+  {
+   "source": "lakshmi",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Emerged from the churning ocean and chose Vishnu as her consort"
+  },
+  {
+   "source": "dhanvantari",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Emerged from the churning ocean bearing the pot of amrita"
+  },
+  {
+   "source": "airavata",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Emerged from the churning ocean and was taken by Indra as his mount"
+  },
+  {
+   "source": "uchchaihshravas",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Emerged from the churning ocean as the seven-headed white horse"
+  },
+  {
+   "source": "kamadhenu",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Emerged from the churning ocean as the wish-fulfilling cow Surabhi"
+  },
+  {
+   "source": "alakshmi",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Emerged from the churning ocean before Lakshmi, as her inauspicious elder sister",
+   "disputed": true,
+   "variation": "Found in later Puranas (e.g. Padma, Linga) and folk tradition"
+  },
+  {
+   "source": "rambha",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Emerged from the churning ocean among the apsaras",
+   "disputed": true,
+   "variation": "The Ramayana speaks of apsaras arising; naming Rambha is a later tradition"
+  },
+  {
+   "source": "shukracharya",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Revived the asuras slain in the battle that followed the churning (Bhagavata)"
+  },
+  {
+   "source": "namuchi",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Slain by Indra with sea-foam in the battle after the churning (Bhagavata)"
+  },
+  {
+   "source": "kalanemi",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Fought the gods after the churning and was slain by Vishnu's discus (Bhagavata)"
+  },
+  {
+   "source": "durvasa",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "His curse on Indra drained the gods' fortune, prompting the churning (Vishnu Purana)",
+   "disputed": true,
+   "variation": "Vishnu and Bhagavata Puranas; absent from the epics"
+  },
+  {
+   "source": "parvati",
+   "target": "samudra-manthan",
+   "type": "participated-in",
+   "label": "Pressed Shiva's throat so the poison would not descend, in popular retellings",
+   "disputed": true,
+   "variation": "Found in later and regional retellings, not in the epic accounts"
+  },
+  {
+   "source": "daksha",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Host of the sacrifice who excluded Shiva; beheaded and restored with a goat's head"
+  },
+  {
+   "source": "sati",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Attended uninvited and gave up her body in protest at her father's insult to Shiva",
+   "disputed": true,
+   "variation": "Sati's self-immolation is Puranic; in the Mahabharata Uma is merely distressed at Shiva's exclusion"
+  },
+  {
+   "source": "shiva",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "The excluded deity whose wrath destroyed the sacrifice; later pacified and given his share"
+  },
+  {
+   "source": "virabhadra",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Sprang from Shiva's wrath and led the destruction of the sacrifice, beheading Daksha"
+  },
+  {
+   "source": "bhadrakali",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Born of the Goddess's anger to accompany Virabhadra in destroying the sacrifice (Vayu Purana)"
+  },
+  {
+   "source": "brahma",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Pleaded with Shiva to restore the sacrifice and the injured gods"
+  },
+  {
+   "source": "vishnu",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Attended the sacrifice; in some versions fought Virabhadra, in Shakta texts later dismembered Sati's corpse with his discus",
+   "disputed": true,
+   "variation": "Roles differ widely: absent from the fight in the Bhagavata, a combatant in the Shiva and Linga Puranas"
+  },
+  {
+   "source": "bhrigu",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Officiating priest whose beard was torn out by Shiva's hosts"
+  },
+  {
+   "source": "pushan",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Had his teeth knocked out by Shiva's hosts (already in Vedic versions)"
+  },
+  {
+   "source": "bhaga",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Was blinded by Shiva's hosts (already in Vedic versions)"
+  },
+  {
+   "source": "indra",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Attended the sacrifice and was routed by Virabhadra's hosts"
+  },
+  {
+   "source": "agni",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Attended as a god of the sacrifice and was humbled by Shiva's hosts"
+  },
+  {
+   "source": "dadhichi",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Rebuked Daksha for excluding Shiva and walked out of the sacrifice",
+   "disputed": true,
+   "variation": "Found in the Linga, Kurma and Shiva Puranas"
+  },
+  {
+   "source": "nandi",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Cursed Daksha and his brahmins after Daksha insulted Shiva at an earlier assembly (Bhagavata)"
+  },
+  {
+   "source": "yajna",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "The personified sacrifice fled as a deer and was pursued by Shiva",
+   "disputed": true,
+   "variation": "The deer-sacrifice motif is found in the Mahabharata and Puranas; identification with the avatar Yajna is not universal"
+  },
+  {
+   "source": "prasuti",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Daksha's wife and Sati's mother, present at the sacrifice in Puranic accounts"
+  },
+  {
+   "source": "mahavidyas",
+   "target": "daksha-yajna",
+   "type": "participated-in",
+   "label": "Manifested by Sati to overcome Shiva's refusal to let her attend",
+   "disputed": true,
+   "variation": "Mahabhagavata Purana and later Shakta tradition only"
+  },
+  {
+   "source": "bhagiratha",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Performed the penance that brought Ganga to earth and led her to his ancestors' ashes"
+  },
+  {
+   "source": "ganga",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "The celestial river who descended to earth to purify the ashes of Sagara's sons"
+  },
+  {
+   "source": "shiva",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Caught the falling Ganga in his matted locks to break her force"
+  },
+  {
+   "source": "sagara",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "His horse sacrifice and his sons' death set the story in motion"
+  },
+  {
+   "source": "kapila",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Burnt the sixty thousand sons of Sagara to ashes when they accused him of stealing the horse"
+  },
+  {
+   "source": "anshuman",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Recovered the sacrificial horse and learned the means of redemption; died in penance"
+  },
+  {
+   "source": "dilipa",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Continued the penance for Ganga's descent but died without success"
+  },
+  {
+   "source": "asamanja",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Sagara's banished son, father of Anshuman, whose line eventually redeemed the family"
+  },
+  {
+   "source": "brahma",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Granted Bhagiratha the boon of Ganga's descent"
+  },
+  {
+   "source": "indra",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Stole Sagara's sacrificial horse and hid it near Kapila (Ramayana)",
+   "disputed": true,
+   "variation": "The Ramayana names Indra; some Puranic versions differ"
+  },
+  {
+   "source": "garuda",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Uncle of Sagara's sons, who told Anshuman only Ganga's waters could redeem them"
+  },
+  {
+   "source": "himavan",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Father of Ganga, who gave her to the gods (Ramayana)"
+  },
+  {
+   "source": "mena",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Mother of Ganga in the Ramayana's account"
+  },
+  {
+   "source": "vishnu",
+   "target": "ganga-descent",
+   "type": "participated-in",
+   "label": "Ganga's source as the river flowing from his foot (Vaishnava tradition)",
+   "disputed": true,
+   "variation": "Bhagavata and Vishnu Puranas; not in the Ramayana"
+  },
+  {
+   "source": "shiva",
+   "target": "lingodbhava",
+   "type": "participated-in",
+   "label": "Manifested as the infinite pillar of fire and revealed his supremacy"
+  },
+  {
+   "source": "brahma",
+   "target": "lingodbhava",
+   "type": "participated-in",
+   "label": "Flew upward as a swan seeking the pillar's top; in some versions lied about finding it"
+  },
+  {
+   "source": "vishnu",
+   "target": "lingodbhava",
+   "type": "participated-in",
+   "label": "Dug downward as a boar seeking the pillar's base and honestly admitted failure"
+  },
+  {
+   "source": "hamsa-vahana",
+   "target": "lingodbhava",
+   "type": "participated-in",
+   "label": "The swan form Brahma assumed to fly upward along the pillar"
+  },
+  {
+   "source": "varaha",
+   "target": "lingodbhava",
+   "type": "participated-in",
+   "label": "The boar form Vishnu assumed to burrow toward the pillar's base"
+  },
+  {
+   "source": "bhairava",
+   "target": "lingodbhava",
+   "type": "participated-in",
+   "label": "Sent by Shiva to cut off Brahma's fifth head for his lie",
+   "disputed": true,
+   "variation": "Shiva Purana; not in the earliest versions"
+  },
+  {
+   "source": "kamadhenu",
+   "target": "lingodbhava",
+   "type": "participated-in",
+   "label": "Bore false witness for Brahma alongside the ketaki flower and was cursed",
+   "disputed": true,
+   "variation": "Found only in some later versions"
+  },
+  {
+   "source": "shiva",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Shot the single arrow that burnt the three cities, becoming Tripurantaka"
+  },
+  {
+   "source": "rudra",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Shot the arrow at the asuras' forts in the Vedic Brahmana versions"
+  },
+  {
+   "source": "tripurasura",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "The asura lords of the three cities, destroyed with them"
+  },
+  {
+   "source": "maya",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Architect who built the three cities; spared as a devotee in some versions",
+   "disputed": true,
+   "variation": "Maya's survival is a Puranic detail"
+  },
+  {
+   "source": "vishnu",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Became the arrow (or its shaft) with which the cities were destroyed"
+  },
+  {
+   "source": "brahma",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Served as Shiva's charioteer; had granted the asuras their conditional boon"
+  },
+  {
+   "source": "prithvi",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "The Earth formed the body of Shiva's chariot (Mahabharata, Karna Parva)"
+  },
+  {
+   "source": "surya",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Served as a wheel of the cosmic chariot"
+  },
+  {
+   "source": "soma",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Served as a wheel of the chariot; in the Vedic versions, part of the arrow"
+  },
+  {
+   "source": "agni",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Formed the point of the arrow"
+  },
+  {
+   "source": "indra",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Led the oppressed gods in seeking Shiva's help"
+  },
+  {
+   "source": "vasuki",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Served as the bowstring of Shiva's bow (Puranic versions)",
+   "disputed": true,
+   "variation": "Shiva and Linga Puranas"
+  },
+  {
+   "source": "ganesha",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Obstructed the chariot until Shiva honoured him first",
+   "disputed": true,
+   "variation": "Found in later Puranic and regional versions only"
+  },
+  {
+   "source": "nandi",
+   "target": "tripura-dahana",
+   "type": "participated-in",
+   "label": "Supported the chariot when it faltered, in some Puranic versions",
+   "disputed": true,
+   "variation": "Some versions give this role to Vishnu as a bull"
+  },
+  {
+   "source": "kamadeva",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Shot his flower-arrow at Shiva and was burnt to ashes, becoming Ananga (bodiless)"
+  },
+  {
+   "source": "shiva",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Opened his third eye and incinerated Kama for disturbing his meditation"
+  },
+  {
+   "source": "rati",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Accompanied Kama and lamented his death; promised his revival"
+  },
+  {
+   "source": "parvati",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Served the meditating Shiva; after Kama's burning, won him through penance",
+   "disputed": true,
+   "variation": "Parvati's role is absent from the Ramayana's brief account"
+  },
+  {
+   "source": "indra",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Persuaded Kama to break Shiva's meditation",
+   "disputed": true,
+   "variation": "Kumarasambhava and Puranas"
+  },
+  {
+   "source": "tarakasura",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "His oppression, curable only by a son of Shiva, motivated the gods' plan",
+   "disputed": true,
+   "variation": "Kumarasambhava and Puranas; not in the Ramayana"
+  },
+  {
+   "source": "brahma",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Advised the gods that only Shiva's son could slay Taraka",
+   "disputed": true,
+   "variation": "Kumarasambhava and Puranas"
+  },
+  {
+   "source": "himavan",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Allowed his daughter Parvati to attend the meditating Shiva",
+   "disputed": true,
+   "variation": "Kumarasambhava and Puranas"
+  },
+  {
+   "source": "nandi",
+   "target": "kama-dahana",
+   "type": "participated-in",
+   "label": "Guarded the entrance to Shiva's retreat as Kama slipped in (Kumarasambhava)",
+   "disputed": true,
+   "variation": "Kumarasambhava and later tradition"
+  },
+  {
+   "source": "kartikeya",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Born of Shiva's seed through Agni and Ganga; led the gods and slew Tarakasura"
+  },
+  {
+   "source": "shiva",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Father whose fiery seed engendered Skanda"
+  },
+  {
+   "source": "parvati",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Mother of Skanda (Uma), who in some versions united the six infants into one",
+   "disputed": true,
+   "variation": "In the Vana Parva Skanda is born of Agni and Svaha; Shiva and Uma are declared his parents afterwards"
+  },
+  {
+   "source": "agni",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Received Shiva's seed and passed it to the Ganga; father of Skanda in the Mahabharata"
+  },
+  {
+   "source": "ganga",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Bore the fiery seed and deposited it in the Sharavana reeds"
+  },
+  {
+   "source": "svaha",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Took the forms of six rishis' wives to unite with Agni, becoming Skanda's mother (Mahabharata)",
+   "disputed": true,
+   "variation": "Mahabharata, Vana Parva"
+  },
+  {
+   "source": "saptarishi",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Six of the Seven Sages repudiated their wives, whose forms Svaha had assumed (Mahabharata)",
+   "disputed": true,
+   "variation": "Mahabharata, Vana Parva"
+  },
+  {
+   "source": "arundhati",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "The one rishi's wife whose form Svaha could not assume, owing to her fidelity",
+   "disputed": true,
+   "variation": "Mahabharata, Vana Parva"
+  },
+  {
+   "source": "tarakasura",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "The asura invulnerable to all but Shiva's son, slain by Skanda's spear"
+  },
+  {
+   "source": "indra",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Attacked the newborn Skanda, then consecrated him commander of the gods"
+  },
+  {
+   "source": "devasena",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Given by Indra as Skanda's wife, the personified army of the gods (Mahabharata)"
+  },
+  {
+   "source": "brahma",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Granted Taraka's boon and directed the gods toward a son of Shiva"
+  },
+  {
+   "source": "vishvamitra",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "Performed the birth rites for the infant Skanda (Mahabharata, Vana Parva)",
+   "disputed": true,
+   "variation": "Mahabharata, Vana Parva"
+  },
+  {
+   "source": "matrikas",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "The Mothers sent to Skanda and adopted as his companions (Mahabharata)",
+   "disputed": true,
+   "variation": "Mahabharata, Vana Parva"
+  },
+  {
+   "source": "kamadeva",
+   "target": "skanda-birth",
+   "type": "participated-in",
+   "label": "His burning by Shiva preceded Shiva's marriage and Skanda's conception (Kumarasambhava)",
+   "disputed": true,
+   "variation": "Kumarasambhava and Puranas"
+  },
+  {
+   "source": "krishna",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Served as Arjuna's charioteer and chief strategist of the Pandavas without bearing arms"
+  },
+  {
+   "source": "arjuna",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Chief Pandava archer; felled Bhishma, Jayadratha and Karna"
+  },
+  {
+   "source": "yudhishthira",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Leader of the Pandavas; spoke the half-truth that doomed Drona and slew Shalya"
+  },
+  {
+   "source": "bhima",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Slew Dushasana and the Kaurava brothers and broke Duryodhana's thigh"
+  },
+  {
+   "source": "nakula",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Pandava warrior who fought throughout the war"
+  },
+  {
+   "source": "sahadeva",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Pandava warrior who slew Shakuni on the final day"
+  },
+  {
+   "source": "dhrishtadyumna",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Commander-in-chief of the Pandava army; beheaded Drona"
+  },
+  {
+   "source": "drupada",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Pandava ally and king of Panchala, slain by Drona"
+  },
+  {
+   "source": "virata",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Pandava ally and king of Matsya, slain by Drona"
+  },
+  {
+   "source": "shikhandi",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Stood before Arjuna so that Bhishma would not fight back, enabling his fall"
+  },
+  {
+   "source": "abhimanyu",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Penetrated the Chakravyuha and was killed by several warriors together"
+  },
+  {
+   "source": "upapandavas",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Draupadi's sons, fought for the Pandavas and were slain asleep by Ashwatthama"
+  },
+  {
+   "source": "ghatotkacha",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Wreaked havoc in a night battle until Karna killed him with Indra's Vasavi Shakti"
+  },
+  {
+   "source": "iravan",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Arjuna's son by Ulupi, killed on the eighth day",
+   "disputed": true,
+   "variation": "Tamil tradition adds his ritual self-sacrifice to Kali before the war"
+  },
+  {
+   "source": "satyaki",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Yadava warrior on the Pandava side; slew Bhurishravas"
+  },
+  {
+   "source": "yuyutsu",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Dhritarashtra's son who crossed over to the Pandavas before the battle"
+  },
+  {
+   "source": "duryodhana",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Leader of the Kauravas, felled by Bhima's blow to the thigh"
+  },
+  {
+   "source": "dushasana",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Kaurava prince whose blood Bhima drank to fulfil his vow"
+  },
+  {
+   "source": "vikarna",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Kaurava prince killed by Bhima despite his earlier defence of Draupadi"
+  },
+  {
+   "source": "bhishma",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "First Kaurava commander for ten days, felled by Arjuna behind Shikhandi"
+  },
+  {
+   "source": "drona",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Second Kaurava commander, slain after the false report of Ashwatthama's death"
+  },
+  {
+   "source": "karna",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Kaurava commander on days 16-17, slain by Arjuna when his wheel sank"
+  },
+  {
+   "source": "shalya",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Karna's charioteer and final Kaurava commander, slain by Yudhishthira"
+  },
+  {
+   "source": "kripa",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Kaurava warrior who survived the war and joined the night raid"
+  },
+  {
+   "source": "ashwatthama",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Massacred the sleeping Pandava camp and loosed the Brahmashira at Uttara's womb"
+  },
+  {
+   "source": "kritavarma",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Yadava who fought for the Kauravas and joined the night raid; survived"
+  },
+  {
+   "source": "shakuni",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Kaurava ally and schemer, slain by Sahadeva"
+  },
+  {
+   "source": "jayadratha",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Held the Pandavas back as Abhimanyu died; slain by Arjuna before sunset the next day"
+  },
+  {
+   "source": "bhagadatta",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "King of Pragjyotisha who fought on his elephant Supratika; slain by Arjuna"
+  },
+  {
+   "source": "bhurishravas",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Kaurava warrior whose arm Arjuna cut off; beheaded by Satyaki"
+  },
+  {
+   "source": "vrishasena",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Karna's son, slain by Arjuna before his father's eyes"
+  },
+  {
+   "source": "sanjaya",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Narrated the war to Dhritarashtra through the divine sight granted by Vyasa"
+  },
+  {
+   "source": "dhritarashtra",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "The blind Kuru king who heard the whole battle from Sanjaya"
+  },
+  {
+   "source": "vyasa",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Granted Sanjaya divine sight to see and narrate the battle"
+  },
+  {
+   "source": "gandhari",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Mother of the Kauravas who blessed and later mourned them, cursing Krishna after the war"
+  },
+  {
+   "source": "kunti",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Revealed to Karna before the war that she was his mother, winning a promise to spare four sons"
+  },
+  {
+   "source": "balarama",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Refused to take sides and went on pilgrimage; returned to watch the final mace duel"
+  },
+  {
+   "source": "rukmi",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Offered his army to both sides and was refused by both (Udyoga Parva)"
+  },
+  {
+   "source": "uttara",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Abhimanyu's widow, whose unborn child was struck by Ashwatthama's weapon"
+  },
+  {
+   "source": "parikshit",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Revived in the womb by Krishna after Ashwatthama's Brahmashira struck him"
+  },
+  {
+   "source": "draupadi",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Her humiliation drove the war; demanded vengeance for her murdered sons"
+  },
+  {
+   "source": "indra",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Obtained Karna's armour and earrings before the war, giving him the Vasavi Shakti"
+  },
+  {
+   "source": "hanuman",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Sat on Arjuna's banner during the war",
+   "disputed": true,
+   "variation": "In the Vana Parva Hanuman promises Bhima to roar from Arjuna's banner; the image of Hanuman seated on the banner is elaborated in later tradition"
+  },
+  {
+   "source": "barbarika",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Watched the entire war as a severed head on a hill",
+   "disputed": true,
+   "variation": "Skanda Purana and Rajasthani/Khatu Shyam tradition; not in the Sanskrit epic"
+  },
+  {
+   "source": "durga",
+   "target": "kurukshetra-war",
+   "type": "participated-in",
+   "label": "Invoked by Arjuna in a hymn before the battle at Krishna's advice",
+   "disputed": true,
+   "variation": "Bhishma Parva hymn relegated to an appendix in the Critical Edition"
+  },
+  {
+   "source": "krishna",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Delivered the teaching and revealed his universal form to Arjuna"
+  },
+  {
+   "source": "arjuna",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Despairing warrior whose questions prompted the teaching"
+  },
+  {
+   "source": "sanjaya",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Narrated the entire dialogue to Dhritarashtra through divine sight"
+  },
+  {
+   "source": "dhritarashtra",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Asked the opening question and heard the Gita from Sanjaya"
+  },
+  {
+   "source": "vyasa",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Granted Sanjaya the divine sight; traditionally the composer of the Mahabharata"
+  },
+  {
+   "source": "duryodhana",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Surveyed the armies and named the warriors to Drona in chapter 1"
+  },
+  {
+   "source": "drona",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Addressed by Duryodhana in chapter 1; among those Arjuna grieved to fight"
+  },
+  {
+   "source": "bhishma",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Blew his conch to open the battle; foremost of those Arjuna grieved to fight"
+  },
+  {
+   "source": "yudhishthira",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Blew his conch Anantavijaya (chapter 1)"
+  },
+  {
+   "source": "bhima",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Blew his great conch Paundra (chapter 1)"
+  },
+  {
+   "source": "nakula",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Blew his conch Sughosha (chapter 1)"
+  },
+  {
+   "source": "sahadeva",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Blew his conch Manipushpaka (chapter 1)"
+  },
+  {
+   "source": "drupada",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named among the Pandava warriors who sounded their conches (chapter 1)"
+  },
+  {
+   "source": "dhrishtadyumna",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named by Duryodhana as the arranger of the Pandava army (chapter 1)"
+  },
+  {
+   "source": "virata",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named among the Pandava warriors (chapter 1)"
+  },
+  {
+   "source": "satyaki",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named among the Pandava warriors (chapter 1)"
+  },
+  {
+   "source": "shikhandi",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named among the Pandava warriors who sounded their conches (chapter 1)"
+  },
+  {
+   "source": "abhimanyu",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named among the Pandava warriors (chapter 1)"
+  },
+  {
+   "source": "upapandavas",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "The sons of Draupadi, named among the Pandava warriors (chapter 1)"
+  },
+  {
+   "source": "karna",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named by Duryodhana; seen by Arjuna entering Krishna's cosmic form (chapters 1 and 11)"
+  },
+  {
+   "source": "kripa",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named by Duryodhana among the Kaurava champions (chapter 1)"
+  },
+  {
+   "source": "ashwatthama",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named by Duryodhana among the Kaurava champions (chapter 1)"
+  },
+  {
+   "source": "vikarna",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named by Duryodhana among the Kaurava champions (chapter 1)"
+  },
+  {
+   "source": "bhurishravas",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Named by Duryodhana as Saumadatti among the Kaurava champions (chapter 1)"
+  },
+  {
+   "source": "jayadratha",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "Seen already slain within Krishna's cosmic form (chapter 11)"
+  },
+  {
+   "source": "hanuman",
+   "target": "bhagavad-gita",
+   "type": "participated-in",
+   "label": "The ape on Arjuna's banner (kapidhvaja) at the Gita's outset",
+   "disputed": true,
+   "variation": "The Gita says only kapidhvaja (ape-bannered); the link to Hanuman rests on his promise to Bhima in the Vana Parva and later tradition"
+  },
+  {
+   "source": "yudhishthira",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Staked and lost his kingdom, his brothers, himself and Draupadi"
+  },
+  {
+   "source": "shakuni",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Played with loaded skill on Duryodhana's behalf and won everything"
+  },
+  {
+   "source": "duryodhana",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Plotted the game and invited Draupadi to sit on his thigh, earning Bhima's vow"
+  },
+  {
+   "source": "dushasana",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Dragged Draupadi into the hall and tried to strip her"
+  },
+  {
+   "source": "draupadi",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Staked and humiliated; her question on Yudhishthira's right to stake her silenced the elders"
+  },
+  {
+   "source": "karna",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Insulted Draupadi and ordered her disrobed"
+  },
+  {
+   "source": "bhima",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Vowed to break Duryodhana's thigh and drink Dushasana's blood"
+  },
+  {
+   "source": "arjuna",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Staked and lost; vowed to kill Karna"
+  },
+  {
+   "source": "nakula",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Staked and lost by Yudhishthira"
+  },
+  {
+   "source": "sahadeva",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Staked and lost by Yudhishthira; vowed to kill Shakuni"
+  },
+  {
+   "source": "dhritarashtra",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Allowed the game; frightened by omens, granted Draupadi boons freeing the Pandavas"
+  },
+  {
+   "source": "vidura",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Opposed the game and protested Draupadi's treatment"
+  },
+  {
+   "source": "vikarna",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Alone among the Kauravas, argued that Draupadi had not been lawfully won"
+  },
+  {
+   "source": "bhishma",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Present in the hall; declared the question of dharma too subtle to answer"
+  },
+  {
+   "source": "drona",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Present in the hall but remained silent"
+  },
+  {
+   "source": "kripa",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Present in the hall but remained silent"
+  },
+  {
+   "source": "gandhari",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Urged Dhritarashtra to abandon Duryodhana and end the second game"
+  },
+  {
+   "source": "krishna",
+   "target": "game-of-dice",
+   "type": "participated-in",
+   "label": "Answered Draupadi's prayer by making her garment endless",
+   "disputed": true,
+   "variation": "In the Critical Edition the miracle occurs without Krishna being named; the vulgate and devotional tradition credit Krishna"
+  },
+  {
+   "source": "draupadi",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "The bride who garlanded the victorious Arjuna"
+  },
+  {
+   "source": "drupada",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Host who set the archery test hoping Arjuna would win his daughter"
+  },
+  {
+   "source": "dhrishtadyumna",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Announced the conditions of the contest and followed the victors to learn who they were"
+  },
+  {
+   "source": "arjuna",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Won the contest disguised as a brahmin, stringing the bow and striking the target"
+  },
+  {
+   "source": "bhima",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Uprooted a tree and fought off the angry kings, notably Shalya"
+  },
+  {
+   "source": "yudhishthira",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Accompanied his brothers in disguise; became Draupadi's first husband"
+  },
+  {
+   "source": "nakula",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Attended in disguise and became one of Draupadi's husbands"
+  },
+  {
+   "source": "sahadeva",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Attended in disguise and became one of Draupadi's husbands"
+  },
+  {
+   "source": "kunti",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Unknowingly told her sons to share what they had brought, leading to the joint marriage"
+  },
+  {
+   "source": "karna",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Attempted the bow",
+   "disputed": true,
+   "variation": "Vulgate: strung it and was rejected by Draupadi as a suta; Critical Edition: failed by a hair's breadth"
+  },
+  {
+   "source": "duryodhana",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "A suitor who failed to string the bow"
+  },
+  {
+   "source": "shalya",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "A suitor who afterwards fought and was bested by Bhima"
+  },
+  {
+   "source": "jarasandha",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "A suitor who failed to string the bow"
+  },
+  {
+   "source": "shishupala",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "A suitor who failed to string the bow"
+  },
+  {
+   "source": "krishna",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Attended as a guest, recognised the disguised Pandavas and calmed the kings"
+  },
+  {
+   "source": "balarama",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Attended with Krishna and recognised the Pandavas"
+  },
+  {
+   "source": "vyasa",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Persuaded Drupada to accept the polyandrous marriage by revealing Draupadi's past life"
+  },
+  {
+   "source": "dhaumya",
+   "target": "draupadi-svayamvara",
+   "type": "participated-in",
+   "label": "Performed the wedding rites as the Pandavas' priest"
+  },
+  {
+   "source": "yudhishthira",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Performed the Rajasuya and was consecrated emperor"
+  },
+  {
+   "source": "krishna",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Advised the sacrifice, received the first honour and slew Shishupala"
+  },
+  {
+   "source": "shishupala",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Objected to Krishna's first honour and was beheaded by the Sudarshana discus"
+  },
+  {
+   "source": "jarasandha",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Slain by Bhima beforehand as the chief obstacle to the Rajasuya"
+  },
+  {
+   "source": "bhima",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Killed Jarasandha and conquered the east"
+  },
+  {
+   "source": "arjuna",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Conquered the north, including Bhagadatta of Pragjyotisha"
+  },
+  {
+   "source": "nakula",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Conquered the west"
+  },
+  {
+   "source": "sahadeva",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Conquered the south"
+  },
+  {
+   "source": "maya",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Built the wondrous assembly hall of Indraprastha in gratitude for being spared at Khandava"
+  },
+  {
+   "source": "duryodhana",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Humiliated in Maya's hall of illusions, kindling his envy"
+  },
+  {
+   "source": "narada",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Urged Yudhishthira to perform the sacrifice, conveying Pandu's wish"
+  },
+  {
+   "source": "vyasa",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Served as the Brahman priest of the sacrifice"
+  },
+  {
+   "source": "yajnavalkya",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Served as the adhvaryu priest of the sacrifice"
+  },
+  {
+   "source": "dhaumya",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "The Pandavas' household priest, officiating at the sacrifice"
+  },
+  {
+   "source": "bhishma",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Proposed that Krishna receive the first honour and defended the choice"
+  },
+  {
+   "source": "shakuni",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Accompanied Duryodhana and turned his envy into the dice plot"
+  },
+  {
+   "source": "dhritarashtra",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Attended the sacrifice as an honoured elder"
+  },
+  {
+   "source": "drona",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Attended the sacrifice"
+  },
+  {
+   "source": "karna",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Attended the sacrifice with Duryodhana"
+  },
+  {
+   "source": "bhagadatta",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Defeated by Arjuna in the northern conquest and paid tribute"
+  },
+  {
+   "source": "draupadi",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Laughed at Duryodhana's fall in the Maya Sabha, in popular retellings",
+   "disputed": true,
+   "variation": "Not in the Critical Edition, where others laugh; widespread in later retellings"
+  },
+  {
+   "source": "ghatotkacha",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Sent to Lanka to bring tribute from Vibhishana",
+   "disputed": true,
+   "variation": "Southern and vulgate recensions only"
+  },
+  {
+   "source": "vibhishana",
+   "target": "rajasuya",
+   "type": "participated-in",
+   "label": "Sent tribute from Lanka for the Rajasuya",
+   "disputed": true,
+   "variation": "Southern and vulgate recensions only"
+  },
+  {
+   "source": "agni",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Devoured the forest to cure his surfeit, aided by Krishna and Arjuna"
+  },
+  {
+   "source": "krishna",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Guarded the burning forest and received the Sudarshana discus and Kaumodaki mace"
+  },
+  {
+   "source": "arjuna",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Held off Indra and the gods; received the Gandiva bow, quivers and chariot"
+  },
+  {
+   "source": "indra",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Tried to save the forest for Takshaka's sake and was driven back"
+  },
+  {
+   "source": "takshaka",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "The naga whose home was burned; he was away at the time, and his son Ashvasena escaped"
+  },
+  {
+   "source": "maya",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "The asura architect spared by Arjuna, who later built the Pandavas' hall"
+  },
+  {
+   "source": "varuna",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "At Agni's request gave Arjuna the Gandiva, quivers and chariot, and Krishna the discus and mace"
+  },
+  {
+   "source": "brahma",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Advised Agni that devouring Khandava would cure his sickness"
+  },
+  {
+   "source": "yama",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Among the gods who fought beside Indra against Krishna and Arjuna"
+  },
+  {
+   "source": "kubera",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Among the gods who fought beside Indra against Krishna and Arjuna"
+  },
+  {
+   "source": "kartikeya",
+   "target": "khandava-dahana",
+   "type": "participated-in",
+   "label": "Among the gods who fought beside Indra, wielding his spear"
+  },
+  {
+   "source": "rama",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Led the assault on Lanka and slew Ravana with the Brahmastra"
+  },
+  {
+   "source": "lakshmana",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Fought beside Rama; fell to Indrajit's weapon, was revived, and slew Indrajit and Atikaya"
+  },
+  {
+   "source": "hanuman",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Foremost vanara warrior; brought the herb-bearing mountain to revive Lakshmana"
+  },
+  {
+   "source": "sugriva",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "King of the vanaras and commander of Rama's army"
+  },
+  {
+   "source": "angada",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Went as Rama's envoy to Ravana's court and fought as a vanara champion"
+  },
+  {
+   "source": "jambavan",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Bear-king who counselled the army and urged Hanuman to fetch the herbs"
+  },
+  {
+   "source": "nala-vanara",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Built the bridge and fought as a vanara chief"
+  },
+  {
+   "source": "nila",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Commander of the vanara army who slew Prahasta"
+  },
+  {
+   "source": "kesari",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Named among the vanara chiefs in Rama's army"
+  },
+  {
+   "source": "vibhishana",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Defected to Rama, revealed Lanka's secrets and was crowned king after Ravana's death"
+  },
+  {
+   "source": "sarama",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Vibhishana's wife, who comforted and informed the captive Sita"
+  },
+  {
+   "source": "trijata",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Rakshasi who protected and reassured Sita during the war"
+  },
+  {
+   "source": "sita",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "The captive whose rescue was the war's aim; underwent the ordeal by fire"
+  },
+  {
+   "source": "ravana",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "King of Lanka, slain by Rama"
+  },
+  {
+   "source": "kumbhakarna",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Ravana's giant brother, woken to fight and slain by Rama"
+  },
+  {
+   "source": "indrajit",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Bound Rama and Lakshmana with serpent-arrows and felled Lakshmana; slain by Lakshmana"
+  },
+  {
+   "source": "prahasta",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Ravana's commander-in-chief, slain by Nila"
+  },
+  {
+   "source": "atikaya",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Ravana's son, slain by Lakshmana with the Brahmastra"
+  },
+  {
+   "source": "mandodari",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Ravana's chief queen, who lamented over his body"
+  },
+  {
+   "source": "agastya",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Taught Rama the Aditya Hridaya hymn before the final duel"
+  },
+  {
+   "source": "surya",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Invoked through the Aditya Hridaya hymn to grant Rama victory"
+  },
+  {
+   "source": "indra",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Sent his chariot and charioteer Matali to Rama for the final battle"
+  },
+  {
+   "source": "garuda",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Freed Rama and Lakshmana from Indrajit's serpent-arrows"
+  },
+  {
+   "source": "agni",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Rose from the fire bearing Sita unharmed, attesting her purity"
+  },
+  {
+   "source": "brahma",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Appeared after the war to reveal Rama's divinity as Vishnu"
+  },
+  {
+   "source": "shiva",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Appeared with the gods after the war and showed Rama his father Dasharatha"
+  },
+  {
+   "source": "dasharatha",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Appeared from heaven after the war to bless Rama and Sita"
+  },
+  {
+   "source": "ahiravana",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Abducted Rama and Lakshmana to the netherworld and was slain by Hanuman",
+   "disputed": true,
+   "variation": "Later and regional Ramayanas only (e.g. Krittivasi, folk traditions)"
+  },
+  {
+   "source": "makardhvaja",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Hanuman's son, guardian of Ahiravana's netherworld gate",
+   "disputed": true,
+   "variation": "Part of the later Ahiravana episode"
+  },
+  {
+   "source": "kalanemi",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Sent by Ravana to delay Hanuman on his way to the herbs; slain by him",
+   "disputed": true,
+   "variation": "Adhyatma Ramayana and Ramcharitmanas; not in Valmiki"
+  },
+  {
+   "source": "durga",
+   "target": "lanka-war",
+   "type": "participated-in",
+   "label": "Worshipped by Rama out of season before the final battle",
+   "disputed": true,
+   "variation": "Krittivasi Ramayana and Devi Bhagavata / Bengali tradition"
+  },
+  {
+   "source": "rama",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Lifted, strung and broke Shiva's bow, winning Sita"
+  },
+  {
+   "source": "sita",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "The bride promised to whoever could string Shiva's bow"
+  },
+  {
+   "source": "janaka",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "King of Mithila who set the bow as the condition for Sita's hand"
+  },
+  {
+   "source": "vishvamitra",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Brought Rama and Lakshmana to Mithila and bade Rama attempt the bow"
+  },
+  {
+   "source": "lakshmana",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Accompanied Rama and married Urmila"
+  },
+  {
+   "source": "dasharatha",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Came to Mithila for the weddings of his four sons"
+  },
+  {
+   "source": "vashistha",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Recited the Ikshvaku lineage and officiated at the weddings"
+  },
+  {
+   "source": "bharata",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Married Mandavi at the same ceremony"
+  },
+  {
+   "source": "shatrughna",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Married Shrutakirti at the same ceremony"
+  },
+  {
+   "source": "urmila",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Janaka's daughter, married to Lakshmana"
+  },
+  {
+   "source": "mandavi",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Kushadhvaja's daughter, married to Bharata"
+  },
+  {
+   "source": "shrutakirti",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Kushadhvaja's daughter, married to Shatrughna"
+  },
+  {
+   "source": "kushadhvaja",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Janaka's brother, who gave his daughters to Bharata and Shatrughna"
+  },
+  {
+   "source": "parashurama",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Challenged Rama over the broken bow and was humbled when Rama strung Vishnu's bow"
+  },
+  {
+   "source": "shiva",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Owner of the bow broken by Rama, which he had wielded at Daksha's sacrifice"
+  },
+  {
+   "source": "sunaina",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Janaka's queen and Sita's mother at the wedding",
+   "disputed": true,
+   "variation": "Named only in later texts"
+  },
+  {
+   "source": "ravana",
+   "target": "sita-svayamvara",
+   "type": "participated-in",
+   "label": "Attended the contest and failed to lift the bow",
+   "disputed": true,
+   "variation": "Later and folk retellings only; absent from Valmiki"
+  },
+  {
+   "source": "rama",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Accepted fourteen years of exile to honour his father's word"
+  },
+  {
+   "source": "sita",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Insisted on accompanying Rama into the forest"
+  },
+  {
+   "source": "lakshmana",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Followed Rama into exile as his guardian and companion"
+  },
+  {
+   "source": "dasharatha",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Bound by his boons, exiled Rama and died of grief"
+  },
+  {
+   "source": "kaikeyi",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Claimed her two boons to crown Bharata and banish Rama"
+  },
+  {
+   "source": "manthara",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Kaikeyi's maid who incited her against Rama"
+  },
+  {
+   "source": "bharata",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Refused the throne and ruled as regent with Rama's sandals"
+  },
+  {
+   "source": "shatrughna",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Accompanied Bharata to the forest and supported his regency"
+  },
+  {
+   "source": "kausalya",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Rama's mother, who grieved his departure"
+  },
+  {
+   "source": "sumitra",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Lakshmana's mother, who blessed his going with Rama"
+  },
+  {
+   "source": "urmila",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Remained in Ayodhya while Lakshmana went into exile",
+   "disputed": true,
+   "variation": "Her fourteen-year sleep is a later tradition"
+  },
+  {
+   "source": "guha",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Nishada chief who ferried the exiles across the Ganga"
+  },
+  {
+   "source": "bharadvaja",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Hosted the exiles at Prayaga and directed them to Chitrakuta"
+  },
+  {
+   "source": "valmiki",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Received Rama at his hermitage near Chitrakuta"
+  },
+  {
+   "source": "vashistha",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Accompanied Bharata to Chitrakuta to urge Rama's return"
+  },
+  {
+   "source": "atri",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Welcomed the exiles to his hermitage"
+  },
+  {
+   "source": "anasuya",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Gave Sita garments, ornaments and counsel on wifely duty"
+  },
+  {
+   "source": "agastya",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Gave Rama divine weapons and directed him to Panchavati"
+  },
+  {
+   "source": "viradha",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Rakshasa who seized Sita in the Dandaka forest and was slain"
+  },
+  {
+   "source": "jatayu",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Met the exiles and offered to guard Sita at Panchavati"
+  },
+  {
+   "source": "shravana-kumara",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "The youth Dasharatha had killed by mistake; his parents' curse fulfilled in the king's grief"
+  },
+  {
+   "source": "shabari",
+   "target": "rama-vanavasa",
+   "type": "participated-in",
+   "label": "Received Rama at her hermitage as he searched for Sita"
+  },
+  {
+   "source": "ravana",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Carried Sita off to Lanka disguised as an ascetic"
+  },
+  {
+   "source": "sita",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Abducted from Panchavati after sending Lakshmana to help Rama"
+  },
+  {
+   "source": "rama",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Lured away chasing the golden deer; began the search for Sita"
+  },
+  {
+   "source": "lakshmana",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Left Sita at her insistence to go to Rama's aid"
+  },
+  {
+   "source": "maricha",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Took the form of the golden deer and mimicked Rama's cry as he died"
+  },
+  {
+   "source": "shurpanakha",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Was mutilated by Lakshmana and incited Ravana to seize Sita"
+  },
+  {
+   "source": "khara",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Rakshasa general slain by Rama before the abduction"
+  },
+  {
+   "source": "dushana",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Rakshasa general slain by Rama with Khara"
+  },
+  {
+   "source": "jatayu",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Fought Ravana to save Sita and was mortally wounded"
+  },
+  {
+   "source": "sugriva",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Saw Sita carried through the sky and kept the ornaments she dropped"
+  },
+  {
+   "source": "hanuman",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Among the vanaras on the hill where Sita dropped her ornaments"
+  },
+  {
+   "source": "kabandha",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Directed the grieving brothers toward Sugriva"
+  },
+  {
+   "source": "trijata",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Guarded the captive Sita in the Ashoka grove and dreamed of Ravana's fall"
+  },
+  {
+   "source": "agni",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Held the real Sita in safekeeping while a shadow Sita was taken",
+   "disputed": true,
+   "variation": "Adhyatma Ramayana and later texts"
+  },
+  {
+   "source": "vedavati",
+   "target": "sita-abduction",
+   "type": "participated-in",
+   "label": "Identified with the shadow Sita abducted by Ravana",
+   "disputed": true,
+   "variation": "Later texts (e.g. Brahmavaivarta, Devi Bhagavata)"
+  },
+  {
+   "source": "hanuman",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Leapt the ocean, found Sita and set Lanka ablaze with his burning tail"
+  },
+  {
+   "source": "sita",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Received Rama's ring and prayed that the fire would not harm Hanuman"
+  },
+  {
+   "source": "rama",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Gave Hanuman his signet ring as a token for Sita"
+  },
+  {
+   "source": "sugriva",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Sent the search parties that led to Hanuman's mission"
+  },
+  {
+   "source": "angada",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Led the southern search party from which Hanuman set out"
+  },
+  {
+   "source": "jambavan",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Reminded Hanuman of his powers and urged him to leap"
+  },
+  {
+   "source": "sampati",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Told the vanaras that Sita was held in Lanka"
+  },
+  {
+   "source": "mainaka",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Rose from the sea to offer Hanuman rest during his leap"
+  },
+  {
+   "source": "surasa",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Mother of serpents who tested Hanuman by trying to swallow him"
+  },
+  {
+   "source": "simhika",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Shadow-seizing demoness slain by Hanuman during his leap"
+  },
+  {
+   "source": "lankini",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Guardian of Lanka, overpowered by Hanuman at the gates"
+  },
+  {
+   "source": "mandodari",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Seen asleep in Ravana's palace, at first mistaken by Hanuman for Sita"
+  },
+  {
+   "source": "trijata",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Recounted her dream of Lanka's destruction to the other guards"
+  },
+  {
+   "source": "akshayakumara",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Ravana's son, slain by Hanuman in the Ashoka grove"
+  },
+  {
+   "source": "indrajit",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Bound Hanuman with the Brahmastra and brought him before Ravana"
+  },
+  {
+   "source": "prahasta",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Interrogated Hanuman in Ravana's court"
+  },
+  {
+   "source": "ravana",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Ordered Hanuman's tail set alight"
+  },
+  {
+   "source": "vibhishana",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Argued that an envoy must not be killed, saving Hanuman's life"
+  },
+  {
+   "source": "brahma",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "His weapon bound Hanuman, who submitted out of reverence"
+  },
+  {
+   "source": "agni",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Kept his flame cool on Hanuman's tail for Sita's sake and as Vayu's friend"
+  },
+  {
+   "source": "vayu",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Hanuman's father, whose friendship with Agni kept the fire from burning him"
+  },
+  {
+   "source": "makardhvaja",
+   "target": "lanka-dahana",
+   "type": "participated-in",
+   "label": "Born of Hanuman's sweat falling into the sea after the burning",
+   "disputed": true,
+   "variation": "Regional and late traditions only"
+  },
+  {
+   "source": "rama",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Compelled the ocean to grant passage and ordered the bridge built"
+  },
+  {
+   "source": "nala-vanara",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Architect who built the bridge, as son of Vishvakarma"
+  },
+  {
+   "source": "nila",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Helped build the bridge",
+   "disputed": true,
+   "variation": "Named as co-builder with Nala in later retellings"
+  },
+  {
+   "source": "vishvakarma",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Father of Nala, whose boon gave his son the builder's skill"
+  },
+  {
+   "source": "varuna",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "The ocean god who promised to support the bridge",
+   "disputed": true,
+   "variation": "Valmiki speaks of Sagara, the Ocean personified; later tradition identifies him with Varuna"
+  },
+  {
+   "source": "vibhishana",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Advised Rama to seek the ocean's help"
+  },
+  {
+   "source": "sugriva",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Directed the vanaras in gathering boulders and trees"
+  },
+  {
+   "source": "hanuman",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Helped build the causeway and carried Rama across"
+  },
+  {
+   "source": "angada",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Carried Lakshmana across the bridge"
+  },
+  {
+   "source": "lakshmana",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Crossed with Rama at the head of the army"
+  },
+  {
+   "source": "jambavan",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Led the bear contingent in the construction and crossing"
+  },
+  {
+   "source": "shiva",
+   "target": "rama-setu",
+   "type": "participated-in",
+   "label": "Worshipped by Rama at Rameshvaram in connection with the crossing",
+   "disputed": true,
+   "variation": "Later texts (Adhyatma Ramayana, Skanda Purana, Kamban, Tulsidas)"
+  },
+  {
+   "source": "janamejaya",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Performed the snake sacrifice to avenge his father and heard the Mahabharata"
+  },
+  {
+   "source": "takshaka",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "The serpent who killed Parikshit, nearly drawn into the fire before Astika saved him"
+  },
+  {
+   "source": "astika",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Halted the sacrifice by the boon he won from Janamejaya"
+  },
+  {
+   "source": "vasuki",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "King of the nagas, who sent his nephew Astika to save their race"
+  },
+  {
+   "source": "jaratkaru",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Sage whose son by Vasuki's sister, Astika, saved the serpents"
+  },
+  {
+   "source": "manasa",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Astika's mother, the naga Jaratkaru, in later identification",
+   "disputed": true,
+   "variation": "Identification of the naga Jaratkaru with Manasa is Bengali and later Puranic"
+  },
+  {
+   "source": "kadru",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Her ancient curse doomed her serpent sons to perish in this sacrifice"
+  },
+  {
+   "source": "parikshit",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Janamejaya's father, whose death by Takshaka's bite provoked the sacrifice"
+  },
+  {
+   "source": "indra",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Sheltered Takshaka until the mantras drew him too toward the fire"
+  },
+  {
+   "source": "vaishampayana",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Recited the Mahabharata to Janamejaya during the sacrifice"
+  },
+  {
+   "source": "vyasa",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Attended the sacrifice and bade his disciple Vaishampayana narrate the epic"
+  },
+  {
+   "source": "brahma",
+   "target": "sarpa-satra",
+   "type": "participated-in",
+   "label": "Had foretold to the nagas that Astika would save them"
+  },
+  {
+   "source": "vamana",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "The dwarf brahmin who asked for three paces and spanned the universe"
+  },
+  {
+   "source": "vishnu",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Strode across the three worlds (Rig Veda) and incarnated as Vamana"
+  },
+  {
+   "source": "bali",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Asura king who granted the three paces and offered his head for the third"
+  },
+  {
+   "source": "shukracharya",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Warned Bali against the gift and cursed him for disobeying"
+  },
+  {
+   "source": "prahlada",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Bali's grandfather, who praised Vishnu and consoled Bali (Bhagavata)"
+  },
+  {
+   "source": "indra",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Regained heaven through Vamana's strides; Vishnu's companion in the Vedic strides"
+  },
+  {
+   "source": "aditi",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Mother of Vamana, who performed a vow for her dispossessed sons"
+  },
+  {
+   "source": "kashyapa",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Father of Vamana, who advised Aditi's vow"
+  },
+  {
+   "source": "brahma",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Washed Vishnu's raised foot, the water becoming the Ganga (Bhagavata)"
+  },
+  {
+   "source": "ganga",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Issued from the washing of Vishnu's foot at the second stride",
+   "disputed": true,
+   "variation": "Vaishnava Puranas"
+  },
+  {
+   "source": "garuda",
+   "target": "three-strides",
+   "type": "participated-in",
+   "label": "Bound Bali with Varuna's nooses at Vishnu's command (Bhagavata)"
+  },
+  {
+   "source": "holika",
+   "target": "holika-dahan",
+   "type": "participated-in",
+   "label": "Sat in the fire with Prahlada relying on her immunity and was burnt"
+  },
+  {
+   "source": "prahlada",
+   "target": "holika-dahan",
+   "type": "participated-in",
+   "label": "Emerged unharmed from the fire through his devotion to Vishnu"
+  },
+  {
+   "source": "hiranyakashipu",
+   "target": "holika-dahan",
+   "type": "participated-in",
+   "label": "Ordered his sister to burn his son Prahlada"
+  },
+  {
+   "source": "vishnu",
+   "target": "holika-dahan",
+   "type": "participated-in",
+   "label": "Protected his devotee Prahlada in the flames"
+  },
+  {
+   "source": "agni",
+   "target": "holika-dahan",
+   "type": "participated-in",
+   "label": "The fire that spared Prahlada; in some versions giver of Holika's fire-proof shawl",
+   "disputed": true,
+   "variation": "The shawl from Agni appears only in some folk versions"
+  },
+  {
+   "source": "brahma",
+   "target": "holika-dahan",
+   "type": "participated-in",
+   "label": "Granted Holika her immunity to fire",
+   "disputed": true,
+   "variation": "Only in some versions"
+  },
+  {
+   "source": "durga",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "The Goddess formed from the gods' radiance, who slew Mahishasura"
+  },
+  {
+   "source": "mahishasura",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Buffalo-demon who conquered heaven and was beheaded by the Goddess"
+  },
+  {
+   "source": "brahma",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Led the defeated gods to seek help; gave the Goddess a rosary and water-pot"
+  },
+  {
+   "source": "vishnu",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her arms; gave her his discus"
+  },
+  {
+   "source": "shiva",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her face; gave her his trident"
+  },
+  {
+   "source": "indra",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Lost heaven to Mahisha; his radiance formed her waist and he gave the thunderbolt"
+  },
+  {
+   "source": "agni",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her three eyes; gave her a spear"
+  },
+  {
+   "source": "yama",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her hair; gave her his staff of death"
+  },
+  {
+   "source": "varuna",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her thighs and legs; gave her a conch and noose"
+  },
+  {
+   "source": "vayu",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her ears; gave her a bow and quivers"
+  },
+  {
+   "source": "surya",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her toes; filled her pores with his rays"
+  },
+  {
+   "source": "soma",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "The moon's radiance formed her breasts"
+  },
+  {
+   "source": "kubera",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her nose; gave her a cup of wine"
+  },
+  {
+   "source": "prithvi",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "The Earth's radiance formed her hips"
+  },
+  {
+   "source": "vasus",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Their radiance formed her fingers"
+  },
+  {
+   "source": "prajapati",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "His radiance formed her teeth"
+  },
+  {
+   "source": "vishvakarma",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Gave her an axe, weapons and impenetrable armour"
+  },
+  {
+   "source": "himavan",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Gave her a lion to ride and jewels"
+  },
+  {
+   "source": "airavata",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Indra's elephant, whose bell was given to the Goddess"
+  },
+  {
+   "source": "shesha",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Gave her a necklace of serpents"
+  },
+  {
+   "source": "dawon",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "The lion (Dawon in later tradition) that carried the Goddess into battle",
+   "disputed": true,
+   "variation": "The name Dawon and its depiction as a tiger belong to later Tibetan/Bengali tradition"
+  },
+  {
+   "source": "katyayani",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Named as Mahisha's slayer in the Vamana Purana and Navaratri tradition",
+   "disputed": true,
+   "variation": "Vamana Purana and later tradition"
+  },
+  {
+   "source": "rambha-asura",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Mahisha's father, whose union with a she-buffalo produced the demon",
+   "disputed": true,
+   "variation": "Later Puranas only"
+  },
+  {
+   "source": "kartikeya",
+   "target": "mahishasura-vadha",
+   "type": "participated-in",
+   "label": "Slays Mahisha in the Mahabharata's version",
+   "disputed": true,
+   "variation": "Mahabharata, Vana Parva variant"
+  },
+  {
+   "source": "samba",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Disguised as a pregnant woman in the prank; bore the fatal iron club"
+  },
+  {
+   "source": "krishna",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Witnessed the destruction and left the world after Jara's arrow struck his foot"
+  },
+  {
+   "source": "balarama",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Departed in yoga at the seashore, a serpent issuing from his mouth"
+  },
+  {
+   "source": "jara",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Hunter who mistook Krishna's foot for a deer and shot him"
+  },
+  {
+   "source": "vishvamitra",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "One of the sages who cursed the Yadavas"
+  },
+  {
+   "source": "kanva",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "One of the sages who cursed the Yadavas"
+  },
+  {
+   "source": "narada",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "One of the sages who cursed the Yadavas"
+  },
+  {
+   "source": "gandhari",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Her curse after Kurukshetra doomed Krishna's clan to destroy itself"
+  },
+  {
+   "source": "pradyumna",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Killed in the fratricidal fight at Prabhasa"
+  },
+  {
+   "source": "aniruddha",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Killed in the fratricidal fight at Prabhasa"
+  },
+  {
+   "source": "satyaki",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Began the slaughter by killing Kritavarma, and was himself slain"
+  },
+  {
+   "source": "kritavarma",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Taunted over the night raid, slain by Satyaki"
+  },
+  {
+   "source": "uddhava",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Left for pilgrimage before the end; received Krishna's final teaching in the Bhagavata"
+  },
+  {
+   "source": "vasudeva",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Krishna's father, who died of grief; cremated by Arjuna"
+  },
+  {
+   "source": "devaki",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Ascended Vasudeva's funeral pyre"
+  },
+  {
+   "source": "arjuna",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Performed the last rites and led the Yadava women away, losing his strength to robbers"
+  },
+  {
+   "source": "vyasa",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Consoled Arjuna and told him the Pandavas' time had come"
+  },
+  {
+   "source": "rukmini",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Entered the fire after Krishna's departure"
+  },
+  {
+   "source": "jambavati",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Entered the fire after Krishna's departure"
+  },
+  {
+   "source": "satyabhama",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Retired to the forest for penance after Krishna's departure"
+  },
+  {
+   "source": "shesha",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "The serpent that emerged from Balarama's mouth and returned to the ocean"
+  },
+  {
+   "source": "vali",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "Reborn as the hunter Jara in later tradition",
+   "disputed": true,
+   "variation": "Late and popular tradition only"
+  },
+  {
+   "source": "durvasa",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "His earlier boon left only Krishna's sole vulnerable, where Jara's arrow struck",
+   "disputed": true,
+   "variation": "Anushasana Parva account; linked to the death in later tradition"
+  },
+  {
+   "source": "kali-purusha",
+   "target": "mausala",
+   "type": "participated-in",
+   "label": "The Kali Yuga begins with Krishna's departure",
+   "disputed": true,
+   "variation": "Puranic reckoning (Vishnu and Bhagavata Puranas)"
+  },
+  {
+   "source": "garuda",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Stole the amrita from heaven to free his mother from slavery"
+  },
+  {
+   "source": "vinata",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Lost the wager and was enslaved to Kadru until Garuda ransomed her"
+  },
+  {
+   "source": "kadru",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Won the wager by deceit and held Vinata as her slave"
+  },
+  {
+   "source": "uchchaihshravas",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "The horse whose tail colour was the subject of the wager"
+  },
+  {
+   "source": "aruna",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Garuda's brother, who cursed Vinata to servitude for breaking his egg early"
+  },
+  {
+   "source": "kashyapa",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Father of Garuda and the serpents; guided Garuda on his way to heaven"
+  },
+  {
+   "source": "indra",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Struck Garuda with the vajra, befriended him and took the amrita back"
+  },
+  {
+   "source": "vishnu",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Granted Garuda immortality and made him his mount and banner"
+  },
+  {
+   "source": "vasuki",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Among Kadru's serpent sons who demanded the amrita as Vinata's ransom"
+  },
+  {
+   "source": "takshaka",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Among Kadru's serpent sons who demanded the amrita as Vinata's ransom"
+  },
+  {
+   "source": "karkotaka",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Agreed to blacken the horse's tail for Kadru",
+   "disputed": true,
+   "variation": "Some versions name Karkotaka as the serpent who complied"
+  },
+  {
+   "source": "soma",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "The stolen prize in the Vedic versions, where the bird carries off Soma"
+  },
+  {
+   "source": "vasus",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Among the gods routed by Garuda in heaven"
+  },
+  {
+   "source": "rudras-group",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Among the gods routed by Garuda in heaven"
+  },
+  {
+   "source": "adityas",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Among the gods routed by Garuda in heaven"
+  },
+  {
+   "source": "ashvins",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Among the gods routed by Garuda in heaven"
+  },
+  {
+   "source": "maruts",
+   "target": "garuda-amrita",
+   "type": "participated-in",
+   "label": "Among the gods routed by Garuda in heaven"
+  },
+  {
+   "source": "indra",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Slew Vritra with the vajra, releasing the waters; earned the name Vritrahan"
+  },
+  {
+   "source": "vritra",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "The serpent who withheld the waters, slain by Indra"
+  },
+  {
+   "source": "tvashtr",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Fashioned the vajra (Rig Veda); in later texts created Vritra to avenge Vishvarupa"
+  },
+  {
+   "source": "soma",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Drunk by Indra from three bowls to gain the strength to kill Vritra"
+  },
+  {
+   "source": "maruts",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Indra's companions who stood by him in the fight"
+  },
+  {
+   "source": "vishnu",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Aided Indra in the Rig Veda; in later versions advised the use of Dadhichi's bones"
+  },
+  {
+   "source": "danu",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Vritra's mother, struck down lying over her son"
+  },
+  {
+   "source": "vishvarupa",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Tvashtr's son slain by Indra, whose death provoked Vritra's creation",
+   "disputed": true,
+   "variation": "Later Vedic and epic versions"
+  },
+  {
+   "source": "dadhichi",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Gave up his life so his bones could form the new vajra",
+   "disputed": true,
+   "variation": "Mahabharata and Puranas; not in the Rig Veda"
+  },
+  {
+   "source": "vishvakarma",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Fashioned the vajra from Dadhichi's bones (Bhagavata)",
+   "disputed": true,
+   "variation": "Bhagavata; the Mahabharata credits Tvashtr"
+  },
+  {
+   "source": "nahusha",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Ruled heaven as Indra while Indra hid to expiate the killing (Udyoga Parva)"
+  },
+  {
+   "source": "shachi",
+   "target": "vritra-vadha",
+   "type": "participated-in",
+   "label": "Indra's wife, who resisted Nahusha until Indra's return (Udyoga Parva)"
+  },
+  {
+   "source": "yudhishthira",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Alone reached heaven in his body, refusing to abandon the faithful dog"
+  },
+  {
+   "source": "bhima",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Fell last before Yudhishthira, for his gluttony and boasting of strength"
+  },
+  {
+   "source": "arjuna",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Cast the Gandiva into the sea; fell for his pride in his archery"
+  },
+  {
+   "source": "nakula",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Fell for his pride in his beauty"
+  },
+  {
+   "source": "sahadeva",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Fell for his pride in his wisdom"
+  },
+  {
+   "source": "draupadi",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Fell first, for her partiality to Arjuna"
+  },
+  {
+   "source": "yama",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "As Dharma, took the form of the dog that followed Yudhishthira",
+   "disputed": true,
+   "variation": "The epic names Dharma; identification with Yama is traditional"
+  },
+  {
+   "source": "indra",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Came in his chariot to carry Yudhishthira to heaven"
+  },
+  {
+   "source": "parikshit",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Crowned king of Hastinapura before the Pandavas departed"
+  },
+  {
+   "source": "kripa",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Entrusted with guiding the young Parikshit"
+  },
+  {
+   "source": "yuyutsu",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Entrusted with the kingdom's affairs on Parikshit's behalf"
+  },
+  {
+   "source": "subhadra",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Entrusted with the care of her grandson Parikshit"
+  },
+  {
+   "source": "agni",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Appeared at the sea and bade Arjuna return the Gandiva"
+  },
+  {
+   "source": "varuna",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Received back the Gandiva he had given Arjuna"
+  },
+  {
+   "source": "duryodhana",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Found enthroned in heaven, to Yudhishthira's dismay (Svargarohana)"
+  },
+  {
+   "source": "karna",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "Seen by Yudhishthira among his kin in the illusory hell, then in glory in heaven"
+  },
+  {
+   "source": "ganga",
+   "target": "mahaprasthana",
+   "type": "participated-in",
+   "label": "In her heavenly stream Yudhishthira shed his mortal body"
+  },
+  {
+   "source": "krishna",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "Lifted Mount Govardhana and sheltered Vraja from Indra's storm for seven days"
+  },
+  {
+   "source": "indra",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "Sent the deluge in anger, then submitted and consecrated Krishna as Govinda"
+  },
+  {
+   "source": "nanda",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "Krishna's foster-father, persuaded to honour Govardhana instead of Indra"
+  },
+  {
+   "source": "yashoda",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "Krishna's foster-mother, among the villagers sheltered under the mountain"
+  },
+  {
+   "source": "balarama",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "Stood beside Krishna among the sheltered cowherds"
+  },
+  {
+   "source": "airavata",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "Carried Indra down to Krishna after the storm"
+  },
+  {
+   "source": "kamadhenu",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "As Surabhi, bathed Krishna with her milk and hailed him Govinda",
+   "disputed": true,
+   "variation": "Bhagavata Purana; in the Harivamsha Indra alone consecrates him"
+  },
+  {
+   "source": "radha",
+   "target": "govardhana-lila",
+   "type": "participated-in",
+   "label": "Among the gopis sheltered beneath Govardhana",
+   "disputed": true,
+   "variation": "Later devotional tradition only"
+  }
+ ]
+}

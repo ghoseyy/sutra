@@ -1,0 +1,1549 @@
+{
+  "section": "12-lanka",
+  "nodes": [
+    {
+      "id": "ravana",
+      "name": "Ravana",
+      "devanagari": "रावण",
+      "aliases": [
+        "Dashanana",
+        "Dashagriva",
+        "Dashamukha",
+        "Lankeshvara",
+        "Lankapati",
+        "Paulastya",
+        "Ravanasura",
+        "Thotsakan (Thai)",
+        "Rahwana (Javanese)",
+        "Dahamuha (Jain)"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "The ten-headed king of Lanka, grandson of the sage Pulastya through Vishrava and Kaikesi, and the great antagonist of the Ramayana, whose abduction of Sita brought about his death at Rama's hands. Tradition also remembers him as a learned Brahmin-born scholar, a master of the Vedas and the veena, and an ardent devotee of Shiva to whom the Shiva Tandava Stotram is attributed.",
+      "story": "Flush with his victory over Kubera, Ravana was flying home in the Pushpaka chariot when it stalled above a thicket on Kailasa. Nandi warned him that Shiva was within and the mountain could not be crossed; Ravana mocked the monkey-faced attendant and earned his curse that monkeys like him would one day destroy Ravana's race. In fury the ten-headed king thrust his twenty arms beneath the mountain and heaved it up, shaking the abode of the gods. Shiva, unperturbed, pressed down with his toe and pinned Ravana's arms. The rakshasa's cry shook the three worlds, and he sang Shiva's praises for a thousand years until the god released him, named him Ravana, 'he who made the worlds cry out', and gave him the sword Chandrahasa. Later devotion identifies his hymn with the Shiva Tandava Stotram.",
+      "symbols": [
+        "ten heads and twenty arms",
+        "Pushpaka vimana",
+        "golden city of Lanka",
+        "veena (Rudra veena)",
+        "Shiva linga"
+      ],
+      "weapons": [
+        "Chandrahasa sword (Shiva's gift)",
+        "unfailing spear (shakti) given by Maya",
+        "bow and divine astras"
+      ],
+      "vahana": "Pushpaka vimana (seized from Kubera)",
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Valmiki Ramayana, Sundara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Valmiki Ramayana, Uttara Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Bhagavata Purana, Canto 7 and Canto 9",
+        "Kamba Ramayanam",
+        "Ramcharitmanas",
+        "Paumachariya of Vimalasuri"
+      ],
+      "variations": [
+        "His origin story, boons, conquests and the Kailasa episode belong to the Uttara Kanda, which the Critical Edition treats as a later layer of the Valmiki Ramayana.",
+        "Mahabharata's Ramopakhyana makes the rakshasi Pushpotkata his mother rather than Kaikesi.",
+        "Jain Paumachariya: Ravana is a noble Vidyadhara whose 'ten heads' are reflections in a necklace of nine gems; he is slain by Lakshmana (as Vasudeva) and destined to become a future Tirthankara.",
+        "Kamba Ramayanam: Ravana does not touch Sita but lifts her away with the ground on which she stands.",
+        "Adhyatma Ramayana and Ramcharitmanas: the Sita he abducts is an illusory Sita, the real one having been hidden in Agni.",
+        "Bhagavata Purana: Ravana and Kumbhakarna are the second birth of Vishnu's gatekeepers Jaya and Vijaya.",
+        "Southeast Asian tellings (Thai Ramakien, Malay Hikayat Seri Rama, Javanese wayang) present him as Thotsakan / Rahwana with distinct back-stories; some Sri Lankan and South Indian communities honour him as a great king and scholar.",
+        "Nalakubara's curse (for his assault on Rambha) that his head would shatter if he forced any woman is given in the Uttara Kanda as the reason he never violated Sita."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kumbhakarna",
+      "name": "Kumbhakarna",
+      "devanagari": "कुम्भकर्ण",
+      "aliases": [
+        "Kumbhakarnan (Tamil)",
+        "Kumbhakaran",
+        "Kumphakan (Thai)",
+        "Kumbakarna (Javanese)"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Ravana's gigantic younger brother, who through a twisted boon of Brahma slept for months at a time. Roused during the siege of Lanka, he frankly condemned Ravana's abduction of Sita yet fought and died for his brother out of loyalty, becoming a model of tragic devotion to kin.",
+      "story": "When Rama's army besieged Lanka, Ravana ordered his giant brother roused from his long sleep. Rakshasas heaped mountains of food before him, blew conches, beat drums and drove elephants over his body until at last he woke. Hearing of Sita's abduction, Kumbhakarna rebuked Ravana plainly: a king who acts without counsel invites ruin, and the wrong should never have been done. Yet, seeing his brother's distress, he declared that loyalty now bound him and strode out to battle. He scattered the vanaras, devoured many, and carried off the stunned Sugriva, who bit off his ears and nose and escaped. At last Rama severed his arms and legs with divine arrows and, with a weapon of Indra, struck off his mountainous head, which crashed onto Lanka's gateways while his body toppled into the sea.",
+      "symbols": [
+        "colossal body",
+        "sleep",
+        "mountains of food"
+      ],
+      "weapons": [
+        "great iron spear (shula)",
+        "mountain-peaks and trees"
+      ],
+      "vahana": null,
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Bhagavata Purana, Canto 7",
+        "Kamba Ramayanam",
+        "Ramcharitmanas"
+      ],
+      "variations": [
+        "Uttara Kanda: the gods, fearing him, asked Brahma to intervene, and the goddess Saraswati entered his mouth so that he asked for long sleep; later retellings popularize the slip as 'Nidrasana' (bed of sleep) for 'Indrasana' (Indra's throne) or 'nirdevatvam' (annihilation of the gods).",
+        "Yuddha Kanda: at Ravana's plea Brahma modified the curse so that he would sleep six months and wake for one day.",
+        "Kamba Ramayanam gives him a celebrated speech urging Vibhishana to stay with Rama while he himself chooses to die for his brother.",
+        "Bhagavata Purana identifies him with the second birth of the gatekeeper Vijaya (the mapping of Jaya/Vijaya to Ravana/Kumbhakarna varies in popular accounts)."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "vibhishana",
+      "name": "Vibhishana",
+      "devanagari": "विभीषण",
+      "aliases": [
+        "Vibheeshana",
+        "Bibhishan",
+        "Phiphek (Thai)",
+        "Wibisana (Javanese)",
+        "Lankeshvara (after the war)"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "The righteous youngest brother of Ravana, who counselled the return of Sita, was spurned, and took refuge with Rama. Crowned king of Lanka by Rama, he is honoured as a great devotee and as one of the Chiranjivis, the long-lived ones.",
+      "story": "After Hanuman burned Lanka, Vibhishana stood up in Ravana's council and urged him to return Sita to Rama with honour and save the city. Ravana accused him of envy and treachery and spurned him before the court. With four loyal companions Vibhishana rose into the sky, crossed the sea and asked for refuge at Rama's camp. Sugriva suspected a spy, but Rama declared that he would protect anyone who came seeking shelter, even Ravana himself, a promise Sri Vaishnava tradition cherishes as the heart of 'Vibhishana sharanagati' (surrender). Rama had Lakshmana anoint Vibhishana king of Lanka with seawater even before the war began. His knowledge of Lanka's secrets, including Indrajit's rite at Nikumbhila, proved decisive, and after Ravana's fall he ruled the island in righteousness.",
+      "symbols": [
+        "folded hands of surrender",
+        "crown of Lanka"
+      ],
+      "weapons": [
+        "mace (gada)"
+      ],
+      "vahana": null,
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Sundara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas",
+        "Kamba Ramayanam"
+      ],
+      "variations": [
+        "Uttara Kanda: when Brahma offered boons he asked only that his mind stay fixed on dharma even in adversity; Brahma added immortality.",
+        "Mahabharata's Ramopakhyana names his mother Malini, a different rakshasi from Ravana's mother.",
+        "Ramcharitmanas: Ravana kicks him in open court before he leaves; Hanuman first meets him in Lanka, recognizing Rama's name on his house.",
+        "South Indian temple legend: Rama gave him the image of Ranganatha, which he set down at Srirangam and could not lift again.",
+        "In Sri Lanka he is venerated as a protector deity, notably at Kelaniya.",
+        "Some retellings (e.g. the Thai Ramakien) have him marry Mandodari after the war."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "mandodari",
+      "name": "Mandodari",
+      "devanagari": "मन्दोदरी",
+      "aliases": [
+        "Mandodhari",
+        "Montho (Thai)",
+        "Mandudari"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "The chief queen of Ravana, daughter of the asura architect Maya and the apsara Hema, and mother of Indrajit. Wise, beautiful and virtuous, she repeatedly urged Ravana toward right conduct and is revered as one of the Panchakanya, the five exemplary women.",
+      "story": "Mandodari was the daughter of the asura architect Maya and the apsara Hema. Maya met Ravana while wandering with her and gave her to him in marriage, together with an unfailing spear. As queen of Lanka she bore Meghanada, later called Indrajit. When Hanuman crept through Ravana's palace in search of Sita, he glimpsed her asleep in radiant beauty and for a moment believed she must be Sita, before reasoning that Sita would never sleep adorned in another's house. At war's end Mandodari ran onto the battlefield and wept over Ravana's body, recalling how he had conquered the gods and lamenting that desire for another's wife had destroyed a hero before whom even Indra had trembled. Tradition honours her among the Panchakanya, whose names are recited to dispel sin.",
+      "symbols": [
+        "queenly ornaments",
+        "Panchakanya"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Sundara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Ramcharitmanas",
+        "Adbhuta Ramayana",
+        "Kamba Ramayanam"
+      ],
+      "variations": [
+        "Named in the Panchakanya verse 'Ahalya Draupadi Tara Kunti (or Sita) Mandodari'.",
+        "Ramcharitmanas gives her several speeches pleading with Ravana to return Sita before the war.",
+        "Adbhuta Ramayana: Sita is born of Mandodari, who swallowed a pot of the blood of sages that Ravana had collected; Jain tellings also make Sita Ravana's daughter.",
+        "Folk tradition: she was the apsara Madhura, cursed by Parvati to live as a frog before being restored and adopted by Maya.",
+        "Several retellings (Thai Ramakien and some Indian folk versions) have her marry Vibhishana after Ravana's death; Valmiki does not."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "indrajit",
+      "name": "Indrajit (Meghanada)",
+      "devanagari": "इन्द्रजित् (मेघनाद)",
+      "aliases": [
+        "Meghanada",
+        "Meghnad",
+        "Ravani",
+        "Shakrajit",
+        "Vasavajit",
+        "Inthorachit (Thai)"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "The eldest son of Ravana and Mandodari, a master of sorcery and celestial weapons who captured Indra and won the name Indrajit, 'conqueror of Indra'. The most dangerous warrior of Lanka, he bound Hanuman with the Brahmastra and Rama and Lakshmana with serpent arrows before Lakshmana killed him.",
+      "story": "When Ravana marched on Svarga, the gods rallied, Sumali fell, and Ravana himself was hard-pressed by Indra. His son Meghanada, named for the thunder-roar he gave at birth, vanished from sight through sorcery and, unseen, bound Indra and carried him to Lanka as a prisoner. Brahma came to plead for the release of the king of the gods and conferred on the victor the title Indrajit, 'conqueror of Indra'. As his price Indrajit asked for immortality; Brahma refused, but granted that whenever he completed his fire offering before battle a chariot would rise from the flames and no foe could slay him while he rode it. Years later, guided by Vibhishana, Lakshmana caught him at the Nikumbhila shrine before the rite was complete and slew him with an Indra-weapon sealed by Rama's truth.",
+      "symbols": [
+        "chariot rising from the sacrificial fire",
+        "invisibility in the clouds",
+        "Nikumbhila shrine"
+      ],
+      "weapons": [
+        "Brahmastra",
+        "Nagapasha (serpent-arrows)",
+        "tamasi maya (power of illusion)",
+        "bow"
+      ],
+      "vahana": "Chariot risen from the sacrificial fire",
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Sundara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Kamba Ramayanam",
+        "Ramcharitmanas"
+      ],
+      "variations": [
+        "Uttara Kanda: Shukracharya (Ushanas) officiated seven sacrifices for him, and the Maheshvara sacrifice won him boons from Shiva (Pashupati).",
+        "Valmiki: after Indrajit's Brahmastra fells the army, Hanuman fetches the herb-mountain; in Ramcharitmanas and many popular retellings it is Meghanada's shakti that strikes down Lakshmana.",
+        "He slays an illusory Sita before the vanaras to break their spirit (Yuddha Kanda).",
+        "Later tradition names his wife Sulochana, daughter of the serpent king (Shesha or Vasuki), who becomes sati on his pyre."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shurpanakha",
+      "name": "Shurpanakha",
+      "devanagari": "शूर्पणखा",
+      "aliases": [
+        "Surpanakha",
+        "Soorpanakha",
+        "Chandranakha (Jain)",
+        "Sammanakha (Thai)"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Sister of Ravana whose advances to Rama and Lakshmana in the Dandaka forest ended with Lakshmana cutting off her nose and ears. Her appeal first to Khara and then to Ravana set in motion the abduction of Sita and the war of Lanka.",
+      "story": "Wandering the Dandaka forest, Shurpanakha came upon Rama at Panchavati and was struck by desire. She offered herself to him, proposing to devour Sita. Rama teasingly sent her to Lakshmana, who sent her back; humiliated and enraged, she lunged at Sita. At Rama's word Lakshmana cut off her nose and ears. Bleeding, she fled to her brother Khara at Janasthana, whose army of fourteen thousand Rama destroyed alone. She then flew to Lanka and reproached Ravana before his court as a careless king blind to the danger on his borders, describing Sita's beauty as a prize fit only for him. Her words set in motion the abduction and, ultimately, the war that destroyed her house.",
+      "symbols": [
+        "winnowing-fan nails (the meaning of her name)",
+        "severed nose and ears"
+      ],
+      "weapons": [
+        "claws"
+      ],
+      "vahana": null,
+      "abode": "Lanka; Dandaka forest (Janasthana)",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Valmiki Ramayana, Uttara Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Kamba Ramayanam",
+        "Ramcharitmanas"
+      ],
+      "variations": [
+        "Uttara Kanda: Ravana accidentally killed her husband, the Danava Vidyujjihva, during his conquests, and sent her to live at Janasthana under Khara's protection.",
+        "Mahabharata's Ramopakhyana makes her the twin of Khara, born to Vishrava and the rakshasi Raka.",
+        "Kamba Ramayanam has her approach Rama in the guise of a beautiful woman.",
+        "Jain tradition calls her Chandranakha and makes her Khara's wife."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "maricha",
+      "name": "Maricha",
+      "devanagari": "मारीच",
+      "aliases": [
+        "Mareecha",
+        "Marich",
+        "Maricha the golden deer"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Son of the yakshi Tataka who, cursed by Agastya, became a rakshasa and harried Vishvamitra's sacrifices until the young Rama drove him into the sea. Later, compelled by Ravana, he took the form of the golden deer that lured Rama away from Sita.",
+      "story": "Twice humbled by Rama, once hurled a hundred yojanas into the ocean by his arrow and once barely escaping in the Dandaka forest, Maricha had turned ascetic. When Ravana came asking for help to carry off Sita, Maricha warned him that Rama was dharma embodied and that the plan would destroy Lanka. Threatened with death, he chose to die at Rama's hand instead. Taking the form of a dazzling golden deer dappled with silver and set with jewels, he grazed near the hermitage at Panchavati until Sita begged for it. Rama pursued him deep into the forest and pierced him with an arrow; dying, Maricha cried out in Rama's voice for Sita and Lakshmana, and Sita's fear sent Lakshmana away, leaving her alone for Ravana.",
+      "symbols": [
+        "golden deer (kanaka-mriga)",
+        "mimicked voice"
+      ],
+      "weapons": [
+        "illusion (maya)",
+        "shape-shifting"
+      ],
+      "vahana": null,
+      "abode": "Hermitage by the sea; formerly the Tataka forest",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Valmiki Ramayana, Aranya Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Ramcharitmanas"
+      ],
+      "variations": [
+        "Some popular retellings make Maricha Ravana's maternal uncle; Valmiki presents him as Ravana's reluctant ally.",
+        "Adhyatma Ramayana and Ramcharitmanas portray him as secretly glad to die at Rama's hands and so gain liberation."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "subahu",
+      "name": "Subahu",
+      "devanagari": "सुबाहु",
+      "aliases": [
+        "Suvahu"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Son of Tataka and brother of Maricha who, with his brother, defiled Vishvamitra's sacrifices at Siddhashrama. He was the first rakshasa warrior slain by the young Rama.",
+      "story": "The sage Vishvamitra's sacrifices at Siddhashrama were repeatedly defiled by Subahu and Maricha, who rained flesh and blood upon the altar. Vishvamitra asked King Dasharatha to lend him the youthful Rama, and Rama went with Lakshmana, receiving divine weapons from the sage on the way. For six days and nights the princes guarded the rite while the sage kept silence. On the last day the flames leapt up, the sky darkened and the two rakshasas swooped down with their followers. Rama struck Maricha with the Manava weapon, which hurled him a hundred yojanas into the sea without killing him, then released the fiery Agneya weapon at Subahu, who fell dead. With the Vayavya weapon he scattered the rest, and the sacrifice was completed.",
+      "symbols": [
+        "defiled altar"
+      ],
+      "weapons": [
+        "showers of blood and flesh",
+        "illusion"
+      ],
+      "vahana": null,
+      "abode": "Forest near Siddhashrama",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Ramcharitmanas"
+      ],
+      "variations": [],
+      "disputed": false
+    },
+    {
+      "id": "tataka",
+      "name": "Tataka",
+      "devanagari": "ताटका",
+      "aliases": [
+        "Tadaka",
+        "Thataka",
+        "Tataka the yakshi"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "A yakshi of immense strength, daughter of Suketu and wife of Sunda, who was cursed by Agastya to become a man-eating rakshasi. She laid waste the lands of Malada and Karusha until the young Rama, at Vishvamitra's command, killed her.",
+      "story": "Tataka was once a beautiful yakshi, blessed with the strength of a thousand elephants through her father Suketu's austerities. When the sage Agastya killed her husband Sunda, she and her son Maricha rushed at him, and Agastya cursed them to become man-eating rakshasas. She turned the prosperous lands of Malada and Karusha into a desolate forest. Leading the young Rama there, Vishvamitra told him to slay her. Rama hesitated to kill a woman, but the sage reminded him that a protector's duty overrides such scruples and cited precedents among the gods. When Tataka attacked with storms of stones and illusions, Rama cut off her arms and Lakshmana her nose and ears; when she turned invisible and rained rocks, Rama pierced her with an arrow, freeing the land.",
+      "symbols": [
+        "desolated forest",
+        "storm of stones"
+      ],
+      "weapons": [
+        "boulders",
+        "illusion",
+        "invisibility"
+      ],
+      "vahana": null,
+      "abode": "Tataka forest (between Malada and Karusha)",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Ramcharitmanas",
+        "Kamba Ramayanam"
+      ],
+      "variations": [
+        "Valmiki calls her a yakshi transformed into a rakshasi; popular retellings usually simply call her a rakshasi."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "khara",
+      "name": "Khara",
+      "devanagari": "खर",
+      "aliases": [
+        "Khar"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Rakshasa lord of Janasthana in the Dandaka forest, kinsman of Ravana and Shurpanakha. He led fourteen thousand rakshasas against Rama to avenge Shurpanakha and was killed with his entire army.",
+      "story": "Enraged by his sister Shurpanakha's mutilation, Khara, lord of Janasthana, first sent fourteen rakshasa champions against Rama, who slew them all. He then marched out with fourteen thousand warriors led by Dushana and Trishiras. Rama sent Lakshmana to guard Sita in a mountain cave and faced the host alone. His arrows fell like rain, and in little more than an hour the whole army lay dead; Dushana and Trishiras fell in turn. Khara fought on from his chariot until Rama shattered it; he hurled his mace, and then tried to crush Rama with an uprooted tree. Rama at last killed him with a blazing arrow that had come to him from Agastya. Only the rakshasa Akampana escaped to carry the news to Ravana.",
+      "symbols": [
+        "Janasthana",
+        "army of fourteen thousand"
+      ],
+      "weapons": [
+        "bow",
+        "mace",
+        "uprooted tree"
+      ],
+      "vahana": "War chariot",
+      "abode": "Janasthana, Dandaka forest",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Valmiki Ramayana, Uttara Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)"
+      ],
+      "variations": [
+        "Aranya Kanda calls him Shurpanakha's and Ravana's brother; the Uttara Kanda makes him the son of Kaikesi's sister Raka, i.e. a maternal cousin.",
+        "Mahabharata's Ramopakhyana makes him Vishrava's son by Raka and Shurpanakha's twin.",
+        "Jain tradition makes Khara the husband of Shurpanakha (Chandranakha)."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "dushana",
+      "name": "Dushana",
+      "devanagari": "दूषण",
+      "aliases": [
+        "Dooshana",
+        "Dushan"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "The commander of Khara's rakshasa army at Janasthana. He fell to Rama in the battle fought to avenge Shurpanakha, which destroyed Ravana's frontier garrison in the Dandaka forest.",
+      "story": "Dushana was the general of the fourteen thousand rakshasas whom Khara kept at Janasthana, the outpost that guarded Ravana's interests in the Dandaka forest. When Shurpanakha returned mutilated and Rama had already cut down the first fourteen champions sent against him, Khara ordered Dushana to lead the whole army out. The host surged around Rama like a dark storm-cloud, but his arrows tore through chariots, elephants and warriors. Seeing his troops destroyed, Dushana charged in fury with five thousand of his fiercest men. Rama killed his horses and charioteer and split his bow; Dushana leapt down and raised a huge iron-studded club, bright as a mountain peak. As he rushed forward, Rama severed both his arms with two arrows, and Dushana fell dead, like an elephant whose tusks had been broken.",
+      "symbols": [
+        "iron-studded club (parigha)"
+      ],
+      "weapons": [
+        "bow",
+        "parigha (iron-studded club)"
+      ],
+      "vahana": "War chariot",
+      "abode": "Janasthana, Dandaka forest",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Ramcharitmanas"
+      ],
+      "variations": [
+        "Popular tellings often pair 'Khara-Dushana' as brothers; Valmiki presents Dushana as Khara's commander."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "prahasta",
+      "name": "Prahasta",
+      "devanagari": "प्रहस्त",
+      "aliases": [
+        "Prahast"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Commander-in-chief of Ravana's armies and, according to the Uttara Kanda, a son of Sumali and thus Ravana's maternal uncle. He was the first of Lanka's great generals to fall, killed by the vanara commander Nila.",
+      "story": "Prahasta, son of Sumali and so the maternal uncle of Ravana, commanded Lanka's armies. In the war council he backed his king and scorned Vibhishana's plea to return Sita. When Rama's army had crossed the sea and ringed the city, Ravana sent him out as the first of his great generals. Riding at the head of a vast host, Prahasta tore through the vanara ranks with arrows and a mighty club, and the battlefield ran with blood. The monkey general Nila, son of Agni, stood against him. When Prahasta's chariot and bow were destroyed and he leapt down with a mace, Nila tore up a huge rock and brought it down upon his head, crushing him. Grieving, Ravana declared that he himself must now go out to fight.",
+      "symbols": [
+        "commander's standard"
+      ],
+      "weapons": [
+        "bow",
+        "mace (musala)"
+      ],
+      "vahana": "War chariot",
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda"
+      ],
+      "variations": [
+        "In the Yuddha Kanda he appears chiefly as Ravana's minister and general; his descent from Sumali is given in the Uttara Kanda."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "atikaya",
+      "name": "Atikaya",
+      "devanagari": "अतिकाय",
+      "aliases": [
+        "Atikay"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "A giant son of Ravana by his wife Dhanyamalini, who had won divine armour and weapons from Brahma. He was killed by Lakshmana with the Brahmastra during the siege of Lanka.",
+      "story": "Atikaya, 'the enormous one', was a son of Ravana by his wife Dhanyamalini, a warrior who had pleased Brahma with austerities and received from him divine weapons and impenetrable armour. After Kumbhakarna fell, he rode out with his brothers Trishiras, Devantaka and Narantaka, towering like a mountain in his chariot. Disdaining ordinary monkeys, he called for a worthy opponent, and Lakshmana answered. The duel raged; Lakshmana's arrows glanced harmlessly off the rakshasa's armour until Vayu, the wind god, whispered that only a weapon of Brahma could pierce what Brahma had given. Lakshmana invoked the Brahmastra, which struck off Atikaya's helmeted head, and it fell to earth like a mountain peak. His brothers had already fallen to Angada and Hanuman.",
+      "symbols": [
+        "Brahma's armour",
+        "giant stature"
+      ],
+      "weapons": [
+        "bow",
+        "divine armour",
+        "celestial astras"
+      ],
+      "vahana": "War chariot",
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Kamba Ramayanam"
+      ],
+      "variations": [
+        "Valmiki names his mother Dhanyamalini; popular accounts sometimes treat all of Ravana's major sons as Mandodari's."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "akshayakumara",
+      "name": "Akshayakumara",
+      "devanagari": "अक्षयकुमार",
+      "aliases": [
+        "Aksha",
+        "Akshakumara",
+        "Akshay Kumar"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "A young son of Ravana, sent to capture Hanuman after the destruction of the Ashoka grove. His brave but fatal duel with Hanuman prompted Ravana to send Indrajit.",
+      "story": "After Hanuman found Sita in the Ashoka grove, he deliberately wrecked the garden to draw out Ravana's forces. Eighty thousand Kinkara guards, Jambumali son of Prahasta, the sons of ministers and five generals all fell before him. Ravana then sent his young son Aksha, blazing like fire. Riding a golden chariot drawn by eight horses, Aksha loosed a storm of arrows that wounded Hanuman, who admired the youth's skill and was reluctant to kill him. Seeing the boy's power grow, Hanuman smashed the chariot with his palm; when Aksha rose into the air with bow and sword, Hanuman seized him by the feet, whirled him round and dashed him to the ground, killing him. Grief-stricken, Ravana summoned Indrajit.",
+      "symbols": [
+        "golden chariot with eight horses"
+      ],
+      "weapons": [
+        "bow",
+        "sword"
+      ],
+      "vahana": "Golden chariot",
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Sundara Kanda",
+        "Ramcharitmanas",
+        "Kamba Ramayanam"
+      ],
+      "variations": [
+        "Valmiki calls him Aksha or Akshakumara; the form Akshayakumara is common in later and regional retellings.",
+        "Valmiki does not name his mother; many retellings make him Mandodari's son."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "sarama",
+      "name": "Sarama",
+      "devanagari": "सरमा",
+      "aliases": [
+        "Saramaa"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Wife of Vibhishana and Sita's compassionate friend in Lanka; the Uttara Kanda calls her a daughter of the Gandharva king Shailusha. She consoled Sita, exposed Ravana's illusions and secretly reported his councils to her. (Distinct from the Vedic divine dog Sarama.)",
+      "story": "To break Sita's spirit, Ravana had the sorcerer Vidyujjihva conjure a severed head resembling Rama's, along with his bow, and declared that Rama had been killed in his sleep. Sita collapsed in grief. As soon as Ravana left, Sarama, Vibhishana's wife and Sita's gentle companion, came to her side. She told her the head was an illusion, that Rama was alive and his army already at Lanka's gates, their war-drums sounding. At Sita's request she crept unseen into Ravana's inner council and returned to report that even his mother Kaikesi and an aged minister, Aviddha, had begged him to return Sita, but that he refused to give her up while he lived.",
+      "symbols": [
+        "companion of Sita"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Lanka",
+      "sources": [
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Valmiki Ramayana, Uttara Kanda",
+        "Ramcharitmanas"
+      ],
+      "variations": [
+        "Uttara Kanda: born of the Gandharva Shailusha, she was named Sarama after her mother's cry 'saro ma vardhata' (do not swell, O lake) at her birth by Lake Manasa.",
+        "Valmiki's war books call her a rakshasi; in some Southeast Asian tellings Vibhishana's wife is named differently."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "trijata",
+      "name": "Trijata",
+      "devanagari": "त्रिजटा",
+      "aliases": [
+        "Tirisadai (Tamil)",
+        "Trichada (Thai)"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "An aged rakshasi among Sita's guards in the Ashoka grove whose prophetic dream foretold Ravana's ruin and Rama's victory. She protected and consoled Sita throughout her captivity.",
+      "story": "When the rakshasis guarding Sita in the Ashoka grove threatened to devour her, the aged Trijata woke from sleep and told them to stop, for she had seen a terrible dream. She had seen Rama and Lakshmana in white garments and garlands, and Rama mounted with Sita upon a great white elephant, radiant and reunited. Ravana she saw with shaven head, smeared with oil and wearing red garlands, drawn southwards, the direction of Yama, in a chariot pulled by donkeys, and his brothers following him to ruin, while Lanka lay burnt by a monkey and sank into the sea. She urged the rakshasis to seek Sita's forgiveness, for Sita alone could save them. Later she accompanied Sita in the Pushpaka and assured her that Rama and Lakshmana still lived.",
+      "symbols": [
+        "prophetic dream"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Ashoka grove, Lanka",
+      "sources": [
+        "Valmiki Ramayana, Sundara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Ramcharitmanas",
+        "Kamba Ramayanam"
+      ],
+      "variations": [
+        "Valmiki gives no parentage; the Kamba Ramayanam and several later tellings make her Vibhishana's daughter.",
+        "In the Thai Ramakien she is Vibhishana's wife.",
+        "Ramcharitmanas portrays her as a devotee of Rama."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kaikesi",
+      "name": "Kaikesi",
+      "devanagari": "कैकसी",
+      "aliases": [
+        "Kaikasi",
+        "Keshini",
+        "Nikasha"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Daughter of the rakshasa chief Sumali, wife of the sage Vishrava and mother of Ravana, Kumbhakarna, Shurpanakha and Vibhishana. Her marriage was arranged by Sumali to restore the rakshasas' lost glory.",
+      "story": "Driven from Lanka by Vishnu, the rakshasa chief Sumali saw Kubera flying in splendour and resolved that a grandson born of the sage Vishrava could restore his people's fortunes. He sent his daughter Kaikesi to Vishrava as the sage tended his sacred fires. She arrived at dusk, the dread hour, and said she had come at her father's bidding. Vishrava foresaw that children conceived at such a time would be fearsome rakshasas. Kaikesi pleaded for gentler sons, and he promised that her last-born would be righteous and worthy of his line. She bore the ten-headed Ravana, the giant Kumbhakarna, Shurpanakha and finally the virtuous Vibhishana. Later, seeing Kubera again, she urged Ravana to strive until he equalled his half-brother's glory.",
+      "symbols": [
+        "twilight (sandhya)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Lanka; Vishrava's hermitage",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Bhagavata Purana, Canto 7",
+        "Ramcharitmanas"
+      ],
+      "variations": [
+        "Bhagavata Purana calls her Keshini; later northern tradition knows her as Nikasha.",
+        "Mahabharata's Ramopakhyana replaces her with three rakshasis given to Vishrava: Pushpotkata (mother of Ravana and Kumbhakarna), Malini (Vibhishana) and Raka (Khara and Shurpanakha).",
+        "Regional (Gokarna) legend: Ravana sought Shiva's Atmalinga so that his mother, a devout Shaiva, could worship it."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "sumali",
+      "name": "Sumali",
+      "devanagari": "सुमाली",
+      "aliases": [
+        "Sumalin"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "A rakshasa chief, son of Sukesha and brother of Mali and Malyavan, who first ruled Lanka before Vishnu drove the rakshasas to the netherworld. Father of Kaikesi and Prahasta, he engineered Ravana's birth to win back Lanka.",
+      "story": "Sumali was one of three sons of the rakshasa Sukesha, with Mali and Malyavan. Through austerities the brothers won boons of strength and unity from Brahma, and Vishvakarma directed them to Lanka, the golden city he had built upon Mount Trikuta. Arrogant with power, they harassed gods and sages, who sought refuge with Vishnu. In the battle that followed Vishnu slew Mali with his discus and drove the rakshasas down to Patala. Years later Sumali, roaming the earth, saw Kubera in the Pushpaka and schemed to regain Lanka through a grandson. He sent his daughter Kaikesi to the sage Vishrava; her son Ravana fulfilled his hope. Sumali fell in Ravana's war against the gods, struck down by the Vasu Savitra.",
+      "symbols": [
+        "Mount Trikuta",
+        "Lanka"
+      ],
+      "weapons": [
+        "mace",
+        "bow"
+      ],
+      "vahana": null,
+      "abode": "Lanka; later Patala (Rasatala)",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda"
+      ],
+      "variations": [
+        "In later retellings his brother Malyavan survives as Ravana's elderly counsellor who urges peace."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "vedavati",
+      "name": "Vedavati",
+      "devanagari": "वेदवती",
+      "aliases": [
+        "Vedvati",
+        "Vedavathi"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "A brahmin ascetic, daughter of the brahmarshi Kushadhvaja (a son of Brihaspati, not Janaka's brother), who performed tapas to win Vishnu as her husband. Molested by Ravana, she immolated herself vowing to return as the cause of his death, and was reborn as Sita.",
+      "story": "Vedavati was born of the sacred chanting of her father, the brahmarshi Kushadhvaja, son of Brihaspati, who wished her to wed none but Vishnu. When he refused a Daitya suitor named Shambhu, the demon murdered him in the night, and her grieving mother followed him into the funeral fire. Vedavati withdrew to the Himalayas to perform austerities, wearing deerskin and matted hair. There Ravana, roaming on his conquests, saw her and desired her. When she refused him, he seized her by the hair. Making her hand a blade, she cut off the hair he held and, declaring that she would be born again, not from a womb, to be the cause of his destruction, entered a blazing fire. She was reborn, the Uttara Kanda says, as Sita.",
+      "symbols": [
+        "matted hair and deerskin",
+        "sacrificial fire"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Hermitage in the Himalayas",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Devi Bhagavata Purana, Book 9",
+        "Brahmavaivarta Purana",
+        "Kurma Purana"
+      ],
+      "variations": [
+        "Some Uttara Kanda recensions add that she was first reborn in a lotus, found by Ravana and cast into the sea, before emerging in Janaka's field as Sita.",
+        "Devi Bhagavata Purana calls her a portion of Lakshmi.",
+        "Brahmavaivarta and Kurma Puranas: Vedavati became the 'Chhaya' or illusory Sita whom Ravana actually abducted, while Agni guarded the true Sita; Brahmavaivarta adds that she was later reborn as Draupadi."
+      ],
+      "disputed": true
+    }
+  ],
+  "edges": [
+    {
+      "source": "vishrava",
+      "target": "ravana",
+      "type": "parent",
+      "label": "The sage Vishrava fathered Ravana on Kaikesi"
+    },
+    {
+      "source": "kaikesi",
+      "target": "ravana",
+      "type": "parent",
+      "label": "Kaikesi bore the ten-headed Ravana, her first-born",
+      "variation": "Mahabharata's Ramopakhyana names his mother Pushpotkata."
+    },
+    {
+      "source": "ravana",
+      "target": "mandodari",
+      "type": "spouse",
+      "label": "Mandodari, daughter of Maya, was Ravana's chief queen"
+    },
+    {
+      "source": "ravana",
+      "target": "indrajit",
+      "type": "parent",
+      "label": "Ravana was the father of Meghanada (Indrajit)"
+    },
+    {
+      "source": "ravana",
+      "target": "atikaya",
+      "type": "parent",
+      "label": "Ravana fathered Atikaya on his wife Dhanyamalini"
+    },
+    {
+      "source": "ravana",
+      "target": "akshayakumara",
+      "type": "parent",
+      "label": "Aksha was a young son of Ravana"
+    },
+    {
+      "source": "ravana",
+      "target": "kumbhakarna",
+      "type": "sibling",
+      "label": "Kumbhakarna was Ravana's giant younger brother, who condemned his deed yet died for him"
+    },
+    {
+      "source": "ravana",
+      "target": "vibhishana",
+      "type": "sibling",
+      "label": "Vibhishana, Ravana's youngest brother, begged him to return Sita and was spurned"
+    },
+    {
+      "source": "ravana",
+      "target": "shurpanakha",
+      "type": "sibling",
+      "label": "Shurpanakha was Ravana's sister; he had accidentally killed her husband Vidyujjihva"
+    },
+    {
+      "source": "kubera",
+      "target": "ravana",
+      "type": "sibling",
+      "label": "Kubera and Ravana were half-brothers, both sons of Vishrava"
+    },
+    {
+      "source": "ravana",
+      "target": "kubera",
+      "type": "enemy",
+      "label": "Ravana drove his half-brother Kubera out of Lanka and seized the Pushpaka chariot"
+    },
+    {
+      "source": "rama",
+      "target": "ravana",
+      "type": "slayer",
+      "label": "Rama killed Ravana with the Brahmastra given by Agastya",
+      "variation": "In the Jain Paumachariya it is Lakshmana, not Rama, who kills Ravana."
+    },
+    {
+      "source": "lakshmana",
+      "target": "ravana",
+      "type": "slayer",
+      "label": "In Jain tradition Lakshmana, as Vasudeva, kills Ravana with his own discus",
+      "disputed": true,
+      "variation": "Jain Paumachariya and other Jain Ramayanas; Hindu versions credit Rama."
+    },
+    {
+      "source": "brahma",
+      "target": "ravana",
+      "type": "boon",
+      "label": "Brahma made Ravana invulnerable to gods, Danavas, Yakshas, Gandharvas, Nagas and Rakshasas; he disdained to ask protection from men"
+    },
+    {
+      "source": "shiva",
+      "target": "ravana",
+      "type": "boon",
+      "label": "Pleased by his hymn after the Kailasa episode, Shiva gave Ravana the sword Chandrahasa and his name",
+      "variation": "Some accounts add a further span of life."
+    },
+    {
+      "source": "ravana",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Ravana was an ardent Shaiva; the Shiva Tandava Stotram is attributed to him"
+    },
+    {
+      "source": "vedavati",
+      "target": "ravana",
+      "type": "curse",
+      "label": "Vedavati, violated by Ravana, entered the fire vowing to be reborn as the cause of his death"
+    },
+    {
+      "source": "nandi",
+      "target": "ravana",
+      "type": "curse",
+      "label": "Mocked for his monkey-like face, Nandi cursed Ravana that monkeys would destroy his race"
+    },
+    {
+      "source": "ravana",
+      "target": "jatayu",
+      "type": "slayer",
+      "label": "Ravana cut off Jatayu's wings as the vulture tried to rescue Sita; Jatayu died after telling Rama"
+    },
+    {
+      "source": "ravana",
+      "target": "vali",
+      "type": "enemy",
+      "label": "Vali tucked the challenging Ravana under his arm and carried him across the four oceans, after which they swore friendship before fire",
+      "variation": "Uttara Kanda; the defeat ends in an alliance."
+    },
+    {
+      "source": "ravana",
+      "target": "kartavirya-arjuna",
+      "type": "enemy",
+      "label": "Kartavirya Arjuna of the thousand arms defeated and imprisoned Ravana on the Narmada; Pulastya secured his release"
+    },
+    {
+      "source": "ravana",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Ravana waged war on Svarga; his son captured Indra and carried him to Lanka"
+    },
+    {
+      "source": "ravana",
+      "target": "yama",
+      "type": "enemy",
+      "label": "Ravana invaded Yama's realm; Brahma stopped Yama from using his death-staff against him"
+    },
+    {
+      "source": "ravana",
+      "target": "varuna",
+      "type": "enemy",
+      "label": "Ravana attacked Varuna's realm and defeated his sons"
+    },
+    {
+      "source": "ravana",
+      "target": "dikpalas",
+      "type": "enemy",
+      "label": "Ravana's conquests humbled the guardians of the directions"
+    },
+    {
+      "source": "ravana",
+      "target": "rama",
+      "type": "enemy",
+      "label": "Ravana abducted Rama's wife, bringing on the war of Lanka"
+    },
+    {
+      "source": "ravana",
+      "target": "sita",
+      "type": "enemy",
+      "label": "Ravana abducted Sita and held her captive in the Ashoka grove, where she rejected him for months"
+    },
+    {
+      "source": "ravana",
+      "target": "lakshmana",
+      "type": "enemy",
+      "label": "Ravana felled Lakshmana with the spear given by Maya; Hanuman's herbs revived him"
+    },
+    {
+      "source": "ravana",
+      "target": "hanuman",
+      "type": "enemy",
+      "label": "Ravana ordered Hanuman's tail set alight, and Hanuman burned Lanka"
+    },
+    {
+      "source": "ravana",
+      "target": "sugriva",
+      "type": "enemy",
+      "label": "Sugriva leapt onto Ravana's palace tower and wrestled him before the war"
+    },
+    {
+      "source": "ravana",
+      "target": "angada",
+      "type": "enemy",
+      "label": "Angada came as Rama's envoy to Ravana's court and defied him"
+    },
+    {
+      "source": "ravana",
+      "target": "maricha",
+      "type": "ally",
+      "label": "Ravana forced the unwilling Maricha to become the golden deer"
+    },
+    {
+      "source": "ravana",
+      "target": "prahasta",
+      "type": "ally",
+      "label": "Prahasta, Ravana's maternal uncle, commanded his armies"
+    },
+    {
+      "source": "maya",
+      "target": "ravana",
+      "type": "ally",
+      "label": "Maya gave his daughter Mandodari to Ravana, with the spear that later struck Lakshmana"
+    },
+    {
+      "source": "ravana",
+      "target": "rambha",
+      "type": "enemy",
+      "label": "Ravana assaulted the apsara Rambha, betrothed to Nalakubara, whose curse forbade him to force any woman again"
+    },
+    {
+      "source": "ravana",
+      "target": "lankini",
+      "type": "ally",
+      "label": "Lankini guarded Ravana's city until Hanuman overpowered her"
+    },
+    {
+      "source": "ravana",
+      "target": "ahiravana",
+      "type": "ally",
+      "label": "Ahiravana, ruler of Patala, aided Ravana by abducting Rama and Lakshmana",
+      "disputed": true,
+      "variation": "Absent from Valmiki; described as Ravana's brother, son or friend in regional tellings (Krittivasi Ramayan, Ananda Ramayana, folk Hanuman lore)."
+    },
+    {
+      "source": "ravana",
+      "target": "shani",
+      "type": "enemy",
+      "label": "Folk tradition says Ravana held Shani and the planets captive to fix an ideal horoscope for Indrajit",
+      "disputed": true,
+      "variation": "Regional and folk tradition only."
+    },
+    {
+      "source": "ravana",
+      "target": "jaya",
+      "type": "reincarnation-of",
+      "label": "Ravana was the gatekeeper Jaya in his second demonic birth",
+      "disputed": true,
+      "variation": "Bhagavata Purana 7.1 names Ravana and Kumbhakarna as Jaya and Vijaya reborn without assigning which is which; popular accounts usually map Jaya to Ravana, some reverse it."
+    },
+    {
+      "source": "vishrava",
+      "target": "kumbhakarna",
+      "type": "parent",
+      "label": "Vishrava was the father of Kumbhakarna"
+    },
+    {
+      "source": "kaikesi",
+      "target": "kumbhakarna",
+      "type": "parent",
+      "label": "Kaikesi bore the giant Kumbhakarna",
+      "variation": "Mahabharata's Ramopakhyana names his mother Pushpotkata."
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "vibhishana",
+      "type": "sibling",
+      "label": "Kumbhakarna and Vibhishana were brothers who chose opposite sides"
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "shurpanakha",
+      "type": "sibling",
+      "label": "Kumbhakarna and Shurpanakha were children of Vishrava and Kaikesi"
+    },
+    {
+      "source": "kubera",
+      "target": "kumbhakarna",
+      "type": "sibling",
+      "label": "Kubera was Kumbhakarna's half-brother through Vishrava"
+    },
+    {
+      "source": "brahma",
+      "target": "kumbhakarna",
+      "type": "boon",
+      "label": "Brahma's boon turned into long sleep when Saraswati entered Kumbhakarna's mouth; at Ravana's plea it became six months' sleep and one day's waking",
+      "variation": "Later tellings: he meant to ask for Indrasana or nirdevatvam but said Nidrasana."
+    },
+    {
+      "source": "rama",
+      "target": "kumbhakarna",
+      "type": "slayer",
+      "label": "Rama cut off Kumbhakarna's arms and legs and struck off his head with an Indra-weapon"
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "sugriva",
+      "type": "enemy",
+      "label": "Kumbhakarna carried off the stunned Sugriva, who bit off his ears and nose and escaped"
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "hanuman",
+      "type": "enemy",
+      "label": "Kumbhakarna wounded Hanuman with his spear in the battle before Lanka"
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Kumbhakarna fought Indra, tearing out a tusk of Airavata to strike him"
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "lakshmana",
+      "type": "enemy",
+      "label": "Kumbhakarna spurned Lakshmana's challenge and pressed on towards Rama"
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "vijaya",
+      "type": "reincarnation-of",
+      "label": "Kumbhakarna was the gatekeeper Vijaya in his second demonic birth",
+      "disputed": true,
+      "variation": "Bhagavata Purana 7.1 does not specify which gatekeeper became which brother; the usual popular mapping is given."
+    },
+    {
+      "source": "vishrava",
+      "target": "vibhishana",
+      "type": "parent",
+      "label": "Vishrava was the father of Vibhishana"
+    },
+    {
+      "source": "kaikesi",
+      "target": "vibhishana",
+      "type": "parent",
+      "label": "Kaikesi's last-born, Vibhishana, was righteous as Vishrava had promised",
+      "variation": "Mahabharata's Ramopakhyana names his mother Malini."
+    },
+    {
+      "source": "vibhishana",
+      "target": "shurpanakha",
+      "type": "sibling",
+      "label": "Vibhishana and Shurpanakha were children of Vishrava and Kaikesi"
+    },
+    {
+      "source": "kubera",
+      "target": "vibhishana",
+      "type": "sibling",
+      "label": "Kubera was Vibhishana's half-brother through Vishrava"
+    },
+    {
+      "source": "vibhishana",
+      "target": "sarama",
+      "type": "spouse",
+      "label": "Sarama was Vibhishana's wife"
+    },
+    {
+      "source": "vibhishana",
+      "target": "mandodari",
+      "type": "spouse",
+      "label": "Some retellings have Vibhishana marry Ravana's widow Mandodari after the war",
+      "disputed": true,
+      "variation": "Found in the Thai Ramakien and some regional versions; not in Valmiki."
+    },
+    {
+      "source": "brahma",
+      "target": "vibhishana",
+      "type": "boon",
+      "label": "Brahma granted Vibhishana a mind fixed on dharma and added immortality"
+    },
+    {
+      "source": "vibhishana",
+      "target": "rama",
+      "type": "ally",
+      "label": "Rama gave refuge to Vibhishana and crowned him king of Lanka"
+    },
+    {
+      "source": "vibhishana",
+      "target": "rama",
+      "type": "devotee",
+      "label": "Vibhishana's surrender to Rama is a classic model of sharanagati"
+    },
+    {
+      "source": "vibhishana",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Vibhishana worshipped Vishnu as Ranganatha, whose image he set down at Srirangam",
+      "variation": "South Indian temple legend."
+    },
+    {
+      "source": "vibhishana",
+      "target": "lakshmana",
+      "type": "ally",
+      "label": "Lakshmana anointed Vibhishana king and was guided by him to Nikumbhila"
+    },
+    {
+      "source": "vibhishana",
+      "target": "sugriva",
+      "type": "ally",
+      "label": "Vibhishana counselled Sugriva's army; Sugriva was first wary of him"
+    },
+    {
+      "source": "vibhishana",
+      "target": "hanuman",
+      "type": "ally",
+      "label": "Hanuman vouched for Vibhishana's sincerity when he sought refuge"
+    },
+    {
+      "source": "vibhishana",
+      "target": "indrajit",
+      "type": "enemy",
+      "label": "Vibhishana revealed the secret of Indrajit's Nikumbhila rite, leading to his death"
+    },
+    {
+      "source": "vibhishana",
+      "target": "trijata",
+      "type": "parent",
+      "label": "Several later retellings make Trijata Vibhishana's daughter",
+      "disputed": true,
+      "variation": "Kamba Ramayanam and some later tellings; Valmiki gives her no parentage; the Thai Ramakien makes her his wife."
+    },
+    {
+      "source": "maya",
+      "target": "mandodari",
+      "type": "parent",
+      "label": "Maya, architect of the asuras, was Mandodari's father; her mother was the apsara Hema"
+    },
+    {
+      "source": "mandodari",
+      "target": "indrajit",
+      "type": "parent",
+      "label": "Mandodari bore Meghanada (Indrajit)"
+    },
+    {
+      "source": "mandodari",
+      "target": "akshayakumara",
+      "type": "parent",
+      "label": "Many retellings name Mandodari as Aksha's mother",
+      "disputed": true,
+      "variation": "Valmiki does not name his mother."
+    },
+    {
+      "source": "mandodari",
+      "target": "sita",
+      "type": "parent",
+      "label": "In the Adbhuta Ramayana Sita is born from Mandodari",
+      "disputed": true,
+      "variation": "Adbhuta Ramayana; Jain tellings also make Sita Ravana's daughter."
+    },
+    {
+      "source": "parvati",
+      "target": "mandodari",
+      "type": "curse",
+      "label": "Folk legend: Parvati cursed the apsara Madhura to be a frog, later restored as Mandodari",
+      "disputed": true,
+      "variation": "Regional/folk tradition only."
+    },
+    {
+      "source": "lakshmana",
+      "target": "indrajit",
+      "type": "slayer",
+      "label": "Lakshmana killed Indrajit with the Aindra weapon, invoking Rama's truth"
+    },
+    {
+      "source": "brahma",
+      "target": "indrajit",
+      "type": "boon",
+      "label": "Brahma named him Indrajit and granted that a chariot from his fire-rite would make him unconquerable"
+    },
+    {
+      "source": "shiva",
+      "target": "indrajit",
+      "type": "boon",
+      "label": "Through the Maheshvara sacrifice Indrajit won a sky-chariot and the power of illusion from Shiva (Pashupati)"
+    },
+    {
+      "source": "shukracharya",
+      "target": "indrajit",
+      "type": "guru",
+      "label": "Shukracharya (Ushanas) officiated the seven great sacrifices of Meghanada"
+    },
+    {
+      "source": "indrajit",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Indrajit captured Indra and carried him to Lanka"
+    },
+    {
+      "source": "indrajit",
+      "target": "hanuman",
+      "type": "enemy",
+      "label": "Indrajit bound Hanuman with the Brahmastra and brought him before Ravana"
+    },
+    {
+      "source": "indrajit",
+      "target": "rama",
+      "type": "enemy",
+      "label": "Indrajit twice felled Rama and his army with the serpent-noose and the Brahmastra"
+    },
+    {
+      "source": "garuda",
+      "target": "indrajit",
+      "type": "enemy",
+      "label": "Garuda freed Rama and Lakshmana from Indrajit's serpent arrows"
+    },
+    {
+      "source": "indrajit",
+      "target": "atikaya",
+      "type": "sibling",
+      "label": "Indrajit and Atikaya were sons of Ravana"
+    },
+    {
+      "source": "indrajit",
+      "target": "akshayakumara",
+      "type": "sibling",
+      "label": "Indrajit went out to avenge his slain brother Aksha"
+    },
+    {
+      "source": "vishrava",
+      "target": "shurpanakha",
+      "type": "parent",
+      "label": "Vishrava was Shurpanakha's father"
+    },
+    {
+      "source": "kaikesi",
+      "target": "shurpanakha",
+      "type": "parent",
+      "label": "Kaikesi was Shurpanakha's mother",
+      "variation": "Mahabharata's Ramopakhyana names her mother Raka."
+    },
+    {
+      "source": "shurpanakha",
+      "target": "lakshmana",
+      "type": "enemy",
+      "label": "Lakshmana cut off Shurpanakha's nose and ears at Panchavati"
+    },
+    {
+      "source": "shurpanakha",
+      "target": "rama",
+      "type": "enemy",
+      "label": "Rejected by Rama, Shurpanakha incited Khara and then Ravana against him"
+    },
+    {
+      "source": "shurpanakha",
+      "target": "sita",
+      "type": "enemy",
+      "label": "Shurpanakha tried to devour Sita and later urged Ravana to seize her"
+    },
+    {
+      "source": "shurpanakha",
+      "target": "khara",
+      "type": "sibling",
+      "label": "Khara, lord of Janasthana, was Shurpanakha's brother and protector",
+      "variation": "Uttara Kanda makes him a maternal cousin; Mahabharata makes them twins."
+    },
+    {
+      "source": "tataka",
+      "target": "maricha",
+      "type": "parent",
+      "label": "Tataka was Maricha's mother; his father was the yaksha Sunda"
+    },
+    {
+      "source": "tataka",
+      "target": "subahu",
+      "type": "parent",
+      "label": "Tataka was Subahu's mother"
+    },
+    {
+      "source": "maricha",
+      "target": "subahu",
+      "type": "sibling",
+      "label": "Maricha and Subahu, sons of Tataka, together defiled Vishvamitra's sacrifices"
+    },
+    {
+      "source": "rama",
+      "target": "maricha",
+      "type": "slayer",
+      "label": "Rama killed Maricha, disguised as the golden deer, at Panchavati",
+      "variation": "Earlier Rama had hurled him into the sea with the Manava weapon without killing him."
+    },
+    {
+      "source": "agastya",
+      "target": "maricha",
+      "type": "curse",
+      "label": "Agastya cursed Maricha to become a rakshasa after he attacked the sage"
+    },
+    {
+      "source": "maricha",
+      "target": "vishvamitra",
+      "type": "enemy",
+      "label": "Maricha disrupted Vishvamitra's sacrifices at Siddhashrama"
+    },
+    {
+      "source": "maricha",
+      "target": "sita",
+      "type": "enemy",
+      "label": "As the golden deer Maricha lured Rama away so that Sita could be abducted"
+    },
+    {
+      "source": "rama",
+      "target": "subahu",
+      "type": "slayer",
+      "label": "Rama killed Subahu with the Agneya weapon"
+    },
+    {
+      "source": "subahu",
+      "target": "vishvamitra",
+      "type": "enemy",
+      "label": "Subahu rained blood and flesh on Vishvamitra's sacrificial altar"
+    },
+    {
+      "source": "subahu",
+      "target": "lakshmana",
+      "type": "enemy",
+      "label": "Lakshmana guarded Vishvamitra's sacrifice against Subahu's band"
+    },
+    {
+      "source": "rama",
+      "target": "tataka",
+      "type": "slayer",
+      "label": "At Vishvamitra's command Rama slew Tataka"
+    },
+    {
+      "source": "agastya",
+      "target": "tataka",
+      "type": "curse",
+      "label": "Agastya cursed the yakshi Tataka to become a man-eating rakshasi"
+    },
+    {
+      "source": "tataka",
+      "target": "vishvamitra",
+      "type": "enemy",
+      "label": "Vishvamitra led Rama to destroy Tataka, who had ravaged Malada and Karusha"
+    },
+    {
+      "source": "tataka",
+      "target": "lakshmana",
+      "type": "enemy",
+      "label": "Lakshmana cut off Tataka's nose and ears in the fight"
+    },
+    {
+      "source": "rama",
+      "target": "khara",
+      "type": "slayer",
+      "label": "Rama killed Khara at Janasthana with an arrow received from Agastya"
+    },
+    {
+      "source": "ravana",
+      "target": "khara",
+      "type": "sibling",
+      "label": "Khara was Ravana's kinsman and governor of Janasthana",
+      "variation": "Aranya Kanda calls him Ravana's brother; Uttara Kanda makes him son of Kaikesi's sister Raka."
+    },
+    {
+      "source": "vishrava",
+      "target": "khara",
+      "type": "parent",
+      "label": "The Mahabharata makes Vishrava Khara's father by the rakshasi Raka",
+      "disputed": true,
+      "variation": "Mahabharata, Vana Parva (Ramopakhyana); Valmiki's Uttara Kanda does not."
+    },
+    {
+      "source": "khara",
+      "target": "dushana",
+      "type": "ally",
+      "label": "Dushana commanded Khara's army of fourteen thousand"
+    },
+    {
+      "source": "khara",
+      "target": "lakshmana",
+      "type": "enemy",
+      "label": "Khara's army came to avenge Lakshmana's mutilation of Shurpanakha"
+    },
+    {
+      "source": "rama",
+      "target": "dushana",
+      "type": "slayer",
+      "label": "Rama cut off Dushana's arms with two arrows and killed him"
+    },
+    {
+      "source": "dushana",
+      "target": "shurpanakha",
+      "type": "ally",
+      "label": "Dushana marched to avenge Shurpanakha"
+    },
+    {
+      "source": "dushana",
+      "target": "ravana",
+      "type": "ally",
+      "label": "Dushana helped hold Janasthana, Ravana's frontier outpost"
+    },
+    {
+      "source": "sumali",
+      "target": "prahasta",
+      "type": "parent",
+      "label": "Sumali was the father of Prahasta (Uttara Kanda)"
+    },
+    {
+      "source": "prahasta",
+      "target": "kaikesi",
+      "type": "sibling",
+      "label": "Prahasta and Kaikesi were children of Sumali"
+    },
+    {
+      "source": "nila",
+      "target": "prahasta",
+      "type": "slayer",
+      "label": "Nila crushed Prahasta with a great rock"
+    },
+    {
+      "source": "prahasta",
+      "target": "vibhishana",
+      "type": "enemy",
+      "label": "Prahasta clashed with Vibhishana in Ravana's war council"
+    },
+    {
+      "source": "lakshmana",
+      "target": "atikaya",
+      "type": "slayer",
+      "label": "On Vayu's advice Lakshmana killed Atikaya with the Brahmastra"
+    },
+    {
+      "source": "brahma",
+      "target": "atikaya",
+      "type": "boon",
+      "label": "Brahma gave Atikaya impenetrable armour and divine weapons"
+    },
+    {
+      "source": "atikaya",
+      "target": "akshayakumara",
+      "type": "sibling",
+      "label": "Atikaya and Aksha were sons of Ravana"
+    },
+    {
+      "source": "atikaya",
+      "target": "rama",
+      "type": "enemy",
+      "label": "Atikaya rode against Rama's army after Kumbhakarna's fall"
+    },
+    {
+      "source": "hanuman",
+      "target": "akshayakumara",
+      "type": "slayer",
+      "label": "Hanuman dashed Aksha to the ground in the Ashoka grove"
+    },
+    {
+      "source": "sarama",
+      "target": "sita",
+      "type": "ally",
+      "label": "Sarama consoled Sita and exposed Ravana's illusory head of Rama"
+    },
+    {
+      "source": "sarama",
+      "target": "trijata",
+      "type": "ally",
+      "label": "Sarama and Trijata were Sita's two protectors in Lanka"
+    },
+    {
+      "source": "trijata",
+      "target": "sita",
+      "type": "ally",
+      "label": "Trijata protected Sita and foretold Rama's victory in her dream"
+    },
+    {
+      "source": "trijata",
+      "target": "rama",
+      "type": "devotee",
+      "label": "Ramcharitmanas presents Trijata as a devotee of Rama",
+      "disputed": true,
+      "variation": "Valmiki shows her respect for Rama and Sita; devotional framing is later."
+    },
+    {
+      "source": "sumali",
+      "target": "kaikesi",
+      "type": "parent",
+      "label": "Sumali was Kaikesi's father"
+    },
+    {
+      "source": "vishrava",
+      "target": "kaikesi",
+      "type": "spouse",
+      "label": "Kaikesi was Vishrava's rakshasa wife"
+    },
+    {
+      "source": "kaikesi",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Regional legend makes Kaikesi a devout Shiva worshipper",
+      "disputed": true,
+      "variation": "Gokarna Atmalinga legend; not in Valmiki."
+    },
+    {
+      "source": "brahma",
+      "target": "sumali",
+      "type": "boon",
+      "label": "Brahma granted Sumali and his brothers invincibility and brotherly unity"
+    },
+    {
+      "source": "sumali",
+      "target": "vishnu",
+      "type": "enemy",
+      "label": "Vishnu slew Mali and drove Sumali's rakshasas from Lanka into Patala"
+    },
+    {
+      "source": "vishvakarma",
+      "target": "sumali",
+      "type": "ally",
+      "label": "Vishvakarma directed Sumali and his brothers to Lanka, the city he had built on Trikuta"
+    },
+    {
+      "source": "vasus",
+      "target": "sumali",
+      "type": "slayer",
+      "label": "The Vasu Savitra killed Sumali in Ravana's war with the gods"
+    },
+    {
+      "source": "sumali",
+      "target": "ravana",
+      "type": "ally",
+      "label": "Sumali urged his grandson Ravana to reclaim Lanka from Kubera"
+    },
+    {
+      "source": "sumali",
+      "target": "kubera",
+      "type": "enemy",
+      "label": "Sumali schemed to recover Lanka from Kubera"
+    },
+    {
+      "source": "sita",
+      "target": "vedavati",
+      "type": "reincarnation-of",
+      "label": "Uttara Kanda: Vedavati was reborn as Sita to bring about Ravana's death"
+    },
+    {
+      "source": "vedavati",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Vedavati did penance to win Vishnu as her husband"
+    },
+    {
+      "source": "brihaspati",
+      "target": "vedavati",
+      "type": "ancestor-of",
+      "label": "Vedavati was the granddaughter of Brihaspati through the brahmarshi Kushadhvaja"
+    },
+    {
+      "source": "vedavati",
+      "target": "lakshmi",
+      "type": "form-of",
+      "label": "The Devi Bhagavata Purana calls Vedavati a portion of Lakshmi",
+      "disputed": true,
+      "variation": "Devi Bhagavata Purana, Book 9; not in Valmiki."
+    },
+    {
+      "source": "draupadi",
+      "target": "vedavati",
+      "type": "reincarnation-of",
+      "label": "Brahmavaivarta Purana: Vedavati, having served as the illusory Sita, was later reborn as Draupadi",
+      "disputed": true,
+      "variation": "Brahmavaivarta Purana only."
+    }
+  ]
+}

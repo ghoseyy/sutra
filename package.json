@@ -1,0 +1,30 @@
+{
+  "name": "sutra",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sutra: an interactive network atlas of Hindu mythology",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate": "node scripts/validate-data.mjs",
+    "registry": "node scripts/build-registry.mjs",
+    "export-data": "node scripts/export-data.mjs",
+    "i18n:extract": "node scripts/i18n-extract.mjs",
+    "i18n:validate": "node scripts/validate-i18n.mjs"
+  },
+  "dependencies": {
+    "d3-force": "^3.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-force-graph-2d": "^1.25.5",
+    "react-force-graph-3d": "^1.29.1",
+    "three": "^0.186.1",
+    "three-spritetext": "^1.10.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}

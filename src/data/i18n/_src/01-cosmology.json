@@ -1,0 +1,1271 @@
+{
+ "section": "01-cosmology",
+ "nodes": {
+  "brahman": {
+   "name": "Brahman",
+   "aliases": [
+    "Brahma (neuter)",
+    "Tat",
+    "Sat",
+    "Paramatman",
+    "The Absolute",
+    "Tad Ekam"
+   ],
+   "description": "Brahman is the ultimate, unchanging reality underlying the universe in the Upanishads and the Vedanta schools. It is described as being, consciousness and bliss (sat-chit-ananda) and, in the Upanishadic teaching, as identical with the innermost self (atman).",
+   "story": "In the Chandogya Upanishad the sage Uddalaka Aruni finds his son Shvetaketu returning from twelve years of study proud but unable to explain what makes all things known. He asks the boy to drop a lump of salt into water overnight. In the morning the salt cannot be found, yet every sip, from the top, the middle and the bottom, tastes of salt. So too, says Uddalaka, the one subtle essence pervades everything though it cannot be seen; it is the reality, it is the self, and that, Shvetaketu, you are (tat tvam asi). Through nine such lessons, a banyan seed whose invisible core holds the whole tree, rivers that lose their names in the sea, Uddalaka leads his son to recognise Brahman as the unseen ground of his own being.",
+   "symbols": [
+    "Om (pranava)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Chandogya Upanishad 6.8–16",
+    "Brihadaranyaka Upanishad",
+    "Taittiriya Upanishad 2.1",
+    "Mandukya Upanishad",
+    "Brahma Sutras"
+   ],
+   "variations": [
+    "In the Rig Veda and Brahmanas 'brahman' mainly means the sacred formulation or its power; the sense of an absolute reality develops in the Upanishads.",
+    "Advaita Vedanta holds Brahman to be attributeless (nirguna) and the world an appearance; Vishishtadvaita and Dvaita identify Brahman with a personal God, usually Vishnu-Narayana.",
+    "Shaiva traditions identify Brahman with Shiva and Shakta traditions (e.g. the Devi Gita of the Devi Bhagavata) with the Goddess.",
+    "Gaudiya Vaishnavism treats impersonal Brahman as the effulgence of Krishna, with Bhagavan as the fuller aspect."
+   ]
+  },
+  "hiranyagarbha": {
+   "name": "Hiranyagarbha",
+   "aliases": [
+    "The Golden Germ",
+    "The Golden Womb",
+    "Ka"
+   ],
+   "description": "Hiranyagarbha, the 'golden germ' or 'golden womb', is the first-born source of creation praised in Rig Veda 10.121. In later texts the golden cosmic egg floating on the primordial waters becomes the birthplace of Brahma, and in Vedanta Hiranyagarbha denotes the cosmic mind, the subtle totality of all beings.",
+   "story": "Rig Veda 10.121 opens with the Golden Germ arising in the beginning, born as the one lord of all that exists, who fixed earth and heaven in place. Each verse praises his deeds, giving breath and strength, ruling men and beasts, spreading out the mountains, the sea and the directions, and each ends with the haunting refrain: to which god shall we offer our oblation? When the great waters came, bearing the germ and generating fire, from them arose the one life-breath of the gods. Only in the last verse does the poet answer, naming Prajapati as lord of creatures. Centuries later the Manusmriti retells the image: the self-existent one placed a seed in the waters, it became a golden egg bright as the sun, and in it Brahma was born, splitting it after a year into heaven and earth.",
+   "symbols": [
+    "Golden egg (brahmanda)",
+    "Primordial waters"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The primordial waters",
+   "sources": [
+    "Rig Veda 10.121",
+    "Shvetashvatara Upanishad 3.4",
+    "Manusmriti 1.8–13",
+    "Vishnu Purana",
+    "Matsya Purana"
+   ],
+   "variations": [
+    "The final verse of Rig Veda 10.121, naming Prajapati, is often considered a later addition; the refrain's 'ka' ('who?') was later read as a proper name of Prajapati.",
+    "Puranas and the Manusmriti make the golden egg the womb from which Brahma is born; Vedanta uses Hiranyagarbha for the collective subtle body of the universe."
+   ]
+  },
+  "purusha": {
+   "name": "Purusha",
+   "aliases": [
+    "Cosmic Man",
+    "Virat Purusha",
+    "Purusha Narayana",
+    "Sahasrashirsha (Thousand-headed)"
+   ],
+   "description": "Purusha is the cosmic person of the Purusha Sukta (Rig Veda 10.90), whose sacrifice by the gods produced the universe, the Vedas and society. Later traditions read him as the Supreme Self, and Vaishnavas identify him with Narayana-Vishnu.",
+   "story": "The Purusha Sukta describes a being with a thousand heads, a thousand eyes and a thousand feet, who covers the earth on every side and extends ten fingers beyond it. Only a quarter of him is all creatures; three quarters are immortal in heaven. The gods performed a sacrifice with Purusha himself as the offering, spring its butter, summer its fuel, autumn its oblation. From that great sacrifice came the verses, chants and metres, the horses, cattle, goats and sheep. From his mind the moon was born, from his eye the sun, from his mouth Indra and Agni, from his breath the wind; from his navel the atmosphere, from his head the sky, from his feet the earth. The hymn also derives the four social orders from his mouth, arms, thighs and feet.",
+   "symbols": [
+    "Thousand heads, eyes and feet"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Three quarters immortal in heaven",
+   "sources": [
+    "Rig Veda 10.90",
+    "Shatapatha Brahmana 13.6",
+    "Mundaka Upanishad 2.1",
+    "Shvetashvatara Upanishad 3.14",
+    "Bhagavata Purana"
+   ],
+   "variations": [
+    "Scholars generally consider the Purusha Sukta one of the latest hymns of the Rig Veda; its varna verse (10.90.12) is much discussed.",
+    "In Samkhya philosophy purusha means the plural, passive conscious self distinct from matter (prakriti), a different technical sense.",
+    "The Shatapatha Brahmana speaks of Purusha Narayana, and Vaishnava texts such as the Bhagavata identify the cosmic Purusha with Vishnu's first purusha-avatara."
+   ]
+  },
+  "prajapati": {
+   "name": "Prajapati",
+   "aliases": [
+    "Lord of Creatures",
+    "Ka",
+    "Pitamaha"
+   ],
+   "description": "Prajapati, 'lord of creatures', is the creator god who dominates the Brahmanas, where he produces the worlds, gods, asuras and humans through heat (tapas) and sacrifice, and is identified with the year and the sacrifice itself. His role and titles later pass largely to Brahma; the plural prajapatis also denotes Brahma's mind-born progenitor sons.",
+   "story": "In the Chandogya Upanishad Prajapati proclaims that whoever finds the self free from sin, age and death gains all worlds. Indra of the gods and Virochana of the asuras come to him as students and live chastely for thirty-two years. Prajapati tells them to look into a pan of water: the self is what is seen there. Both depart satisfied, adorned and dressed, but Virochana teaches the asuras that the body is the self. Indra, troubled that such a self would suffer when the body suffers, returns. Prajapati gives him further teachings, the self of dreams, then of deep sleep, and each time Indra finds a flaw and returns, until after one hundred and one years in all Prajapati reveals the self that dwells in the body yet is bodiless and immortal.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Rig Veda 10.121.10",
+    "Shatapatha Brahmana",
+    "Aitareya Brahmana 3.33",
+    "Kathaka Samhita 12.5",
+    "Chandogya Upanishad 8.7–12",
+    "Brihadaranyaka Upanishad 5.2"
+   ],
+   "variations": [
+    "In the Rig Veda Prajapati is rare and appears mainly in late hymns; he becomes the supreme creator only in the later Vedic literature.",
+    "In the Epics and Puranas the name is a title of Brahma, and the plural refers to progenitors such as Daksha, Kashyapa and the mind-born sons of Brahma.",
+    "The Brihadaranyaka's 'Da Da Da' teaching (5.2) has Prajapati instructing gods, humans and asuras with a single syllable understood three ways."
+   ]
+  },
+  "creation-nasadiya": {
+   "name": "Nasadiya Sukta — Hymn of Creation",
+   "aliases": [
+    "Hymn of Creation",
+    "Rig Veda 10.129"
+   ],
+   "description": "The Nasadiya Sukta (Rig Veda 10.129) is a philosophical hymn on the origin of the universe, famous for ending in open questions rather than a creator's decree. It speaks of a primordial 'That One' (tad ekam) arising through heat and desire before the gods themselves.",
+   "story": "Then there was neither non-existence nor existence, the hymn begins; neither the air nor the sky beyond it. What covered everything, and where, in whose keeping? Was there water, deep and unfathomable? There was neither death nor immortality, no sign dividing night from day. That One breathed, without wind, by its own impulse; other than that there was nothing. Darkness was hidden by darkness, all was undistinguished water, and That One was born through the power of heat (tapas). In the beginning desire arose, the first seed of mind, and sages searching their hearts found the bond of the existent in the non-existent. But who truly knows, the poet asks, whence this creation came? The gods came afterwards. Perhaps the one who oversees it in the highest heaven knows, or perhaps he does not know.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Rig Veda 10.129"
+   ],
+   "variations": [
+    "Vedantic commentators read 'That One' as Brahman; others see links to Prajapati or Hiranyagarbha, but the hymn itself names no deity.",
+    "The 'desire' (kama) of verse 4 is cosmic desire, later personified as the god Kamadeva."
+   ]
+  },
+  "svayambhuva-manu": {
+   "name": "Svayambhuva Manu",
+   "aliases": [
+    "Svayambhuva",
+    "The First Manu",
+    "Adi Manu"
+   ],
+   "description": "Svayambhuva Manu, 'Manu of the Self-born', is the first of the fourteen Manus and progenitor of humankind in the first manvantara. Born from Brahma together with his consort Shatarupa, he fathered Priyavrata, Uttanapada, Akuti, Devahuti and Prasuti, and the Manusmriti is attributed to him.",
+   "story": "The Bhagavata Purana tells that when Brahma had brought forth Svayambhuva Manu and Shatarupa, the new couple bowed and asked their father how they might serve him. Brahma told them to beget children and rule the earth with righteousness. But Manu pointed to a problem: the earth, the home of all beings, lay sunk beneath the waters of the cosmic ocean, so where could his children live? As Brahma pondered, a tiny boar the size of a thumb emerged from his nostril and in moments swelled to the size of an elephant, then a mountain. Roaring, it dived into the waters and raised the earth on its tusks. With the ground restored, Manu ruled from his capital Barhishmati, and his sons and daughters peopled the world.",
+   "symbols": [
+    "Sceptre of kingship",
+    "Law code (Manusmriti)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Barhishmati (Brahmavarta)",
+   "sources": [
+    "Manusmriti 1",
+    "Mahabharata",
+    "Vishnu Purana 1.7",
+    "Bhagavata Purana, Cantos 3–4",
+    "Matsya Purana"
+   ],
+   "variations": [
+    "Vishnu Purana 1.7 has Brahma divide his own body into the male Manu and the female Shatarupa; the Matsya Purana makes Manu the son of Brahma and Shatarupa.",
+    "The Manusmriti presents itself as Manu's teaching recited by Bhrigu; modern scholarship dates it to around the turn of the Common Era."
+   ]
+  },
+  "shatarupa": {
+   "name": "Shatarupa",
+   "aliases": [
+    "She of a Hundred Forms",
+    "Savitri",
+    "Ananti"
+   ],
+   "description": "Shatarupa, 'she of a hundred forms', is the first woman in Puranic cosmogony and the consort of Svayambhuva Manu. Their children included the kings Priyavrata and Uttanapada and the daughters Akuti, Devahuti and Prasuti, through whom much of creation descends.",
+   "story": "The Matsya Purana tells that Brahma produced from his own body a woman of dazzling beauty, known as Shatarupa, Savitri and Saraswati. Captivated, he could not stop gazing at her. As she respectfully circled him, a new face sprang up to the right, behind and to the left so that he never lost sight of her, and when she rose into the sky a fifth face appeared above. His mind-born sons were dismayed at their father's infatuation. In this telling Brahma took her as his consort, and after a hundred years their son Svayambhuva Manu was born. Other Puranas instead describe Brahma dividing himself into Manu and Shatarupa as the first couple, whose daughters became the mothers of the sages' lineages and of Daksha's many children.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Barhishmati",
+   "sources": [
+    "Vishnu Purana 1.7",
+    "Matsya Purana 3–4",
+    "Bhagavata Purana, Canto 3"
+   ],
+   "variations": [
+    "In the Vishnu and Bhagavata Puranas Shatarupa is Manu's wife, born with him from Brahma; in the Matsya Purana she is Brahma's own consort and Manu's mother.",
+    "The Matsya Purana identifies her with Savitri, Gayatri and Saraswati; the story of Brahma's fifth head is linked in other texts to Shiva severing it."
+   ]
+  },
+  "vaivasvata-manu": {
+   "name": "Vaivasvata Manu",
+   "aliases": [
+    "Manu",
+    "Shraddhadeva",
+    "Satyavrata",
+    "Manu Vivasvata"
+   ],
+   "description": "Vaivasvata Manu, son of the sun god Vivasvat (Surya), is the seventh Manu and progenitor of the present age of humanity. Saved from the great flood by the fish Matsya, he became father of Ikshvaku, founder of the Solar dynasty, and of Ila, from whom the Lunar dynasty descends.",
+   "story": "The Shatapatha Brahmana tells that after the waters of the flood subsided, Manu found himself alone on the northern mountain, the last of the living. Longing for offspring, he worshipped and performed austerities, and poured into the waters an offering of clarified butter, sour milk, whey and curds. After a year a woman arose from it, walking with butter gathering in her footprints. Mitra and Varuna asked who she was, and she answered that she was Manu's daughter. Manu too asked, and she said: I am the blessing you offered; use me in the sacrifice and you will be rich in offspring and cattle. She was Ida, the sacred offering itself, and through her Manu generated this race of men, which is therefore called the race of Manu.",
+   "symbols": [
+    "Boat",
+    "Sacrificial ladle"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Ayodhya",
+   "sources": [
+    "Rig Veda",
+    "Shatapatha Brahmana 1.8.1",
+    "Mahabharata 3.185",
+    "Matsya Purana 1–2",
+    "Vishnu Purana 3.1, 4.1–2",
+    "Bhagavata Purana 8.24, 9.1",
+    "Valmiki Ramayana, Bala Kanda"
+   ],
+   "variations": [
+    "The Bhagavata Purana calls him Satyavrata, a king of Dravida who became Vaivasvata Manu after the flood.",
+    "Yaska's Nirukta makes Manu the son of Vivasvat by the substitute wife (Savarna, later Chhaya); the Puranas make him Sanjna's son and assign Chhaya's son as Savarni Manu.",
+    "Ila is variously born from his offering (Shatapatha), from a sacrifice whose priest erred so that a daughter was born instead of a son (Bhagavata 9.1), or, in the Ramayana, as a son of Kardama transformed into a woman.",
+    "Ikshvaku is said in the Vishnu Purana to have been born from Manu's nostril as he sneezed."
+   ]
+  },
+  "great-flood": {
+   "name": "The Great Flood (Manu and the Fish)",
+   "aliases": [
+    "Pralaya",
+    "Matsya and Manu",
+    "The Deluge"
+   ],
+   "description": "The flood legend tells how a small fish rescued by Manu warned him of a coming deluge and towed his boat to safety, so that life could begin again. First recorded in the Shatapatha Brahmana, it grows in the Mahabharata and the Puranas into the story of Matsya, the first avatar of Vishnu.",
+   "story": "In the Bhagavata Purana, King Satyavrata was offering water to his ancestors in the Kritamala river when a tiny fish appeared in his cupped hands and begged not to be thrown back among bigger fish. He carried it home in his water-pot, but overnight it outgrew the pot, then a pond, then a lake, until he released it into the ocean. Realising that no ordinary creature could grow so, the king recognised Vishnu. The fish foretold that in seven days the worlds would sink beneath the waters of dissolution; a boat would come, and he must board it with the seven sages, all plants and seeds. When the flood rose, a great horned fish appeared; Satyavrata tied the boat to its horn with the serpent Vasuki, and as they sailed Matsya taught him the highest truth. He became Vaivasvata Manu.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Shatapatha Brahmana 1.8.1",
+    "Mahabharata 3.185 (Matsya Upakhyana)",
+    "Matsya Purana 1–2",
+    "Bhagavata Purana 8.24",
+    "Agni Purana 2"
+   ],
+   "variations": [
+    "In the Shatapatha Brahmana the fish is unnamed, Manu alone survives, and the ship comes to rest on the northern mountain, called Manu's Descent.",
+    "In the Mahabharata the fish reveals itself as Brahma Prajapati, Manu takes the seven sages and seeds aboard, and the boat is moored to a Himalayan peak called Naubandhana.",
+    "In the Matsya and Bhagavata Puranas the fish is Vishnu; the Bhagavata adds the rope-serpent Vasuki and Matsya's slaying of the asura Hayagriva who stole the Vedas.",
+    "Comparative mythologists note parallels with Mesopotamian and biblical flood stories; the relationship between them is debated."
+   ]
+  },
+  "saptarishi": {
+   "name": "Saptarishi (Seven Sages)",
+   "aliases": [
+    "Seven Rishis",
+    "Saptarshi",
+    "Saptarshi-mandala",
+    "Ursa Major"
+   ],
+   "description": "The Saptarishi are the seven great seers who preside over each cosmic age and are identified with the seven stars of the Great Bear (Ursa Major). The Rig Veda already speaks of 'the seven rishis', but the names differ between the Vedic list and the Puranic list of Brahma's mind-born sons.",
+   "story": "The Mahabharata tells that when the Seven Sages performed a sacrifice, Agni rose from the fire and was overcome with longing for their wives. Knowing his love was improper, he withdrew to the forest in despair. Svaha, a daughter of Daksha who loved Agni, took on the forms of the sages' wives one by one, visiting him as each in turn. She could assume six of their forms, but not that of Arundhati, the wife of Vashistha, so great was her devotion to her husband. Each time Svaha carried Agni's seed to a golden pot on the White Mountain, where the child Skanda was born. Rumours spread that the sages' wives had been unfaithful, and six sages parted from their wives, who became the Krittikas (Pleiades); Arundhati alone remained with Vashistha in the sky.",
+   "symbols": [
+    "Seven stars of the Great Bear",
+    "Arundhati (Alcor) beside Vashistha (Mizar)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Saptarishi-mandala (Ursa Major)",
+   "sources": [
+    "Rig Veda 10.109.4",
+    "Shatapatha Brahmana 14.5.2.6",
+    "Brihadaranyaka Upanishad 2.2.4",
+    "Mahabharata, Vana Parva 213–215",
+    "Vishnu Purana 3.1"
+   ],
+   "variations": [
+    "The Brihadaranyaka Upanishad and Shatapatha Brahmana list Gotama, Bharadvaja, Vishvamitra, Jamadagni, Vashistha, Kashyapa and Atri.",
+    "The Mahabharata and Puranas give Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu and Vashistha, the mind-born sons of Brahma.",
+    "The Puranas assign a different set of seven sages to each manvantara; the Puranic list above belongs to the first (Svayambhuva) manvantara, while the present (Vaivasvata) age is usually given as Kashyapa, Atri, Vashistha, Vishvamitra, Gautama, Jamadagni and Bharadvaja.",
+    "In some tellings of the Krittika story Arundhati is suspected too, or the number of wives who become the Pleiades differs."
+   ]
+  },
+  "adityas": {
+   "name": "Adityas",
+   "aliases": [
+    "Sons of Aditi",
+    "Aditeya",
+    "Dvadasha Aditya"
+   ],
+   "description": "The Adityas are the sons of the goddess Aditi, a group of sovereign gods who uphold cosmic order (rita), led by Varuna and Mitra. The Rig Veda counts six to eight of them, while later texts fix the number at twelve and link them with the months and the sun.",
+   "story": "Rig Veda 10.72 tells that eight sons were born from Aditi's body. With seven she went to the gods, but the eighth, Martanda, she cast away, for he was born misshapen, a lifeless 'dead egg'. The Shatapatha Brahmana continues that the brothers shaped him into proper form, and from the flesh they cut away the elephant arose; he became Vivasvat, the sun, from whom humankind descends. So, says the hymn, Aditi brought Martanda back for the sake of birth and death, for mortals and their fate. The Adityas themselves, Mitra, Varuna, Aryaman, Bhaga, Daksha and Amsha in one early list, are praised as far-seeing guardians who hate deceit and bind the wicked, keepers of the moral order of the world.",
+   "symbols": [
+    "Sun",
+    "Golden radiance"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Svarga (heaven)",
+   "sources": [
+    "Rig Veda 2.27",
+    "Rig Veda 10.72",
+    "Shatapatha Brahmana",
+    "Brihadaranyaka Upanishad 3.9.5",
+    "Mahabharata, Adi Parva",
+    "Vishnu Purana 1.15",
+    "Bhagavata Purana 6.6"
+   ],
+   "variations": [
+    "Rig Veda 2.27 names six: Mitra, Aryaman, Bhaga, Varuna, Daksha and Amsha; RV 9.114 speaks of seven and RV 10.72 of eight including Martanda.",
+    "The Brahmanas and Upanishads count twelve, equated with the months (Brihadaranyaka 3.9.5).",
+    "Epic and Puranic lists of twelve vary, typically Dhatri, Mitra, Aryaman, Indra (Shakra), Varuna, Amsha, Bhaga, Vivasvat, Pushan, Savitr, Tvashtr and Vishnu (Vamana/Urukrama) as the youngest.",
+    "Together with the eight Vasus, eleven Rudras and two others (Indra and Prajapati, or the Ashvins) they make up the thirty-three gods."
+   ]
+  },
+  "vasus": {
+   "name": "Vasus",
+   "aliases": [
+    "Ashta Vasu",
+    "The Eight Vasus",
+    "The Good Ones"
+   ],
+   "description": "The Vasus, 'the good' or 'bright ones', are a class of eight elemental gods attendant on Indra (or Agni), representing aspects of nature such as fire, earth, wind and the heavens. In the Mahabharata they are cursed by Vashistha and born as sons of Ganga, the eighth becoming Bhishma.",
+   "story": "The Mahabharata tells that the eight Vasus once wandered with their wives near the hermitage of the sage Vashistha. The wife of Dyu saw the sage's wish-fulfilling cow Nandini and begged her husband to steal it for a human friend. Urged on by his brothers, Dyu took the cow. Vashistha, finding Nandini gone, cursed the Vasus to be born as mortals. They pleaded for mercy, and he softened the curse: seven would be freed within a year of their birth, but Dyu, who had committed the theft, would live long on earth, virtuous but childless. The Vasus asked the river goddess Ganga to be their mother. Married to King Shantanu, she drowned seven infants at birth to release them, until Shantanu stopped her with the eighth, who grew up to be Bhishma.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Svarga (heaven)",
+   "sources": [
+    "Rig Veda",
+    "Shatapatha Brahmana",
+    "Brihadaranyaka Upanishad 3.9.3",
+    "Mahabharata, Adi Parva",
+    "Vishnu Purana 1.15"
+   ],
+   "variations": [
+    "The Brihadaranyaka Upanishad lists them as fire (Agni), earth (Prithivi), wind (Vayu), atmosphere, sun (Aditya), sky (Dyaus), moon (Chandramas) and stars.",
+    "The Mahabharata lists Dhara, Dhruva, Soma, Aha, Anila, Anala, Pratyusha and Prabhasa, sons of Dharma and Vasu, a daughter of Daksha.",
+    "The thieving Vasu reborn as Bhishma is named Dyu (Dyaus) in the Adi Parva account and Prabhasa in other versions."
+   ]
+  },
+  "rudras-group": {
+   "name": "Ekadasha Rudras",
+   "aliases": [
+    "The Eleven Rudras",
+    "Rudras",
+    "Rudragana"
+   ],
+   "description": "The Rudras are a group of storm and life-breath deities associated with the god Rudra. In the Rig Veda the plural 'Rudras' usually refers to the Maruts, Rudra's sons; later Vedic texts fix them at eleven, and the Puranas treat the Eleven Rudras as forms of Shiva.",
+   "story": "In the Brihadaranyaka Upanishad, at the court of King Janaka, the learned Vidagdha Shakalya presses the sage Yajnavalkya with question after question about the number of the gods. Thirty-three, says Yajnavalkya: eight Vasus, eleven Rudras, twelve Adityas, Indra and Prajapati. And which are the Rudras? The ten vital breaths in a person, answers the sage, with the self as the eleventh. When they depart from this mortal body, they make people weep; and because they cause weeping (from rud, to cry), they are called Rudras. The Vishnu Purana tells another origin: at the beginning of creation a being half male and half female, blazing like the sun, sprang from Brahma's anger, and at his command divided itself into the eleven Rudras.",
+   "symbols": [
+    "Trident",
+    "Matted hair",
+    "Third eye"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kailasa (in Shaiva tradition)",
+   "sources": [
+    "Rig Veda",
+    "Shatapatha Brahmana",
+    "Brihadaranyaka Upanishad 3.9.4",
+    "Mahabharata",
+    "Vishnu Purana 1.7–8",
+    "Matsya Purana"
+   ],
+   "variations": [
+    "In the Rig Veda 'the Rudras' are generally the Maruts, sons of Rudra, rather than a fixed group of eleven.",
+    "Name lists of the eleven vary widely between the Mahabharata and the Puranas; recurring names include Aja Ekapad, Ahirbudhnya, Hara, Tryambaka, Kapalin and Pinakin.",
+    "Their parentage varies: emanations of Brahma's anger, sons of Kashyapa and Surabhi, or forms of Shiva; popular tradition regards Hanuman as the eleventh Rudra."
+   ]
+  },
+  "maruts": {
+   "name": "Maruts",
+   "aliases": [
+    "Marudgana",
+    "Rudras (Vedic)",
+    "Prishnimatarah",
+    "The Forty-nine Winds"
+   ],
+   "description": "The Maruts are a troop of young, boisterous storm gods, sons of Rudra and the dappled cow Prishni in the Rig Veda, who ride golden chariots with lightning and accompany Indra in his battle with Vritra. The Puranas make them the forty-nine sons of Diti, divided in the womb by Indra.",
+   "story": "The Ramayana and the Puranas tell that Diti, grieving for her sons slain by the gods, asked her husband Kashyapa for a son who would kill Indra. He granted it on condition that she keep a strict vow of purity for a thousand years. Indra came to serve her with seeming devotion, bringing fuel, water and fruit, while watching for a lapse. Near the end, Diti fell asleep with her head where her feet should have been and her hair unbound. Indra seized the moment, entered her womb and cut the embryo into seven pieces, and each piece into seven more. When the unborn children cried, he told them, do not weep (ma ruda). Diti awoke and, seeing the outcome, asked that the forty-nine become Indra's companions, the Maruts of the winds.",
+   "symbols": [
+    "Golden helmets and ornaments",
+    "Lightning",
+    "Spotted deer"
+   ],
+   "weapons": [
+    "Spears (rishti)",
+    "Axes (vashi)",
+    "Bows and arrows",
+    "Lightning"
+   ],
+   "vahana": "Chariots drawn by spotted deer (prishati)",
+   "abode": "Antariksha (the atmosphere)",
+   "sources": [
+    "Rig Veda 1.85",
+    "Rig Veda 1.165–171",
+    "Valmiki Ramayana, Bala Kanda 46–47",
+    "Vishnu Purana 1.21",
+    "Bhagavata Purana 6.18"
+   ],
+   "variations": [
+    "In the Rig Veda they are sons of Rudra and Prishni, their number varying between hymns; the Ramayana and Puranas make them 49 sons of Diti and Kashyapa.",
+    "The Ramayana has Diti keep her vow for a thousand years; the Bhagavata Purana describes a one-year vow (pumsavana vrata).",
+    "Some Rig Vedic hymns (the Agastya cycle, 1.165–171) record tension between the Maruts and Indra before their reconciliation."
+   ]
+  },
+  "aditi": {
+   "name": "Aditi",
+   "aliases": [
+    "Devamata (Mother of the Gods)",
+    "The Boundless",
+    "Mother of the Adityas"
+   ],
+   "description": "Aditi, 'the boundless' or 'unbound', is the Vedic mother of the gods, especially of the Adityas, and a personification of limitless space, freedom from guilt and the nourishing earth-cow. In the Puranas she is a daughter of Daksha and wife of the sage Kashyapa, mother of Indra and of Vishnu in his Vamana avatar.",
+   "story": "The Bhagavata Purana tells that when the asura king Bali drove the gods from heaven, Aditi grieved for her exiled sons. Her husband Kashyapa taught her the payovrata, a twelve-day vow of worship to Vishnu sustained on milk alone. Aditi kept it with perfect devotion, and at its end Vishnu appeared before her, four-armed and radiant. Moved by her love, he promised that he himself would be born as her son to restore her children. In due time he was born to Aditi and Kashyapa, and at once took the form of a small, bright-faced brahmin boy, Vamana. Going to Bali's sacrifice, the dwarf asked for three paces of land, and with three strides reclaimed the worlds, returning heaven to Indra, Aditi's eldest.",
+   "symbols": [
+    "Cow",
+    "Sky"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Svarga (heaven)",
+   "sources": [
+    "Rig Veda 1.89.10",
+    "Rig Veda 10.72",
+    "Shatapatha Brahmana",
+    "Vishnu Purana 1.15",
+    "Bhagavata Purana 8.16–17",
+    "Harivamsha"
+   ],
+   "variations": [
+    "Rig Veda 10.72 contains the paradox that Daksha was born from Aditi and Aditi from Daksha.",
+    "Puranic genealogies make her one of the daughters of Daksha (by Asikni or by Prasuti, depending on the text) married to Kashyapa.",
+    "The Harivamsha and Bhagavata make Devaki a rebirth of Aditi, so that Krishna's birth repeats Vamana's."
+   ]
+  },
+  "diti": {
+   "name": "Diti",
+   "aliases": [
+    "Mother of the Daityas"
+   ],
+   "description": "Diti is a daughter of Daksha and wife of Kashyapa, and the mother of the Daityas, the asura line that includes Hiranyakashipu and Hiranyaksha. In the Rig Veda she appears only briefly, often paired with Aditi, and in the Puranas she is also the mother of the Maruts.",
+   "story": "The Bhagavata Purana tells that one evening, at the hour of twilight when Shiva and his spirit-hosts roam abroad, Diti approached her husband Kashyapa, overcome with desire for a son. Kashyapa begged her to wait, for the hour was inauspicious, but she would not be refused, and he yielded. Afterwards Diti was stricken with remorse and feared what she had done. Kashyapa foretold that she would bear two mighty sons who would torment the three worlds until Vishnu himself descended to slay them; yet, he consoled her, one of her grandsons would be a great devotee of the Lord. For a hundred years Diti held back the birth, and the darkness of the unborn twins spread through the worlds. They were born as Hiranyakashipu and Hiranyaksha, and her grandson was Prahlada.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Rig Veda",
+    "Mahabharata, Adi Parva",
+    "Valmiki Ramayana, Bala Kanda 46",
+    "Vishnu Purana 1.21",
+    "Bhagavata Purana 3.14–17"
+   ],
+   "variations": [
+    "In the Rig Veda Diti is a shadowy figure mentioned a few times alongside Aditi; her role as mother of the Daityas is post-Vedic.",
+    "The Bhagavata identifies her twin sons as rebirths of Jaya and Vijaya, Vishnu's gatekeepers cursed by the Kumaras."
+   ]
+  },
+  "danu": {
+   "name": "Danu",
+   "aliases": [
+    "Mother of the Danavas"
+   ],
+   "description": "Danu is the mother of the Danavas. In the Rig Veda she is the mother of the serpent-demon Vritra and is struck down by Indra together with her son; in the Epics and Puranas she is a daughter of Daksha and a wife of Kashyapa, mother of many Danava lords.",
+   "story": "The great Indra hymn of the Rig Veda (1.32) describes the climax of Indra's battle with Vritra, the serpent who had penned up the waters. When Indra's vajra shattered Vritra, the demon's mother Danu bent low over her son to shield him. Indra hurled his weapon at her too. The mother lay above and the son below, says the poet, and Danu lay like a cow beside her calf. Vritra's body sank into the midst of the endless, restless waters, and the released rivers flowed over it towards the sea. In later genealogies Danu, daughter of Daksha and wife of Kashyapa, became the mother of the Danava clans, including Namuchi, Shambara and Puloman, perennial rivals of the gods who were also their half-brothers.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Rig Veda 1.32.9",
+    "Mahabharata, Adi Parva",
+    "Vishnu Purana 1.21",
+    "Bhagavata Purana 6.6"
+   ],
+   "variations": [
+    "In the Rig Veda she is Vritra's mother; in later texts Vritra is usually the son of Tvashtr, created to avenge Vishvarupa.",
+    "Puranic lists of her sons differ considerably in names and number."
+   ]
+  },
+  "prithvi": {
+   "name": "Prithvi (Bhudevi)",
+   "aliases": [
+    "Bhumi",
+    "Bhudevi",
+    "Dharti",
+    "Vasundhara",
+    "Mahi",
+    "Prithivi",
+    "Bhu"
+   ],
+   "description": "Prithvi, 'the broad one', is the Earth goddess. In the Rig Veda she is paired with Dyaus (Heaven) as the primal parents, and the Atharva Veda's Bhumi Sukta praises her as mother of all; in the Puranas she is Bhudevi, consort of Vishnu in his Varaha form and one of his two principal consorts beside Shri.",
+   "story": "The Vishnu and Bhagavata Puranas tell that under the wicked king Vena the earth withheld her bounty, and when Prithu was crowned, his people were starving. Taking up his bow in anger, Prithu pursued the Earth, who fled from him in the form of a cow through all the worlds. Finding no refuge, she turned and pleaded: to kill a female was a sin, and if she perished, where would his subjects live? Prithu relented, and she offered to yield all nourishment if he would provide a calf and level the land so the rains could settle. With Svayambhuva Manu as the calf, Prithu milked her of every grain and plant; then gods, sages, serpents and others milked her in turn. Because he spared her as a father would, the Earth became known as Prithvi.",
+   "symbols": [
+    "Cow",
+    "Pot of grains",
+    "Lotus",
+    "Blue lotus (as Bhudevi)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Bhuloka (the earth)",
+   "sources": [
+    "Rig Veda 1.160",
+    "Rig Veda 1.185",
+    "Rig Veda 5.84",
+    "Atharva Veda 12.1 (Bhumi Sukta)",
+    "Vishnu Purana 1.4, 1.13",
+    "Bhagavata Purana 3.13, 4.17–18",
+    "Valmiki Ramayana"
+   ],
+   "variations": [
+    "In the Vedas she is mainly a cosmic mother paired with Dyaus; as Bhudevi she becomes a consort of Vishnu, especially of Varaha, and in Sri Vaishnavism appears beside Shri with Vishnu.",
+    "Narakasura is her son by Varaha in the Bhagavata and Kalika Puranas; in some regional traditions Satyabhama, who helps defeat him, is Bhudevi's incarnation.",
+    "Mangala (Mars) is her son in most accounts, though the Skanda and other texts give him an origin from Shiva's sweat falling on the earth.",
+    "The Tamil saint Andal is revered in Sri Vaishnavism as an incarnation of Bhudevi."
+   ]
+  },
+  "dyaus": {
+   "name": "Dyaus Pita",
+   "aliases": [
+    "Dyaus",
+    "Dyauspitr",
+    "Father Heaven",
+    "Dyu"
+   ],
+   "description": "Dyaus Pita, 'Father Heaven', is the Rig Vedic sky god, paired with Prithvi (Earth) as the primordial parents of the gods, and father of Ushas and other deities. He is the linguistic cousin of the Greek Zeus and Latin Jupiter, but in India his cult faded early, surviving mainly as one of the Vasus.",
+   "story": "The Rig Veda addresses Heaven and Earth together as a dual deity, Dyavaprithivi, the two broad, unfailing parents who hold all creatures between them like a vast bowl. In the hymns (1.159, 1.160, 1.185) the poets ask which of the two was born first, and how; none can say. Heaven the father and Earth the mother, ever young, rich in milk and seed, are called upon to guard the worshipper from distress, as parents guard a child on their lap. Dyaus himself is the bull who bellows in thunder, the father who begot Indra, and his daughter is the radiant Dawn. In the Mahabharata he reappears as Dyu, one of the eight Vasus, whose theft of the sage Vashistha's cow led to his birth on earth as Bhishma.",
+   "symbols": [
+    "Bull",
+    "The sky"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Dyuloka (the sky)",
+   "sources": [
+    "Rig Veda 1.159",
+    "Rig Veda 1.160",
+    "Rig Veda 1.185",
+    "Rig Veda 4.17.4",
+    "Brihadaranyaka Upanishad 3.9.3",
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": [
+    "The Rig Veda calls him father of Indra (4.17.4), of Ushas and of the Ashvins ('grandsons/offspring of Dyaus'); later genealogies assign these gods to Kashyapa and Aditi or to Surya.",
+    "Some Vedic passages make Dyaus female or grammatically feminine; the pairing with Earth is his most stable role.",
+    "Scholars link the name to Proto-Indo-European *Dyeus ph2ter, cognate with Zeus Pater and Jupiter."
+   ]
+  },
+  "prishni": {
+   "name": "Prishni",
+   "aliases": [
+    "The Dappled One",
+    "Mother of the Maruts"
+   ],
+   "description": "Prishni, 'the dappled' or 'speckled one', is the Rig Vedic mother of the Maruts, usually imagined as a dappled cow and interpreted as the storm cloud or the earth. The Maruts are called prishni-matarah, 'those whose mother is Prishni', and Rudra is their father.",
+   "story": "The Rig Veda sings of the Maruts as the sons of Rudra born from the udder of Prishni, the dappled cow. Their mother bore them for great battle, the poets say, and the young storm gods leapt forth in splendour, with golden ornaments on their breasts and spears on their shoulders. Harnessing spotted deer to their chariots, they roar across the sky, shaking the mountains and bending the forests, pouring rain from the udder of heaven. Prishni's milk, like the rain, nourishes the world, and some hymns link it to the soma drink itself. Later texts reuse her name for a different figure: in the Bhagavata Purana, Prishni is the wife of Prajapati Sutapas who, after long austerity, received Vishnu as her son and was later reborn as Aditi and then as Devaki.",
+   "symbols": [
+    "Dappled cow",
+    "Storm cloud"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Rig Veda",
+    "Bhagavata Purana 10.3"
+   ],
+   "variations": [
+    "Scholars variously interpret Prishni as the storm cloud, the starry night sky or the earth.",
+    "The Prishni of the Bhagavata Purana (a past life of Devaki, mother of Prishnigarbha) is a namesake rather than the Vedic mother of the Maruts."
+   ]
+  },
+  "vak": {
+   "name": "Vak",
+   "aliases": [
+    "Vach",
+    "Vag Devi",
+    "Vak Ambhrini",
+    "Speech"
+   ],
+   "description": "Vak is the goddess of speech, the sacred word through which the gods act and the cosmos is ordered. In Rig Veda 10.125 she speaks in her own voice as the queen who sustains all the gods; in the Brahmanas she is Prajapati's partner in creation and is identified with Saraswati.",
+   "story": "In Rig Veda 10.125, the hymn attributed to the seer Vak, daughter of Ambhrina, the goddess herself speaks. I move with the Rudras and the Vasus, she declares, with the Adityas and all the gods; I support Mitra and Varuna, Indra and Agni, and the two Ashvins. I am the queen, the gatherer of treasures, the first of those worthy of worship. The gods have set me in many places. Through me alone one eats, sees, breathes and hears; whom I love I make mighty, a sage or a seer. I bend the bow for Rudra so that his arrow strikes the hater of the sacred word. My birthplace is in the waters, in the ocean, and I blow forth like the wind, reaching beyond heaven and beyond this earth, so vast have I become.",
+   "symbols": [
+    "Sacred word",
+    "Lute (as Saraswati, later)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The waters, the ocean (Rig Veda 10.125)",
+   "sources": [
+    "Rig Veda 10.125",
+    "Rig Veda 10.71",
+    "Kathaka Samhita 12.5",
+    "Shatapatha Brahmana",
+    "Brihadaranyaka Upanishad"
+   ],
+   "variations": [
+    "The Brahmanas identify Vak with Saraswati (e.g. 'Vak is Saraswati'), and later tradition merges the two.",
+    "Rig Veda 10.125 is recited in Shakta worship as the Devi Sukta, read as the self-proclamation of the supreme Goddess.",
+    "Some Brahmana passages describe Prajapati creating together with Vak, others describe Vak as his daughter."
+   ]
+  },
+  "ratri": {
+   "name": "Ratri",
+   "aliases": [
+    "Night",
+    "Ratri Devi"
+   ],
+   "description": "Ratri is the Vedic goddess of night, sister of Ushas (Dawn), who adorns the dark with stars and gives rest and protection to living beings. The Ratri Sukta (Rig Veda 10.127) is her main hymn, and later Shakta tradition links her with the Goddess as Kalaratri and Mahamaya.",
+   "story": "In Rig Veda 10.127 the goddess Night draws near and looks about with many eyes, the stars, putting on all her glories. Immortal, she fills the wide space, the depths and the heights, and drives away darkness with her light. Coming, she makes room for her sister Dawn, and darkness too will pass. At her approach the villages settle to rest, and so do all who walk, all who fly and even the swift falcons. The poet asks her to ward off the she-wolf and the wolf, to keep away the thief, and to be easy to pass through. A Yajur Veda legend adds that when Yama died, his sister Yami could not stop grieving, for there was only day; so the gods created night, and with the coming of tomorrow she began to forget.",
+   "symbols": [
+    "Stars",
+    "Darkness adorned with light"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Rig Veda 10.127",
+    "Ratri Sukta (Rig Veda Khila)",
+    "Maitrayani Samhita 1.5.12",
+    "Devi Mahatmya (Markandeya Purana)"
+   ],
+   "variations": [
+    "The Rig Veda presents Night as benign and protective; later tradition also knows a fearsome aspect, Kalaratri.",
+    "In Shakta usage the Ratri Sukta is recited before the Devi Mahatmya, where the Goddess is praised as Yoganidra, Kalaratri and Mahamaya."
+   ]
+  },
+  "ushas": {
+   "name": "Ushas",
+   "aliases": [
+    "Usha",
+    "Dawn",
+    "Divo Duhitar (Daughter of Heaven)",
+    "Ahana"
+   ],
+   "description": "Ushas is the goddess of dawn, the most celebrated goddess of the Rig Veda, praised in some twenty hymns as the radiant daughter of Heaven who awakens all beings and opens the way for the sun. Ever young herself, she reminds mortals of the passing of their days.",
+   "story": "The Rig Veda pictures Dawn arriving each morning in a shining chariot drawn by ruddy horses or cows, clothed in light like a dancer or a bride who displays her beauty. She drives away her sister Night, rouses every creature to its work, and uncovers the treasures that darkness hid. She is the same each day, yet by her coming she wears away the lives of men, so the poets pray to her for long life and wealth. One hymn (4.30) tells a darker tale: Indra struck Dawn's cart with his vajra, and the daughter of Heaven fled in terror, her shattered chariot lying by the river Vipash. In the Rig Veda's great Ushas hymns (1.113, 1.123) she is also the sister of Bhaga and the kin of Varuna.",
+   "symbols": [
+    "Chariot of light",
+    "Red cows",
+    "Rosy radiance"
+   ],
+   "weapons": [],
+   "vahana": "Chariot drawn by ruddy horses or cows",
+   "abode": "The eastern sky",
+   "sources": [
+    "Rig Veda 1.113",
+    "Rig Veda 1.123",
+    "Rig Veda 4.30",
+    "Aitareya Brahmana 3.33"
+   ],
+   "variations": [
+    "Several hymns describe the Sun following Dawn as a lover or husband, while others make her the mother who bears the Sun and Agni.",
+    "The Aitareya Brahmana's story of Prajapati and his daughter identifies the daughter as either the sky or Ushas.",
+    "She is cognate with the Greek Eos and Latin Aurora; her worship faded after the Vedic period."
+   ]
+  },
+  "ashvins": {
+   "name": "Ashvins",
+   "aliases": [
+    "Ashvini Kumaras",
+    "Nasatyas",
+    "Dasras",
+    "Divine Physicians"
+   ],
+   "description": "The Ashvins are twin horsemen gods of the morning, divine physicians and rescuers who appear at dawn in a golden chariot. Children of Vivasvat (Surya) and Saranyu (Sanjna), they heal the sick, restore youth and save those in distress; in the Mahabharata they are the fathers of Nakula and Sahadeva.",
+   "story": "The Mahabharata tells that the princess Sukanya was married to the aged sage Chyavana. One day the Ashvins saw her bathing and urged her to leave the old man for one of them. She refused, faithful to her husband. Pleased, the twins offered to make Chyavana young and handsome, but she would then have to choose among the three. All three entered a pool and rose as identical youths of radiant beauty. Sukanya, looking carefully, chose her own husband. In gratitude Chyavana promised to win the twins a share of soma, from which the gods had excluded them as mere healers. When Indra raised his vajra to stop the offering, Chyavana conjured the terrible demon Mada, and Indra yielded, admitting the Ashvins among the soma-drinking gods.",
+   "symbols": [
+    "Honey whip (madhu-kasha)",
+    "Golden three-wheeled chariot",
+    "Medicinal herbs"
+   ],
+   "weapons": [],
+   "vahana": "Three-wheeled golden chariot drawn by horses or birds",
+   "abode": "The sky at dawn",
+   "sources": [
+    "Rig Veda 1.116–120",
+    "Rig Veda 10.17.2",
+    "Shatapatha Brahmana 4.1.5",
+    "Brihadaranyaka Upanishad 2.5.16",
+    "Mahabharata, Vana Parva (Chyavana episode)",
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": [
+    "The Rig Veda calls them 'offspring of Dyaus' as well as children of Vivasvat and Saranyu; the Puranas say Sanjna bore them in the form of a mare to Surya as a horse.",
+    "In the Shatapatha Brahmana the Chyavana story is told with the Ashvins receiving their share through a sacrificial secret; the Mahabharata adds the conflict with Indra and the demon Mada.",
+    "In some reckonings the two Ashvins complete the thirty-three gods with the Vasus, Rudras and Adityas."
+   ]
+  }
+ },
+ "edges": {
+  "hiranyagarbha|brahman|form-of": {
+   "label": "Vedanta treats Hiranyagarbha as the cosmic mind, the first manifestation of Brahman"
+  },
+  "purusha|brahman|form-of": {
+   "label": "The Upanishads identify the cosmic Purusha with Brahman, the self of all",
+   "variation": "Mundaka Upanishad 2.1 describes the worlds issuing from Purusha as sparks from a fire."
+  },
+  "vishnu|brahman|form-of": {
+   "label": "Vaishnava Vedanta identifies Vishnu-Narayana with Brahman",
+   "variation": "Vaishnavas hold Vishnu to be Brahman itself rather than a form of it; Gaudiya tradition sees impersonal Brahman as Krishna's effulgence."
+  },
+  "shiva|brahman|form-of": {
+   "label": "Shaiva traditions identify Shiva with the supreme Brahman",
+   "variation": "A sectarian identification (e.g. Shvetashvatara Upanishad, Shaiva Siddhanta); other schools subordinate Shiva to Vishnu or to nirguna Brahman."
+  },
+  "adi-parashakti|brahman|form-of": {
+   "label": "Shakta texts such as the Devi Gita identify the supreme Goddess with Brahman",
+   "variation": "A Shakta identification; the Devi Bhagavata presents the Goddess as Brahman itself."
+  },
+  "hiranyagarbha|prajapati|form-of": {
+   "label": "Rig Veda 10.121 praises the Golden Germ and names him Prajapati in its final verse",
+   "variation": "The final verse naming Prajapati is often considered a later addition."
+  },
+  "prajapati|purusha|form-of": {
+   "label": "The Shatapatha Brahmana declares that the cosmic Purusha became Prajapati"
+  },
+  "purusha|vishnu|form-of": {
+   "label": "Vaishnava tradition identifies the Purusha of the Purusha Sukta with Narayana-Vishnu",
+   "variation": "Shatapatha Brahmana speaks of 'Purusha Narayana'; the Bhagavata calls the cosmic Purusha Vishnu's first avatar; non-Vaishnava readings differ."
+  },
+  "brahma|hiranyagarbha|form-of": {
+   "label": "Puranas and the Manusmriti tell that Brahma was born in the golden cosmic egg and is called Hiranyagarbha"
+  },
+  "brahma|prajapati|form-of": {
+   "label": "In the Epics and Puranas Brahma inherits Prajapati's role and title as creator of beings"
+  },
+  "indra|purusha|created-by": {
+   "label": "The Purusha Sukta says Indra was born from the mouth of Purusha"
+  },
+  "agni|purusha|created-by": {
+   "label": "The Purusha Sukta says Agni was born from the mouth of Purusha"
+  },
+  "vayu|purusha|created-by": {
+   "label": "The Purusha Sukta says the wind Vayu was born from the breath of Purusha"
+  },
+  "soma|purusha|created-by": {
+   "label": "The Purusha Sukta says the moon was born from the mind of Purusha",
+   "variation": "The hymn names the moon (chandramas); Soma is identified with the moon in later texts."
+  },
+  "surya|purusha|created-by": {
+   "label": "The Purusha Sukta says the sun was born from the eye of Purusha"
+  },
+  "agni|prajapati|created-by": {
+   "label": "The Shatapatha Brahmana tells that Prajapati created Agni from his mouth"
+  },
+  "prajapati|indra|guru": {
+   "label": "Prajapati taught Indra the nature of the true self over 101 years (Chandogya Upanishad 8.7–12)"
+  },
+  "prajapati|virochana|guru": {
+   "label": "Prajapati taught Virochana, who left believing the body is the self (Chandogya Upanishad 8.8)"
+  },
+  "prajapati|vak|spouse": {
+   "label": "Brahmana texts describe Vak as Prajapati's companion in creation ('Prajapati alone was this; Vak was his second')",
+   "variation": "Other Brahmana passages call Vak Prajapati's daughter."
+  },
+  "prajapati|ushas|parent": {
+   "label": "The Aitareya Brahmana tells of Prajapati's desire for his daughter, identified as Ushas or the sky",
+   "variation": "Aitareya Brahmana 3.33 says some call the daughter the sky, others Ushas."
+  },
+  "rudra|prajapati|enemy": {
+   "label": "The gods' fearsome creation, Rudra as lord of beasts, pierced Prajapati with an arrow for his transgression (Aitareya Brahmana 3.33)"
+  },
+  "brahman|creation-nasadiya|participated-in": {
+   "label": "Vedantic commentators identify the hymn's 'That One' (tad ekam) with Brahman",
+   "variation": "The hymn itself names no deity."
+  },
+  "hiranyagarbha|creation-nasadiya|participated-in": {
+   "label": "The golden germ of RV 10.121 is often read alongside the Nasadiya's primordial One born from heat",
+   "variation": "A later interpretive link; the Nasadiya does not mention Hiranyagarbha."
+  },
+  "kamadeva|creation-nasadiya|participated-in": {
+   "label": "The Nasadiya names desire (kama) as the first seed of mind, later personified as Kamadeva",
+   "variation": "In the hymn kama is an abstract cosmic desire, not the later god."
+  },
+  "vaivasvata-manu|great-flood|participated-in": {
+   "label": "Manu survived the deluge in the boat towed by the fish"
+  },
+  "matsya|great-flood|participated-in": {
+   "label": "The fish Matsya warned Manu of the flood and towed his boat to safety",
+   "variation": "Unnamed fish in the Shatapatha; Brahma in the Mahabharata; Vishnu in the Puranas."
+  },
+  "saptarishi|great-flood|participated-in": {
+   "label": "The seven sages rode out the flood in Manu's boat",
+   "variation": "Mahabharata and Puranas; in the Shatapatha Brahmana Manu survives alone."
+  },
+  "brahma|great-flood|participated-in": {
+   "label": "In the Mahabharata the rescuing fish reveals itself as Brahma Prajapati",
+   "variation": "Mahabharata 3.185 only; the Puranas identify the fish with Vishnu."
+  },
+  "vasuki|great-flood|participated-in": {
+   "label": "Manu tied the boat to Matsya's horn using the serpent Vasuki as a rope",
+   "variation": "Bhagavata Purana 8.24; earlier versions speak only of a rope."
+  },
+  "svayambhuva-manu|brahma|created-by": {
+   "label": "Svayambhuva Manu was born from Brahma, the Self-born",
+   "variation": "Brahma divided his body into Manu and Shatarupa (Vishnu Purana); in the Matsya Purana Manu is the son of Brahma and Shatarupa."
+  },
+  "shatarupa|brahma|created-by": {
+   "label": "Shatarupa was produced from Brahma's own body as the first woman"
+  },
+  "svayambhuva-manu|shatarupa|spouse": {
+   "label": "Svayambhuva Manu and Shatarupa were the first human couple"
+  },
+  "brahma|shatarupa|spouse": {
+   "label": "The Matsya Purana makes Shatarupa Brahma's consort and Manu's mother",
+   "variation": "Matsya Purana 3; most Puranas make her the wife of Svayambhuva Manu instead."
+  },
+  "shatarupa|saraswati|form-of": {
+   "label": "The Matsya Purana identifies Shatarupa with Savitri and Saraswati",
+   "variation": "Matsya Purana only; elsewhere they are distinct."
+  },
+  "svayambhuva-manu|devahuti|parent": {
+   "label": "Devahuti was the daughter of Svayambhuva Manu, given in marriage to the sage Kardama"
+  },
+  "shatarupa|devahuti|parent": {
+   "label": "Devahuti was the daughter of Shatarupa"
+  },
+  "svayambhuva-manu|prasuti|parent": {
+   "label": "Prasuti was the daughter of Svayambhuva Manu, married to Daksha"
+  },
+  "shatarupa|prasuti|parent": {
+   "label": "Prasuti was the daughter of Shatarupa"
+  },
+  "svayambhuva-manu|dhruva|ancestor-of": {
+   "label": "Dhruva was Manu's grandson through King Uttanapada"
+  },
+  "svayambhuva-manu|prithu|ancestor-of": {
+   "label": "Prithu descended from Manu through Uttanapada, Dhruva and Vena"
+  },
+  "svayambhuva-manu|kapila|ancestor-of": {
+   "label": "Kapila was Manu's grandson through Devahuti and Kardama"
+  },
+  "svayambhuva-manu|rishabha|ancestor-of": {
+   "label": "Rishabha descended from Manu through Priyavrata, Agnidhra and Nabhi"
+  },
+  "svayambhuva-manu|yajna|ancestor-of": {
+   "label": "Yajna was Manu's grandson through his daughter Akuti and the sage Ruchi"
+  },
+  "svayambhuva-manu|bhrigu|guru": {
+   "label": "The Manusmriti presents Manu's law as taught by Manu and recited by his pupil Bhrigu"
+  },
+  "surya|vaivasvata-manu|parent": {
+   "label": "Vaivasvata Manu is the son of Vivasvat, the sun"
+  },
+  "sanjna|vaivasvata-manu|parent": {
+   "label": "Vaivasvata Manu is the son of Sanjna (Saranyu)",
+   "variation": "Yaska's Nirukta makes Manu the son of the substitute wife (Savarna/Chhaya)."
+  },
+  "vaivasvata-manu|yama|sibling": {
+   "label": "Manu and Yama are both sons of Vivasvat and Saranyu"
+  },
+  "vaivasvata-manu|yami|sibling": {
+   "label": "Yami is the sister of Vaivasvata Manu"
+  },
+  "vaivasvata-manu|shani|sibling": {
+   "label": "Shani, Surya's son by Chhaya, is Manu's half-brother",
+   "variation": "Puranic genealogy; not Vedic."
+  },
+  "vaivasvata-manu|ikshvaku|parent": {
+   "label": "Ikshvaku, founder of the Solar dynasty, was the eldest son of Vaivasvata Manu",
+   "variation": "The Vishnu Purana says Ikshvaku was born from Manu's nostril as he sneezed."
+  },
+  "vaivasvata-manu|ila|parent": {
+   "label": "Ila, ancestress of the Lunar dynasty, was the child of Vaivasvata Manu",
+   "variation": "Shatapatha: Ida arose from Manu's offering; Bhagavata: born through a priest's error in Manu's sacrifice; Ramayana: Ila is a son of Kardama."
+  },
+  "matsya|vaivasvata-manu|ally": {
+   "label": "Matsya, the fish Manu protected, saved him and the seeds of life from the flood"
+  },
+  "vashistha|vaivasvata-manu|guru": {
+   "label": "Vashistha served as priest of Manu's sacrifice for offspring and guided his line",
+   "variation": "Bhagavata Purana 9.1; Vashistha is the hereditary priest of the Ikshvakus."
+  },
+  "ashvins|vaivasvata-manu|sibling": {
+   "label": "The Ashvins and Vaivasvata Manu are both children of Vivasvat and Saranyu (Sanjna)"
+  },
+  "atri|saptarishi|member-of": {
+   "label": "Atri is one of the Seven Sages in both the Vedic and Puranic lists"
+  },
+  "vashistha|saptarishi|member-of": {
+   "label": "Vashistha is one of the Seven Sages in both the Vedic and Puranic lists"
+  },
+  "marichi|saptarishi|member-of": {
+   "label": "Marichi is one of the Seven Sages in the Puranic list",
+   "variation": "Puranic/Mahabharata list only."
+  },
+  "angiras|saptarishi|member-of": {
+   "label": "Angiras is one of the Seven Sages in the Puranic list",
+   "variation": "Puranic/Mahabharata list only."
+  },
+  "pulastya|saptarishi|member-of": {
+   "label": "Pulastya is one of the Seven Sages in the Puranic list",
+   "variation": "Puranic/Mahabharata list only."
+  },
+  "pulaha|saptarishi|member-of": {
+   "label": "Pulaha is one of the Seven Sages in the Puranic list",
+   "variation": "Puranic/Mahabharata list only."
+  },
+  "kratu|saptarishi|member-of": {
+   "label": "Kratu is one of the Seven Sages in the Puranic list",
+   "variation": "Puranic/Mahabharata list only."
+  },
+  "gautama|saptarishi|member-of": {
+   "label": "Gautama is one of the Seven Sages in the Brihadaranyaka list",
+   "variation": "Brihadaranyaka/Shatapatha list and the Puranic list for the present manvantara."
+  },
+  "bharadvaja|saptarishi|member-of": {
+   "label": "Bharadvaja is one of the Seven Sages in the Brihadaranyaka list",
+   "variation": "Brihadaranyaka/Shatapatha list and the Puranic list for the present manvantara."
+  },
+  "vishvamitra|saptarishi|member-of": {
+   "label": "Vishvamitra is one of the Seven Sages in the Brihadaranyaka list",
+   "variation": "Brihadaranyaka/Shatapatha list and the Puranic list for the present manvantara."
+  },
+  "jamadagni|saptarishi|member-of": {
+   "label": "Jamadagni is one of the Seven Sages in the Brihadaranyaka list",
+   "variation": "Brihadaranyaka/Shatapatha list and the Puranic list for the present manvantara."
+  },
+  "kashyapa|saptarishi|member-of": {
+   "label": "Kashyapa is one of the Seven Sages in the Brihadaranyaka list",
+   "variation": "Brihadaranyaka/Shatapatha list and the Puranic list for the present manvantara."
+  },
+  "saptarishi|brahma|created-by": {
+   "label": "The Puranic Seven Sages are mind-born sons of Brahma",
+   "variation": "Applies to the Puranic list (Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu, Vashistha)."
+  },
+  "saptarishi|shiva|ally": {
+   "label": "Shiva sent the Seven Sages to Himavan to ask for Parvati's hand",
+   "variation": "Shiva Purana and Kalidasa's Kumarasambhava."
+  },
+  "svaha|saptarishi|ally": {
+   "label": "Svaha took the forms of six of the sages' wives to unite with Agni, leading to Skanda's birth and the wives' estrangement",
+   "variation": "Mahabharata, Vana Parva 213–215."
+  },
+  "aditi|adityas|parent": {
+   "label": "Aditi is the mother of the Adityas"
+  },
+  "kashyapa|adityas|parent": {
+   "label": "Kashyapa fathered the Adityas on Aditi",
+   "variation": "Epic and Puranic genealogy; the Rig Veda names only Aditi."
+  },
+  "varuna|adityas|member-of": {
+   "label": "Varuna is the foremost of the Adityas"
+  },
+  "mitra|adityas|member-of": {
+   "label": "Mitra is one of the Adityas, paired with Varuna"
+  },
+  "aryaman|adityas|member-of": {
+   "label": "Aryaman is one of the Adityas (Rig Veda 2.27)"
+  },
+  "bhaga|adityas|member-of": {
+   "label": "Bhaga is one of the Adityas (Rig Veda 2.27)"
+  },
+  "daksha|adityas|member-of": {
+   "label": "Rig Veda 2.27 lists Daksha among the Adityas",
+   "variation": "Only in the early Vedic list; whether this Daksha is the later Prajapati Daksha is unclear."
+  },
+  "surya|adityas|member-of": {
+   "label": "Surya as Vivasvat or Martanda is one of the Adityas",
+   "variation": "Martanda is the eighth son cast off by Aditi in Rig Veda 10.72."
+  },
+  "indra|adityas|member-of": {
+   "label": "Indra (Shakra) is counted among the twelve Adityas",
+   "variation": "Epic and Puranic lists; not in the early Vedic list."
+  },
+  "pushan|adityas|member-of": {
+   "label": "Pushan is counted among the twelve Adityas",
+   "variation": "Epic and Puranic lists."
+  },
+  "tvashtr|adityas|member-of": {
+   "label": "Tvashtr is counted among the twelve Adityas",
+   "variation": "Epic and Puranic lists."
+  },
+  "savitr|adityas|member-of": {
+   "label": "Savitr is counted among the twelve Adityas",
+   "variation": "Epic and Puranic lists."
+  },
+  "vishnu|adityas|member-of": {
+   "label": "Vishnu, as Vamana-Urukrama, is the youngest of the twelve Adityas",
+   "variation": "Epic and Puranic lists."
+  },
+  "parjanya|adityas|member-of": {
+   "label": "Some Puranic lists of the monthly suns include Parjanya among the Adityas",
+   "variation": "Found only in some month-by-month lists of the twelve suns."
+  },
+  "adityas|vasus|ally": {
+   "label": "The Adityas, Vasus and Rudras together form the core of the thirty-three gods"
+  },
+  "vasus|rudras-group|ally": {
+   "label": "The Vasus and Rudras are grouped with the Adityas among the thirty-three gods"
+  },
+  "rudras-group|adityas|ally": {
+   "label": "The Rudras and Adityas are grouped with the Vasus among the thirty-three gods"
+  },
+  "agni|vasus|member-of": {
+   "label": "Agni (fire; Anala in the epic list) is one of the eight Vasus"
+  },
+  "vayu|vasus|member-of": {
+   "label": "Vayu (wind; Anila in the epic list) is one of the eight Vasus"
+  },
+  "soma|vasus|member-of": {
+   "label": "Soma, the moon, is one of the eight Vasus"
+  },
+  "prithvi|vasus|member-of": {
+   "label": "The Earth (Prithivi; Dhara in the epic list) is one of the eight Vasus"
+  },
+  "dyaus|vasus|member-of": {
+   "label": "Dyaus (Dyu) is one of the eight Vasus",
+   "variation": "Brihadaranyaka list and the Mahabharata's Bhishma story; the epic name list uses Prabhasa."
+  },
+  "surya|vasus|member-of": {
+   "label": "The Brihadaranyaka Upanishad counts the sun (Aditya) among the Vasus",
+   "variation": "Brihadaranyaka/Shatapatha list only."
+  },
+  "indra|vasus|ally": {
+   "label": "Indra is Vasava, lord and leader of the Vasus"
+  },
+  "vashistha|vasus|curse": {
+   "label": "Vashistha cursed the Vasus to be born as mortals for stealing his cow Nandini"
+  },
+  "ganga|vasus|parent": {
+   "label": "Ganga bore the eight Vasus as her sons by Shantanu, releasing seven at birth"
+  },
+  "bhishma|dyaus|reincarnation-of": {
+   "label": "Bhishma was the Vasu Dyu, who stole Nandini, born on earth",
+   "variation": "The thieving Vasu is called Prabhasa in some versions."
+  },
+  "rudras-group|rudra|form-of": {
+   "label": "The Rudras are the hosts and manifestations of the Vedic god Rudra"
+  },
+  "rudras-group|shiva|form-of": {
+   "label": "The Puranas regard the Eleven Rudras as forms of Shiva"
+  },
+  "rudras-group|brahma|created-by": {
+   "label": "The Vishnu Purana says the Rudras emanated from a being born of Brahma's anger",
+   "variation": "Other texts make them sons of Kashyapa and Surabhi."
+  },
+  "kashyapa|rudras-group|parent": {
+   "label": "Some Puranic genealogies make the Eleven Rudras sons of Kashyapa by Surabhi",
+   "variation": "Contradicts the account of their emanation from Brahma's anger."
+  },
+  "kamadhenu|rudras-group|parent": {
+   "label": "Surabhi, the divine cow, is called mother of the Eleven Rudras in some Puranic genealogies",
+   "variation": "Surabhi is identified with Kamadhenu; the parentage differs between texts."
+  },
+  "hanuman|rudras-group|member-of": {
+   "label": "Popular Shaiva-Vaishnava tradition regards Hanuman as the eleventh Rudra, an avatar of Shiva",
+   "variation": "Based on the Shiva Purana's account of Hanuman as Shiva's incarnation; not in Valmiki."
+  },
+  "rudra|maruts|parent": {
+   "label": "The Rig Veda calls the Maruts the sons of Rudra"
+  },
+  "prishni|maruts|parent": {
+   "label": "The Maruts are born of the dappled cow Prishni (prishni-matarah)"
+  },
+  "diti|maruts|parent": {
+   "label": "The Ramayana and Puranas make the Maruts sons of Diti, divided in the womb by Indra",
+   "variation": "Post-Vedic; in the Rig Veda their mother is Prishni."
+  },
+  "kashyapa|maruts|parent": {
+   "label": "Kashyapa is father of the Maruts in the Ramayana and Puranas",
+   "variation": "Post-Vedic; in the Rig Veda their father is Rudra."
+  },
+  "maruts|indra|ally": {
+   "label": "The Maruts are Indra's companions in battle, especially against Vritra"
+  },
+  "agastya|maruts|devotee": {
+   "label": "Agastya composed hymns to the Maruts and reconciled them with Indra (Rig Veda 1.165–171)"
+  },
+  "rudra|prishni|spouse": {
+   "label": "Rudra and Prishni are the parents of the Maruts in the Rig Veda"
+  },
+  "prishni|prithvi|form-of": {
+   "label": "Some interpreters read Prishni, the dappled cow, as the Earth",
+   "variation": "Others read her as the storm cloud or the night sky."
+  },
+  "kashyapa|aditi|spouse": {
+   "label": "Aditi is the wife of the sage Kashyapa"
+  },
+  "kashyapa|diti|spouse": {
+   "label": "Diti is a wife of the sage Kashyapa"
+  },
+  "kashyapa|danu|spouse": {
+   "label": "Danu is a wife of the sage Kashyapa"
+  },
+  "daksha|aditi|parent": {
+   "label": "Aditi is a daughter of Daksha",
+   "variation": "Rig Veda 10.72 makes Daksha and Aditi born from each other."
+  },
+  "daksha|diti|parent": {
+   "label": "Diti is a daughter of Daksha"
+  },
+  "daksha|danu|parent": {
+   "label": "Danu is a daughter of Daksha"
+  },
+  "aditi|diti|sibling": {
+   "label": "Aditi and Diti are sisters, daughters of Daksha"
+  },
+  "aditi|danu|sibling": {
+   "label": "Aditi and Danu are sisters, daughters of Daksha"
+  },
+  "diti|danu|sibling": {
+   "label": "Diti and Danu are sisters, daughters of Daksha"
+  },
+  "aditi|indra|parent": {
+   "label": "Indra is the son of Aditi",
+   "variation": "In the Rig Veda Indra's parentage is varied; Dyaus and Nishtigri are also named."
+  },
+  "aditi|vamana|parent": {
+   "label": "Vishnu was born to Aditi and Kashyapa as Vamana"
+  },
+  "aditi|surya|parent": {
+   "label": "Aditi bore the sun as Martanda (Rig Veda 10.72)"
+  },
+  "aditi|varuna|parent": {
+   "label": "Varuna is a son of Aditi"
+  },
+  "aditi|mitra|parent": {
+   "label": "Mitra is a son of Aditi"
+  },
+  "aditi|vishnu|devotee": {
+   "label": "Aditi worshipped Vishnu through the payovrata vow to restore her sons (Bhagavata Purana 8.16)"
+  },
+  "vishnu|aditi|boon": {
+   "label": "Vishnu promised Aditi he would be born as her son"
+  },
+  "devaki|aditi|reincarnation-of": {
+   "label": "Devaki was a rebirth of Aditi, so that Krishna's birth repeated Vamana's",
+   "variation": "Harivamsha and Bhagavata Purana 10.3."
+  },
+  "narakasura|aditi|enemy": {
+   "label": "Narakasura stole the earrings of Aditi, later recovered by Krishna"
+  },
+  "diti|hiranyakashipu|parent": {
+   "label": "Hiranyakashipu is the son of Diti and Kashyapa"
+  },
+  "diti|hiranyaksha|parent": {
+   "label": "Hiranyaksha is the son of Diti and Kashyapa"
+  },
+  "indra|diti|enemy": {
+   "label": "Indra entered Diti's womb and split the embryo meant to kill him into the Maruts"
+  },
+  "danu|vritra|parent": {
+   "label": "The Rig Veda names Danu as the mother of Vritra",
+   "variation": "Later texts make Vritra the son of Tvashtr."
+  },
+  "indra|danu|slayer": {
+   "label": "Indra struck down Danu as she shielded her son Vritra (Rig Veda 1.32.9)"
+  },
+  "danu|namuchi|parent": {
+   "label": "Namuchi is listed among the Danava sons of Danu",
+   "variation": "Epic and Puranic genealogy."
+  },
+  "danu|shambara|parent": {
+   "label": "Shambara is listed among the Danava sons of Danu",
+   "variation": "Epic and Puranic genealogy."
+  },
+  "danu|puloman|parent": {
+   "label": "Puloman is listed among the Danava sons of Danu",
+   "variation": "Epic and Puranic genealogy."
+  },
+  "dyaus|prithvi|spouse": {
+   "label": "Heaven and Earth (Dyavaprithivi) are the primordial parents of the Rig Veda"
+  },
+  "varaha|prithvi|spouse": {
+   "label": "Varaha raised the Earth from the cosmic ocean, and Bhudevi became his consort"
+  },
+  "vishnu|prithvi|spouse": {
+   "label": "Bhudevi is one of Vishnu's two principal consorts, beside Shri"
+  },
+  "prithvi|vishnu|devotee": {
+   "label": "The burdened Earth appeals to Vishnu to descend and relieve her"
+  },
+  "hiranyaksha|prithvi|enemy": {
+   "label": "Hiranyaksha dragged the Earth down into the cosmic ocean",
+   "variation": "Explicit in later Puranas; in some early accounts the Earth simply lies submerged."
+  },
+  "prithu|prithvi|parent": {
+   "label": "Prithu spared the fleeing Earth, who became as his daughter and took the name Prithvi",
+   "variation": "A title of adoption in the Vishnu and Bhagavata Puranas, not literal parentage."
+  },
+  "prithvi|narakasura|parent": {
+   "label": "Narakasura is the son of Bhudevi by Varaha"
+  },
+  "prithvi|sita|parent": {
+   "label": "Sita rose from a furrow of the Earth and at the end returned into her"
+  },
+  "prithvi|mangala|parent": {
+   "label": "Mangala (Mars), called Bhauma, is the son of the Earth",
+   "variation": "Other accounts give him an origin from Shiva's sweat or blood falling on the earth."
+  },
+  "satyabhama|prithvi|reincarnation-of": {
+   "label": "Some traditions regard Satyabhama as an incarnation of Bhudevi",
+   "variation": "Regional (especially South Indian) Narakasura legends."
+  },
+  "dyaus|ushas|parent": {
+   "label": "Ushas is the Daughter of Heaven (divo duhitar)"
+  },
+  "dyaus|ratri|parent": {
+   "label": "Ratri, like her sister Dawn, is addressed as the daughter of Heaven (Rig Veda 10.127)"
+  },
+  "dyaus|indra|parent": {
+   "label": "Rig Veda 4.17.4 names Dyaus as Indra's begetter",
+   "variation": "Later tradition makes Indra the son of Kashyapa and Aditi."
+  },
+  "dyaus|surya|parent": {
+   "label": "Rig Veda 10.37 calls Surya the son of Dyaus",
+   "variation": "Elsewhere the sun is Aditi's son (Martanda/Vivasvat)."
+  },
+  "dyaus|ashvins|parent": {
+   "label": "The Rig Veda calls the Ashvins offspring of Dyaus (divo napata)",
+   "variation": "Other hymns and later texts make them sons of Vivasvat and Saranyu."
+  },
+  "vak|adi-parashakti|form-of": {
+   "label": "Shakta tradition reads Vak's self-praise in Rig Veda 10.125 as the Devi Sukta of the supreme Goddess",
+   "variation": "A later Shakta interpretation."
+  },
+  "vak|rudra|ally": {
+   "label": "Vak declares that she bends the bow for Rudra (Rig Veda 10.125.6)"
+  },
+  "ushas|ratri|sibling": {
+   "label": "Dawn and Night are sisters who follow one another endlessly"
+  },
+  "ratri|adi-parashakti|form-of": {
+   "label": "Shakta tradition identifies Night with the Goddess as Kalaratri and Yoganidra",
+   "variation": "Post-Vedic identification via the Ratri Sukta and Devi Mahatmya."
+  },
+  "surya|ushas|spouse": {
+   "label": "The Sun follows Dawn as a lover or husband in the Rig Veda",
+   "variation": "Other hymns make Ushas the mother who bears the sun."
+  },
+  "ushas|bhaga|sibling": {
+   "label": "Ushas is called the sister of Bhaga (Rig Veda 1.123.5)"
+  },
+  "indra|ushas|enemy": {
+   "label": "Indra shattered the cart of Ushas with his vajra and she fled (Rig Veda 4.30)"
+  },
+  "ashvins|ushas|ally": {
+   "label": "The Ashvins appear at dawn in the company of Ushas"
+  },
+  "surya|ashvins|parent": {
+   "label": "The Ashvins are sons of Vivasvat, the sun"
+  },
+  "sanjna|ashvins|parent": {
+   "label": "Saranyu (Sanjna) bore the Ashvins, in the Puranas while in the form of a mare"
+  },
+  "ashvins|nakula|parent": {
+   "label": "Nakula was born to Madri through the Ashvins"
+  },
+  "ashvins|sahadeva|parent": {
+   "label": "Sahadeva was born to Madri through the Ashvins"
+  },
+  "dadhichi|ashvins|guru": {
+   "label": "Dadhyanch taught the Ashvins the honey-doctrine (madhu vidya) through a horse's head",
+   "variation": "Rig Veda 1.116–117 and Brihadaranyaka 2.5; Dadhyanch is identified with the epic Dadhichi."
+  },
+  "ashvins|chyavana|boon": {
+   "label": "The Ashvins restored the aged Chyavana's youth"
+  },
+  "indra|ashvins|enemy": {
+   "label": "Indra opposed the Ashvins' share of soma until Chyavana overpowered him with the demon Mada"
+  },
+  "ashvins|yama|sibling": {
+   "label": "The Ashvins and Yama are both children of Vivasvat and Saranyu"
+  }
+ }
+}

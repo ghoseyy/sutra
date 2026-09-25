@@ -1,0 +1,1822 @@
+{
+  "section": "10-ramayana-ayodhya",
+  "nodes": [
+    {
+      "id": "rama",
+      "name": "Rama",
+      "devanagari": "राम",
+      "aliases": [
+        "Ramachandra",
+        "Raghava",
+        "Raghunatha",
+        "Raghupati",
+        "Dasharathi",
+        "Kakutstha",
+        "Ramabhadra",
+        "Sitapati",
+        "Kodandapani",
+        "Maryada Purushottama"
+      ],
+      "category": "avatar",
+      "era": "ramayana",
+      "group": false,
+      "description": "Rama, prince of Ayodhya and eldest son of King Dasharatha of the Ikshvaku (Solar) dynasty, is the hero of Valmiki's Ramayana and the seventh avatar of Vishnu. Revered as maryada purushottama, the ideal of dharma in word and deed, he is worshipped across South and Southeast Asia together with Sita, Lakshmana and Hanuman.",
+      "story": "On the eve of his consecration as heir, Rama learned that Queen Kaikeyi had claimed two boons long owed her by Dasharatha: that her son Bharata be crowned, and that Rama live fourteen years in the forest. Without a word of protest he set aside the royal insignia, put on bark garments and walked out of Ayodhya, followed by Sita and Lakshmana while the whole city wept. In the Dandaka forest Ravana carried Sita away, and Rama's search led him to the vanara king Sugriva and to Hanuman, who found her in Lanka. A causeway of stones was built across the sea; in the great war Rama slew Ravana with a weapon of Brahma, regained Sita and returned in the Pushpaka chariot to be crowned, beginning the reign remembered as Rama-rajya, a golden age of justice.",
+      "symbols": [
+        "bow and arrows",
+        "dark (shyama) complexion",
+        "royal crown",
+        "bark garments and matted hair in exile",
+        "Pushpaka chariot",
+        "accompanied by Sita, Lakshmana and Hanuman"
+      ],
+      "weapons": [
+        "bow (Kodanda in later tradition; Vishnu's bow received from Parashurama and Agastya)",
+        "inexhaustible quivers given by Agastya",
+        "Brahmastra (used to slay Ravana)",
+        "divine weapons taught by Vishvamitra"
+      ],
+      "vahana": null,
+      "abode": "Ayodhya; Vaikuntha (or Saketa in later devotional tradition)",
+      "sources": [
+        "Valmiki Ramayana (all seven Kandas)",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Raghuvamsha of Kalidasa",
+        "Bhagavata Purana, Canto 9",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas",
+        "Ramavataram of Kamban"
+      ],
+      "variations": [
+        "Many scholars (e.g. J. L. Brockington) regard the Bala and Uttara Kandas as later layers; Rama's explicit identity with Vishnu is concentrated in them, though whether the core books already present him as divine is debated (e.g. Sheldon Pollock argues it is integral).",
+        "The Buddhist Dasharatha Jataka has no abduction or war: Rama-pandita is exiled to the Himalaya, and Sita is his sister who becomes his queen.",
+        "In Jain versions such as Vimalasuri's Paumacariya, Rama (Padma) is a non-violent Baladeva who attains liberation, and it is Lakshmana who kills Ravana.",
+        "The Adhyatma Ramayana and Tulsidas's Ramcharitmanas present Rama as the supreme Brahman himself, and the Sita whom Ravana abducts as a shadow (Maya Sita).",
+        "The Bengali Krittivasi Ramayan adds Rama's untimely worship of Durga (Akal Bodhan) before the final battle; Kamban's Tamil Ramavataram and southern traditions add Rama's worship of Shiva at Rameshwaram.",
+        "The Uttara Kanda's banishment of Sita and killing of the shudra ascetic Shambuka are ethically debated episodes; the Mahabharata's Ramopakhyana ends with the coronation.",
+        "Southeast Asian retellings include the Thai Ramakien, the Khmer Reamker and the Malay Hikayat Seri Rama."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "sita",
+      "name": "Sita",
+      "devanagari": "सीता",
+      "aliases": [
+        "Janaki",
+        "Vaidehi",
+        "Maithili",
+        "Bhumija",
+        "Bhumisuta",
+        "Siya",
+        "Janakanandini",
+        "Avanisuta"
+      ],
+      "category": "devi",
+      "era": "ramayana",
+      "group": false,
+      "description": "Sita, princess of Videha (Mithila) and wife of Rama, is the heroine of the Ramayana, revered as the ideal of steadfast virtue and as an incarnation of the goddess Lakshmi. Found by King Janaka in a ploughed furrow, she is called Bhumija, daughter of the Earth, to whom she finally returns.",
+      "story": "King Janaka was ploughing a field to prepare a sacrificial ground when a girl rose from the furrow; he raised her as his own and named her Sita, 'furrow'. He vowed to give her only to the man who could string Shiva's mighty bow, and Rama not only strung it but broke it. When Rama was exiled, Sita refused to stay behind, insisting that a wife's place was at her husband's side, even in the wilderness. Abducted by Ravana and held in the ashoka grove of Lanka, she rejected his every threat and temptation. After the war she proved her purity by entering fire, from which Agni himself returned her unharmed. Later, banished while pregnant, she raised her twin sons in Valmiki's hermitage; when asked to prove herself once more, she called upon the Earth, who opened and received her.",
+      "symbols": [
+        "lotus",
+        "ploughed furrow",
+        "crest-jewel (chudamani) sent to Rama through Hanuman",
+        "Rama's signet ring",
+        "ashoka tree"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Mithila and Ayodhya; returned into the Earth",
+      "sources": [
+        "Valmiki Ramayana (Bala, Ayodhya, Aranya, Sundara, Yuddha and Uttara Kandas)",
+        "Rig Veda 4.57 (Sita, the personified furrow)",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas",
+        "Adbhuta Ramayana"
+      ],
+      "variations": [
+        "The Rig Veda (4.57) invokes Sita, the personified furrow, as an agricultural goddess, and later ritual texts pair her with Indra or Parjanya; scholars see this as background to the epic heroine's birth from the furrow.",
+        "In the Uttara Kanda, Sita is the rebirth of Vedavati, who immolated herself after Ravana molested her, vowing to be born again for his destruction.",
+        "In the Adhyatma Ramayana and the Ramcharitmanas, the real Sita remains in Agni's keeping and Ravana abducts only her shadow (Maya or Chhaya Sita); the fire-ordeal restores the real Sita.",
+        "The Adbhuta Ramayana has her born of Mandodari and, as a fierce goddess, slaying a thousand-headed Ravana; Jain texts such as Gunabhadra's Uttarapurana and the Vasudevahindi make her Ravana's daughter, abandoned because of a prophecy.",
+        "In Valmiki the bow is a bride-price of valour (viryashulka) rather than a formal svayamvara; later retellings such as the Ramcharitmanas stage an assembly of kings and add Sita's first sight of Rama in Janaka's garden.",
+        "The 'Lakshmana-rekha', a protective line drawn around the hut, does not occur in Valmiki and belongs to later tellings.",
+        "The Buddhist Dasharatha Jataka makes Sita Rama's sister and queen.",
+        "The banishment and her return into the Earth belong to the Uttara Kanda, widely regarded as a later layer; the Mahabharata's Ramopakhyana ends with the reunion."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "lakshmana",
+      "name": "Lakshmana",
+      "devanagari": "लक्ष्मण",
+      "aliases": [
+        "Lakshman",
+        "Lakhan",
+        "Saumitri",
+        "Ramanuja",
+        "Shesha-avatara"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Lakshmana, son of Dasharatha and Sumitra and twin of Shatrughna, is Rama's inseparable companion who shared his fourteen years of exile. Valmiki makes him a portion of Vishnu; later tradition identifies him with the serpent Shesha, on whom Vishnu rests.",
+      "story": "When Rama was banished, Lakshmana at first raged against his father and Kaikeyi, then asked only to follow as Rama's servant and bow-bearer. In the forest he built the hut at Panchavati and kept watch night after night. When the rakshasi Shurpanakha attacked Sita, Lakshmana cut off her nose and ears, setting the war in motion. In Lanka he fell more than once to the weapons of Indrajit and Ravana and was revived by herbs that Hanuman carried from the Himalaya. At last he faced Indrajit, the conqueror of Indra, and after a long duel severed his head with an arrow he charged with an oath on Rama's truth and righteousness. In the Uttara Kanda, to save Rama from breaking his word, he accepted banishment and gave up his life on the banks of the Sarayu.",
+      "symbols": [
+        "bow and quiver",
+        "fair (golden) complexion",
+        "standing beside Rama and Sita"
+      ],
+      "weapons": [
+        "bow and arrows",
+        "Aindra astra (used to slay Indrajit)",
+        "sword"
+      ],
+      "vahana": null,
+      "abode": "Ayodhya",
+      "sources": [
+        "Valmiki Ramayana (Bala, Ayodhya, Aranya, Yuddha and Uttara Kandas)",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas",
+        "Paumacariya of Vimalasuri (Jain)"
+      ],
+      "variations": [
+        "Valmiki's Bala Kanda makes Lakshmana and Shatrughna portions of Vishnu; the identification of Lakshmana with the serpent Shesha is found in later texts such as the Adhyatma Ramayana and the Puranas (where Balarama is also Shesha).",
+        "In Jain versions (Paumacariya), Lakshmana is the Vasudeva who kills Ravana, the Prati-vasudeva, and in consequence descends to hell, while Rama attains liberation.",
+        "The Ramcharitmanas moves Parashurama's confrontation to Janaka's court, where Lakshmana mocks the angry sage.",
+        "A folk tradition holds that Lakshmana did not sleep for the fourteen years of exile, Urmila sleeping in his place by a boon of the goddess Nidra; this is absent from Valmiki.",
+        "The 'Lakshmana-rekha' drawn to protect Sita is a later addition not found in Valmiki."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "urmila",
+      "name": "Urmila",
+      "devanagari": "ऊर्मिला",
+      "aliases": [
+        "Urmilaa"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Urmila is the daughter of King Janaka of Mithila and younger sister of Sita, married to Lakshmana at the same ceremony in which Sita wed Rama. Valmiki says little of her; later poets celebrated her silent sacrifice in remaining behind during Lakshmana's fourteen-year exile.",
+      "story": "After Rama broke Shiva's bow, Janaka offered not only Sita but also his own daughter Urmila, and she was given to Lakshmana, while Kushadhvaja's daughters Mandavi and Shrutakirti were married to Bharata and Shatrughna on the same day. Valmiki names her in the Bala Kanda, but she vanishes from the narrative when Lakshmana follows Rama to the forest. Later tradition filled the silence. A popular legend, found in folk and regional retellings rather than in Valmiki, tells that Nidra, the goddess of sleep, came to Lakshmana in the forest; he begged to be allowed to guard Rama and Sita unsleeping, and Urmila took his share of sleep, slumbering through the fourteen years. Modern poets revived her memory: Rabindranath Tagore lamented her neglect in his essay Kavye Upekshita, and Maithilisharan Gupta made her the heroine of Saket.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Mithila; Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Valmiki Ramayana, Uttara Kanda (Lakshmana's sons Angada and Chandraketu)",
+        "Saket of Maithilisharan Gupta (modern)"
+      ],
+      "variations": [
+        "The Nidra legend of Urmila sleeping for fourteen years is a folk and regional tradition (notably in Telugu and Hindi retellings) with no basis in Valmiki.",
+        "Valmiki calls Urmila Janaka's own daughter, whereas Sita was found in the furrow; later tellings sometimes treat them simply as sisters born to Janaka's queen.",
+        "The Uttara Kanda gives Lakshmana two sons, Angada and Chandraketu, whom tradition counts as Urmila's children."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "bharata",
+      "name": "Bharata",
+      "devanagari": "भरत",
+      "aliases": [
+        "Bharat",
+        "Kaikeyi-nandana",
+        "Kaikeya"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Bharata, son of Dasharatha and Kaikeyi, is the brother for whose sake Rama was exiled and who refused the throne his mother's scheme had won him. Ruling from Nandigrama as Rama's regent, with Rama's sandals on the throne, he is the epic's model of selfless fraternal devotion.",
+      "story": "Bharata was away at his grandfather's court in Kekaya when Dasharatha died. Returning to a silent Ayodhya, he learned that his mother had gained him the kingdom by exiling Rama; he denounced Kaikeyi bitterly and refused the crown. With the royal priests, the queens and an army he marched to Chitrakuta to beg Rama to come back. Rama, bound by his father's word, would not break the promise, so Bharata asked for his brother's sandals (paduka). Carrying them on his head, he installed them on the throne and governed from the village of Nandigrama, wearing matted hair and bark, vowing to enter fire if Rama did not return when the fourteen years were over. When Hanuman brought news of Rama's approach, Bharata went out on foot to welcome him and handed back the kingdom.",
+      "symbols": [
+        "Rama's sandals (paduka)",
+        "matted hair and bark garments",
+        "royal umbrella held over the sandals"
+      ],
+      "weapons": [
+        "bow and arrows"
+      ],
+      "vahana": null,
+      "abode": "Nandigrama; Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Ayodhya Kanda",
+        "Valmiki Ramayana, Yuddha and Uttara Kandas",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "Valmiki's Bala Kanda makes Bharata a quarter-portion of Vishnu; later traditions identify him with Vishnu's discus (Sudarshana) or conch (Panchajanya), assigning the other emblem to Shatrughna, and the assignments differ between texts.",
+        "In the Uttara Kanda Bharata conquers the Gandharva country, where his sons Taksha and Pushkala found Takshashila and Pushkalavati.",
+        "In the Ramcharitmanas, Bharata's arrow brings down Hanuman as he flies over Nandigrama with the mountain of herbs."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "mandavi",
+      "name": "Mandavi",
+      "devanagari": "माण्डवी",
+      "aliases": [
+        "Mandavee"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Mandavi is the elder daughter of Kushadhvaja, Janaka's younger brother, and the wife of Bharata. Valmiki names her only at the fourfold wedding in Mithila; later tellings give her a quiet role during Bharata's austere regency.",
+      "story": "When Rama had broken Shiva's bow and his marriage to Sita was settled, the sage Vishvamitra and the royal priest Vashistha proposed that the two houses be bound more closely still. Janaka gave his daughter Urmila to Lakshmana, and his brother Kushadhvaja, king of Sankashya, gave his daughters Mandavi and Shrutakirti to Bharata and Shatrughna. The four princes took their brides' hands before the sacred fire on the same auspicious day as Dasharatha looked on, and the procession returned to Ayodhya amid rejoicing. Valmiki tells little more of her. Later devotional retellings imagine Mandavi sharing her husband's penance, living simply while Bharata dwelt at Nandigrama as an ascetic with Rama's sandals on the throne, awaiting the end of the exile. Bharata's sons Taksha and Pushkala, founders of Takshashila and Pushkalavati, are traditionally reckoned her children.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Sankashya; Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "Valmiki names Bharata's sons but does not dwell on their mother; the attribution to Mandavi is traditional.",
+        "Her role during the exile is elaborated only in later devotional and regional retellings."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shatrughna",
+      "name": "Shatrughna",
+      "devanagari": "शत्रुघ्न",
+      "aliases": [
+        "Shatrughan",
+        "Saumitri",
+        "Ripusudana"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Shatrughna, son of Dasharatha and Sumitra and twin of Lakshmana, was as closely attached to Bharata as Lakshmana was to Rama. In the Uttara Kanda he slays the demon Lavana and founds the city of Madhura (Mathura).",
+      "story": "While Rama was in exile, Shatrughna stood beside Bharata. When the brothers returned from Kekaya and found the hunchbacked Manthara decked in finery, Shatrughna seized her and dragged her across the floor in fury, until Bharata reminded him that Rama would never forgive the killing of a woman, and he let her go. Years later, after Rama's coronation, the sages of the Yamuna banks complained of Lavana, son of the demon Madhu, who held an invincible trident first given to his father by Shiva. Rama sent Shatrughna against him. On the way Shatrughna spent a night in Valmiki's hermitage, the very night Sita bore her twin sons. Catching Lavana outside his city without his trident, Shatrughna killed him with a divine arrow and founded the city of Madhura on the site.",
+      "symbols": [
+        "bow"
+      ],
+      "weapons": [
+        "bow and arrows",
+        "divine arrow used to slay Lavana"
+      ],
+      "vahana": null,
+      "abode": "Ayodhya; Madhura (Mathura)",
+      "sources": [
+        "Valmiki Ramayana, Bala and Ayodhya Kandas",
+        "Valmiki Ramayana, Uttara Kanda (slaying of Lavana)",
+        "Padma Purana, Patala Khanda (the horse sacrifice)"
+      ],
+      "variations": [
+        "Valmiki makes him, with Lakshmana, a portion of Vishnu; later traditions identify him with Vishnu's conch (Panchajanya) or discus (Sudarshana), the opposite emblem to Bharata's.",
+        "In the Padma Purana and Jaimini's Ashvamedha he leads Rama's sacrificial horse and is defeated by Lava and Kusha.",
+        "The Uttara Kanda, where his conquest of Lavana is told, is widely regarded as a later layer of the epic."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shrutakirti",
+      "name": "Shrutakirti",
+      "devanagari": "श्रुतकीर्ति",
+      "aliases": [
+        "Shrutakeerti"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Shrutakirti is the younger daughter of Kushadhvaja of Sankashya and the wife of Shatrughna. She appears in Valmiki only at the fourfold marriage in Mithila.",
+      "story": "Kushadhvaja, younger brother of King Siradhvaja Janaka, had been made king of Sankashya after Janaka killed King Sudhanva, who had besieged Mithila demanding both Shiva's bow and Sita. When Rama's marriage to Sita was agreed, Vishvamitra and Vashistha asked that Kushadhvaja's two daughters be given to Rama's remaining brothers. The elder, Mandavi, was wedded to Bharata, and the younger, Shrutakirti, to Shatrughna, on the same day that Rama and Lakshmana married Sita and Urmila. Valmiki describes the four couples circling the sacred fire while flowers fell from the sky and celestial music sounded, and then Shrutakirti steps quietly out of the epic. Later tradition counts Shatrughna's sons Subahu and Shatrughati, to whom he gave the cities of Madhura and Vidisha, as her children.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Sankashya; Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "The attribution of Shatrughna's sons to Shrutakirti is traditional rather than explicit in Valmiki."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "dasharatha",
+      "name": "Dasharatha",
+      "devanagari": "दशरथ",
+      "aliases": [
+        "Dasaratha",
+        "Dashrath",
+        "Ayodhyapati",
+        "Kosalendra",
+        "Ajanandana"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Dasharatha, king of Kosala at Ayodhya and son of Aja of the Ikshvaku line, was the father of Rama, Lakshmana, Bharata and Shatrughna. Bound by two boons owed to his queen Kaikeyi, he exiled his beloved eldest son and died of grief soon after.",
+      "story": "Childless for many years, Dasharatha performed a horse sacrifice and, with the sage Rishyashringa officiating, a rite for sons; from the fire rose a radiant being bearing a vessel of divine payasa, which the king shared among Kausalya, Kaikeyi and Sumitra, and four sons were born. Long before, however, as a young prince hunting by night on the Sarayu, he had shot at a sound he took for an elephant drinking and killed an ascetic youth filling a water-pot for his blind, aged parents. The grieving father cursed him to die, like himself, sorrowing for a son. The curse ripened when Kaikeyi claimed the two boons she had earned by saving him in the gods' war against the asura Shambara. Dasharatha banished Rama and, a few nights later, confessing the old sin to Kausalya, died calling Rama's name.",
+      "symbols": [
+        "royal umbrella and throne of Ayodhya",
+        "shooting by sound (shabdavedhi archery)"
+      ],
+      "weapons": [
+        "bow and arrows"
+      ],
+      "vahana": null,
+      "abode": "Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Valmiki Ramayana, Ayodhya Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Raghuvamsha of Kalidasa",
+        "Ramcharitmanas of Tulsidas",
+        "Padma Purana (Dasharatha and Shani)"
+      ],
+      "variations": [
+        "Valmiki names Aja as his father; Kalidasa's Raghuvamsha names his mother as Indumati.",
+        "In the Buddhist Dasharatha Jataka he is a king of Varanasi.",
+        "The Ramcharitmanas says Dasharatha and Kausalya were Svayambhuva Manu and Shatarupa reborn, and also identifies them with Kashyapa and Aditi, to whom Vishnu had promised to be born as a son.",
+        "The Padma Purana tells how Dasharatha confronted Shani to stop a ruinous planetary transit, praised him with the Dasharatha Shani Stotra and received a boon.",
+        "The popular story that Kaikeyi saved him by thrusting her finger into a broken chariot axle is a later folk elaboration; Valmiki says only that she carried the wounded king from the battlefield.",
+        "Valmiki mentions some 350 lesser wives besides the three chief queens."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kausalya",
+      "name": "Kausalya",
+      "devanagari": "कौसल्या",
+      "aliases": [
+        "Kaushalya",
+        "Kausalya Devi",
+        "Rama-janani"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Kausalya, chief queen of Dasharatha and mother of Rama, is portrayed as a devout and dignified matriarch whose grief at her son's exile is one of the Ayodhya Kanda's most moving themes. Her name marks her as a princess of the Kosala country.",
+      "story": "On the morning Rama was to be consecrated, Kausalya had kept a night-long vigil, offering oblations to Vishnu for her son's welfare. Rama came to her dressed not for coronation but for exile. Stunned, she fell to the ground like a felled tree, then begged him to stay or to take her with him, reminding him of a mother's claim upon her son. Rama gently answered that her place lay with her husband, the stricken king. Accepting it, she blessed him with a long benediction for his safety in the forest, invoking the gods, the seasons, the rivers and the sages. Left behind, she turned her anguish on Dasharatha, and the king, begging forgiveness with folded hands, confessed to her his killing of the ascetic youth long ago before he died.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Valmiki Ramayana, Ayodhya Kanda",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "The Ramcharitmanas identifies her with Shatarupa, wife of Svayambhuva Manu, and with Aditi, reborn to have Vishnu as her son; in the Adhyatma Ramayana and Ramcharitmanas the newborn Rama first shows her his four-armed divine form.",
+        "Regional tradition in Chhattisgarh makes her a princess of Dakshina Kosala and honours her at the Kausalya temple of Chandkhuri."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kaikeyi",
+      "name": "Kaikeyi",
+      "devanagari": "कैकेयी",
+      "aliases": [
+        "Kaikayi",
+        "Kekayi",
+        "Bharata-mata"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Kaikeyi, princess of Kekaya and Dasharatha's favourite queen, was the mother of Bharata. Incited by her maid Manthara, she used two boons to have Rama exiled and Bharata crowned, an act that made her name a byword for scheming, though later tradition often softens her role.",
+      "story": "Kaikeyi had once saved Dasharatha's life, carrying the wounded king from the battlefield during the gods' war against the asura Shambara; in gratitude he granted her two boons, which she kept in reserve. Hearing of Rama's coming consecration, the hunchbacked Manthara warned her that she and Bharata would be reduced to servants of Kausalya. At first Kaikeyi rejoiced and gave the maid a jewel, for she loved Rama; but Manthara's words took hold. Casting off her ornaments, she lay on the floor of the chamber of anger. When the anxious king swore by Rama to grant her wish, she named her boons: Bharata's coronation and Rama's exile for fourteen years. Her own son repudiated her, and she went with him to Chitrakuta, where later tellings such as the Ramcharitmanas show her repentant.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Ayodhya; Kekaya (her father Ashvapati's kingdom)",
+      "sources": [
+        "Valmiki Ramayana, Ayodhya Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "The popular tale that she drove Dasharatha's chariot and kept it running by thrusting her finger into a broken axle is a later folk addition.",
+        "In the Adhyatma Ramayana and the Ramcharitmanas, the gods have Saraswati turn Manthara's (and so Kaikeyi's) mind, so that Rama may go to the forest and destroy Ravana; Kaikeyi's act thus serves a divine purpose.",
+        "Some later devotional and modern retellings present her as knowingly sacrificing her reputation for the gods' plan."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "sumitra",
+      "name": "Sumitra",
+      "devanagari": "सुमित्रा",
+      "aliases": [
+        "Sumitra Devi"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Sumitra, the third of Dasharatha's chief queens, was mother of the twins Lakshmana and Shatrughna. Valmiki portrays her as wise and self-effacing, sending Lakshmana into exile with words that became proverbial.",
+      "story": "When Rama left for the forest, Lakshmana came to take leave of his mother. Sumitra did not hold him back. Instead she blessed him with counsel that later generations learned by heart: he was to regard Rama as his father Dasharatha, Sita as his mother, and the forest as Ayodhya, and so go forth in happiness. Afterwards, when Kausalya was overwhelmed by grief and anger, it was Sumitra who consoled her, reminding her of Rama's virtue, his strength and his certain return. According to the Bala Kanda, Sumitra had received the divine payasa of Dasharatha's sacrifice twice over, which is why she bore twins; a popular explanation adds that one son was drawn to Rama and the other to Bharata because her portions had come from the shares of their mothers.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Valmiki Ramayana, Ayodhya Kanda",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "Accounts of how the payasa was divided differ: in some tellings Kausalya and Kaikeyi each give part of their share to Sumitra, explaining the twins' attachments to Rama and Bharata.",
+        "Later traditions assign her various royal birthplaces, none attested in Valmiki."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "manthara",
+      "name": "Manthara",
+      "devanagari": "मन्थरा",
+      "aliases": [
+        "Kubja",
+        "Kuni"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Manthara is the hunchbacked maidservant who came from Kekaya with Queen Kaikeyi and persuaded her to demand Rama's exile. Her whispered counsel sets the Ramayana's central crisis in motion.",
+      "story": "From the palace terrace Manthara saw Ayodhya hung with banners and learned that Rama was to be made heir the next morning. She hurried to Kaikeyi, who lay resting, and warned her that once Rama was king, Bharata would be banished or killed, and Kaikeyi herself would wait on Kausalya as a handmaid. Kaikeyi at first answered with joy and gave her a jewel; Manthara flung it aside and pressed on, reminding her of the two boons the king had promised long ago and teaching her to enter the chamber of anger and refuse all comfort until they were granted. When Bharata returned to find his father dead and his brother exiled, Shatrughna seized the richly adorned maid and dragged her along the ground, until Bharata restrained him.",
+      "symbols": [
+        "hunched back",
+        "jewels and fine garments"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Ayodhya (Kaikeyi's palace)",
+      "sources": [
+        "Valmiki Ramayana, Ayodhya Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas",
+        "Ramavataram of Kamban"
+      ],
+      "variations": [
+        "In the Mahabharata's Ramopakhyana, Brahma sends the gandharvi Dundubhi to be born as Manthara to bring about Rama's exile.",
+        "In the Adhyatma Ramayana and the Ramcharitmanas, the goddess Saraswati, at the gods' request, clouds Manthara's mind so that Rama's divine mission may proceed.",
+        "Kamban's Tamil Ramavataram traces her grudge to Rama's boyhood, when he struck her hump with a pellet from his bow in play."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shanta",
+      "name": "Shanta",
+      "devanagari": "शान्ता",
+      "aliases": [
+        "Santa",
+        "Shantaa"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Shanta is the wife of the sage Rishyashringa, whose arrival ended a drought in Anga and who later officiated at Dasharatha's sacrifice for sons. Valmiki calls her the daughter of King Romapada (Lomapada) of Anga; later tradition makes her Dasharatha's own daughter, given in adoption to his friend Romapada, and so Rama's elder sister.",
+      "story": "The kingdom of Anga was stricken by drought because its king Romapada had offended the brahmins. His counsellors advised him to bring to the city the young sage Rishyashringa, raised in the forest by his father Vibhandaka without ever seeing a woman. Courtesans lured the innocent youth onto a boat and carried him to Anga, and as soon as he arrived the rain poured down. Romapada gave him his daughter Shanta in marriage, and the couple lived honoured at court. Later Dasharatha, longing for sons, travelled to Anga and invited Rishyashringa and Shanta to Ayodhya, where the sage performed the rites from which Rama and his brothers were born. Temples to Rishyashringa, such as the one at Kigga near Sringeri, keep the couple's memory alive.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Anga (Champa); Rishyashringa's hermitage",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Mahabharata, Vana Parva (Rishyashringa episode)",
+        "Bhagavata Purana, Canto 9"
+      ],
+      "variations": [
+        "Valmiki's Bala Kanda and the Mahabharata make Shanta the daughter of Romapada (Lomapada) of Anga.",
+        "The Bhagavata Purana and other Puranic and regional traditions say Dasharatha gave his daughter Shanta to his childless friend Romapada; some folk tellings make her Kausalya's daughter."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "janaka",
+      "name": "Janaka",
+      "devanagari": "जनक",
+      "aliases": [
+        "Siradhvaja",
+        "Siradhvaja Janaka",
+        "Videha",
+        "Vaideha",
+        "Janaka Vaideha",
+        "Mithilesha",
+        "Rajarshi Janaka"
+      ],
+      "category": "human",
+      "era": "later-vedic",
+      "group": false,
+      "description": "Janaka is the royal title of the kings of Videha (Mithila). Sita's father, whom the Ramayana calls Siradhvaja Janaka, was renowned as a royal sage (rajarshi) who ruled with detachment; the philosopher-king Janaka Vaideha of the Shatapatha Brahmana and Brihadaranyaka Upanishad is traditionally conflated with him, though the texts suggest different kings of one dynasty.",
+      "story": "Janaka was ploughing the ground for a sacrifice when he found an infant girl in the furrow and raised her as Sita. In his palace lay the great bow of Shiva, entrusted to his ancestor Devarata after the gods' quarrel at Daksha's sacrifice; so heavy was it that it had to be drawn on an eight-wheeled cart by thousands of men. Janaka declared that Sita would be given only to one who could string it. Kings came and failed, and some even besieged Mithila in anger. When Vishvamitra brought the young Rama, the prince lifted the bow, strung it and drew it until it snapped with a crash like thunder. Overjoyed, Janaka sent messengers to Dasharatha and gave his daughters and nieces in marriage to the four princes of Ayodhya.",
+      "symbols": [
+        "plough (sira)",
+        "Shiva's bow (Pinaka)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Mithila (Videha)",
+      "sources": [
+        "Shatapatha Brahmana (Janaka of Videha)",
+        "Brihadaranyaka Upanishad, books 3–4",
+        "Valmiki Ramayana, Bala Kanda",
+        "Mahabharata, Vana Parva (Ashtavakra episode) and Shanti Parva",
+        "Ashtavakra Gita"
+      ],
+      "variations": [
+        "Janaka is a dynastic title: Valmiki's Bala Kanda traces the Videha line from Nimi and Mithi to Siradhvaja, son of Hrasvaroman. The Upanishadic Janaka Vaideha, patron of Yajnavalkya, and the Janaka of Ashtavakra's tale are not securely the same king as Sita's father.",
+        "The Mahabharata's Shanti Parva attributes to Janaka the saying that if Mithila burns, nothing of his is burnt, the classic statement of royal detachment.",
+        "The name of his queen, Sunaina (Sunayana), is not given in Valmiki and comes from later tradition."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "sunaina",
+      "name": "Sunaina",
+      "devanagari": "सुनयना",
+      "aliases": [
+        "Sunayana",
+        "Sunayna"
+      ],
+      "category": "human",
+      "era": "late-puranas",
+      "group": false,
+      "description": "Sunaina (Sunayana) is the name later tradition gives to the queen of Janaka and mother of Sita and Urmila. She is not named in Valmiki's Ramayana and is best known from medieval retellings, above all Tulsidas's Ramcharitmanas.",
+      "story": "In the Ramcharitmanas, Sunayana watches anxiously as the kings of the earth fail one after another to move Shiva's bow. Seeing the youthful Rama step forward, she grieves to her companions that her husband's vow is heartless: how could so tender a boy bend a bow that mighty warriors could not stir? A wise companion answers that the power of the great is not measured by their size, for the pot-born sage Agastya drank up the ocean. Then the bow breaks, and her fear turns to joy. Later, when the court of Ayodhya gathers at Chitrakuta around the exiled Rama, Tulsidas brings Janaka and Sunayana to the forest too, and the queen of Mithila meets Kausalya, the two mothers sharing their sorrow for their children.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Mithila",
+      "sources": [
+        "Ramcharitmanas of Tulsidas, Bala Kand",
+        "Ramcharitmanas of Tulsidas, Ayodhya Kand"
+      ],
+      "variations": [
+        "Valmiki leaves Janaka's queen unnamed; the name Sunaina or Sunayana belongs to later tradition.",
+        "Since Sita was found in the furrow, Sunaina's motherhood of Sita is adoptive; Urmila is Janaka's own daughter."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "kushadhvaja",
+      "name": "Kushadhvaja",
+      "devanagari": "कुशध्वज",
+      "aliases": [
+        "Kushadhwaja"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Kushadhvaja is the younger brother of King Siradhvaja Janaka and king of Sankashya, and the father of Mandavi and Shrutakirti. He appears in the Bala Kanda of Valmiki's Ramayana.",
+      "story": "When Dasharatha's party arrived in Mithila for Rama's wedding, Janaka summoned his brother Kushadhvaja from Sankashya, the city on the river Ikshumati, and recited their lineage from Nimi. He told how, after their father Hrasvaroman retired to the forest, King Sudhanva of Sankashya had besieged Mithila demanding Shiva's bow and the lotus-eyed Sita; Janaka killed Sudhanva in battle and installed Kushadhvaja on the throne of Sankashya. Vishvamitra and Vashistha then proposed that Kushadhvaja's two daughters, as virtuous as they were beautiful, be married to Bharata and Shatrughna. Kushadhvaja gladly agreed, and Mandavi and Shrutakirti were wedded alongside Sita and Urmila, binding the houses of Mithila and Ayodhya in a fourfold alliance.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Sankashya",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda"
+      ],
+      "variations": [
+        "Not to be confused with Kushadhvaja, son of Brihaspati, whom the Uttara Kanda names as the father of Vedavati."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "lava",
+      "name": "Lava",
+      "devanagari": "लव",
+      "aliases": [
+        "Luv",
+        "Lav"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Lava is the younger of the twin sons of Rama and Sita, born in the hermitage of Valmiki after Sita's banishment. With his brother Kusha he learned the Ramayana from Valmiki and sang it at Rama's court; he later ruled from Shravasti in the north.",
+      "story": "According to the Padma Purana and later tellings such as Jaimini's Ashvamedha and the Bengali Krittivasi Ramayan, when Rama loosed the horse of his horse sacrifice it wandered near Valmiki's hermitage. The boy Lava read the golden plate on its forehead proclaiming Rama's sovereignty over all who let it pass and, indignant at the challenge, tied the horse to a tree. Rama's army under Shatrughna came to reclaim it; single-handed, Lava held them off until he was overpowered and taken captive. Kusha, returning, rushed to his rescue, and together the twins routed the army, in some versions even binding Hanuman. Only Sita's intervention ended the fight. Valmiki's Uttara Kanda knows nothing of this battle: there the twins simply sing the epic at the sacrifice, and Rama recognises them as his sons.",
+      "symbols": [
+        "bow",
+        "vina (as a singer of the Ramayana)"
+      ],
+      "weapons": [
+        "bow and arrows"
+      ],
+      "vahana": null,
+      "abode": "Valmiki's hermitage; Shravasti",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Bala Kanda (frame story)",
+        "Padma Purana, Patala Khanda",
+        "Jaimini Ashvamedha",
+        "Krittivasi Ramayan"
+      ],
+      "variations": [
+        "The capture of the sacrificial horse and the battle with Rama's army are found in the Padma Purana, Jaimini's Ashvamedha, Bhavabhuti's Uttararamacharita and regional retellings, not in Valmiki.",
+        "A popular folk tale says that only Lava was born to Sita, and that Valmiki created Kusha from kusha grass when he feared the child lost.",
+        "In the Uttara Kanda, Rama gives Lava the northern city of Shravasti; the Punjabi tradition links Lahore (Lavapura) with his name."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kusha",
+      "name": "Kusha",
+      "devanagari": "कुश",
+      "aliases": [
+        "Kush"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Kusha is the elder of Rama and Sita's twin sons, born in Valmiki's hermitage. He received southern Kosala with its capital Kushavati, and according to Kalidasa later restored Ayodhya as the seat of the Ikshvaku line.",
+      "story": "On the night Shatrughna lodged at Valmiki's hermitage, Sita gave birth to twin sons. The sage took a handful of sacred kusha grass: with its tips he performed the protective rites for the first-born, naming him Kusha, and with its lower part, lava, he protected the younger, naming him Lava. Valmiki taught the boys the epic he had composed, and they sang it at Rama's horse sacrifice, where the king recognised his sons. When Rama left the world he gave Kusha the kingdom of southern Kosala at Kushavati. In Kalidasa's Raghuvamsha, the deserted Ayodhya appears to Kusha at night as a mourning woman, the city's presiding goddess, and begs him to come home; he moves his court back and restores her splendour.",
+      "symbols": [
+        "bow",
+        "vina (as a singer of the Ramayana)",
+        "kusha grass"
+      ],
+      "weapons": [
+        "bow and arrows"
+      ],
+      "vahana": null,
+      "abode": "Valmiki's hermitage; Kushavati; Ayodhya",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Valmiki Ramayana, Bala Kanda (frame story)",
+        "Raghuvamsha of Kalidasa, canto 16",
+        "Padma Purana, Patala Khanda"
+      ],
+      "variations": [
+        "The Raghuvamsha adds Kusha's return to Ayodhya and his marriage to the naga princess Kumudvati; their son Atithi continues the line.",
+        "In the Padma Purana and Jaimini's Ashvamedha he rescues Lava and fights Rama's army over the sacrificial horse.",
+        "A folk tale says Valmiki created Kusha from kusha grass as a substitute for Lava."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "guha",
+      "name": "Guha",
+      "devanagari": "गुह",
+      "aliases": [
+        "Nishadaraja",
+        "Nishadraj",
+        "Guhan"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Guha is the king of the Nishadas, a forest people, at Shringaverapura on the Ganga, and a close friend of Rama. He welcomed the exiles and ferried them across the river, and later helped Bharata's army to cross.",
+      "story": "When Rama reached Shringaverapura on the first stage of his exile, Guha, lord of the Nishadas, came out with his elders and offered him his kingdom and every comfort. Rama embraced his friend but, bound by his vow, accepted only fodder for the horses and slept on a bed of grass beneath an ingudi tree, while Guha and Lakshmana kept watch through the night, speaking of Ayodhya's sorrow. At dawn Guha's boatmen ferried the exiles across the Ganga. Later, seeing Bharata approach with a great army, Guha suspected he meant to harm Rama and readied his warriors; but when Bharata's grief and loyalty became plain, Guha wept, showed him the place where Rama had slept, and brought five hundred boats to carry his host over the river.",
+      "symbols": [
+        "boats on the Ganga",
+        "ingudi tree"
+      ],
+      "weapons": [
+        "bow"
+      ],
+      "vahana": null,
+      "abode": "Shringaverapura on the Ganga",
+      "sources": [
+        "Valmiki Ramayana, Ayodhya Kanda",
+        "Ramcharitmanas of Tulsidas",
+        "Ramavataram of Kamban"
+      ],
+      "variations": [
+        "The Ramcharitmanas distinguishes Guha (Nishadraj) from the boatman Kevat, who insists on washing Rama's feet before ferrying him; popular tradition often merges the two.",
+        "In Kamban's Tamil Ramavataram, Rama embraces Guhan as a brother, saying that the four brothers have now become five."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shabari",
+      "name": "Shabari",
+      "devanagari": "शबरी",
+      "aliases": [
+        "Shabri",
+        "Sabari",
+        "Shramani"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Shabari is an aged female ascetic of the forest, a Shabara by birth, who served the sages of Matanga's hermitage near Lake Pampa and waited years for Rama's coming. In devotional tradition she became the supreme example of bhakti that transcends birth and caste.",
+      "story": "Directed by the freed Kabandha, Rama and Lakshmana reached the hermitage of Matanga on the western shore of Lake Pampa. There the ascetic woman Shabari, who had served the sages until they ascended to heaven, rose to greet them and touched their feet. Her teachers had told her to await Rama, and she had gathered the fruits of the Pampa forest for him. She showed the brothers the altar where the sages had worshipped and the lakes they had brought into being by their thought. Then, with Rama's leave, she cast her body into the fire and rose to heaven in radiant form, to the realm of the sages she had served. Later devotional tradition adds that she tasted each berry first so as to offer Rama only the sweetest, and that Rama ate them with love.",
+      "symbols": [
+        "forest fruits (berries)",
+        "ascetic's bark garments and matted hair"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Matanga's hermitage by Lake Pampa",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas, Aranya Kand"
+      ],
+      "variations": [
+        "The episode of the pre-tasted berries is a later devotional addition, popular in North Indian bhakti tradition and folk retellings, and is not in Valmiki.",
+        "In the Ramcharitmanas Rama teaches Shabari the nine forms of devotion (navadha bhakti) and grants her liberation.",
+        "In the Adhyatma Ramayana Shabari herself tells Rama that Sita is in Lanka and advises him to seek Sugriva's friendship."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "jatayu",
+      "name": "Jatayu",
+      "devanagari": "जटायु",
+      "aliases": [
+        "Jatayus",
+        "Gridhraraja",
+        "Pakshiraja"
+      ],
+      "category": "animal",
+      "era": "ramayana",
+      "group": false,
+      "description": "Jatayu is the aged vulture king, son of Aruna and younger brother of Sampati, and an old friend of Dasharatha. He fought Ravana to rescue the abducted Sita and died in Rama's arms, becoming a model of selfless sacrifice.",
+      "story": "Meeting Rama at Panchavati, Jatayu declared himself a friend of his father and offered to guard Sita when the brothers were away. When Ravana flew off with the weeping Sita in his chariot, the old bird rose to challenge him, rebuking him for his crime. In a fierce battle in the sky Jatayu shattered Ravana's chariot, killed the asses that drew it and the charioteer, and broke his bow; but the rakshasa drew his sword and cut off the aged vulture's wings, and Jatayu fell to earth. Searching for Sita, Rama and Lakshmana found him lying in his blood. With his last breaths he told them that Ravana had carried her away to the south, and then he died. Rama, grieving as for a father, cremated him with full rites and offered water for his spirit.",
+      "symbols": [
+        "vulture",
+        "severed wings"
+      ],
+      "weapons": [
+        "beak and talons"
+      ],
+      "vahana": null,
+      "abode": "Panchavati in the Dandaka forest",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "In the Adhyatma Ramayana and the Ramcharitmanas Jatayu praises Rama as Vishnu and attains a divine form and Vishnu's abode.",
+        "Local traditions place his fall at several sites, including Lepakshi in Andhra Pradesh and Jatayupara at Chadayamangalam in Kerala.",
+        "Valmiki calls him the son of Aruna and Shyeni; some later texts make the vulture brothers sons of Garuda instead."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "sampati",
+      "name": "Sampati",
+      "devanagari": "सम्पाति",
+      "aliases": [
+        "Sampaati"
+      ],
+      "category": "animal",
+      "era": "ramayana",
+      "group": false,
+      "description": "Sampati is the elder brother of Jatayu, a great vulture whose wings were burned by the sun when he shielded his brother in their youth. Wingless on a mountain by the southern sea, he told the searching vanaras that Sita was held in Lanka.",
+      "story": "Long ago the two vulture brothers, proud of their strength, raced towards the sun. As Jatayu faltered in the scorching heat, Sampati spread his wings over him; they were burnt away and he fell onto the Vindhya mountains, where the sage Nishakara consoled him and foretold that he would regain his wings by helping Rama's messengers. Ages later the vanaras under Angada, despairing of finding Sita, sat down on the southern shore to fast unto death, lamenting Jatayu's fate. Hearing of his brother's death, Sampati asked to be carried to the sea to offer him water. Then, with his far-seeing vulture's eyes, he saw Sita across the ocean in Lanka and told them so; as he spoke, new wings sprang from his body and he soared away.",
+      "symbols": [
+        "vulture",
+        "burnt wings",
+        "far sight"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Vindhya mountains by the southern ocean",
+      "sources": [
+        "Valmiki Ramayana, Kishkindha Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "In Valmiki, Sampati's son Suparshva had seen Ravana carrying off a woman and reported it to his father.",
+        "Some retellings compress the story so that Sampati's wings regrow as soon as he offers water to Jatayu."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kabandha",
+      "name": "Kabandha",
+      "devanagari": "कबन्ध",
+      "aliases": [
+        "Danu",
+        "Kabandh"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Kabandha is a headless, gigantic monster of the Krauncha forest whose mouth gaped in his belly and whose single eye burned in his chest. Slain and cremated by Rama and Lakshmana, he was freed from a curse, regained his celestial form and guided Rama towards Sugriva and Shabari.",
+      "story": "Wandering the Krauncha forest in search of Sita, Rama and Lakshmana were suddenly seized by a monstrous being with no head or neck: a single eye burned in his chest, a huge mouth gaped in his belly, and his arms stretched a league long to snatch whatever passed. The brothers drew their swords and cut off his arms. Dying, the creature told his story. He had once been radiant and handsome but terrified sages in fearsome forms, until the sage Sthulashira cursed him to keep one; then, proud of a boon of long life from Brahma, he attacked Indra, whose thunderbolt drove his head and thighs into his body. Only when Rama severed his arms and burned him would he be free. Rama cremated him, and from the pyre he rose in shining form, counselling Rama to seek the friendship of Sugriva.",
+      "symbols": [
+        "headless torso",
+        "eye in the chest",
+        "mouth in the belly"
+      ],
+      "weapons": [
+        "arms a league long"
+      ],
+      "vahana": null,
+      "abode": "Krauncha forest",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Mahabharata, Vana Parva (Ramopakhyana)",
+        "Adhyatma Ramayana"
+      ],
+      "variations": [
+        "Valmiki has him call himself Danu, son of Shri, of the Danava race; the Mahabharata and the Adhyatma Ramayana make him the gandharva Vishvavasu.",
+        "Retellings differ on the curse-giver and on whether the brothers kill him with swords or arrows."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "viradha",
+      "name": "Viradha",
+      "devanagari": "विराध",
+      "aliases": [
+        "Viradh"
+      ],
+      "category": "rakshasa",
+      "era": "ramayana",
+      "group": false,
+      "description": "Viradha is a monstrous rakshasa of the Dandaka forest who seized Sita soon after the exiles entered the wilderness. Invulnerable to weapons by Brahma's boon, he was buried alive by Rama and Lakshmana and so released from a curse, regaining his true form as the gandharva Tumburu.",
+      "story": "As the exiles entered the Dandaka forest, a towering man-eater wearing a tiger skin and carrying a spear hung with the carcasses of lions and elephants rushed on them, snatched up Sita and threatened to drink the brothers' blood. Their arrows only wounded him, for Brahma had made him proof against weapons. He hoisted the two princes onto his shoulders and strode away, until they broke his arms and beat him down. Seeing that no weapon could kill him, Rama had Lakshmana dig a great pit. Viradha then recognised Rama: he was the gandharva Tumburu, cursed by Kubera for neglecting his service out of love for the apsara Rambha, and could be freed only by Rama. He directed the brothers to the hermitage of the sage Sharabhanga and was buried in the pit.",
+      "symbols": [
+        "tiger skin",
+        "spear hung with carcasses"
+      ],
+      "weapons": [
+        "spear (shula)"
+      ],
+      "vahana": null,
+      "abode": "Dandaka forest",
+      "sources": [
+        "Valmiki Ramayana, Aranya Kanda",
+        "Adhyatma Ramayana",
+        "Ramcharitmanas of Tulsidas"
+      ],
+      "variations": [
+        "Some later retellings give a different origin for his curse or compress the episode into a brief encounter (as in the Ramcharitmanas).",
+        "Valmiki names his parents as Java and Shatahrada."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shravana-kumara",
+      "name": "Shravana Kumara",
+      "devanagari": "श्रवण कुमार",
+      "aliases": [
+        "Shravan Kumar",
+        "Shravana",
+        "the ascetic youth (Valmiki)"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "Shravana Kumara is the popular name of the young ascetic whom Dasharatha accidentally killed while hunting, and whose bereaved parents cursed the king to die grieving for a son. Valmiki leaves the youth unnamed; the name comes from later retellings, in which he became India's ideal of filial devotion.",
+      "story": "Valmiki tells the tale through Dasharatha's dying words. In the rainy season the young prince, proud of his skill at shooting by sound, lay in wait by the Sarayu at night. Hearing a gurgling he took for an elephant drinking, he loosed an arrow and heard a human cry. He found a young ascetic with matted hair, pierced through beside his water-pot; the youth said his blind, aged parents were waiting thirsty in their hermitage, and that he was not a brahmin, so the king was spared that sin. When the arrow was drawn out, he died. Dasharatha carried water to the parents and confessed. They performed their son's funeral rites, the father cursed the king to die, like him, grieving for a son, and both entered the pyre. The youth rose to heaven in a celestial body.",
+      "symbols": [
+        "water-pot",
+        "carrying pole with two baskets (kavad) bearing his parents, in later iconography"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "a hermitage near the Sarayu",
+      "sources": [
+        "Valmiki Ramayana, Ayodhya Kanda (Dasharatha's confession)",
+        "Raghuvamsha of Kalidasa, canto 9"
+      ],
+      "variations": [
+        "Valmiki does not name the youth and describes him as the son of a vaishya father and a shudra mother; the name Shravana and the image of him carrying his parents on pilgrimage in two baskets slung from a pole come from later retellings and folk tradition.",
+        "Kalidasa's Raghuvamsha retells the hunting accident briefly and without the later name."
+      ],
+      "disputed": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "dasharatha",
+      "target": "rama",
+      "type": "parent",
+      "label": "Dasharatha is the father of Rama"
+    },
+    {
+      "source": "kausalya",
+      "target": "rama",
+      "type": "parent",
+      "label": "Kausalya bore Rama, eldest son of Dasharatha"
+    },
+    {
+      "source": "dasharatha",
+      "target": "lakshmana",
+      "type": "parent",
+      "label": "Dasharatha is the father of Lakshmana"
+    },
+    {
+      "source": "sumitra",
+      "target": "lakshmana",
+      "type": "parent",
+      "label": "Sumitra bore Lakshmana, twin of Shatrughna"
+    },
+    {
+      "source": "dasharatha",
+      "target": "bharata",
+      "type": "parent",
+      "label": "Dasharatha is the father of Bharata"
+    },
+    {
+      "source": "kaikeyi",
+      "target": "bharata",
+      "type": "parent",
+      "label": "Kaikeyi is the mother of Bharata"
+    },
+    {
+      "source": "dasharatha",
+      "target": "shatrughna",
+      "type": "parent",
+      "label": "Dasharatha is the father of Shatrughna"
+    },
+    {
+      "source": "sumitra",
+      "target": "shatrughna",
+      "type": "parent",
+      "label": "Sumitra bore Shatrughna, twin of Lakshmana"
+    },
+    {
+      "source": "dasharatha",
+      "target": "shanta",
+      "type": "parent",
+      "label": "Shanta is Dasharatha's daughter, given in adoption to his friend Romapada of Anga",
+      "disputed": true,
+      "variation": "Valmiki and the Mahabharata call Shanta the daughter of Romapada; the Bhagavata Purana and later tradition make her Dasharatha's daughter"
+    },
+    {
+      "source": "aja",
+      "target": "dasharatha",
+      "type": "parent",
+      "label": "Aja of the Ikshvaku line is the father of Dasharatha"
+    },
+    {
+      "source": "indumati",
+      "target": "dasharatha",
+      "type": "parent",
+      "label": "Indumati, queen of Aja, is the mother of Dasharatha in Kalidasa's Raghuvamsha",
+      "variation": "Valmiki does not name Dasharatha's mother"
+    },
+    {
+      "source": "janaka",
+      "target": "sita",
+      "type": "parent",
+      "label": "Janaka found Sita in a ploughed furrow and raised her as his daughter (foster father)"
+    },
+    {
+      "source": "janaka",
+      "target": "urmila",
+      "type": "parent",
+      "label": "Urmila is Janaka's own daughter"
+    },
+    {
+      "source": "sunaina",
+      "target": "sita",
+      "type": "parent",
+      "label": "Sunaina, Janaka's queen in later tradition, is Sita's (adoptive) mother",
+      "disputed": true,
+      "variation": "The queen is unnamed in Valmiki; the name comes from later texts such as the Ramcharitmanas"
+    },
+    {
+      "source": "sunaina",
+      "target": "urmila",
+      "type": "parent",
+      "label": "Sunaina, Janaka's queen in later tradition, is the mother of Urmila",
+      "disputed": true,
+      "variation": "The queen is unnamed in Valmiki"
+    },
+    {
+      "source": "kushadhvaja",
+      "target": "mandavi",
+      "type": "parent",
+      "label": "Kushadhvaja of Sankashya is the father of Mandavi"
+    },
+    {
+      "source": "kushadhvaja",
+      "target": "shrutakirti",
+      "type": "parent",
+      "label": "Kushadhvaja of Sankashya is the father of Shrutakirti"
+    },
+    {
+      "source": "rama",
+      "target": "lava",
+      "type": "parent",
+      "label": "Rama is the father of Lava"
+    },
+    {
+      "source": "rama",
+      "target": "kusha",
+      "type": "parent",
+      "label": "Rama is the father of Kusha"
+    },
+    {
+      "source": "sita",
+      "target": "lava",
+      "type": "parent",
+      "label": "Sita bore Lava in Valmiki's hermitage"
+    },
+    {
+      "source": "sita",
+      "target": "kusha",
+      "type": "parent",
+      "label": "Sita bore Kusha in Valmiki's hermitage"
+    },
+    {
+      "source": "aruna",
+      "target": "jatayu",
+      "type": "parent",
+      "label": "Jatayu is the son of Aruna (and Shyeni)",
+      "variation": "Some later texts make the vulture brothers sons of Garuda"
+    },
+    {
+      "source": "aruna",
+      "target": "sampati",
+      "type": "parent",
+      "label": "Sampati is the elder son of Aruna"
+    },
+    {
+      "source": "mandodari",
+      "target": "sita",
+      "type": "parent",
+      "label": "In some retellings Sita is born of Mandodari (or is Ravana's daughter) and abandoned, to be found by Janaka",
+      "disputed": true,
+      "variation": "Adbhuta Ramayana; Jain Uttarapurana and Vasudevahindi; not in Valmiki"
+    },
+    {
+      "source": "sita",
+      "target": "prithvi",
+      "type": "created-by",
+      "label": "Sita, born from a furrow, is the daughter of the Earth, who finally receives her back"
+    },
+    {
+      "source": "ikshvaku",
+      "target": "rama",
+      "type": "ancestor-of",
+      "label": "Rama belongs to the Ikshvaku (Solar) dynasty"
+    },
+    {
+      "source": "raghu",
+      "target": "rama",
+      "type": "ancestor-of",
+      "label": "Rama is called Raghava after his great-grandfather Raghu"
+    },
+    {
+      "source": "rama",
+      "target": "sita",
+      "type": "spouse",
+      "label": "Rama won Sita by breaking Shiva's bow in Mithila"
+    },
+    {
+      "source": "lakshmana",
+      "target": "urmila",
+      "type": "spouse",
+      "label": "Lakshmana married Urmila at the fourfold wedding in Mithila"
+    },
+    {
+      "source": "bharata",
+      "target": "mandavi",
+      "type": "spouse",
+      "label": "Bharata married Mandavi, daughter of Kushadhvaja"
+    },
+    {
+      "source": "shatrughna",
+      "target": "shrutakirti",
+      "type": "spouse",
+      "label": "Shatrughna married Shrutakirti, daughter of Kushadhvaja"
+    },
+    {
+      "source": "dasharatha",
+      "target": "kausalya",
+      "type": "spouse",
+      "label": "Kausalya is Dasharatha's chief queen"
+    },
+    {
+      "source": "dasharatha",
+      "target": "kaikeyi",
+      "type": "spouse",
+      "label": "Kaikeyi of Kekaya is Dasharatha's favourite queen"
+    },
+    {
+      "source": "dasharatha",
+      "target": "sumitra",
+      "type": "spouse",
+      "label": "Sumitra is Dasharatha's third chief queen"
+    },
+    {
+      "source": "janaka",
+      "target": "sunaina",
+      "type": "spouse",
+      "label": "Sunaina is Janaka's queen in later tradition",
+      "disputed": true,
+      "variation": "Not named in Valmiki"
+    },
+    {
+      "source": "rishyashringa",
+      "target": "shanta",
+      "type": "spouse",
+      "label": "Rishyashringa married Shanta after bringing rain to Anga"
+    },
+    {
+      "source": "rama",
+      "target": "lakshmana",
+      "type": "sibling",
+      "label": "Rama and Lakshmana, half-brothers and inseparable companions in exile"
+    },
+    {
+      "source": "rama",
+      "target": "bharata",
+      "type": "sibling",
+      "label": "Bharata, Rama's half-brother, ruled as regent with Rama's sandals on the throne"
+    },
+    {
+      "source": "rama",
+      "target": "shatrughna",
+      "type": "sibling",
+      "label": "Shatrughna is Rama's youngest half-brother"
+    },
+    {
+      "source": "lakshmana",
+      "target": "shatrughna",
+      "type": "sibling",
+      "label": "Lakshmana and Shatrughna are twin sons of Sumitra"
+    },
+    {
+      "source": "lakshmana",
+      "target": "bharata",
+      "type": "sibling",
+      "label": "Lakshmana and Bharata are half-brothers, sons of Dasharatha"
+    },
+    {
+      "source": "bharata",
+      "target": "shatrughna",
+      "type": "sibling",
+      "label": "Bharata and his devoted half-brother Shatrughna"
+    },
+    {
+      "source": "rama",
+      "target": "shanta",
+      "type": "sibling",
+      "label": "Shanta is Rama's elder sister in Puranic and later tradition",
+      "disputed": true,
+      "variation": "Valmiki makes Shanta the daughter of Romapada, not Dasharatha"
+    },
+    {
+      "source": "sita",
+      "target": "urmila",
+      "type": "sibling",
+      "label": "Sita and Urmila are daughters of Janaka (Sita by adoption)"
+    },
+    {
+      "source": "mandavi",
+      "target": "shrutakirti",
+      "type": "sibling",
+      "label": "Mandavi and Shrutakirti are daughters of Kushadhvaja"
+    },
+    {
+      "source": "lava",
+      "target": "kusha",
+      "type": "sibling",
+      "label": "Lava and Kusha are twin sons of Rama and Sita"
+    },
+    {
+      "source": "jatayu",
+      "target": "sampati",
+      "type": "sibling",
+      "label": "Jatayu and Sampati are vulture brothers; Sampati burned his wings shielding Jatayu from the sun"
+    },
+    {
+      "source": "janaka",
+      "target": "kushadhvaja",
+      "type": "sibling",
+      "label": "Kushadhvaja is the younger brother of Siradhvaja Janaka"
+    },
+    {
+      "source": "rama",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Rama is the seventh avatar of Vishnu",
+      "variation": "Explicit in the Bala and Uttara Kandas and Brahma's hymn in the Yuddha Kanda; the degree of divinisation in the core books is debated"
+    },
+    {
+      "source": "sita",
+      "target": "lakshmi",
+      "type": "avatar-of",
+      "label": "Sita is an incarnation of Lakshmi, consort of Vishnu"
+    },
+    {
+      "source": "lakshmana",
+      "target": "shesha",
+      "type": "avatar-of",
+      "label": "Lakshmana is an incarnation of the serpent Shesha",
+      "variation": "Later tradition (Adhyatma Ramayana, Puranas); Valmiki makes him a portion of Vishnu"
+    },
+    {
+      "source": "lakshmana",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Lakshmana is born of a portion of Vishnu's essence (Valmiki, Bala Kanda)",
+      "variation": "Later tradition identifies him with Shesha instead"
+    },
+    {
+      "source": "bharata",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Bharata is born of a quarter-portion of Vishnu (Valmiki, Bala Kanda)",
+      "variation": "Later texts identify him with Vishnu's discus Sudarshana or conch Panchajanya"
+    },
+    {
+      "source": "shatrughna",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Shatrughna is born of a portion of Vishnu (Valmiki, Bala Kanda)",
+      "variation": "Later texts identify him with Vishnu's conch Panchajanya or discus Sudarshana"
+    },
+    {
+      "source": "sita",
+      "target": "vedavati",
+      "type": "reincarnation-of",
+      "label": "Sita is the rebirth of Vedavati, who vowed to return for Ravana's destruction",
+      "disputed": true,
+      "variation": "Uttara Kanda, a later layer of the epic"
+    },
+    {
+      "source": "dasharatha",
+      "target": "svayambhuva-manu",
+      "type": "reincarnation-of",
+      "label": "Dasharatha is Svayambhuva Manu reborn, granted Vishnu as his son",
+      "disputed": true,
+      "variation": "Ramcharitmanas; not in Valmiki"
+    },
+    {
+      "source": "kausalya",
+      "target": "shatarupa",
+      "type": "reincarnation-of",
+      "label": "Kausalya is Shatarupa reborn to be Rama's mother",
+      "disputed": true,
+      "variation": "Ramcharitmanas; not in Valmiki"
+    },
+    {
+      "source": "dasharatha",
+      "target": "kashyapa",
+      "type": "reincarnation-of",
+      "label": "Dasharatha is Kashyapa reborn, as Vishnu promised him a son",
+      "disputed": true,
+      "variation": "Ramcharitmanas and other devotional texts; not in Valmiki"
+    },
+    {
+      "source": "kausalya",
+      "target": "aditi",
+      "type": "reincarnation-of",
+      "label": "Kausalya is Aditi reborn, who again bears Vishnu as her son",
+      "disputed": true,
+      "variation": "Ramcharitmanas and other devotional texts; not in Valmiki"
+    },
+    {
+      "source": "viradha",
+      "target": "tumburu",
+      "type": "form-of",
+      "label": "Viradha is the cursed rakshasa form of the gandharva Tumburu"
+    },
+    {
+      "source": "vashistha",
+      "target": "rama",
+      "type": "guru",
+      "label": "Vashistha, royal priest of the Ikshvakus, taught Rama and his brothers"
+    },
+    {
+      "source": "vashistha",
+      "target": "dasharatha",
+      "type": "guru",
+      "label": "Vashistha is Dasharatha's family priest and counsellor"
+    },
+    {
+      "source": "vashistha",
+      "target": "bharata",
+      "type": "guru",
+      "label": "Vashistha guided Bharata after Dasharatha's death"
+    },
+    {
+      "source": "vishvamitra",
+      "target": "rama",
+      "type": "guru",
+      "label": "Vishvamitra taught Rama the Bala and Atibala spells and gave him divine weapons"
+    },
+    {
+      "source": "vishvamitra",
+      "target": "lakshmana",
+      "type": "guru",
+      "label": "Vishvamitra took Lakshmana with Rama to protect his sacrifice and to Mithila"
+    },
+    {
+      "source": "agastya",
+      "target": "rama",
+      "type": "guru",
+      "label": "Agastya gave Rama Vishnu's bow, inexhaustible quivers and a sword",
+      "variation": "In the Yuddha Kanda (vulgate) he also teaches Rama the Aditya Hridaya hymn"
+    },
+    {
+      "source": "valmiki",
+      "target": "lava",
+      "type": "guru",
+      "label": "Valmiki raised Lava and taught him to sing the Ramayana"
+    },
+    {
+      "source": "valmiki",
+      "target": "kusha",
+      "type": "guru",
+      "label": "Valmiki raised Kusha and taught him to sing the Ramayana"
+    },
+    {
+      "source": "yajnavalkya",
+      "target": "janaka",
+      "type": "guru",
+      "label": "Yajnavalkya taught Janaka of Videha in the Brihadaranyaka Upanishad",
+      "disputed": true,
+      "variation": "The Upanishadic Janaka is not securely identical with Sita's father"
+    },
+    {
+      "source": "ashtavakra",
+      "target": "janaka",
+      "type": "guru",
+      "label": "Ashtavakra instructs King Janaka in the Ashtavakra Gita",
+      "disputed": true,
+      "variation": "Which Janaka is meant is uncertain; the Ashtavakra Gita is a late text"
+    },
+    {
+      "source": "rama",
+      "target": "shabari",
+      "type": "guru",
+      "label": "Rama taught Shabari the nine forms of devotion (navadha bhakti)",
+      "disputed": true,
+      "variation": "Ramcharitmanas; not in Valmiki"
+    },
+    {
+      "source": "shabari",
+      "target": "rama",
+      "type": "devotee",
+      "label": "Shabari waited years for Rama and welcomed him with forest fruits"
+    },
+    {
+      "source": "hanuman",
+      "target": "rama",
+      "type": "devotee",
+      "label": "Hanuman is the supreme devotee and servant of Rama"
+    },
+    {
+      "source": "jatayu",
+      "target": "rama",
+      "type": "devotee",
+      "label": "The dying Jatayu praised Rama as Vishnu and attained his abode",
+      "disputed": true,
+      "variation": "Adhyatma Ramayana and Ramcharitmanas"
+    },
+    {
+      "source": "rama",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Rama worshipped Shiva, installing a linga at Rameshwaram before crossing to Lanka",
+      "disputed": true,
+      "variation": "Kamban, Skanda Purana and later traditions; not in Valmiki"
+    },
+    {
+      "source": "rama",
+      "target": "surya",
+      "type": "devotee",
+      "label": "Rama praised Surya with the Aditya Hridaya before his final duel with Ravana",
+      "disputed": true,
+      "variation": "Yuddha Kanda (vulgate); absent from some recensions"
+    },
+    {
+      "source": "sita",
+      "target": "parvati",
+      "type": "devotee",
+      "label": "Sita prayed to Gauri (Parvati) for Rama as her husband",
+      "disputed": true,
+      "variation": "Ramcharitmanas; not in Valmiki"
+    },
+    {
+      "source": "kausalya",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Kausalya was worshipping Vishnu for her son's welfare on the morning of the planned coronation"
+    },
+    {
+      "source": "dasharatha",
+      "target": "kaikeyi",
+      "type": "boon",
+      "label": "Dasharatha granted Kaikeyi two boons for saving his life, later used to exile Rama"
+    },
+    {
+      "source": "rishyashringa",
+      "target": "dasharatha",
+      "type": "boon",
+      "label": "Rishyashringa performed the sacrifice through which Dasharatha obtained four sons"
+    },
+    {
+      "source": "brahma",
+      "target": "kabandha",
+      "type": "boon",
+      "label": "Brahma granted Kabandha long life, which made him proud enough to attack Indra"
+    },
+    {
+      "source": "brahma",
+      "target": "viradha",
+      "type": "boon",
+      "label": "Brahma made Viradha invulnerable to weapons"
+    },
+    {
+      "source": "kubera",
+      "target": "viradha",
+      "type": "curse",
+      "label": "Kubera cursed the gandharva Tumburu to become the rakshasa Viradha"
+    },
+    {
+      "source": "anasuya",
+      "target": "sita",
+      "type": "boon",
+      "label": "Anasuya gave Sita a divine garland, garments and an unguent of lasting beauty"
+    },
+    {
+      "source": "sita",
+      "target": "hanuman",
+      "type": "boon",
+      "label": "Sita blessed Hanuman in Lanka; devotional tradition says she made him immortal and giver of the eight siddhis",
+      "variation": "The immortality and siddhi boons are from the Ramcharitmanas and Hanuman Chalisa"
+    },
+    {
+      "source": "rama",
+      "target": "ahalya",
+      "type": "boon",
+      "label": "Rama's arrival released Ahalya from Gautama's curse"
+    },
+    {
+      "source": "shani",
+      "target": "dasharatha",
+      "type": "boon",
+      "label": "Shani, praised by Dasharatha, granted him a boon",
+      "disputed": true,
+      "variation": "Padma Purana; not in Valmiki"
+    },
+    {
+      "source": "indra",
+      "target": "shravana-kumara",
+      "type": "boon",
+      "label": "Indra conducted the slain youth to heaven in a celestial body (Valmiki)"
+    },
+    {
+      "source": "rama",
+      "target": "tataka",
+      "type": "slayer",
+      "label": "Rama killed the yakshi Tataka at Vishvamitra's bidding"
+    },
+    {
+      "source": "rama",
+      "target": "subahu",
+      "type": "slayer",
+      "label": "Rama slew Subahu while guarding Vishvamitra's sacrifice"
+    },
+    {
+      "source": "rama",
+      "target": "maricha",
+      "type": "slayer",
+      "label": "Rama killed Maricha, disguised as the golden deer",
+      "variation": "Earlier, in the Bala Kanda, Rama had only hurled him into the sea"
+    },
+    {
+      "source": "rama",
+      "target": "khara",
+      "type": "slayer",
+      "label": "Rama killed Khara in the battle of Janasthana"
+    },
+    {
+      "source": "rama",
+      "target": "dushana",
+      "type": "slayer",
+      "label": "Rama killed Dushana in the battle of Janasthana"
+    },
+    {
+      "source": "rama",
+      "target": "kabandha",
+      "type": "slayer",
+      "label": "Rama and Lakshmana cut off Kabandha's arms and cremated him, freeing him from a curse"
+    },
+    {
+      "source": "rama",
+      "target": "viradha",
+      "type": "slayer",
+      "label": "Rama and Lakshmana buried the invulnerable Viradha alive, releasing him from his curse"
+    },
+    {
+      "source": "rama",
+      "target": "vali",
+      "type": "slayer",
+      "label": "Rama shot Vali from hiding during his duel with Sugriva",
+      "variation": "The justice of the act is debated within the epic and in later tradition"
+    },
+    {
+      "source": "rama",
+      "target": "ravana",
+      "type": "slayer",
+      "label": "Rama slew Ravana with a Brahma weapon in the war of Lanka",
+      "variation": "In Jain versions Lakshmana kills Ravana"
+    },
+    {
+      "source": "rama",
+      "target": "kumbhakarna",
+      "type": "slayer",
+      "label": "Rama killed Kumbhakarna in the war of Lanka"
+    },
+    {
+      "source": "lakshmana",
+      "target": "indrajit",
+      "type": "slayer",
+      "label": "Lakshmana killed Indrajit with the Aindra weapon"
+    },
+    {
+      "source": "lakshmana",
+      "target": "atikaya",
+      "type": "slayer",
+      "label": "Lakshmana killed Atikaya with a Brahma weapon"
+    },
+    {
+      "source": "lakshmana",
+      "target": "kabandha",
+      "type": "slayer",
+      "label": "Lakshmana severed one of Kabandha's arms while Rama cut the other"
+    },
+    {
+      "source": "lakshmana",
+      "target": "viradha",
+      "type": "slayer",
+      "label": "Lakshmana dug the pit in which Viradha was buried"
+    },
+    {
+      "source": "lakshmana",
+      "target": "ravana",
+      "type": "slayer",
+      "label": "In Jain Ramayanas, Lakshmana (the Vasudeva) kills Ravana",
+      "disputed": true,
+      "variation": "Paumacariya of Vimalasuri and other Jain versions"
+    },
+    {
+      "source": "ravana",
+      "target": "jatayu",
+      "type": "slayer",
+      "label": "Ravana cut off Jatayu's wings, mortally wounding him"
+    },
+    {
+      "source": "dasharatha",
+      "target": "shravana-kumara",
+      "type": "slayer",
+      "label": "Dasharatha accidentally shot the ascetic youth, mistaking him for an elephant"
+    },
+    {
+      "source": "sita",
+      "target": "ravana",
+      "type": "enemy",
+      "label": "Ravana abducted Sita and held her captive in Lanka"
+    },
+    {
+      "source": "sita",
+      "target": "viradha",
+      "type": "enemy",
+      "label": "Viradha seized Sita on entering the Dandaka forest"
+    },
+    {
+      "source": "sita",
+      "target": "shurpanakha",
+      "type": "enemy",
+      "label": "Shurpanakha attacked Sita out of jealousy"
+    },
+    {
+      "source": "rama",
+      "target": "shurpanakha",
+      "type": "enemy",
+      "label": "Rama rejected Shurpanakha, provoking Ravana's revenge"
+    },
+    {
+      "source": "lakshmana",
+      "target": "shurpanakha",
+      "type": "enemy",
+      "label": "Lakshmana cut off Shurpanakha's nose and ears"
+    },
+    {
+      "source": "rama",
+      "target": "parashurama",
+      "type": "enemy",
+      "label": "Parashurama challenged Rama after the breaking of Shiva's bow and yielded his power to him"
+    },
+    {
+      "source": "manthara",
+      "target": "rama",
+      "type": "enemy",
+      "label": "Manthara engineered Rama's exile out of loyalty to Kaikeyi and Bharata"
+    },
+    {
+      "source": "manthara",
+      "target": "shatrughna",
+      "type": "enemy",
+      "label": "Shatrughna seized and dragged Manthara in fury until Bharata restrained him"
+    },
+    {
+      "source": "dasharatha",
+      "target": "shambara",
+      "type": "enemy",
+      "label": "Dasharatha fought for the gods against the asura Shambara, where Kaikeyi saved his life"
+    },
+    {
+      "source": "kabandha",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Indra struck Kabandha with his thunderbolt, driving his head into his body"
+    },
+    {
+      "source": "lava",
+      "target": "shatrughna",
+      "type": "enemy",
+      "label": "Lava captured Rama's sacrificial horse and fought Shatrughna's army",
+      "disputed": true,
+      "variation": "Padma Purana, Jaimini Ashvamedha; not in Valmiki"
+    },
+    {
+      "source": "kusha",
+      "target": "shatrughna",
+      "type": "enemy",
+      "label": "Kusha rescued Lava and defeated Shatrughna's army",
+      "disputed": true,
+      "variation": "Padma Purana, Jaimini Ashvamedha; not in Valmiki"
+    },
+    {
+      "source": "rama",
+      "target": "sugriva",
+      "type": "ally",
+      "label": "Rama and Sugriva swore friendship before fire: Vali's death for help in finding Sita"
+    },
+    {
+      "source": "rama",
+      "target": "vibhishana",
+      "type": "ally",
+      "label": "Rama gave refuge to Vibhishana and crowned him king of Lanka"
+    },
+    {
+      "source": "rama",
+      "target": "jatayu",
+      "type": "ally",
+      "label": "Jatayu, friend of Dasharatha, guarded Rama's hut and died fighting for Sita; Rama cremated him"
+    },
+    {
+      "source": "rama",
+      "target": "guha",
+      "type": "ally",
+      "label": "Guha, king of the Nishadas, sheltered Rama and ferried him across the Ganga"
+    },
+    {
+      "source": "rama",
+      "target": "jambavan",
+      "type": "ally",
+      "label": "Jambavan, king of the bears, counselled Rama's army"
+    },
+    {
+      "source": "rama",
+      "target": "angada",
+      "type": "ally",
+      "label": "Angada served Rama as envoy to Ravana and as a commander"
+    },
+    {
+      "source": "rama",
+      "target": "indra",
+      "type": "ally",
+      "label": "Indra sent his chariot and charioteer Matali for Rama's final battle"
+    },
+    {
+      "source": "rama",
+      "target": "bharadvaja",
+      "type": "ally",
+      "label": "Bharadvaja hosted the exiles and directed them to Chitrakuta"
+    },
+    {
+      "source": "rama",
+      "target": "kabandha",
+      "type": "ally",
+      "label": "The freed Kabandha counselled Rama to seek Sugriva's friendship"
+    },
+    {
+      "source": "lakshmana",
+      "target": "hanuman",
+      "type": "ally",
+      "label": "Hanuman carried the herb-mountain to revive the wounded Lakshmana"
+    },
+    {
+      "source": "lakshmana",
+      "target": "guha",
+      "type": "ally",
+      "label": "Guha and Lakshmana kept watch together over the sleeping Rama and Sita"
+    },
+    {
+      "source": "bharata",
+      "target": "guha",
+      "type": "ally",
+      "label": "Guha ferried Bharata's army across the Ganga"
+    },
+    {
+      "source": "bharata",
+      "target": "bharadvaja",
+      "type": "ally",
+      "label": "Bharadvaja entertained Bharata's army by his ascetic power"
+    },
+    {
+      "source": "bharata",
+      "target": "hanuman",
+      "type": "ally",
+      "label": "Hanuman brought Bharata the news of Rama's return"
+    },
+    {
+      "source": "sita",
+      "target": "trijata",
+      "type": "ally",
+      "label": "The rakshasi Trijata comforted the captive Sita with her dream of Ravana's fall"
+    },
+    {
+      "source": "sita",
+      "target": "sarama",
+      "type": "ally",
+      "label": "Sarama, Vibhishana's wife, consoled Sita in the ashoka grove",
+      "variation": "Sarama's role is expanded in later versions"
+    },
+    {
+      "source": "sita",
+      "target": "jatayu",
+      "type": "ally",
+      "label": "Jatayu fought Ravana to rescue Sita"
+    },
+    {
+      "source": "sita",
+      "target": "agni",
+      "type": "ally",
+      "label": "Agni returned Sita unharmed from the fire-ordeal, testifying to her purity",
+      "variation": "In the Adhyatma Ramayana and Ramcharitmanas Agni guarded the real Sita while Ravana held a shadow"
+    },
+    {
+      "source": "sita",
+      "target": "valmiki",
+      "type": "ally",
+      "label": "Valmiki sheltered the banished Sita in his hermitage",
+      "variation": "Uttara Kanda, a later layer"
+    },
+    {
+      "source": "sita",
+      "target": "lakshmana",
+      "type": "ally",
+      "label": "Lakshmana guarded Sita in the forest and escorted her into banishment"
+    },
+    {
+      "source": "jatayu",
+      "target": "dasharatha",
+      "type": "ally",
+      "label": "Jatayu was an old friend of Dasharatha"
+    },
+    {
+      "source": "sampati",
+      "target": "hanuman",
+      "type": "ally",
+      "label": "Sampati told Hanuman and the vanaras that Sita was in Lanka"
+    },
+    {
+      "source": "sampati",
+      "target": "angada",
+      "type": "ally",
+      "label": "Sampati helped Angada's despairing search party"
+    },
+    {
+      "source": "sampati",
+      "target": "jambavan",
+      "type": "ally",
+      "label": "Sampati guided the search party that included Jambavan"
+    },
+    {
+      "source": "manthara",
+      "target": "kaikeyi",
+      "type": "ally",
+      "label": "Manthara, Kaikeyi's maid from Kekaya, persuaded her to claim her boons"
+    },
+    {
+      "source": "janaka",
+      "target": "vishvamitra",
+      "type": "ally",
+      "label": "Janaka welcomed Vishvamitra, who brought Rama to Mithila"
+    },
+    {
+      "source": "janaka",
+      "target": "dasharatha",
+      "type": "ally",
+      "label": "Janaka and Dasharatha were joined by the marriage of their children"
+    },
+    {
+      "source": "dasharatha",
+      "target": "indra",
+      "type": "ally",
+      "label": "Dasharatha fought on Indra's side in the war against the asuras"
+    }
+  ]
+}

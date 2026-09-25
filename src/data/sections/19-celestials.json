@@ -1,0 +1,1380 @@
+{
+  "section": "19-celestials",
+  "nodes": [
+    {
+      "id": "kamadeva",
+      "name": "Kamadeva",
+      "devanagari": "कामदेव",
+      "aliases": [
+        "Kama",
+        "Manmatha",
+        "Madana",
+        "Ananga",
+        "Kandarpa",
+        "Smara",
+        "Makaradhvaja",
+        "Pushpadhanva",
+        "Pushpabana"
+      ],
+      "category": "celestial",
+      "era": "rigveda",
+      "group": false,
+      "description": "Kamadeva is the god of love and desire. In the Rig Veda's Nasadiya hymn kama (desire) is a cosmic principle, the first seed of mind at creation; the Atharva Veda already personifies Kama as a mighty god, and in epic and Puranic myth he is the youthful archer whose flower-arrows kindle love in gods and mortals alike.",
+      "story": "When the demon Taraka could be slain only by a son of Shiva, the gods turned to Kama. Shiva, grieving for Sati, sat in unbroken meditation in the Himalaya while Parvati served him. At Indra's request Kama came with his friend Vasanta, the spring; flowers bloomed out of season and the forest hummed with bees. As Parvati drew near, Kama bent his sugarcane bow and loosed a flower-arrow. Shiva's composure wavered; he looked about for the cause, saw Kama, and a flame leapt from his third eye, reducing the god of love to ashes. Rati's lament moved the gods, and Shiva relented: Kama would live on without a body, as Ananga, the bodiless one, and in time would be born again as Pradyumna, son of Krishna.",
+      "symbols": [
+        "sugarcane bow strung with a line of honeybees",
+        "five flower-arrows (lotus, ashoka, mango blossom, jasmine, blue lotus)",
+        "makara banner",
+        "parrot",
+        "spring (Vasanta) as companion"
+      ],
+      "weapons": [
+        "sugarcane bow",
+        "five flower-arrows (pancha-bana)"
+      ],
+      "vahana": "Parrot (shuka)",
+      "abode": "Svarga (Indra's heaven)",
+      "sources": [
+        "Rig Veda 10.129.4",
+        "Atharva Veda 9.2",
+        "Atharva Veda 19.52",
+        "Mahabharata, Adi Parva",
+        "Shiva Purana, Rudra Samhita",
+        "Matsya Purana",
+        "Bhagavata Purana 10.55",
+        "Kalidasa, Kumarasambhava, Canto 3"
+      ],
+      "variations": [
+        "Rig Veda 10.129 treats kama as an abstract cosmic principle (desire, the first seed of mind), not yet a personal god; Atharva Veda 9.2 and 19.52 praise Kama as a deity.",
+        "Parentage differs: born from Brahma's mind (Shiva Purana, Kalika Purana); son of Dharma and Shraddha (Vishnu Purana, Mahabharata lists Kama among Dharma's sons); in Vaishnava texts associated with Vishnu and Lakshmi through his rebirth as Pradyumna.",
+        "The Shiva Purana adds that Brahma had earlier cursed Kama to be burnt by Shiva after Kama's arrows affected Brahma himself.",
+        "Accounts differ on his restoration: bodiless (Ananga) at once, reborn as Pradyumna (Bhagavata, Harivamsha), or revived for Rati alone after Shiva's marriage to Parvati."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "rati",
+      "name": "Rati",
+      "devanagari": "रति",
+      "aliases": [
+        "Mayavati",
+        "Reva",
+        "Kamapriya",
+        "Kamakala"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Rati is the goddess of love, delight and sensual pleasure, the wife and inseparable companion of Kamadeva. She is remembered above all for her grief when Shiva burned Kama to ashes and for her devotion in awaiting his return, reborn as Pradyumna.",
+      "story": "After Shiva burned Kama to ashes, Rati mourned beside her husband's remains until Shiva promised that Kama would return. The Bhagavata Purana tells how the promise was kept. Kama was reborn as Pradyumna, son of Krishna and Rukmini, but the demon Shambara, forewarned that the child would kill him, stole the infant and cast him into the sea. A great fish swallowed the baby and was brought to Shambara's kitchen, where he was found by Mayavati, a woman of the household who was in truth Rati. Told by Narada who the child was, she raised him with care, in time revealed to him his true identity, and taught him the Mahamaya lore. Pradyumna slew Shambara, and the two flew together to Dvaraka, where Rukmini joyfully recognised her lost son.",
+      "symbols": [
+        "accompanies Kama",
+        "lotus",
+        "mirror or bow in some icons"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Svarga, with Kama",
+      "sources": [
+        "Mahabharata, Adi Parva",
+        "Shiva Purana, Rudra Samhita",
+        "Kalika Purana",
+        "Bhagavata Purana 10.55",
+        "Harivamsha",
+        "Kalidasa, Kumarasambhava, Canto 4"
+      ],
+      "variations": [
+        "Origins differ: daughter of Daksha, born from his sweat (Shiva Purana, Kalika Purana); in other accounts simply a daughter of a Prajapati.",
+        "In the Bhagavata she is Mayavati in Shambara's household; the Harivamsha and Vishnu Purana tell a similar tale of Mayadevi.",
+        "Kalidasa's Kumarasambhava (Rati-vilapa) gives the classic poetic lament of Rati over Kama's ashes."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "urvashi",
+      "name": "Urvashi",
+      "devanagari": "उर्वशी",
+      "aliases": [
+        "Urvasi",
+        "Aila's beloved"
+      ],
+      "category": "celestial",
+      "era": "rigveda",
+      "group": false,
+      "description": "Urvashi is the most celebrated of the apsaras, the celestial dancers of Indra's court. Her love for the mortal king Pururavas is one of the oldest love stories in Indian literature, preserved as a dialogue in Rig Veda 10.95, and through their son Ayu she is an ancestress of the Lunar dynasty.",
+      "story": "The Rig Veda (10.95) preserves a dialogue in which King Pururavas begs the departing Urvashi to return, and she answers that she is as hard to hold as the wind. The Shatapatha Brahmana tells the fuller tale. Urvashi agreed to live with the mortal king on conditions, among them that she must never see him unclothed. Missing her, the Gandharvas stole by night the two lambs she cherished; Pururavas sprang up to pursue the thieves, a flash of lightning revealed him, and Urvashi vanished. Wandering in grief, he found her among other apsaras, swimming as water-birds in a lotus lake. She bade him return after a year, when their son would be born, and the Gandharvas granted him a sacred fire, kindled from ashvattha fire-sticks, by which he became one of them.",
+      "symbols": [
+        "dance",
+        "celestial ornaments",
+        "swan or water-bird form"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Amaravati, Indra's court in Svarga",
+      "sources": [
+        "Rig Veda 10.95",
+        "Rig Veda 7.33.11",
+        "Shatapatha Brahmana 11.5.1",
+        "Mahabharata, Vana Parva",
+        "Vishnu Purana 4.6",
+        "Bhagavata Purana 9.14",
+        "Bhagavata Purana 11.4",
+        "Kalidasa, Vikramorvashiyam"
+      ],
+      "variations": [
+        "Bhagavata Purana 11.4: born from the thigh (uru) of Narayana, who created her to humble the apsaras Indra had sent to disturb Nara-Narayana's penance; hence her name.",
+        "Vishnu Purana 4.6: she came to live among mortals because of a curse of Mitra and Varuna.",
+        "Rig Veda 7.33.11 calls Vasishtha born 'from the mind of Urvashi' when Mitra and Varuna beheld her; later texts extend this to Agastya.",
+        "Kalidasa's drama Vikramorvashiyam gives the lovers a happy ending, with Urvashi permitted to remain on earth.",
+        "In the Mahabharata she curses Arjuna when he refuses her, honouring her as an ancestress of the Kuru line."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "menaka",
+      "name": "Menaka",
+      "devanagari": "मेनका",
+      "aliases": [
+        "Menakaa"
+      ],
+      "category": "celestial",
+      "era": "later-vedic",
+      "group": false,
+      "description": "Menaka is one of the foremost apsaras of Indra's heaven, famed for her beauty and skill in dance. Sent by Indra to break the austerities of Vishvamitra, she became the mother of Shakuntala, and thus an ancestress of Bharata, from whom the land of Bharatavarsha takes its name.",
+      "story": "Alarmed by the austerities of Vishvamitra, a king who strove to become a brahmarshi, Indra sent Menaka, most accomplished of the apsaras, to the sage's hermitage. The Ramayana tells that she came to bathe in the lake at Pushkara, and Vishvamitra, beholding her, invited her to stay; ten years passed as though a single day. Coming to himself, the sage saw that his long labour had been undone, yet he did not curse her, knowing she had only done Indra's bidding; he dismissed her gently and withdrew northward to resume his tapas. The Mahabharata adds that Menaka bore him a daughter, whom she left beside the Malini river, where birds (shakunta) sheltered the infant until the sage Kanva found her and raised her as his own, naming her Shakuntala.",
+      "symbols": [
+        "dance",
+        "celestial ornaments"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Amaravati, Indra's court in Svarga",
+      "sources": [
+        "Vajasaneyi Samhita 15 (list of apsaras)",
+        "Valmiki Ramayana, Bala Kanda",
+        "Mahabharata, Adi Parva (Shakuntala episode)",
+        "Kalidasa, Abhijnanashakuntalam"
+      ],
+      "variations": [
+        "The Mahabharata presents Menaka's approach as Indra's commission and describes the wind-god lifting her garment; the Ramayana presents the ten-year union briefly and without blame on her part.",
+        "The Mahabharata also names Menaka as mother, by the Gandharva Vishvavasu, of Pramadvara, wife of the sage Ruru.",
+        "Distinct from Mena (Menaa), wife of Himavan and mother of Parvati, though the names are sometimes confused."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "rambha",
+      "name": "Rambha (apsara)",
+      "devanagari": "रम्भा",
+      "aliases": [
+        "Rambha"
+      ],
+      "category": "celestial",
+      "era": "ramayana",
+      "group": false,
+      "description": "Rambha is among the most beautiful of the apsaras of Indra's court, often named as their queen. In the Ramayana she is cursed by Vishvamitra when sent to disturb his penance, and the wrong done to her by Ravana brings upon him Nalakubara's curse, which later protects Sita.",
+      "story": "Rambha appears at two pivotal moments in the Ramayana. When Vishvamitra's renewed austerities alarmed the gods, Indra asked her to distract the sage. Reluctant, fearing his temper, she went nonetheless; Vishvamitra perceived Indra's design and cursed her to stand as a stone for ten thousand years until a great brahmin should release her, and then grieved that anger had once more consumed his merit. In the Uttara Kanda, as Rambha travelled to meet Nalakubara, son of Kubera, to whom she was devoted, Ravana stopped her on Kailasa and assaulted her, ignoring her plea that she stood to him as a daughter-in-law. Learning of it, Nalakubara cursed Ravana: should he ever again force an unwilling woman, his head would split into pieces. This curse later kept Sita safe in Lanka.",
+      "symbols": [
+        "dance",
+        "celestial ornaments"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Amaravati, Indra's court in Svarga",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda 64",
+        "Valmiki Ramayana, Uttara Kanda 26",
+        "Mahabharata, Vana Parva"
+      ],
+      "variations": [
+        "Some traditions say Rambha rose from the churning of the ocean with the other apsaras.",
+        "Later texts and folk traditions add the Rambha-Shuka dialogue, in which the young sage Shuka resists her enticement.",
+        "Accounts differ on who released her from the stone: the Ramayana speaks only of a great brahmin; later retellings name various sages."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "tilottama",
+      "name": "Tilottama",
+      "devanagari": "तिलोत्तमा",
+      "aliases": [
+        "Tilottamaa"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Tilottama is an apsara fashioned by Vishvakarma, at Brahma's command, from the finest particle (tila) of every beautiful thing in creation. She was created to bring about the downfall of the invincible asura brothers Sunda and Upasunda, whose tale Narada tells the Pandavas in the Mahabharata.",
+      "story": "The asura brothers Sunda and Upasunda won from Brahma the boon that nothing could kill them except each other, and they began to terrorise the three worlds. Brahma summoned Vishvakarma, who gathered a sesame-seed's portion (tila) of the finest of everything in creation and fashioned from it a woman of unmatched beauty. As Tilottama circled the assembled gods in reverence, Shiva is said to have grown a face on every side and Indra a thousand eyes so as not to lose sight of her. She then went to the Vindhya hills where the brothers were revelling. Each seized one of her hands and claimed her; the inseparable brothers quarrelled, took up their maces and struck each other dead. Narada later told this tale to the Pandavas as a warning, prompting them to agree on rules for their shared life with Draupadi.",
+      "symbols": [
+        "red garment",
+        "flowers",
+        "dazzling radiance"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Svarga (Brahma's and Indra's courts)",
+      "sources": [
+        "Mahabharata, Adi Parva (Sunda-Upasunda episode)"
+      ],
+      "variations": [
+        "The Mahabharata explains Shiva's four faces (Chaturmukha) and Indra's thousand eyes by their wish to watch her as she circumambulated them; other texts explain these features differently.",
+        "Later Puranic retellings add that Tilottama was cursed by Durvasa to be born on earth; these accounts are late and vary."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "chitraratha",
+      "name": "Chitraratha",
+      "devanagari": "चित्ररथ",
+      "aliases": [
+        "Angaraparna",
+        "Dagdharatha",
+        "Gandharvaraja"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Chitraratha is a king of the Gandharvas, the celestial musicians, and a friend of Kubera, whose pleasure-garden Chaitraratha bears his name. In the Mahabharata he fights and is defeated by Arjuna, then becomes a friend and adviser to the Pandavas.",
+      "story": "As the Pandavas travelled by night toward Panchala, they came to the Ganga, where the Gandharva king Chitraratha, then called Angaraparna, was sporting with his wives. Angered that mortals had intruded on his hour, he challenged them and attacked. Arjuna answered with the fiery Agneya weapon learned from Drona, which burned the Gandharva's splendid chariot and struck him senseless. As Arjuna dragged him toward Yudhishthira, his wife Kumbhinasi begged for his life, and Yudhishthira released him. The Gandharva renamed himself Dagdharatha, 'he of the burnt chariot', and offered friendship: he gave Arjuna the chakshushi vidya, by which one may see whatever one wishes in the three worlds, promised the Pandavas Gandharva horses, narrated ancient tales such as those of Tapati and Vasishtha, and counselled them to take a family priest, whereupon they chose Dhaumya.",
+      "symbols": [
+        "celestial chariot",
+        "vina and music"
+      ],
+      "weapons": [
+        "bow"
+      ],
+      "vahana": "Celestial chariot",
+      "abode": "Gandharvaloka; the Chaitraratha grove near Alaka",
+      "sources": [
+        "Mahabharata, Adi Parva (Chaitraratha Parva)",
+        "Mahabharata, Adi Parva 59 (lineages)"
+      ],
+      "variations": [
+        "Not to be confused with Chitrasena, the Gandharva who captures Duryodhana in the Ghosha-yatra episode and teaches Arjuna music in Indra's heaven.",
+        "The Brahmavaivarta Purana names a daughter of the Gandharva Chitraratha as the wife of Shani.",
+        "Several kings of the same name appear in the Vedas and epics; they are distinct figures."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "tumburu",
+      "name": "Tumburu",
+      "devanagari": "तुम्बुरु",
+      "aliases": [
+        "Tumbaru",
+        "Tumbara",
+        "Gandharva Tumburu"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Tumburu is the foremost of the Gandharva musicians, often shown horse-faced with a vina, singing in the courts of Indra and Kubera and in praise of Vishnu. He is the constant companion, and sometimes rival, of the sage Narada.",
+      "story": "Tumburu once neglected his attendance on Kubera, lord of wealth, because of his attachment to the apsara Rambha. Kubera cursed him to be born as a fierce rakshasa, freed only when Rama, son of Dasharatha, overcame him in battle. So it was that in the Dandaka forest the monstrous Viradha seized Sita and was fought down by Rama and Lakshmana. Protected by a boon from weapons, he could not be slain by blades, so the brothers buried him in a pit; as they did so the curse ended, and he revealed himself as the Gandharva Tumburu. He thanked Rama, directed him to the hermitage of the sage Sharabhanga, and rose again to the heavens. In the Puranas Tumburu travels with Narada, the two singing the glories of Vishnu to the vina across the worlds.",
+      "symbols": [
+        "vina (named Kalavati in some texts)",
+        "horse face",
+        "tambura (the drone lute traditionally linked with his name)"
+      ],
+      "weapons": [],
+      "vahana": "Horse (in some icons)",
+      "abode": "Gandharvaloka; courts of Indra and Kubera",
+      "sources": [
+        "Mahabharata, Adi Parva",
+        "Mahabharata, Vana Parva",
+        "Valmiki Ramayana, Aranya Kanda 4",
+        "Bhagavata Purana 12.11",
+        "Linga Purana"
+      ],
+      "variations": [
+        "Puranic tales (e.g., Linga Purana and later works) make Narada jealous of Tumburu's music until humbled; the details vary.",
+        "In the Bhagavata Purana Tumburu is among the Gandharvas who sing before the chariot of the Sun in the month of Madhu.",
+        "Some South Indian traditions associate Tumburu with Tirumala (Tumburu Tirtha) and with Shiva."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "navagraha",
+      "name": "Navagraha (Nine Planets)",
+      "devanagari": "नवग्रह",
+      "aliases": [
+        "Navagrahas",
+        "Nine Grahas",
+        "Nine Seizers"
+      ],
+      "category": "celestial",
+      "era": "early-puranas",
+      "group": true,
+      "description": "The Navagraha are the nine celestial influences of Jyotisha: Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn and the two lunar nodes Rahu and Ketu. The word graha means 'seizer', for they are believed to grip and shape human destiny, and they are worshipped together to avert misfortune.",
+      "story": "The Navagraha, the 'nine seizers', are Surya the Sun, Soma the Moon, Mangala (Mars), Budha (Mercury), Brihaspati (Jupiter), Shukra (Venus), Shani (Saturn), and the shadow planets Rahu and Ketu. The Puranas explain how the last two joined the circle. When the ocean was churned and the nectar of immortality emerged, Vishnu as Mohini served it to the gods alone. The asura Svarbhanu disguised himself and sat between the Sun and the Moon, but as he drank they exposed him, and Vishnu's discus severed his head. Made immortal by the nectar, the head became Rahu and the body Ketu, and they pursue the Sun and Moon to swallow them at eclipses. The Yajnavalkya Smriti prescribes graha-shanti rites for all nine, and temples set them together on one platform, usually arranged so that no two face each other.",
+      "symbols": [
+        "nine deities on a single platform",
+        "nine colours, grains and gems (navaratna)",
+        "yantras of the grahas"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "The heavens (grahaloka), in their planetary spheres",
+      "sources": [
+        "Yajnavalkya Smriti, Acharadhyaya (Graha-shanti)",
+        "Matsya Purana",
+        "Vishnu Purana 2.12",
+        "Bhagavata Purana 5.22",
+        "Brihat Parashara Hora Shastra",
+        "Varahamihira, Brihat Samhita"
+      ],
+      "variations": [
+        "Vedic texts speak of grahas and of Svarbhanu eclipsing the Sun (Rig Veda 5.40), but the fixed set of nine is post-Vedic.",
+        "Early lists sometimes count seven planets only; Rahu and Ketu were added later, Ketu originally denoting comets.",
+        "Shukra (Venus) is the planetary form of Shukracharya, preceptor of the asuras."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "mangala",
+      "name": "Mangala (Angaraka)",
+      "devanagari": "मङ्गल",
+      "aliases": [
+        "Angaraka",
+        "Kuja",
+        "Bhauma",
+        "Bhumiputra",
+        "Lohitanga",
+        "Mars"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Mangala is the planet Mars, the fiery red son of the Earth goddess, one of the Navagraha. A martial, energetic deity, he is pictured red-bodied and four-armed, and Tuesday (Mangalavara) is sacred to him.",
+      "story": "The Shiva Purana relates that when Shiva, bereft of Sati, sat in fierce austerity in the Himalaya, a drop of sweat fell from his brow to the earth. From it arose a child, red as fire, with four arms. The Earth goddess took him up and raised him as her own, so he was called Bhauma, 'son of Bhumi', and Angaraka, 'the glowing coal'. The boy went to Kashi and performed long tapas to Shiva, who, pleased, granted him a place among the planets in the heavens. Other Puranas give different origins: in the Brahmavaivarta Purana he is the son of the Earth by Vishnu in his boar form, Varaha, who raised her from the cosmic ocean. Tuesday is his day, and he is propitiated with red flowers, red cloth and coral.",
+      "symbols": [
+        "red complexion and garments",
+        "four arms",
+        "coral",
+        "triangular yantra",
+        "Tuesday"
+      ],
+      "weapons": [
+        "spear (shakti)",
+        "trident",
+        "mace"
+      ],
+      "vahana": "Ram",
+      "abode": "Mangala-loka (the sphere of Mars)",
+      "sources": [
+        "Mahabharata, Bhishma Parva",
+        "Shiva Purana, Rudra Samhita (Parvati Khanda)",
+        "Skanda Purana, Kashi Khanda",
+        "Brahmavaivarta Purana",
+        "Matsya Purana",
+        "Vishnu Purana 2.12"
+      ],
+      "variations": [
+        "Born of Shiva's sweat falling on the earth and raised by Bhumi (Shiva Purana, Skanda Purana).",
+        "Son of Bhumi by Vishnu-Varaha (Brahmavaivarta Purana).",
+        "In some traditions, especially in South India, Mangala is identified with Skanda-Kartikeya, the war god."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "budha",
+      "name": "Budha",
+      "devanagari": "बुध",
+      "aliases": [
+        "Saumya",
+        "Rauhineya",
+        "Mercury",
+        "Budha Saumayana"
+      ],
+      "category": "celestial",
+      "era": "later-vedic",
+      "group": false,
+      "description": "Budha is the planet Mercury, son of Soma the Moon and Tara, and one of the Navagraha. By his union with Ila he became the father of Pururavas and so the progenitor of the Lunar dynasty (Chandravamsha), from which both the Kurus and the Yadavas descend.",
+      "story": "Budha, son of Soma, was performing austerities beside a lake when a company of women passed by, among them Ila. She had been King Ila, son of Manu, who while hunting had strayed into the grove where Shiva delighted Parvati, and where every male creature was transformed into a female. Budha was struck by her grace, and she by his; they married, and in time she bore him Pururavas, founder of the Lunar line of kings. Through the intercession of sages and a great sacrifice that pleased Shiva, Ila was granted relief, living alternately a month as a man and a month as a woman. Through Pururavas, Budha stands as ancestor of the Pandavas and the Yadavas alike, and he is honoured as the wise, gentle planet Mercury, lord of Wednesday.",
+      "symbols": [
+        "green complexion and garments",
+        "emerald",
+        "book",
+        "Wednesday"
+      ],
+      "weapons": [
+        "sword",
+        "shield",
+        "mace"
+      ],
+      "vahana": "Lion (some icons: chariot drawn by horses)",
+      "abode": "Budha-loka (the sphere of Mercury)",
+      "sources": [
+        "Panchavimsha Brahmana 24.18 (Budha Saumayana)",
+        "Valmiki Ramayana, Uttara Kanda (Ila episode)",
+        "Mahabharata, Adi Parva",
+        "Harivamsha",
+        "Vishnu Purana 4.1",
+        "Vishnu Purana 4.6",
+        "Bhagavata Purana 9.1",
+        "Bhagavata Purana 9.14",
+        "Matsya Purana"
+      ],
+      "variations": [
+        "His paternity was disputed: both Soma and Brihaspati claimed the child until Tara named Soma as the father.",
+        "Accounts of Ila differ: in the Ramayana Ila becomes a woman in Shiva's grove; in the Vishnu and Bhagavata Puranas Ila is first born a daughter to Manu and changed by Vasishtha's intervention.",
+        "The Vedic name Budha Saumayana ('son of Soma') appears in a Brahmana, though the planetary identity is later."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shani",
+      "name": "Shani",
+      "devanagari": "शनि",
+      "aliases": [
+        "Shanaishchara",
+        "Sauri",
+        "Chhayaputra",
+        "Manda",
+        "Konastha",
+        "Saturn",
+        "Shani Dev"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Shani is the planet Saturn, son of Surya and Chhaya and one of the Navagraha. The slowest-moving planet, whose name Shanaishchara means 'the slow mover', he is feared for his baleful gaze yet revered as a stern, impartial dispenser of the fruits of karma.",
+      "story": "The Brahmavaivarta Purana tells why Shani keeps his eyes lowered. Absorbed in meditation on Krishna, he ignored his wife, a daughter of the Gandharva Chitraratha, when she came to him; slighted, she cursed him that whatever he gazed upon would be destroyed. Long after, when Parvati bore a son, all the gods came to see the child, but Shani stood with averted eyes. Parvati urged him to look, and reluctantly he glanced at the infant from the corner of his eye, and the baby's head was severed. Vishnu, riding Garuda, brought back the head of an elephant and set it on the child, who became Ganesha. Son of Surya and Chhaya, Shani moves slowest of all the planets; his gaze is feared, yet devotees honour him as an impartial judge of karma.",
+      "symbols": [
+        "dark blue or black complexion",
+        "blue sapphire",
+        "iron",
+        "sesame and mustard oil",
+        "lameness",
+        "Saturday"
+      ],
+      "weapons": [
+        "bow and arrow",
+        "trident",
+        "staff"
+      ],
+      "vahana": "Crow (also vulture, or an iron chariot)",
+      "abode": "Shani-loka (the sphere of Saturn)",
+      "sources": [
+        "Mahabharata, Bhishma Parva",
+        "Brahmavaivarta Purana, Ganapati Khanda",
+        "Skanda Purana, Kashi Khanda",
+        "Padma Purana (Dasharatha's Shani-stotra)",
+        "Markandeya Purana",
+        "Vishnu Purana 3.2"
+      ],
+      "variations": [
+        "His limp is explained in various ways: a blow from Yama's staff in a quarrel, or a curse from his mother.",
+        "Shani's estrangement from his father Surya is linked to Surya's rejection of Chhaya or to Shani's dark complexion, depending on the text.",
+        "Regional and folk traditions (e.g., Maharashtra, Shani Shingnapur) credit Hanuman with freeing Shani from Ravana's captivity, after which Shani promised not to trouble Hanuman's devotees.",
+        "The Padma Purana tells how King Dasharatha confronted Shani to prevent his transit through Rohini (which foretold famine) and received a boon."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "rohini",
+      "name": "Rohini",
+      "devanagari": "रोहिणी",
+      "aliases": [
+        "Rohini Nakshatra",
+        "Aldebaran"
+      ],
+      "category": "celestial",
+      "era": "later-vedic",
+      "group": false,
+      "description": "Rohini, 'the red one', is the fourth lunar mansion (nakshatra), identified with the reddish star Aldebaran, and the favourite wife of the Moon god Soma. Soma's partiality for her among the daughters of Daksha (or Prajapati) brought upon him the curse that explains the waning of the moon.",
+      "story": "The Taittiriya Samhita relates that Prajapati gave his thirty-three daughters in marriage to King Soma, but Soma dwelt only with Rohini. The slighted sisters returned to their father; Soma followed to reclaim them, and Prajapati gave them back on condition that he treat them equally. When Soma again favoured Rohini, a wasting sickness seized him. The Mahabharata and the Puranas tell the tale with Daksha as father of the twenty-seven lunar mansions: Daksha cursed Soma to waste away, and the moon began to wane. At the gods' plea Daksha softened the curse; bathing in the Sarasvati at Prabhasa, Soma was restored, but ever after he wanes and waxes each month. Rohini, the reddish star, remains the moon's beloved house and an especially auspicious birth-star; Krishna was born under it.",
+      "symbols": [
+        "red star (Aldebaran)",
+        "chariot or cart (her nakshatra sign)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "The nakshatra Rohini in the lunar path",
+      "sources": [
+        "Taittiriya Samhita 2.3.5",
+        "Atharva Veda 19.7 (nakshatra list)",
+        "Mahabharata, Shalya Parva (Soma at Prabhasa)",
+        "Bhagavata Purana 6.6",
+        "Bhagavata Purana 10.3"
+      ],
+      "variations": [
+        "Taittiriya Samhita: Soma marries thirty-three daughters of Prajapati; epic and Puranic texts: twenty-seven daughters of Daksha, the lunar mansions.",
+        "Distinct from Rohini, wife of Vasudeva and mother of Balarama, who is named after the same star.",
+        "In the Aitareya Brahmana Rohini also appears in the myth of Prajapati and his daughter in deer form, linked with the Mrigashira constellation."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "tara-brihaspati",
+      "name": "Tara (wife of Brihaspati)",
+      "devanagari": "तारा",
+      "aliases": [
+        "Tara",
+        "Taraka"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Tara, 'star', is the wife of Brihaspati, preceptor of the gods. Her carrying-off by Soma led to a war in heaven, the Tarakamaya, and she became the mother of Budha, the planet Mercury.",
+      "story": "Soma, radiant after performing the great royal sacrifice, grew proud and carried away Tara, wife of Brihaspati, preceptor of the gods. Brihaspati appealed for her return, but Soma refused, and the quarrel swelled into a war in heaven, the Tarakamaya: Shukra and the asuras sided with Soma, while Indra, the gods and Rudra stood with Brihaspati. At last Brahma intervened, halted the fighting and restored Tara to her husband. She was then with child, and the boy was born shining with beauty. Both Soma and Brihaspati claimed him, and Tara, out of modesty, kept silent until Brahma questioned her gently in private and she named Soma as the father. Brahma called the child Budha, 'the wise', and he became the planet Mercury. The episode is told in the Harivamsha, Vishnu Purana and Bhagavata Purana.",
+      "symbols": [
+        "star"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Svarga, with Brihaspati",
+      "sources": [
+        "Harivamsha 1.25",
+        "Vishnu Purana 4.6",
+        "Bhagavata Purana 9.14",
+        "Matsya Purana",
+        "Devi Bhagavata Purana"
+      ],
+      "variations": [
+        "Rig Veda 10.109 (the 'Brahmajaya' hymn), in which the gods restore a brahmin's wife taken by Soma, is often seen as a precursor of the legend.",
+        "Texts differ on Tara's role: some describe her as taken by force, others (e.g., Devi Bhagavata) as having gone with Soma of her own will.",
+        "Distinct from the Mahavidya goddess Tara and from Tara, queen of Kishkindha."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "dikpalas",
+      "name": "Dikpalas (Guardians of the Directions)",
+      "devanagari": "दिक्पाल",
+      "aliases": [
+        "Lokapalas",
+        "Ashta-Dikpalas",
+        "Dasha-Dikpalas",
+        "Guardians of the Quarters"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": true,
+      "description": "The Dikpalas are the deities who guard the directions of space. The epics speak of four Lokapalas (Indra, Yama, Varuna and Kubera, with Soma in some lists); later texts give eight (adding Agni, Vayu, Nirrti and Ishana for the intermediate points) or ten, with Brahma for the zenith and Vishnu or Ananta for the nadir.",
+      "story": "The world-guardians play a memorable part in the tale of Nala and Damayanti. Hearing of Damayanti's svayamvara, four of the Lokapalas, Indra, Agni, Varuna and Yama, set out to win her, and even made Nala carry their suit to her. Damayanti held firm to her love for Nala, so on the day of the choice all four gods sat in the assembly in Nala's exact likeness. Praying to them, she was granted the sight to tell them apart: the gods neither sweated nor blinked, their garlands were unfaded and their feet did not touch the ground, while the true Nala cast a shadow and his garland drooped. She garlanded him, and the gods, honouring her constancy, each granted Nala two boons, among them Agni's presence at his call, Varuna's water wherever he wished, and Yama's gift of steadfast virtue.",
+      "symbols": [
+        "eight directions of the compass",
+        "Diggajas (elephants of the quarters)",
+        "temple-wall guardian images"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Their respective quarters; cities around Mount Meru",
+      "sources": [
+        "Mahabharata, Vana Parva (Nalopakhyana)",
+        "Valmiki Ramayana, Uttara Kanda 3",
+        "Manusmriti 5.96",
+        "Matsya Purana",
+        "Agni Purana"
+      ],
+      "variations": [
+        "Four Lokapalas (epics): Indra east, Yama south, Varuna west, Kubera (or Soma) north.",
+        "Eight Dikpalas: Indra (E), Agni (SE), Yama (S), Nirrti (SW), Varuna (W), Vayu (NW), Kubera (N), Ishana (NE). Nirrti is not a separate node; Ishana is a form of Shiva.",
+        "Ten Dikpalas add Brahma (zenith) and Vishnu or Ananta-Shesha (nadir).",
+        "Some lists give Soma instead of Kubera for the north, and texts vary on the placement of Nirrti and Ishana."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kubera",
+      "name": "Kubera",
+      "devanagari": "कुबेर",
+      "aliases": [
+        "Vaishravana",
+        "Dhanada",
+        "Dhanapati",
+        "Yaksharaja",
+        "Naravahana",
+        "Rajaraja",
+        "Guhyakadhipa",
+        "Ailavila"
+      ],
+      "category": "celestial",
+      "era": "later-vedic",
+      "group": false,
+      "description": "Kubera is the lord of wealth and king of the yakshas, guardian of the north among the Dikpalas. Son of the sage Vishrava and half-brother of Ravana, he once ruled Lanka but lost it and his flying chariot Pushpaka to Ravana, and thereafter dwelt in Alaka near Kailasa as a friend of Shiva.",
+      "story": "Kubera, son of the sage Vishrava, pleased Brahma with long austerity and was made guardian of wealth and the fourth of the world-protectors, alongside Indra, Varuna and Yama; Brahma also gave him the flying chariot Pushpaka. On his father's advice he settled in Lanka, the golden city built by Vishvakarma. But his half-brother Ravana, son of Vishrava by the rakshasi Kaikesi, grew mighty through boons and demanded Lanka. Counselled by Vishrava not to fight, Kubera yielded the city and withdrew to Mount Kailasa, where he built Alaka. When Kubera later sent a messenger urging Ravana to turn from wrongdoing, Ravana killed the envoy, marched on Alaka, routed the yakshas, struck Kubera down with his mace and seized the Pushpaka, the chariot on which Rama would one day return to Ayodhya.",
+      "symbols": [
+        "money-bag or pot of treasure",
+        "mongoose disgorging jewels",
+        "pot-bellied form",
+        "nine treasures (nava-nidhi)",
+        "Pushpaka chariot"
+      ],
+      "weapons": [
+        "mace (gada)"
+      ],
+      "vahana": "A man (nara); in some traditions an elephant or the Pushpaka chariot",
+      "abode": "Alaka (Alakapuri) near Mount Kailasa; formerly Lanka",
+      "sources": [
+        "Atharva Veda 8.10",
+        "Shatapatha Brahmana 13.4.3",
+        "Valmiki Ramayana, Uttara Kanda",
+        "Mahabharata, Sabha Parva (Kubera's assembly hall)",
+        "Mahabharata, Vana Parva",
+        "Vishnu Purana",
+        "Bhagavata Purana 10.10"
+      ],
+      "variations": [
+        "In Vedic texts Kubera Vaishravana is a lord of rakshasas or of hidden beings; he becomes the benign god of wealth in the epics.",
+        "His mother is Devavarnini (Ilavida), daughter of Bharadvaja in the Ramayana; some texts name her daughter of Trinabindu.",
+        "The Ramayana says his left eye turned yellow when he glanced at Parvati, winning him the name Ekapingala; Shiva nonetheless made him a friend.",
+        "The Tirumala tradition says Kubera lent wealth to Srinivasa (Venkateshvara) for his wedding to Padmavati, a debt devotees help repay.",
+        "Important in Buddhist and Jain traditions as Vaishravana/Jambhala."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "chitragupta",
+      "name": "Chitragupta",
+      "devanagari": "चित्रगुप्त",
+      "aliases": [
+        "Chitragupta Maharaj",
+        "Recorder of Deeds"
+      ],
+      "category": "celestial",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Chitragupta is the divine scribe who records the good and bad deeds of every living being and reads the account before Yama when souls come to judgement. Born from Brahma's body, he is revered as the progenitor of the Kayastha community.",
+      "story": "The Padma and other Puranas tell that after Brahma had created the world and appointed Yama to judge the dead, the deeds of countless beings proved too many to reckon. Brahma sat long in meditation, and from his body emerged a man holding a pen and an inkpot. Because he had been conceived in Brahma's mind and long concealed (gupta) within him, he was named Chitragupta, and because he was born from Brahma's body (kaya) his descendants are called Kayasthas. Brahma appointed him to record every act of every living being. Seated beside Yama in the court of the dead, he consults his great ledger, the Agrasandhani, and reads out each soul's merits and faults so that judgement may be just. He is especially worshipped on Yama Dvitiya, soon after Diwali, when devotees honour pen, ink and account-books.",
+      "symbols": [
+        "pen (lekhani)",
+        "inkpot",
+        "ledger (Agrasandhani)",
+        "palm-leaf manuscripts"
+      ],
+      "weapons": [
+        "sword (in some icons)"
+      ],
+      "vahana": null,
+      "abode": "Yamaloka, the court of Yama",
+      "sources": [
+        "Padma Purana",
+        "Garuda Purana",
+        "Bhavishya Purana",
+        "Skanda Purana"
+      ],
+      "variations": [
+        "Accounts of his birth differ between Puranas; some make him a son of Brahma born after long meditation, others give different parentage.",
+        "In some regions he is worshipped with his consorts and twelve sons, the ancestors of Kayastha sub-lineages.",
+        "Earlier texts mention recorders in Yama's court without the developed figure of Chitragupta."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "gajendra",
+      "name": "Gajendra",
+      "devanagari": "गजेन्द्र",
+      "aliases": [
+        "King of Elephants",
+        "Indradyumna (in a former life)"
+      ],
+      "category": "animal",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Gajendra, 'lord of elephants', is the hero of the Gajendra Moksha, the Bhagavata Purana's famous tale of divine rescue. Seized by a crocodile and near death, he surrenders to the Supreme Lord and is freed by Vishnu, becoming a model of devotion in extremity.",
+      "story": "On Mount Trikuta, in a lake bright with lotuses, Gajendra, lord of elephants, came to bathe with his herd. A mighty crocodile seized his leg, and the struggle between land and water lasted, the Bhagavata says, a thousand years, until the elephant's strength failed and his kin could not help him. Then Gajendra, who in a former life had been the Pandya king Indradyumna, remembered the devotion of his past birth. Raising a lotus in his trunk, he prayed to the Supreme, the cause of all causes, without naming any god. Vishnu came swiftly on Garuda, drew elephant and crocodile from the water, and cut open the crocodile's jaws with his discus. The crocodile, the Gandharva Huhu cursed by the sage Devala, regained his form, and Gajendra, freed from Agastya's curse, attained a form like Vishnu's own.",
+      "symbols": [
+        "lotus raised in the trunk",
+        "lake on Mount Trikuta"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Mount Trikuta; afterwards Vaikuntha",
+      "sources": [
+        "Bhagavata Purana 8.2",
+        "Bhagavata Purana 8.3",
+        "Bhagavata Purana 8.4",
+        "Vishnu Dharmottara Purana"
+      ],
+      "variations": [
+        "The Bhagavata places the event in the fourth Manvantara (Tamasa) and ascribes the rescue to Vishnu's avatar Hari.",
+        "Temple traditions (e.g., Varadaraja at Kanchipuram, Sonpur in Bihar) localise the rescue at their sacred sites.",
+        "Gajendra's prayer, the Gajendra Stuti, is recited as a hymn of refuge."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "ambarisha",
+      "name": "Ambarisha",
+      "devanagari": "अम्बरीष",
+      "aliases": [
+        "Ambarisha Nabhagi",
+        "Nabhaga's son"
+      ],
+      "category": "human",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Ambarisha is a righteous king, son of Nabhaga and descendant of Vaivasvata Manu, praised as an exemplary devotee of Vishnu. His encounter with the irascible sage Durvasa, in which Vishnu's Sudarshana discus protects him, is a classic Bhagavata tale of the power of devotion.",
+      "story": "King Ambarisha, who had dedicated his kingdom and senses to the service of Vishnu, was completing a year-long vow of Ekadashi fasting. As he prepared to break his fast on Dvadashi, the sage Durvasa arrived; the king invited him to eat, and Durvasa went first to bathe in the Yamuna. He lingered, and the proper moment for ending the fast was slipping away, so on the brahmins' advice Ambarisha sipped only water. Returning, Durvasa took this as an insult and from a lock of his hair created a fiery demon to destroy the king. The Sudarshana discus, set by Vishnu to guard his devotee, consumed the demon and pursued Durvasa across the worlds. Neither Brahma nor Shiva could shelter him; Vishnu declared himself bound by his devotees' love. Durvasa fell at Ambarisha's feet, and the king, who had waited a whole year without eating, prayed the discus to be pacified.",
+      "symbols": [
+        "Ekadashi vow",
+        "Sudarshana discus as protector"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Ayodhya region (his kingdom)",
+      "sources": [
+        "Mahabharata, Drona Parva (Shodasha-rajika)",
+        "Mahabharata, Shanti Parva",
+        "Bhagavata Purana 9.4",
+        "Bhagavata Purana 9.5",
+        "Valmiki Ramayana, Bala Kanda"
+      ],
+      "variations": [
+        "The Ramayana's Ambarisha, an Ikshvaku king of Ayodhya whose sacrifice involves Shunahshepa, may be a different king of the same name.",
+        "A Vedic seer Ambarisha Varshagira appears in the Rig Veda (1.100.17); he is distinct.",
+        "The Mahabharata lists Ambarisha among great kings celebrated for their generosity and sacrifices."
+      ],
+      "disputed": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "kamadeva",
+      "target": "rati",
+      "type": "spouse",
+      "label": "Rati is the wife and constant companion of Kamadeva"
+    },
+    {
+      "source": "shiva",
+      "target": "kamadeva",
+      "type": "slayer",
+      "label": "Reduced Kama to ashes with his third eye when Kama's arrow disturbed his meditation; Kama lived on as bodiless Ananga"
+    },
+    {
+      "source": "kamadeva",
+      "target": "shiva",
+      "type": "enemy",
+      "label": "Kama disturbed Shiva's tapas at the gods' request and incurred the ascetic god's wrath"
+    },
+    {
+      "source": "brahma",
+      "target": "kamadeva",
+      "type": "curse",
+      "label": "Cursed Kama to be burnt by Shiva's fire after Kama's arrows stirred desire in Brahma himself",
+      "disputed": true,
+      "variation": "Shiva Purana, Rudra Samhita"
+    },
+    {
+      "source": "kamadeva",
+      "target": "brahma",
+      "type": "created-by",
+      "label": "Born from Brahma's mind at the dawn of creation",
+      "disputed": true,
+      "variation": "Shiva and Kalika Puranas; the Vishnu Purana and Mahabharata make him a son of Dharma and Shraddha"
+    },
+    {
+      "source": "pradyumna",
+      "target": "kamadeva",
+      "type": "reincarnation-of",
+      "label": "Pradyumna, son of Krishna and Rukmini, is Kama reborn after being burnt by Shiva"
+    },
+    {
+      "source": "kamadeva",
+      "target": "indra",
+      "type": "ally",
+      "label": "Sent by Indra to break Shiva's meditation so that a son could be born to defeat Taraka"
+    },
+    {
+      "source": "kamadeva",
+      "target": "parvati",
+      "type": "ally",
+      "label": "Loosed his flower-arrow to turn Shiva's heart toward Parvati"
+    },
+    {
+      "source": "daksha",
+      "target": "rati",
+      "type": "parent",
+      "label": "Rati is a daughter of Daksha, given by him to Kama",
+      "disputed": true,
+      "variation": "Shiva Purana: born from Daksha's sweat; other texts name another Prajapati"
+    },
+    {
+      "source": "shiva",
+      "target": "rati",
+      "type": "boon",
+      "label": "Moved by her grief, Shiva promised Rati that Kama would live again"
+    },
+    {
+      "source": "rati",
+      "target": "pradyumna",
+      "type": "spouse",
+      "label": "As Mayavati, Rati was reunited with Kama reborn as Pradyumna"
+    },
+    {
+      "source": "rati",
+      "target": "pradyumna",
+      "type": "guru",
+      "label": "As Mayavati she taught Pradyumna the Mahamaya lore with which he overcame Shambara"
+    },
+    {
+      "source": "rati",
+      "target": "shambara",
+      "type": "enemy",
+      "label": "Lived in Shambara's household as Mayavati, awaiting the reborn Kama who would destroy him"
+    },
+    {
+      "source": "pururavas",
+      "target": "urvashi",
+      "type": "spouse",
+      "label": "The mortal king and the apsara, whose love and parting are sung in Rig Veda 10.95"
+    },
+    {
+      "source": "urvashi",
+      "target": "ayu",
+      "type": "parent",
+      "label": "Urvashi bore Ayu to Pururavas, continuing the Lunar dynasty"
+    },
+    {
+      "source": "urvashi",
+      "target": "nara-narayana",
+      "type": "created-by",
+      "label": "Born from Narayana's thigh (uru) to humble the apsaras sent to disturb Nara-Narayana's penance",
+      "variation": "Bhagavata Purana 11.4"
+    },
+    {
+      "source": "urvashi",
+      "target": "arjuna",
+      "type": "curse",
+      "label": "Cursed Arjuna to live as a eunuch when he refused her, revering her as a Kuru ancestress; Indra limited it to one year, spent as Brihannala"
+    },
+    {
+      "source": "mitra",
+      "target": "urvashi",
+      "type": "curse",
+      "label": "Mitra and Varuna's curse caused Urvashi to dwell among mortals",
+      "variation": "Vishnu Purana 4.6"
+    },
+    {
+      "source": "varuna",
+      "target": "urvashi",
+      "type": "curse",
+      "label": "With Mitra, cursed Urvashi to live in the world of mortals",
+      "variation": "Vishnu Purana 4.6"
+    },
+    {
+      "source": "vashistha",
+      "target": "urvashi",
+      "type": "created-by",
+      "label": "Rig Veda 7.33.11 calls Vasishtha born 'from the mind of Urvashi' when Mitra and Varuna beheld her",
+      "disputed": true
+    },
+    {
+      "source": "agastya",
+      "target": "urvashi",
+      "type": "created-by",
+      "label": "Later tradition holds Agastya was born, like Vasishtha, from the seed of Mitra and Varuna at the sight of Urvashi",
+      "disputed": true,
+      "variation": "Brihaddevata and Puranic accounts"
+    },
+    {
+      "source": "urvashi",
+      "target": "indra",
+      "type": "ally",
+      "label": "Chief dancer of Indra's court in Amaravati"
+    },
+    {
+      "source": "vishvamitra",
+      "target": "menaka",
+      "type": "spouse",
+      "label": "A union rather than a formal marriage: Menaka lived with Vishvamitra for ten years, interrupting his tapas"
+    },
+    {
+      "source": "menaka",
+      "target": "shakuntala",
+      "type": "parent",
+      "label": "Menaka bore Shakuntala to Vishvamitra and left her by the Malini river, where Kanva found her"
+    },
+    {
+      "source": "menaka",
+      "target": "indra",
+      "type": "ally",
+      "label": "Sent by Indra to break Vishvamitra's austerities"
+    },
+    {
+      "source": "vishvamitra",
+      "target": "rambha",
+      "type": "curse",
+      "label": "Cursed Rambha to become stone for ten thousand years when Indra sent her to disturb his penance"
+    },
+    {
+      "source": "rambha",
+      "target": "ravana",
+      "type": "enemy",
+      "label": "Ravana assaulted Rambha on Kailasa, bringing on himself Nalakubara's curse that later protected Sita"
+    },
+    {
+      "source": "rambha",
+      "target": "indra",
+      "type": "ally",
+      "label": "Apsara of Indra's court, sent by him to test Vishvamitra"
+    },
+    {
+      "source": "tilottama",
+      "target": "vishvakarma",
+      "type": "created-by",
+      "label": "Fashioned by Vishvakarma, at Brahma's command, from a tiny portion of the best of every creation"
+    },
+    {
+      "source": "brahma",
+      "target": "tilottama",
+      "type": "boon",
+      "label": "Commissioned her creation and, after her success, blessed her with a radiance no eye could bear to gaze upon long"
+    },
+    {
+      "source": "tilottama",
+      "target": "sunda",
+      "type": "enemy",
+      "label": "Sent to sow discord, she caused Sunda to fight and kill his brother, and die by his hand"
+    },
+    {
+      "source": "tilottama",
+      "target": "upasunda",
+      "type": "enemy",
+      "label": "Her beauty set Upasunda against his brother Sunda; the two killed each other"
+    },
+    {
+      "source": "chitraratha",
+      "target": "arjuna",
+      "type": "ally",
+      "label": "Defeated by Arjuna's Agneya weapon at the Ganga, he became a friend and gave him the chakshushi vidya"
+    },
+    {
+      "source": "chitraratha",
+      "target": "kubera",
+      "type": "ally",
+      "label": "Gandharva companion of Kubera; the Chaitraratha grove near Alaka bears his name"
+    },
+    {
+      "source": "chitraratha",
+      "target": "dhaumya",
+      "type": "ally",
+      "label": "Advised the Pandavas to take a family priest, leading them to choose Dhaumya"
+    },
+    {
+      "source": "kashyapa",
+      "target": "chitraratha",
+      "type": "parent",
+      "label": "Listed among the Gandharva sons of Kashyapa by Muni in the Adi Parva genealogies",
+      "disputed": true
+    },
+    {
+      "source": "tumburu",
+      "target": "narada",
+      "type": "ally",
+      "label": "Fellow celestial musicians who sing Vishnu's glories together, sometimes as friendly rivals"
+    },
+    {
+      "source": "kubera",
+      "target": "tumburu",
+      "type": "curse",
+      "label": "Cursed Tumburu to become the rakshasa Viradha for neglecting his service out of attachment to Rambha"
+    },
+    {
+      "source": "viradha",
+      "target": "tumburu",
+      "type": "form-of",
+      "label": "Viradha was Tumburu in rakshasa form under Kubera's curse, released by Rama (Ramayana, Aranya Kanda 4)"
+    },
+    {
+      "source": "tumburu",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Sings the praises of Vishnu to the vina"
+    },
+    {
+      "source": "tumburu",
+      "target": "surya",
+      "type": "ally",
+      "label": "Among the Gandharvas who sing before Surya's chariot in the month of Madhu (Bhagavata Purana 12.11)"
+    },
+    {
+      "source": "surya",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Surya, the Sun, is chief of the Navagraha"
+    },
+    {
+      "source": "soma",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Soma (Chandra), the Moon, is one of the Navagraha"
+    },
+    {
+      "source": "mangala",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Mangala is the planet Mars among the Navagraha"
+    },
+    {
+      "source": "budha",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Budha is the planet Mercury among the Navagraha"
+    },
+    {
+      "source": "brihaspati",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Brihaspati (Guru) is the planet Jupiter among the Navagraha"
+    },
+    {
+      "source": "shukracharya",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "As Shukra, the planet Venus, the preceptor of the asuras is one of the Navagraha"
+    },
+    {
+      "source": "shani",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Shani is the planet Saturn among the Navagraha"
+    },
+    {
+      "source": "rahu",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Rahu, the severed head of Svarbhanu, is the ascending lunar node among the Navagraha"
+    },
+    {
+      "source": "ketu",
+      "target": "navagraha",
+      "type": "member-of",
+      "label": "Ketu, the headless body of Svarbhanu, is the descending lunar node among the Navagraha"
+    },
+    {
+      "source": "prithvi",
+      "target": "mangala",
+      "type": "parent",
+      "label": "Mangala is Bhauma, son of the Earth goddess who raised him"
+    },
+    {
+      "source": "varaha",
+      "target": "mangala",
+      "type": "parent",
+      "label": "Son of the Earth by Vishnu in his boar form",
+      "disputed": true,
+      "variation": "Brahmavaivarta Purana"
+    },
+    {
+      "source": "mangala",
+      "target": "shiva",
+      "type": "created-by",
+      "label": "Arose from a drop of Shiva's sweat that fell to earth during his austerities",
+      "disputed": true,
+      "variation": "Shiva Purana, Rudra Samhita; Skanda Purana"
+    },
+    {
+      "source": "mangala",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Performed tapas to Shiva at Kashi and was granted a place among the planets"
+    },
+    {
+      "source": "mangala",
+      "target": "kartikeya",
+      "type": "form-of",
+      "label": "Identified with Skanda-Kartikeya, the war god, in some traditions, especially in South India",
+      "disputed": true
+    },
+    {
+      "source": "soma",
+      "target": "budha",
+      "type": "parent",
+      "label": "Budha is Soma's son by Tara; Tara named Soma as father when Brahma asked",
+      "variation": "Brihaspati also claimed the child until Tara's answer settled it"
+    },
+    {
+      "source": "tara-brihaspati",
+      "target": "budha",
+      "type": "parent",
+      "label": "Tara bore Budha after she was restored to Brihaspati"
+    },
+    {
+      "source": "budha",
+      "target": "ila",
+      "type": "spouse",
+      "label": "Budha married Ila, who had been transformed into a woman in Shiva's grove"
+    },
+    {
+      "source": "budha",
+      "target": "pururavas",
+      "type": "parent",
+      "label": "Father of Pururavas, founder of the Lunar dynasty"
+    },
+    {
+      "source": "surya",
+      "target": "shani",
+      "type": "parent",
+      "label": "Shani is a son of the Sun god"
+    },
+    {
+      "source": "chhaya",
+      "target": "shani",
+      "type": "parent",
+      "label": "Shani was born to Chhaya, the shadow-double of Sanjna"
+    },
+    {
+      "source": "shani",
+      "target": "surya",
+      "type": "enemy",
+      "label": "Estranged from his father Surya, who slighted Chhaya and her dark son"
+    },
+    {
+      "source": "shani",
+      "target": "yama",
+      "type": "sibling",
+      "label": "Half-brothers: both sons of Surya, Yama by Sanjna and Shani by Chhaya"
+    },
+    {
+      "source": "shani",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Worshipped Shiva, who granted him his place among the planets and his role as judge of karma",
+      "variation": "Skanda Purana, Kashi Khanda"
+    },
+    {
+      "source": "shani",
+      "target": "krishna",
+      "type": "devotee",
+      "label": "Absorbed in meditation on Krishna when his wife cursed him",
+      "variation": "Brahmavaivarta Purana"
+    },
+    {
+      "source": "shani",
+      "target": "dasharatha",
+      "type": "boon",
+      "label": "Granted Dasharatha a boon after the king confronted him to prevent his transit through Rohini",
+      "disputed": true,
+      "variation": "Padma Purana"
+    },
+    {
+      "source": "shani",
+      "target": "hanuman",
+      "type": "ally",
+      "label": "Folk tradition: freed by Hanuman from Ravana's captivity, Shani promised not to afflict Hanuman's devotees",
+      "disputed": true,
+      "variation": "Regional and folk tradition"
+    },
+    {
+      "source": "soma",
+      "target": "rohini",
+      "type": "spouse",
+      "label": "Rohini is Soma's favourite among the lunar mansions he married; his partiality led to Daksha's curse and the waning moon"
+    },
+    {
+      "source": "daksha",
+      "target": "rohini",
+      "type": "parent",
+      "label": "Rohini is one of the twenty-seven daughters of Daksha, the lunar mansions",
+      "variation": "Taittiriya Samhita 2.3.5: one of thirty-three daughters of Prajapati"
+    },
+    {
+      "source": "prajapati",
+      "target": "rohini",
+      "type": "parent",
+      "label": "In the Taittiriya Samhita Rohini is a daughter of Prajapati given to Soma",
+      "disputed": true,
+      "variation": "Epic and Puranic texts make Daksha her father"
+    },
+    {
+      "source": "brihaspati",
+      "target": "tara-brihaspati",
+      "type": "spouse",
+      "label": "Tara is the wife of Brihaspati, preceptor of the gods"
+    },
+    {
+      "source": "brahma",
+      "target": "tara-brihaspati",
+      "type": "ally",
+      "label": "Brahma halted the Tarakamaya war, restored Tara to Brihaspati and gently learned the child's paternity from her"
+    },
+    {
+      "source": "indra",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Indra guards the east"
+    },
+    {
+      "source": "agni",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Agni guards the south-east"
+    },
+    {
+      "source": "yama",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Yama guards the south"
+    },
+    {
+      "source": "varuna",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Varuna guards the west"
+    },
+    {
+      "source": "vayu",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Vayu guards the north-west"
+    },
+    {
+      "source": "kubera",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Kubera guards the north, made a Lokapala by Brahma"
+    },
+    {
+      "source": "shiva",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "As Ishana, Shiva guards the north-east in the eightfold scheme",
+      "disputed": true,
+      "variation": "Absent from the older fourfold Lokapala lists"
+    },
+    {
+      "source": "soma",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Guardian of the north in some lists instead of Kubera",
+      "disputed": true,
+      "variation": "Lists vary between four, eight and ten guardians"
+    },
+    {
+      "source": "brahma",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Guardian of the zenith in the tenfold scheme",
+      "disputed": true,
+      "variation": "Only in ten-Dikpala lists"
+    },
+    {
+      "source": "vishnu",
+      "target": "dikpalas",
+      "type": "member-of",
+      "label": "Guardian of the nadir in the tenfold scheme",
+      "disputed": true,
+      "variation": "Some lists give Ananta-Shesha for the nadir"
+    },
+    {
+      "source": "dikpalas",
+      "target": "nala-king",
+      "type": "boon",
+      "label": "Indra, Agni, Varuna and Yama, four of the world-guardians, each granted Nala two boons after Damayanti chose him"
+    },
+    {
+      "source": "vishrava",
+      "target": "kubera",
+      "type": "parent",
+      "label": "Kubera Vaishravana is the son of the sage Vishrava"
+    },
+    {
+      "source": "pulastya",
+      "target": "kubera",
+      "type": "ancestor-of",
+      "label": "Kubera is the grandson of the sage Pulastya"
+    },
+    {
+      "source": "bharadvaja",
+      "target": "kubera",
+      "type": "ancestor-of",
+      "label": "Maternal grandfather: Kubera's mother Devavarnini was Bharadvaja's daughter",
+      "disputed": true,
+      "variation": "Ramayana; other texts name Trinabindu's daughter Ilavida"
+    },
+    {
+      "source": "kubera",
+      "target": "ravana",
+      "type": "sibling",
+      "label": "Half-brothers, both sons of Vishrava; Ravana's mother was the rakshasi Kaikesi"
+    },
+    {
+      "source": "kubera",
+      "target": "kumbhakarna",
+      "type": "sibling",
+      "label": "Half-brothers through their father Vishrava"
+    },
+    {
+      "source": "kubera",
+      "target": "vibhishana",
+      "type": "sibling",
+      "label": "Half-brothers through their father Vishrava"
+    },
+    {
+      "source": "kubera",
+      "target": "shurpanakha",
+      "type": "sibling",
+      "label": "Half-siblings through their father Vishrava"
+    },
+    {
+      "source": "kubera",
+      "target": "ravana",
+      "type": "enemy",
+      "label": "Ravana took Lanka from Kubera, later defeated him at Alaka and seized the Pushpaka chariot"
+    },
+    {
+      "source": "brahma",
+      "target": "kubera",
+      "type": "boon",
+      "label": "Made Kubera guardian of wealth and a Lokapala, and gave him the Pushpaka chariot"
+    },
+    {
+      "source": "kubera",
+      "target": "shiva",
+      "type": "ally",
+      "label": "Friend of Shiva, dwelling in Alaka near Kailasa"
+    },
+    {
+      "source": "kubera",
+      "target": "venkateshvara",
+      "type": "ally",
+      "label": "Lent wealth to Srinivasa for his wedding to Padmavati, according to the Tirumala tradition",
+      "disputed": true,
+      "variation": "Tirumala temple tradition (Venkatachala Mahatmya)"
+    },
+    {
+      "source": "chitragupta",
+      "target": "brahma",
+      "type": "created-by",
+      "label": "Emerged from Brahma's body after long meditation, bearing pen and inkpot"
+    },
+    {
+      "source": "chitragupta",
+      "target": "yama",
+      "type": "ally",
+      "label": "Record-keeper of Yama, reading out each soul's deeds at judgement"
+    },
+    {
+      "source": "gajendra",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Gajendra Moksha: Vishnu came on Garuda and freed him from the crocodile, the cursed Gandharva Huhu"
+    },
+    {
+      "source": "agastya",
+      "target": "gajendra",
+      "type": "curse",
+      "label": "Cursed King Indradyumna, absorbed in worship and failing to greet him, to be born as an elephant"
+    },
+    {
+      "source": "ambarisha",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Exemplary devotee whom Vishnu's Sudarshana discus protected"
+    },
+    {
+      "source": "durvasa",
+      "target": "ambarisha",
+      "type": "curse",
+      "label": "Enraged that Ambarisha broke his fast with water, sent a fiery demon against him; the Sudarshana destroyed it and pursued Durvasa"
+    },
+    {
+      "source": "vaivasvata-manu",
+      "target": "ambarisha",
+      "type": "ancestor-of",
+      "label": "Ambarisha, son of Nabhaga, descends from Vaivasvata Manu"
+    }
+  ]
+}

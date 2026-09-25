@@ -1,0 +1,3481 @@
+{
+ "chunks": [
+  {
+   "id": "01-cosmology",
+   "description": "Origins, cosmology, Manus, Vedic groups and primordial goddesses"
+  },
+  {
+   "id": "02-vedic",
+   "description": "Major Vedic deities"
+  },
+  {
+   "id": "03-trimurti",
+   "description": "The Trimurti, their consorts, children and iconic forms"
+  },
+  {
+   "id": "04-devi",
+   "description": "The Devi / Shakti tradition: Mahavidyas, Navadurga, Matrikas and forms of the Goddess"
+  },
+  {
+   "id": "05-avatars",
+   "description": "Avatars of Vishnu (Dashavatara and the 24 of the Bhagavata) and forms of Shiva"
+  },
+  {
+   "id": "06-daityas",
+   "description": "Daityas and Danavas: Kashyapa's asura line, Vedic adversaries and foes of Vishnu"
+  },
+  {
+   "id": "07-devi-shiva-foes",
+   "description": "Asuras opposed by the Devi and by Shiva/Skanda, plus Vishnu's cursed gatekeepers"
+  },
+  {
+   "id": "08-rishis-vedic",
+   "description": "Vedic rishis, the mind-born sages and their wives"
+  },
+  {
+   "id": "09-sages",
+   "description": "Upanishadic, epic and Puranic sages and devotees"
+  },
+  {
+   "id": "10-ramayana-ayodhya",
+   "description": "Ramayana: Rama's family, Ayodhya, Mithila and forest allies"
+  },
+  {
+   "id": "11-ramayana-vanara",
+   "description": "Ramayana: Hanuman, the Vanaras and beings met on the way to Lanka"
+  },
+  {
+   "id": "12-lanka",
+   "description": "Ramayana: Ravana, his family and the rakshasas of Lanka"
+  },
+  {
+   "id": "13-dynasties",
+   "description": "The Solar (Ikshvaku) and Lunar (Chandra) dynasties up to the Kurus"
+  },
+  {
+   "id": "14-kuru",
+   "description": "Mahabharata: the Kuru elders, the Pandavas and their heirs"
+  },
+  {
+   "id": "15-kaurava-allies",
+   "description": "Mahabharata: the Kauravas, the teachers, Panchala, Matsya and the war's warriors"
+  },
+  {
+   "id": "16-yadava",
+   "description": "Krishna, Balarama and the Yadavas of Mathura, Vrindavan and Dvaraka"
+  },
+  {
+   "id": "17-mahabharata-episodes",
+   "description": "Mahabharata: Pandava marriages and sons, forest episodes and embedded tales"
+  },
+  {
+   "id": "18-nagas-vahanas",
+   "description": "Nagas, the Garuda family, divine mounts and sacred animals"
+  },
+  {
+   "id": "19-celestials",
+   "description": "Kama and Rati, Apsaras, Gandharvas, the Navagraha, Dikpalas and celebrated devotees"
+  },
+  {
+   "id": "20-events",
+   "description": "Key events (each linked to every character involved)"
+  }
+ ],
+ "entries": [
+  {
+   "id": "brahman",
+   "name": "Brahman",
+   "category": "cosmic",
+   "era": "upanishads",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "hiranyagarbha",
+   "name": "Hiranyagarbha",
+   "category": "cosmic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "purusha",
+   "name": "Purusha",
+   "category": "cosmic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "prajapati",
+   "name": "Prajapati",
+   "category": "cosmic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "creation-nasadiya",
+   "name": "Nasadiya Sukta — Hymn of Creation",
+   "category": "event",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "svayambhuva-manu",
+   "name": "Svayambhuva Manu",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "shatarupa",
+   "name": "Shatarupa",
+   "category": "human",
+   "era": "early-puranas",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "vaivasvata-manu",
+   "name": "Vaivasvata Manu",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "great-flood",
+   "name": "The Great Flood (Manu and the Fish)",
+   "category": "event",
+   "era": "later-vedic",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "saptarishi",
+   "name": "Saptarishi (Seven Sages)",
+   "category": "rishi",
+   "era": "later-vedic",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "adityas",
+   "name": "Adityas",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "vasus",
+   "name": "Vasus",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "rudras-group",
+   "name": "Ekadasha Rudras",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "maruts",
+   "name": "Maruts",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "aditi",
+   "name": "Aditi",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "diti",
+   "name": "Diti",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "danu",
+   "name": "Danu",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "prithvi",
+   "name": "Prithvi (Bhudevi)",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "dyaus",
+   "name": "Dyaus Pita",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "prishni",
+   "name": "Prishni",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "vak",
+   "name": "Vak",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "ratri",
+   "name": "Ratri",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "ushas",
+   "name": "Ushas",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "ashvins",
+   "name": "Ashvins",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "01-cosmology"
+  },
+  {
+   "id": "indra",
+   "name": "Indra",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "shachi",
+   "name": "Shachi (Indrani)",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "agni",
+   "name": "Agni",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "svaha",
+   "name": "Svaha",
+   "category": "vedic",
+   "era": "mahabharata",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "varuna",
+   "name": "Varuna",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "mitra",
+   "name": "Mitra",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "surya",
+   "name": "Surya (Vivasvat)",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "sanjna",
+   "name": "Sanjna (Saranyu)",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "chhaya",
+   "name": "Chhaya",
+   "category": "vedic",
+   "era": "early-puranas",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "soma",
+   "name": "Soma (Chandra)",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "vayu",
+   "name": "Vayu",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "rudra",
+   "name": "Rudra",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "yama",
+   "name": "Yama (Dharmaraja)",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "yami",
+   "name": "Yami (Yamuna)",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "savitr",
+   "name": "Savitr",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "pushan",
+   "name": "Pushan",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "bhaga",
+   "name": "Bhaga",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "aryaman",
+   "name": "Aryaman",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "tvashtr",
+   "name": "Tvashtr",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "vishvakarma",
+   "name": "Vishvakarma",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "parjanya",
+   "name": "Parjanya",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "brihaspati",
+   "name": "Brihaspati",
+   "category": "vedic",
+   "era": "rigveda",
+   "chunk": "02-vedic"
+  },
+  {
+   "id": "brahma",
+   "name": "Brahma",
+   "category": "trimurti",
+   "era": "upanishads",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "vishnu",
+   "name": "Vishnu",
+   "category": "trimurti",
+   "era": "rigveda",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "shiva",
+   "name": "Shiva",
+   "category": "trimurti",
+   "era": "upanishads",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "saraswati",
+   "name": "Saraswati",
+   "category": "devi",
+   "era": "rigveda",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "lakshmi",
+   "name": "Lakshmi (Shri)",
+   "category": "devi",
+   "era": "later-vedic",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "parvati",
+   "name": "Parvati (Uma)",
+   "category": "devi",
+   "era": "upanishads",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "sati",
+   "name": "Sati (Dakshayani)",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "ganesha",
+   "name": "Ganesha",
+   "category": "trimurti",
+   "era": "early-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "kartikeya",
+   "name": "Kartikeya (Skanda, Murugan)",
+   "category": "trimurti",
+   "era": "mahabharata",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "ashokasundari",
+   "name": "Ashokasundari",
+   "category": "trimurti",
+   "era": "late-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "riddhi",
+   "name": "Riddhi",
+   "category": "devi",
+   "era": "middle-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "siddhi",
+   "name": "Siddhi",
+   "category": "devi",
+   "era": "middle-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "devasena",
+   "name": "Devasena",
+   "category": "devi",
+   "era": "mahabharata",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "valli",
+   "name": "Valli",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "himavan",
+   "name": "Himavan",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "mena",
+   "name": "Mena",
+   "category": "celestial",
+   "era": "ramayana",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "daksha",
+   "name": "Daksha",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "prasuti",
+   "name": "Prasuti",
+   "category": "human",
+   "era": "early-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "ganga",
+   "name": "Ganga",
+   "category": "devi",
+   "era": "rigveda",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "alakshmi",
+   "name": "Alakshmi (Jyeshtha)",
+   "category": "devi",
+   "era": "later-vedic",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "nataraja",
+   "name": "Nataraja",
+   "category": "avatar",
+   "era": "middle-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "ardhanarishvara",
+   "name": "Ardhanarishvara",
+   "category": "avatar",
+   "era": "early-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "dakshinamurti",
+   "name": "Dakshinamurti",
+   "category": "avatar",
+   "era": "middle-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "pashupati",
+   "name": "Pashupati",
+   "category": "avatar",
+   "era": "later-vedic",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "harihara",
+   "name": "Harihara",
+   "category": "avatar",
+   "era": "early-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "jagannatha",
+   "name": "Jagannatha",
+   "category": "avatar",
+   "era": "late-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "venkateshvara",
+   "name": "Venkateshvara",
+   "category": "avatar",
+   "era": "late-puranas",
+   "chunk": "03-trimurti"
+  },
+  {
+   "id": "adi-parashakti",
+   "name": "Adi Parashakti",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "durga",
+   "name": "Durga",
+   "category": "devi",
+   "era": "mahabharata",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "kali",
+   "name": "Kali",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "mahavidyas",
+   "name": "Dasha Mahavidya (Ten Wisdom Goddesses)",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "tara-devi",
+   "name": "Tara (Mahavidya)",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "tripura-sundari",
+   "name": "Tripura Sundari (Lalita)",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "bhuvaneshvari",
+   "name": "Bhuvaneshvari",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "bhairavi",
+   "name": "Bhairavi",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "chhinnamasta",
+   "name": "Chhinnamasta",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "dhumavati",
+   "name": "Dhumavati",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "bagalamukhi",
+   "name": "Bagalamukhi",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "matangi",
+   "name": "Matangi",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "kamala",
+   "name": "Kamala",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "navadurga",
+   "name": "Navadurga (Nine Durgas)",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "shailaputri",
+   "name": "Shailaputri",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "brahmacharini",
+   "name": "Brahmacharini",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "chandraghanta",
+   "name": "Chandraghanta",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "kushmanda",
+   "name": "Kushmanda",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "skandamata",
+   "name": "Skandamata",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "katyayani",
+   "name": "Katyayani",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "kalaratri",
+   "name": "Kalaratri",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "mahagauri",
+   "name": "Mahagauri",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "siddhidatri",
+   "name": "Siddhidatri",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "matrikas",
+   "name": "Saptamatrika (Seven Mothers)",
+   "category": "devi",
+   "era": "mahabharata",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "brahmani",
+   "name": "Brahmani",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "vaishnavi",
+   "name": "Vaishnavi",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "maheshvari",
+   "name": "Maheshvari",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "kaumari",
+   "name": "Kaumari",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "varahi",
+   "name": "Varahi",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "aindri",
+   "name": "Aindri",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "chamunda",
+   "name": "Chamunda",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "kaushiki",
+   "name": "Kaushiki (Ambika)",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "shakambhari",
+   "name": "Shakambhari",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "annapurna",
+   "name": "Annapurna",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "bhramari",
+   "name": "Bhramari",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "kamakhya",
+   "name": "Kamakhya",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "04-devi"
+  },
+  {
+   "id": "matsya",
+   "name": "Matsya",
+   "category": "avatar",
+   "era": "later-vedic",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "kurma",
+   "name": "Kurma",
+   "category": "avatar",
+   "era": "later-vedic",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "varaha",
+   "name": "Varaha",
+   "category": "avatar",
+   "era": "later-vedic",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "narasimha",
+   "name": "Narasimha",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "vamana",
+   "name": "Vamana (Trivikrama)",
+   "category": "avatar",
+   "era": "later-vedic",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "parashurama",
+   "name": "Parashurama",
+   "category": "avatar",
+   "era": "ramayana",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "buddha",
+   "name": "Buddha (as avatar)",
+   "category": "avatar",
+   "era": "early-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "kalki",
+   "name": "Kalki",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "kumaras",
+   "name": "Four Kumaras",
+   "category": "rishi",
+   "era": "upanishads",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "nara-narayana",
+   "name": "Nara-Narayana",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "kapila",
+   "name": "Kapila",
+   "category": "avatar",
+   "era": "ramayana",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "dattatreya",
+   "name": "Dattatreya",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "yajna",
+   "name": "Yajna",
+   "category": "avatar",
+   "era": "middle-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "rishabha",
+   "name": "Rishabha",
+   "category": "avatar",
+   "era": "middle-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "prithu",
+   "name": "Prithu",
+   "category": "avatar",
+   "era": "later-vedic",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "dhanvantari",
+   "name": "Dhanvantari",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "mohini",
+   "name": "Mohini",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "hayagriva",
+   "name": "Hayagriva",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "bhairava",
+   "name": "Bhairava (Kala Bhairava)",
+   "category": "avatar",
+   "era": "middle-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "virabhadra",
+   "name": "Virabhadra",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "bhadrakali",
+   "name": "Bhadrakali",
+   "category": "devi",
+   "era": "early-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "sharabha",
+   "name": "Sharabha",
+   "category": "avatar",
+   "era": "middle-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "kirata",
+   "name": "Kirata (Shiva as the hunter)",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "ayyappa",
+   "name": "Ayyappa (Dharma Shasta)",
+   "category": "avatar",
+   "era": "late-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "vena",
+   "name": "Vena",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "renuka",
+   "name": "Renuka",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "kartavirya-arjuna",
+   "name": "Kartavirya Arjuna",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "kardama",
+   "name": "Kardama",
+   "category": "rishi",
+   "era": "middle-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "devahuti",
+   "name": "Devahuti",
+   "category": "human",
+   "era": "middle-puranas",
+   "chunk": "05-avatars"
+  },
+  {
+   "id": "hiranyakashipu",
+   "name": "Hiranyakashipu",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "hiranyaksha",
+   "name": "Hiranyaksha",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "prahlada",
+   "name": "Prahlada",
+   "category": "asura",
+   "era": "later-vedic",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "kayadhu",
+   "name": "Kayadhu",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "virochana",
+   "name": "Virochana",
+   "category": "asura",
+   "era": "upanishads",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "bali",
+   "name": "Mahabali",
+   "category": "asura",
+   "era": "ramayana",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "banasura",
+   "name": "Banasura",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "holika",
+   "name": "Holika",
+   "category": "asura",
+   "era": "late-puranas",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "vritra",
+   "name": "Vritra",
+   "category": "asura",
+   "era": "rigveda",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "vishvarupa",
+   "name": "Vishvarupa (Trishiras)",
+   "category": "asura",
+   "era": "rigveda",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "namuchi",
+   "name": "Namuchi",
+   "category": "asura",
+   "era": "rigveda",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "shambara",
+   "name": "Shambara",
+   "category": "asura",
+   "era": "rigveda",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "vala",
+   "name": "Vala",
+   "category": "asura",
+   "era": "rigveda",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "puloman",
+   "name": "Puloman",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "shukracharya",
+   "name": "Shukracharya (Ushanas Kavya)",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "maya",
+   "name": "Mayasura",
+   "category": "asura",
+   "era": "ramayana",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "rahu",
+   "name": "Rahu (Svarbhanu)",
+   "category": "asura",
+   "era": "rigveda",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "ketu",
+   "name": "Ketu",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "narakasura",
+   "name": "Narakasura",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "kalanemi",
+   "name": "Kalanemi",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "vatapi",
+   "name": "Vatapi",
+   "category": "asura",
+   "era": "ramayana",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "ilvala",
+   "name": "Ilvala",
+   "category": "asura",
+   "era": "ramayana",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "sunda",
+   "name": "Sunda",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "upasunda",
+   "name": "Upasunda",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "kali-purusha",
+   "name": "Kali (spirit of the Kali Yuga)",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "madhu",
+   "name": "Madhu",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "kaitabha",
+   "name": "Kaitabha",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "06-daityas"
+  },
+  {
+   "id": "mahishasura",
+   "name": "Mahishasura",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "shumbha",
+   "name": "Shumbha",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "nishumbha",
+   "name": "Nishumbha",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "chanda",
+   "name": "Chanda",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "munda",
+   "name": "Munda",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "raktabija",
+   "name": "Raktabija",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "dhumralochana",
+   "name": "Dhumralochana",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "durgamasura",
+   "name": "Durgamasura",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "arunasura",
+   "name": "Arunasura",
+   "category": "asura",
+   "era": "late-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "tarakasura",
+   "name": "Tarakasura",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "andhaka",
+   "name": "Andhaka",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "jalandhara",
+   "name": "Jalandhara",
+   "category": "asura",
+   "era": "middle-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "vrinda",
+   "name": "Vrinda (Tulasi)",
+   "category": "devi",
+   "era": "middle-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "bhasmasura",
+   "name": "Bhasmasura (Vrikasura)",
+   "category": "asura",
+   "era": "middle-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "tripurasura",
+   "name": "Tripurasura (the Three Cities' lords)",
+   "category": "asura",
+   "era": "later-vedic",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "gayasura",
+   "name": "Gayasura",
+   "category": "asura",
+   "era": "early-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "rambha-asura",
+   "name": "Rambha (father of Mahishasura)",
+   "category": "asura",
+   "era": "middle-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "mahishi",
+   "name": "Mahishi",
+   "category": "asura",
+   "era": "late-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "jaya",
+   "name": "Jaya",
+   "category": "celestial",
+   "era": "middle-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "vijaya",
+   "name": "Vijaya",
+   "category": "celestial",
+   "era": "middle-puranas",
+   "chunk": "07-devi-shiva-foes"
+  },
+  {
+   "id": "bhrigu",
+   "name": "Bhrigu",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "atri",
+   "name": "Atri",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "anasuya",
+   "name": "Anasuya",
+   "category": "rishi",
+   "era": "ramayana",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "kashyapa",
+   "name": "Kashyapa",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "angiras",
+   "name": "Angiras",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "pulastya",
+   "name": "Pulastya",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "pulaha",
+   "name": "Pulaha",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "kratu",
+   "name": "Kratu",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "marichi",
+   "name": "Marichi",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "vashistha",
+   "name": "Vashistha",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "arundhati",
+   "name": "Arundhati",
+   "category": "rishi",
+   "era": "later-vedic",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "vishvamitra",
+   "name": "Vishvamitra",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "jamadagni",
+   "name": "Jamadagni",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "gautama",
+   "name": "Gautama Maharishi",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "ahalya",
+   "name": "Ahalya",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "bharadvaja",
+   "name": "Bharadvaja",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "dadhichi",
+   "name": "Dadhichi (Dadhyanch)",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "chyavana",
+   "name": "Chyavana",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "sukanya",
+   "name": "Sukanya",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "agastya",
+   "name": "Agastya",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "lopamudra",
+   "name": "Lopamudra",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "08-rishis-vedic"
+  },
+  {
+   "id": "narada",
+   "name": "Narada",
+   "category": "rishi",
+   "era": "later-vedic",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "durvasa",
+   "name": "Durvasa",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "vyasa",
+   "name": "Vyasa (Krishna Dvaipayana)",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "valmiki",
+   "name": "Valmiki",
+   "category": "rishi",
+   "era": "ramayana",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "markandeya",
+   "name": "Markandeya",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "parashara",
+   "name": "Parashara",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "shakti-rishi",
+   "name": "Shakti (son of Vashistha)",
+   "category": "rishi",
+   "era": "rigveda",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "yajnavalkya",
+   "name": "Yajnavalkya",
+   "category": "rishi",
+   "era": "later-vedic",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "uddalaka",
+   "name": "Uddalaka Aruni",
+   "category": "rishi",
+   "era": "later-vedic",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "shvetaketu",
+   "name": "Shvetaketu",
+   "category": "rishi",
+   "era": "upanishads",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "nachiketa",
+   "name": "Nachiketa",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "maitreyi",
+   "name": "Maitreyi",
+   "category": "rishi",
+   "era": "upanishads",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "gargi",
+   "name": "Gargi Vachaknavi",
+   "category": "rishi",
+   "era": "upanishads",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "ashtavakra",
+   "name": "Ashtavakra",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "shuka",
+   "name": "Shuka",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "kanva",
+   "name": "Kanva",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "vishrava",
+   "name": "Vishrava",
+   "category": "rishi",
+   "era": "ramayana",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "rishyashringa",
+   "name": "Rishyashringa",
+   "category": "rishi",
+   "era": "ramayana",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "dhruva",
+   "name": "Dhruva",
+   "category": "human",
+   "era": "early-puranas",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "vaishampayana",
+   "name": "Vaishampayana",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "09-sages"
+  },
+  {
+   "id": "rama",
+   "name": "Rama",
+   "category": "avatar",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "sita",
+   "name": "Sita",
+   "category": "devi",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "lakshmana",
+   "name": "Lakshmana",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "urmila",
+   "name": "Urmila",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "bharata",
+   "name": "Bharata",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "mandavi",
+   "name": "Mandavi",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "shatrughna",
+   "name": "Shatrughna",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "shrutakirti",
+   "name": "Shrutakirti",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "dasharatha",
+   "name": "Dasharatha",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "kausalya",
+   "name": "Kausalya",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "kaikeyi",
+   "name": "Kaikeyi",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "sumitra",
+   "name": "Sumitra",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "manthara",
+   "name": "Manthara",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "shanta",
+   "name": "Shanta",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "janaka",
+   "name": "Janaka",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "sunaina",
+   "name": "Sunaina",
+   "category": "human",
+   "era": "late-puranas",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "kushadhvaja",
+   "name": "Kushadhvaja",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "lava",
+   "name": "Lava",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "kusha",
+   "name": "Kusha",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "guha",
+   "name": "Guha",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "shabari",
+   "name": "Shabari",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "jatayu",
+   "name": "Jatayu",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "sampati",
+   "name": "Sampati",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "kabandha",
+   "name": "Kabandha",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "viradha",
+   "name": "Viradha",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "shravana-kumara",
+   "name": "Shravana Kumara",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "10-ramayana-ayodhya"
+  },
+  {
+   "id": "hanuman",
+   "name": "Hanuman",
+   "category": "avatar",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "anjana",
+   "name": "Anjana",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "kesari",
+   "name": "Kesari",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "sugriva",
+   "name": "Sugriva",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "vali",
+   "name": "Vali",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "tara-kishkindha",
+   "name": "Tara (queen of Kishkindha)",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "ruma",
+   "name": "Ruma",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "angada",
+   "name": "Angada",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "jambavan",
+   "name": "Jambavan",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "nala-vanara",
+   "name": "Nala (vanara engineer)",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "nila",
+   "name": "Nila",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "surasa",
+   "name": "Surasa",
+   "category": "celestial",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "simhika",
+   "name": "Simhika",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "lankini",
+   "name": "Lankini",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "mainaka",
+   "name": "Mainaka",
+   "category": "celestial",
+   "era": "ramayana",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "makardhvaja",
+   "name": "Makardhvaja",
+   "category": "animal",
+   "era": "late-puranas",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "ahiravana",
+   "name": "Ahiravana",
+   "category": "rakshasa",
+   "era": "late-puranas",
+   "chunk": "11-ramayana-vanara"
+  },
+  {
+   "id": "ravana",
+   "name": "Ravana",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "kumbhakarna",
+   "name": "Kumbhakarna",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "vibhishana",
+   "name": "Vibhishana",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "mandodari",
+   "name": "Mandodari",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "indrajit",
+   "name": "Indrajit (Meghanada)",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "shurpanakha",
+   "name": "Shurpanakha",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "maricha",
+   "name": "Maricha",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "subahu",
+   "name": "Subahu",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "tataka",
+   "name": "Tataka",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "khara",
+   "name": "Khara",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "dushana",
+   "name": "Dushana",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "prahasta",
+   "name": "Prahasta",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "atikaya",
+   "name": "Atikaya",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "akshayakumara",
+   "name": "Akshayakumara",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "sarama",
+   "name": "Sarama",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "trijata",
+   "name": "Trijata",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "kaikesi",
+   "name": "Kaikesi",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "sumali",
+   "name": "Sumali",
+   "category": "rakshasa",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "vedavati",
+   "name": "Vedavati",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "12-lanka"
+  },
+  {
+   "id": "ikshvaku",
+   "name": "Ikshvaku",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "mandhata",
+   "name": "Mandhata",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "trishanku",
+   "name": "Trishanku",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "harishchandra",
+   "name": "Harishchandra",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "taramati",
+   "name": "Taramati (Shaivya)",
+   "category": "human",
+   "era": "early-puranas",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "rohita",
+   "name": "Rohita",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "shunahshepa",
+   "name": "Shunahshepa",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "sagara",
+   "name": "Sagara",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "asamanja",
+   "name": "Asamanja",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "anshuman",
+   "name": "Anshuman",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "dilipa",
+   "name": "Dilipa",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "bhagiratha",
+   "name": "Bhagiratha",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "raghu",
+   "name": "Raghu",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "aja",
+   "name": "Aja",
+   "category": "human",
+   "era": "ramayana",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "indumati",
+   "name": "Indumati",
+   "category": "human",
+   "era": "early-puranas",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "ila",
+   "name": "Ila",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "pururavas",
+   "name": "Pururavas",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "ayu",
+   "name": "Ayu",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "nahusha",
+   "name": "Nahusha",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "yayati",
+   "name": "Yayati",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "devayani",
+   "name": "Devayani",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "sharmishtha",
+   "name": "Sharmishtha",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "kacha",
+   "name": "Kacha",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "yadu",
+   "name": "Yadu",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "puru",
+   "name": "Puru",
+   "category": "human",
+   "era": "rigveda",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "dushyanta",
+   "name": "Dushyanta",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "shakuntala",
+   "name": "Shakuntala",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "bharata-king",
+   "name": "Bharata (son of Dushyanta)",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "kuru-king",
+   "name": "Kuru",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "13-dynasties"
+  },
+  {
+   "id": "pratipa",
+   "name": "Pratipa",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "shantanu",
+   "name": "Shantanu",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "bhishma",
+   "name": "Bhishma",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "satyavati",
+   "name": "Satyavati",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "chitrangada",
+   "name": "Chitrangada (son of Shantanu)",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "vichitravirya",
+   "name": "Vichitravirya",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "amba",
+   "name": "Amba",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "ambika",
+   "name": "Ambika",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "ambalika",
+   "name": "Ambalika",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "dhritarashtra",
+   "name": "Dhritarashtra",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "gandhari",
+   "name": "Gandhari",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "pandu",
+   "name": "Pandu",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "kunti",
+   "name": "Kunti (Pritha)",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "madri",
+   "name": "Madri",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "vidura",
+   "name": "Vidura",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "yudhishthira",
+   "name": "Yudhishthira",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "bhima",
+   "name": "Bhima",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "arjuna",
+   "name": "Arjuna",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "nakula",
+   "name": "Nakula",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "sahadeva",
+   "name": "Sahadeva",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "draupadi",
+   "name": "Draupadi",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "karna",
+   "name": "Karna",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "adhiratha",
+   "name": "Adhiratha",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "radha-adhiratha",
+   "name": "Radha (Karna's foster mother)",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "vrishasena",
+   "name": "Vrishasena",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "upapandavas",
+   "name": "Upapandavas (five sons of Draupadi)",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "abhimanyu",
+   "name": "Abhimanyu",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "uttara",
+   "name": "Uttara",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "parikshit",
+   "name": "Parikshit",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "janamejaya",
+   "name": "Janamejaya",
+   "category": "human",
+   "era": "later-vedic",
+   "chunk": "14-kuru"
+  },
+  {
+   "id": "duryodhana",
+   "name": "Duryodhana",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "dushasana",
+   "name": "Dushasana",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "vikarna",
+   "name": "Vikarna",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "dushala",
+   "name": "Dushala",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "jayadratha",
+   "name": "Jayadratha",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "yuyutsu",
+   "name": "Yuyutsu",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "shakuni",
+   "name": "Shakuni",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "drona",
+   "name": "Drona",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "kripi",
+   "name": "Kripi",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "ashwatthama",
+   "name": "Ashwatthama",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "kripa",
+   "name": "Kripa",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "drupada",
+   "name": "Drupada",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "dhrishtadyumna",
+   "name": "Dhrishtadyumna",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "shikhandi",
+   "name": "Shikhandi",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "virata",
+   "name": "Virata",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "sudeshna",
+   "name": "Sudeshna",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "kichaka",
+   "name": "Kichaka",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "ekalavya",
+   "name": "Ekalavya",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "shalya",
+   "name": "Shalya",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "bhagadatta",
+   "name": "Bhagadatta",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "bhurishravas",
+   "name": "Bhurishravas",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "satyaki",
+   "name": "Satyaki",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "kritavarma",
+   "name": "Kritavarma",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "sanjaya",
+   "name": "Sanjaya",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "15-kaurava-allies"
+  },
+  {
+   "id": "krishna",
+   "name": "Krishna",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "balarama",
+   "name": "Balarama",
+   "category": "avatar",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "revati",
+   "name": "Revati",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "devaki",
+   "name": "Devaki",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "vasudeva",
+   "name": "Vasudeva",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "shurasena",
+   "name": "Shurasena",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "nanda",
+   "name": "Nanda",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "yashoda",
+   "name": "Yashoda",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "radha",
+   "name": "Radha",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "rukmini",
+   "name": "Rukmini",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "satyabhama",
+   "name": "Satyabhama",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "jambavati",
+   "name": "Jambavati",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "rukmi",
+   "name": "Rukmi",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "pradyumna",
+   "name": "Pradyumna",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "aniruddha",
+   "name": "Aniruddha",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "usha",
+   "name": "Usha (daughter of Bana)",
+   "category": "asura",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "samba",
+   "name": "Samba",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "kamsa",
+   "name": "Kamsa",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "jarasandha",
+   "name": "Jarasandha",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "shishupala",
+   "name": "Shishupala",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "putana",
+   "name": "Putana",
+   "category": "rakshasa",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "kaliya",
+   "name": "Kaliya",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "sudama",
+   "name": "Sudama (Kuchela)",
+   "category": "human",
+   "era": "middle-puranas",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "akrura",
+   "name": "Akrura",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "uddhava",
+   "name": "Uddhava",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "sandipani",
+   "name": "Sandipani",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "jara",
+   "name": "Jara",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "subhadra",
+   "name": "Subhadra",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "16-yadava"
+  },
+  {
+   "id": "hidimbi",
+   "name": "Hidimbi",
+   "category": "rakshasa",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "hidimba",
+   "name": "Hidimba",
+   "category": "rakshasa",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "ghatotkacha",
+   "name": "Ghatotkacha",
+   "category": "rakshasa",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "barbarika",
+   "name": "Barbarika",
+   "category": "rakshasa",
+   "era": "late-puranas",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "iravan",
+   "name": "Iravan",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "ulupi",
+   "name": "Ulupi",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "chitrangada-manipur",
+   "name": "Chitrangada (princess of Manipura)",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "babruvahana",
+   "name": "Babruvahana",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "bakasura",
+   "name": "Bakasura",
+   "category": "rakshasa",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "mandavya",
+   "name": "Mandavya",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "kindama",
+   "name": "Kindama",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "nala-king",
+   "name": "Nala (king of Nishadha)",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "damayanti",
+   "name": "Damayanti",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "savitri",
+   "name": "Savitri",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "satyavan",
+   "name": "Satyavan",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "dhaumya",
+   "name": "Dhaumya",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "17-mahabharata-episodes"
+  },
+  {
+   "id": "shesha",
+   "name": "Shesha (Ananta)",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "vasuki",
+   "name": "Vasuki",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "takshaka",
+   "name": "Takshaka",
+   "category": "celestial",
+   "era": "later-vedic",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "karkotaka",
+   "name": "Karkotaka",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "manasa",
+   "name": "Manasa",
+   "category": "devi",
+   "era": "late-puranas",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "astika",
+   "name": "Astika",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "jaratkaru",
+   "name": "Jaratkaru (the sage)",
+   "category": "rishi",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "kadru",
+   "name": "Kadru",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "vinata",
+   "name": "Vinata",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "garuda",
+   "name": "Garuda",
+   "category": "animal",
+   "era": "rigveda",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "aruna",
+   "name": "Aruna",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "nandi",
+   "name": "Nandi",
+   "category": "animal",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "airavata",
+   "name": "Airavata",
+   "category": "animal",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "mushika",
+   "name": "Mushika (Ganesha's mouse)",
+   "category": "animal",
+   "era": "middle-puranas",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "paravani",
+   "name": "Paravani (Kartikeya's peacock)",
+   "category": "animal",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "hamsa-vahana",
+   "name": "Hamsa (the divine swan)",
+   "category": "animal",
+   "era": "early-puranas",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "uluka",
+   "name": "Uluka (Lakshmi's owl)",
+   "category": "animal",
+   "era": "late-puranas",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "dawon",
+   "name": "Dawon (the Goddess's lion)",
+   "category": "animal",
+   "era": "early-puranas",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "uchchaihshravas",
+   "name": "Uchchaihshravas",
+   "category": "animal",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "kamadhenu",
+   "name": "Kamadhenu",
+   "category": "animal",
+   "era": "mahabharata",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "nandini",
+   "name": "Nandini (Shabala)",
+   "category": "animal",
+   "era": "ramayana",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "makara",
+   "name": "Makara",
+   "category": "animal",
+   "era": "early-puranas",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "bhringi",
+   "name": "Bhringi",
+   "category": "rishi",
+   "era": "middle-puranas",
+   "chunk": "18-nagas-vahanas"
+  },
+  {
+   "id": "kamadeva",
+   "name": "Kamadeva",
+   "category": "celestial",
+   "era": "later-vedic",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "rati",
+   "name": "Rati",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "urvashi",
+   "name": "Urvashi",
+   "category": "celestial",
+   "era": "rigveda",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "menaka",
+   "name": "Menaka",
+   "category": "celestial",
+   "era": "ramayana",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "rambha",
+   "name": "Rambha (apsara)",
+   "category": "celestial",
+   "era": "ramayana",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "tilottama",
+   "name": "Tilottama",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "chitraratha",
+   "name": "Chitraratha",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "tumburu",
+   "name": "Tumburu",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "navagraha",
+   "name": "Navagraha (Nine Planets)",
+   "category": "celestial",
+   "era": "early-puranas",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "mangala",
+   "name": "Mangala (Angaraka)",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "budha",
+   "name": "Budha",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "shani",
+   "name": "Shani",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "rohini",
+   "name": "Rohini",
+   "category": "celestial",
+   "era": "later-vedic",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "tara-brihaspati",
+   "name": "Tara (wife of Brihaspati)",
+   "category": "celestial",
+   "era": "early-puranas",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "dikpalas",
+   "name": "Dikpalas (Guardians of the Directions)",
+   "category": "celestial",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "kubera",
+   "name": "Kubera",
+   "category": "celestial",
+   "era": "later-vedic",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "chitragupta",
+   "name": "Chitragupta",
+   "category": "celestial",
+   "era": "middle-puranas",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "gajendra",
+   "name": "Gajendra",
+   "category": "animal",
+   "era": "middle-puranas",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "ambarisha",
+   "name": "Ambarisha",
+   "category": "human",
+   "era": "mahabharata",
+   "chunk": "19-celestials"
+  },
+  {
+   "id": "samudra-manthan",
+   "name": "Samudra Manthan (Churning of the Ocean)",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "daksha-yajna",
+   "name": "Daksha Yajna",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "kurukshetra-war",
+   "name": "Kurukshetra War",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "lanka-war",
+   "name": "The War of Lanka",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "ganga-descent",
+   "name": "Descent of the Ganga (Gangavatarana)",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "lingodbhava",
+   "name": "Lingodbhava (the Pillar of Fire)",
+   "category": "event",
+   "era": "early-puranas",
+   "chunk": "20-events"
+  },
+  {
+   "id": "tripura-dahana",
+   "name": "Tripura Dahana (Burning of the Three Cities)",
+   "category": "event",
+   "era": "later-vedic",
+   "chunk": "20-events"
+  },
+  {
+   "id": "kama-dahana",
+   "name": "Kama Dahana (Burning of Kama)",
+   "category": "event",
+   "era": "early-puranas",
+   "chunk": "20-events"
+  },
+  {
+   "id": "skanda-birth",
+   "name": "Birth of Skanda and slaying of Taraka",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "govardhana-lila",
+   "name": "Lifting of Govardhana",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "bhagavad-gita",
+   "name": "The Bhagavad Gita discourse",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "game-of-dice",
+   "name": "The Game of Dice",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "draupadi-svayamvara",
+   "name": "Draupadi's Svayamvara",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "sita-svayamvara",
+   "name": "Sita's Svayamvara (breaking of Shiva's bow)",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "rama-vanavasa",
+   "name": "Rama's Exile",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "sita-abduction",
+   "name": "Abduction of Sita",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "lanka-dahana",
+   "name": "Burning of Lanka",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "rama-setu",
+   "name": "Building of Rama Setu",
+   "category": "event",
+   "era": "ramayana",
+   "chunk": "20-events"
+  },
+  {
+   "id": "sarpa-satra",
+   "name": "Janamejaya's Snake Sacrifice",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "three-strides",
+   "name": "Vamana's Three Strides",
+   "category": "event",
+   "era": "later-vedic",
+   "chunk": "20-events"
+  },
+  {
+   "id": "holika-dahan",
+   "name": "Holika Dahan",
+   "category": "event",
+   "era": "late-puranas",
+   "chunk": "20-events"
+  },
+  {
+   "id": "mahishasura-vadha",
+   "name": "Slaying of Mahishasura",
+   "category": "event",
+   "era": "early-puranas",
+   "chunk": "20-events"
+  },
+  {
+   "id": "mausala",
+   "name": "Mausala — End of the Yadavas",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "khandava-dahana",
+   "name": "Burning of the Khandava Forest",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "rajasuya",
+   "name": "Yudhishthira's Rajasuya",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "garuda-amrita",
+   "name": "Garuda Steals the Amrita",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  },
+  {
+   "id": "vritra-vadha",
+   "name": "Slaying of Vritra",
+   "category": "event",
+   "era": "rigveda",
+   "chunk": "20-events"
+  },
+  {
+   "id": "mahaprasthana",
+   "name": "Mahaprasthana — the Great Departure",
+   "category": "event",
+   "era": "mahabharata",
+   "chunk": "20-events"
+  }
+ ]
+}

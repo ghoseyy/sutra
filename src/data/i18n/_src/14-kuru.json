@@ -1,0 +1,1591 @@
+{
+ "section": "14-kuru",
+ "nodes": {
+  "pratipa": {
+   "name": "Pratipa",
+   "aliases": [
+    "Pratipa of the Kurus"
+   ],
+   "description": "A righteous Kuru king of the Lunar dynasty and father of Devapi, Bahlika and Shantanu. His encounter with the river goddess Ganga sets in motion the birth of Bhishma and the whole Kuru story of the Mahabharata.",
+   "story": "Old King Pratipa was sitting in meditation on the bank of the Ganga when a radiant woman rose from the water and sat down on his right thigh, asking him to take her as his wife. Pratipa, bound by dharma, gently refused: the right thigh, he explained, is the seat of a daughter or daughter-in-law, while the left belongs to a wife. He therefore promised her to his future son. The woman was Ganga herself, and she agreed. When Shantanu was born to the aged Pratipa and his queen, the king told him that a celestial woman would one day come to him, and that he should marry her without asking who she was. Having crowned Shantanu, Pratipa retired to the forest, leaving the stage set for the birth of Bhishma.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": [
+    "Devapi, Pratipa's eldest son, renounced the throne because of a skin disease, which is why the younger Shantanu became king; the Rig Veda (10.98) knows a Devapi and a Shantanu, whose link to the epic princes is debated."
+   ]
+  },
+  "shantanu": {
+   "name": "Shantanu",
+   "aliases": [
+    "Santanu",
+    "Shamtanu"
+   ],
+   "description": "King of Hastinapura, son of Pratipa and husband first of the river goddess Ganga and then of the fisherwoman Satyavati. He was the father of Bhishma, Chitrangada and Vichitravirya, and it was said that whatever old thing he touched became young again.",
+   "story": "Shantanu married a mysterious woman on the bank of the Ganga after promising never to question or oppose her. Seven times she bore him a son, and seven times she carried the infant to the river and drowned it, laughing. Bound by his word, Shantanu kept silent, but when she lifted the eighth child he finally cried out. She revealed herself as Ganga: the babies were the eight Vasus, cursed by Vashistha to be born as men, and she had freed them at once. The eighth, Devavrata, would live long on earth. Years later Shantanu fell in love with Satyavati, but her father demanded that her son inherit the throne. Devavrata renounced both kingship and marriage for his father's sake, and the grateful Shantanu gave him the boon of choosing the hour of his own death.",
+   "symbols": [
+    "healing touch"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Rig Veda 10.98",
+    "Mahabharata, Adi Parva",
+    "Vishnu Purana, Book 4",
+    "Bhagavata Purana, Canto 9"
+   ],
+   "variations": [
+    "In the Mahabharata Shantanu is the rebirth of King Mahabhisha, cursed by Brahma for gazing at Ganga in the divine assembly.",
+    "The Rig Veda's Shantanu, for whom his brother Devapi performs a rain rite, is usually identified with the epic king, but the identification is not certain."
+   ]
+  },
+  "bhishma": {
+   "name": "Bhishma",
+   "aliases": [
+    "Devavrata",
+    "Gangeya",
+    "Gangaputra",
+    "Pitamaha",
+    "Shantanava"
+   ],
+   "description": "Son of Shantanu and Ganga, the incarnation of one of the eight Vasus, famed for his terrible vow of lifelong celibacy and renunciation of the throne. The grandsire of both Kauravas and Pandavas, he commanded the Kaurava army for the first ten days of the Kurukshetra war and, lying on a bed of arrows, taught Yudhishthira the dharma of kings.",
+   "story": "When King Shantanu pined for the fisher-maiden Satyavati, the prince Devavrata went to her father himself. The fisher chief asked that Satyavati's son become king. Devavrata renounced the throne; and when the chief worried that Devavrata's own sons might one day claim it, the prince swore before the assembled elders never to marry or father children. The gods rained flowers and a voice cried 'Bhishma!', the one of the terrible vow. Decades later, as commander of the Kaurava host, he was unbeatable until he told the Pandavas how he could be brought down: he would not fight Shikhandi, who had been born a woman. With Shikhandi before him, Arjuna's arrows covered him so thickly that he fell without touching the ground. Holding off death by his father's boon, he lay on that bed of arrows until the winter solstice.",
+   "symbols": [
+    "bed of arrows",
+    "palm-tree banner",
+    "white hair and beard"
+   ],
+   "weapons": [
+    "bow",
+    "celestial astras",
+    "sword"
+   ],
+   "vahana": "silver chariot with a palm-tree banner",
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Bhishma Parva",
+    "Mahabharata, Shanti Parva",
+    "Mahabharata, Anushasana Parva"
+   ],
+   "variations": [
+    "The Mahabharata names the Vasu born as Bhishma Dyaus, the one who stole Vashistha's cow Nandini; later retellings often call him Prabhasa.",
+    "The Bhishma-stava-raja, his hymn to Krishna on the bed of arrows (Shanti Parva), and the Vishnu Sahasranama recited to Yudhishthira (Anushasana Parva) are central to Vaishnava devotion."
+   ]
+  },
+  "satyavati": {
+   "name": "Satyavati",
+   "aliases": [
+    "Matsyagandha",
+    "Yojanagandha",
+    "Gandhavati",
+    "Kali",
+    "Dasheyi"
+   ],
+   "description": "Daughter of King Uparichara Vasu, born from a fish (the cursed apsara Adrika) and raised by a fisher chief. Mother of Vyasa by the sage Parashara and of Chitrangada and Vichitravirya by King Shantanu, she became the matriarch who secured the continuation of the Kuru line.",
+   "story": "As a young woman Satyavati ferried travellers across the Yamuna, and her body smelled of fish. One day the sage Parashara stepped into her boat and desired her. She hesitated, fearing for her honour; he wrapped the island in mist, promised that she would remain a maiden, and granted her a fragrance that could be smelled for a yojana. On an island in the river she bore Krishna Dvaipayana, Vyasa, who promised to come whenever she called him. Later she became the queen of Shantanu. When her son Vichitravirya died childless, the widowed Satyavati first asked Bhishma to father heirs, and when he refused to break his vow, she summoned Vyasa to beget sons on the widowed queens. From that niyoga came Dhritarashtra, Pandu and Vidura.",
+   "symbols": [
+    "ferry boat",
+    "fragrance"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Devi Bhagavata Purana, Book 2"
+   ],
+   "variations": [
+    "After Pandu's death Satyavati retired to the forest with her daughters-in-law Ambika and Ambalika, foreseeing the ruin of the dynasty."
+   ]
+  },
+  "chitrangada": {
+   "name": "Chitrangada (son of Shantanu)",
+   "aliases": [
+    "Chitrangada Kaurava"
+   ],
+   "description": "Elder son of Shantanu and Satyavati, who became king of Hastinapura after his father's death. He died young in a duel with a Gandharva of the same name; he is distinct from Chitrangada, the princess of Manipura who married Arjuna.",
+   "story": "When Shantanu died, Bhishma, true to his vow, placed Satyavati's elder son Chitrangada on the throne of Hastinapura. The young king was a mighty warrior and proud of it, and he held all other men to be his inferiors. A king of the Gandharvas, who also bore the name Chitrangada, came to challenge him, unwilling that a mortal should share his name. The two fought for three years on the field of Kurukshetra, beside the river Sarasvati, in a fierce duel of magic and arms. In the end the Gandharva, more skilled in illusion, killed the Kuru prince. Bhishma performed his funeral rites and crowned the younger brother Vichitravirya, still a boy, ruling in his name.",
+   "symbols": [],
+   "weapons": [
+    "bow"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": []
+  },
+  "vichitravirya": {
+   "name": "Vichitravirya",
+   "aliases": [],
+   "description": "Younger son of Shantanu and Satyavati, king of Hastinapura after his brother Chitrangada. He married Ambika and Ambalika, the princesses of Kashi won for him by Bhishma, but died childless; Dhritarashtra and Pandu were born to his widows by niyoga and counted as his legal sons.",
+   "story": "Vichitravirya was still a boy when he became king, and Bhishma ruled for him. When he came of age, Bhishma heard that the king of Kashi was holding a svayamvara for his three daughters. He drove there alone, seized the princesses Amba, Ambika and Ambalika, and defeated all the assembled kings who tried to stop him. Amba confessed that her heart belonged to King Shalva and was sent to him, but Ambika and Ambalika were married to Vichitravirya. The young king lived for seven years in pleasure with his lovely wives, until he wasted away from consumption. He died without a son, leaving the Kuru throne empty and Satyavati desperate for an heir.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": []
+  },
+  "amba": {
+   "name": "Amba",
+   "aliases": [
+    "Kashi princess"
+   ],
+   "description": "Eldest princess of Kashi, abducted by Bhishma for Vichitravirya and then rejected by her beloved King Shalva. Blaming Bhishma for her ruin, she performed austerities to destroy him and was reborn as Shikhandi, before whom Bhishma laid down his arms.",
+   "story": "Amba told Bhishma she had already chosen King Shalva, so he let her go. But Shalva refused her: she had been won by another man in front of all the kings. Returning to Hastinapura, she found Bhishma bound by his vow and unable to marry her. With nowhere to go, she turned her grief into a single purpose: the death of Bhishma. On her behalf Bhishma's own teacher Parashurama fought him for days, but could not win. Amba then undertook fierce austerities, fasting and standing in the water, until Shiva appeared and promised that in another life she would kill Bhishma. Unable to wait, she built a pyre on the bank of the Yamuna and entered it. She was reborn as the daughter of King Drupada, who became the warrior Shikhandi.",
+   "symbols": [
+    "garland",
+    "funeral pyre"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kashi",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva"
+   ],
+   "variations": [
+    "A widespread retelling adds that Skanda gave her a garland of ever-fresh lotuses, promising that whoever wore it would kill Bhishma; she hung it on Drupada's gate, where Shikhandi later put it on."
+   ]
+  },
+  "ambika": {
+   "name": "Ambika",
+   "aliases": [
+    "Kashi princess"
+   ],
+   "description": "Second princess of Kashi and senior wife of Vichitravirya. By niyoga with Vyasa she became the mother of the blind Dhritarashtra.",
+   "story": "When Vichitravirya died childless, Satyavati summoned her son Vyasa to raise heirs on his brother's widows. The sage came as he was, dark-skinned, his hair matted, his body smelling of the forest after long austerity. When he entered Ambika's chamber at night, she was so frightened by his fierce look that she shut her eyes and kept them closed. Vyasa told Satyavati that the son would be as strong as ten thousand elephants but, because of his mother's fault, born blind. So Dhritarashtra came into the world. Asked to go to Vyasa a second time, Ambika could not bear it and sent one of her maids, adorned in her own clothes, in her place; that maid bore the wise Vidura.",
+   "symbols": [
+    "closed eyes"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": []
+  },
+  "ambalika": {
+   "name": "Ambalika",
+   "aliases": [
+    "Kashi princess"
+   ],
+   "description": "Youngest princess of Kashi and junior wife of Vichitravirya. By niyoga with Vyasa she became the mother of Pandu, the father of the Pandavas.",
+   "story": "After the birth of the blind Dhritarashtra, Satyavati knew that a blind man could not easily rule, and she sent Vyasa to her second widowed daughter-in-law, Ambalika. Ambalika had been warned not to shut her eyes as her sister had done. She kept them open, but when she saw the terrifying ascetic she turned pale with fear. Vyasa said that because she had grown pale, her son would be pale as well, and he would be called Pandu, the pale one. The child was born healthy and brave, and although pale of skin he grew into a great archer and conqueror. Through him Ambalika became the grandmother of the five Pandavas.",
+   "symbols": [
+    "pallor"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": []
+  },
+  "dhritarashtra": {
+   "name": "Dhritarashtra",
+   "aliases": [
+    "Vaichitravirya",
+    "Prajnachakshu",
+    "the blind king",
+    "Kauravya"
+   ],
+   "description": "The blind elder son of Vichitravirya's widow Ambika, fathered by Vyasa through niyoga, and king of Hastinapura. Husband of Gandhari and father of Duryodhana and the hundred Kauravas, his inability to restrain his sons led to the Kurukshetra war.",
+   "story": "Passed over for the throne because of his blindness, Dhritarashtra came to rule after his brother Pandu withdrew to the forest. He loved his son Duryodhana beyond reason. When Duryodhana and Shakuni planned the dice game, Vidura warned him again and again, but the king allowed it, and he stayed silent while Draupadi was dragged into the hall. Only when jackals howled and evil omens filled the palace did he grant her boons and free the Pandavas. Before the war, Sanjaya was given divine sight to narrate the battle to him, and so he heard of the deaths of all his sons. Afterwards, embracing an iron figure in place of Bhima, he crushed it in his grief. He ended his days in the forest with Gandhari and Kunti, dying in a forest fire.",
+   "symbols": [
+    "blindness",
+    "throne of Hastinapura"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Kathaka Samhita 10.6",
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Stri Parva",
+    "Mahabharata, Ashramavasika Parva"
+   ],
+   "variations": [
+    "A Dhritarashtra Vaichitravirya appears in the Kathaka Samhita of the Black Yajur Veda in a dispute with the sage Vaka Dalbhya; whether he is the epic king is debated.",
+    "Before the war, in some recensions, Krishna gives him sight for a moment so he can behold the cosmic form."
+   ]
+  },
+  "gandhari": {
+   "name": "Gandhari",
+   "aliases": [
+    "Saubaleyi",
+    "Subala's daughter"
+   ],
+   "description": "Princess of Gandhara, daughter of King Subala and sister of Shakuni, who blindfolded herself for life on learning that her husband Dhritarashtra was blind. Mother of Duryodhana, the hundred Kauravas and Dushala, she is remembered for her devotion, her righteous counsel and her curse on Krishna.",
+   "story": "Pleased by her service, Vyasa granted Gandhari a boon of a hundred sons. After two years of pregnancy she heard that Kunti had already borne a son, and in anguish she struck her womb, delivering a hard lump of flesh. Vyasa had it sprinkled with water and divided into a hundred and one pieces, each kept in a pot of ghee; from them came Duryodhana, his brothers and a daughter, Dushala. Though she often told Duryodhana 'where there is dharma, there is victory', he never listened. After the war, standing over the field of the dead, she turned her grief on Krishna, who could have stopped the slaughter. She cursed him that in thirty-six years his own clan would destroy itself and he would die alone. Krishna accepted the curse with a smile.",
+   "symbols": [
+    "blindfold"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Stri Parva",
+    "Mahabharata, Ashramavasika Parva"
+   ],
+   "variations": [
+    "Some later retellings say her boon of a hundred sons came from Shiva rather than Vyasa.",
+    "A popular tale, absent from the Critical Edition, says she removed her blindfold to make Duryodhana's body invulnerable with her gaze, all but his thighs, which he had covered."
+   ]
+  },
+  "pandu": {
+   "name": "Pandu",
+   "aliases": [
+    "the pale king",
+    "Kauravya"
+   ],
+   "description": "Son of Ambalika by Vyasa through niyoga, king of Hastinapura and a great conqueror. Cursed by the sage Kindama to die if he ever embraced a woman in love, he withdrew to the forest, where his wives Kunti and Madri bore the five Pandavas by invoking the gods.",
+   "story": "Out hunting in the forest, Pandu shot a stag and its doe who were mating. The stag was the sage Kindama, who had taken that form to make love to his wife. Dying, he cursed the king: the day Pandu lay with a woman in desire, he too would die. Heartbroken, Pandu gave up his kingdom and lived as an ascetic in the Himalayas with Kunti and Madri. Longing for sons, he learned that Kunti could summon any god with a mantra, and so the five Pandavas were born, his legal sons. Years later, one spring day, overcome by Madri's beauty, Pandu embraced her against her pleading, and died in that moment as the curse had foretold. Madri followed him onto his funeral pyre.",
+   "symbols": [
+    "pale complexion",
+    "bow"
+   ],
+   "weapons": [
+    "bow"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura; later the forest of Shatashringa",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": []
+  },
+  "kunti": {
+   "name": "Kunti (Pritha)",
+   "aliases": [
+    "Pritha",
+    "Kuntibhoja's daughter"
+   ],
+   "description": "Daughter of the Yadava Shura (Shurasena), sister of Vasudeva and aunt of Krishna, given in adoption to King Kuntibhoja, from whom she took her name. First wife of Pandu, she bore Karna by Surya before marriage and Yudhishthira, Bhima and Arjuna by Dharma, Vayu and Indra.",
+   "story": "As a young girl in Kuntibhoja's house, Pritha served the irascible sage Durvasa so faithfully that he taught her a mantra to call any god and receive a son from him. Curious, she tried it on the rising Sun. Surya appeared and, despite her fear, gave her a son born wearing golden armour and earrings. Unmarried and ashamed, she placed the baby in a basket and set him adrift on the river; he became Karna. Years later, as Pandu's widow, she raised her sons and Madri's twins through exile, the burning of the lac house and the forest years. On the eve of war she went to Karna and revealed that he was her firstborn. He would not change sides, but promised that she would still have five sons: either he or Arjuna would survive.",
+   "symbols": [
+    "mantra of invocation",
+    "basket on the river"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Stri Parva",
+    "Mahabharata, Ashramavasika Parva",
+    "Bhagavata Purana, Canto 1"
+   ],
+   "variations": [
+    "Her prayer to Krishna asking for adversity, so that she might always remember him, is found in the Bhagavata Purana (Canto 1) rather than the Mahabharata.",
+    "Only after the war, at the water rites, did she reveal Karna's birth to the Pandavas."
+   ]
+  },
+  "madri": {
+   "name": "Madri",
+   "aliases": [
+    "Madra princess"
+   ],
+   "description": "Princess of Madra, sister of King Shalya and second wife of Pandu. Using Kunti's mantra she invoked the twin Ashvins and bore Nakula and Sahadeva; she ascended Pandu's funeral pyre after his death.",
+   "story": "Bhishma obtained Madri for Pandu by paying a rich bride-price to her brother Shalya, as was the custom of the Madra people. When Kunti had borne three sons by the gods, Madri asked Pandu to persuade Kunti to share her mantra. Kunti agreed to let her use it once. Madri cleverly called on the Ashvins, the twin gods, and bore twins, Nakula and Sahadeva. Kunti, a little alarmed, refused to give her a second chance. On a spring day in the forest Pandu, overcome with desire, seized Madri despite her protests, and died in her arms by Kindama's curse. Holding herself responsible and wishing to follow him, Madri entrusted her sons to Kunti and entered Pandu's funeral pyre.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Madra; later the Shatashringa forest",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": []
+  },
+  "vidura": {
+   "name": "Vidura",
+   "aliases": [
+    "Kshatta",
+    "Dharmaraja (as incarnation)"
+   ],
+   "description": "Half-brother of Dhritarashtra and Pandu, born to a maid of the Kuru queens by Vyasa through niyoga, and chief minister of Hastinapura. The incarnation of Dharma (Yama), he was renowned for wisdom and impartial counsel, preserved in the Vidura Niti.",
+   "story": "Long ago the sage Mandavya was wrongly impaled as a thief. When he later asked Dharma, the god of justice, why he had suffered, Dharma said that as a child he had pierced an insect with a blade of grass. Outraged that a child's act should be punished so harshly, Mandavya cursed Dharma to be born as a man of a low mother. So Dharma became Vidura, son of Vyasa and a palace maid. Though barred from the throne by birth, he was the conscience of the court. He warned Yudhishthira of the lac house in a riddle only he understood, and pleaded with Dhritarashtra to stop the dice game. At the end of his life, meeting Yudhishthira in the forest, he fixed his gaze on him and passed his life-breath into his nephew.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Ashramavasika Parva",
+    "Bhagavata Purana, Canto 3"
+   ],
+   "variations": [
+    "The Vidura Niti (Udyoga Parva) records his night-long advice to Dhritarashtra.",
+    "The Bhagavata Purana tells of his pilgrimage during the war and his conversations with Uddhava and the sage Maitreya."
+   ]
+  },
+  "yudhishthira": {
+   "name": "Yudhishthira",
+   "aliases": [
+    "Dharmaraja",
+    "Ajatashatru",
+    "Dharmaputra",
+    "Kaunteya",
+    "Kanka (in disguise)"
+   ],
+   "description": "Eldest of the Pandavas, son of Kunti by Dharma (Yama) and legal son of Pandu, famed for his truthfulness and devotion to dharma. His weakness for dice cost the Pandavas their kingdom and led to thirteen years of exile; after the Kurukshetra war he ruled Hastinapura for thirty-six years.",
+   "story": "Near the end of the forest exile, the thirsty Pandavas came one by one to a lake where an unseen voice said, 'Answer my questions before you drink.' Each brother ignored it, drank and fell dead. When Yudhishthira arrived, a Yaksha appeared and put riddles to him: What is swifter than the wind? The mind. What is the greatest wonder? That every day creatures go to death, yet the living think they will live forever. Satisfied, the Yaksha offered to revive one brother. Yudhishthira chose Nakula, so that Madri too would have a living son, as Kunti did. Moved by this impartiality, the Yaksha revealed himself as Dharma, Yudhishthira's own father, restored all four brothers and granted him boons, including that the Pandavas would pass their final year in disguise unrecognised.",
+   "symbols": [
+    "Anantavijaya conch",
+    "dice",
+    "chariot that floated above the ground"
+   ],
+   "weapons": [
+    "spear (shakti)",
+    "bow"
+   ],
+   "vahana": "chariot",
+   "abode": "Indraprastha; later Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Shanti Parva",
+    "Mahabharata, Mahaprasthanika Parva",
+    "Mahabharata, Svargarohana Parva",
+    "Bhagavad Gita 1.16"
+   ],
+   "variations": [
+    "His one lie, 'Ashwatthama is dead', spoken to Drona while muttering 'the elephant', made his chariot, which had always floated above the earth, touch the ground.",
+    "At the end of the Mahaprasthana he refused to enter heaven without the faithful dog that had followed him, which was Dharma in disguise."
+   ]
+  },
+  "bhima": {
+   "name": "Bhima",
+   "aliases": [
+    "Bhimasena",
+    "Vrikodara",
+    "Vayuputra",
+    "Ballava (in disguise)"
+   ],
+   "description": "Second of the Pandavas, son of Kunti by the wind god Vayu and legal son of Pandu, renowned for his immense strength, appetite and mastery of the mace. He killed the rakshasas Hidimba and Baka, King Jarasandha, Kichaka, Dushasana and finally Duryodhana, fulfilling the vows he swore in the dice hall.",
+   "story": "Jealous of Bhima's strength, the young Duryodhana poisoned his food during a festival at Pramanakoti on the Ganga, tied him up with creepers while he slept, and threw him into the river. Bhima sank down to the realm of the Nagas, where the serpents bit him; their venom destroyed the poison in his body, and he woke and began crushing them. The serpents ran to their king Vasuki. There the Naga elder Aryaka, a kinsman of Kunti's family, recognised the boy, and Vasuki had him drink from bowls of a strengthening elixir, each giving the strength of a thousand elephants. Bhima drank eight bowls, slept for eight days, and returned to his anxious mother and brothers stronger than ever, but warned by Vidura to keep silent about Duryodhana's plot.",
+   "symbols": [
+    "Paundra conch",
+    "mace"
+   ],
+   "weapons": [
+    "mace (gada)",
+    "bare-handed wrestling",
+    "bow"
+   ],
+   "vahana": "chariot",
+   "abode": "Indraprastha; later Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Virata Parva",
+    "Mahabharata, Karna Parva",
+    "Mahabharata, Shalya Parva",
+    "Bhagavad Gita 1.15"
+   ],
+   "variations": [
+    "In the Vana Parva he meets his half-brother Hanuman, also a son of Vayu, while fetching Saugandhika flowers for Draupadi, and cannot lift the old monkey's tail.",
+    "His blow to Duryodhana's thighs, against the rules of mace combat, was prompted by Krishna and angered Balarama."
+   ]
+  },
+  "arjuna": {
+   "name": "Arjuna",
+   "aliases": [
+    "Partha",
+    "Dhananjaya",
+    "Gudakesha",
+    "Savyasachi",
+    "Kiriti",
+    "Phalguna",
+    "Vijaya",
+    "Jishnu",
+    "Bibhatsu",
+    "Brihannala (in disguise)"
+   ],
+   "description": "Third of the Pandavas, son of Kunti by Indra and legal son of Pandu, the peerless archer and wielder of the Gandiva bow. The incarnation of the sage Nara and the dearest friend of Krishna, he received the Bhagavad Gita on the field of Kurukshetra and killed Bhishma, Karna and Jayadratha in the war.",
+   "story": "During the exile, Arjuna went to the Himalayas to win divine weapons and performed austerities so fierce that the sages begged Shiva to intervene. A boar charged at him; Arjuna shot it, and at the same instant a wild Kirata hunter shot it too. They quarrelled over the kill. Arjuna emptied his inexhaustible quivers at the hunter, who swallowed the arrows and snatched the Gandiva from his hands. They wrestled until Arjuna fell senseless. Coming to, he worshipped a clay image of Shiva with a garland, and saw the garland appear on the hunter's head. Recognising the god, he fell at his feet. Delighted by his courage, Shiva appeared with Parvati and gave him the Pashupata weapon, and soon after the guardians of the directions gave him their astras.",
+   "symbols": [
+    "Devadatta conch",
+    "monkey banner (Kapidhvaja)",
+    "white horses"
+   ],
+   "weapons": [
+    "Gandiva bow",
+    "inexhaustible quivers",
+    "Pashupatastra",
+    "Brahmashira",
+    "Aindrastra and other celestial astras"
+   ],
+   "vahana": "chariot with white horses and Hanuman's banner, driven by Krishna",
+   "abode": "Indraprastha; Amaravati during his stay in Indra's heaven",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Virata Parva",
+    "Bhagavad Gita",
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Karna Parva",
+    "Mahabharata, Ashvamedhika Parva",
+    "Kiratarjuniya of Bharavi"
+   ],
+   "variations": [
+    "During the war Krishna's vision of the cosmic form and the teaching of the Gita (Bhishma Parva) are given to Arjuna alone.",
+    "In the Ashvamedhika Parva he is killed by his son Babruvahana and revived by Ulupi with a Naga gem, ending the Vasus' curse for Bhishma's death.",
+    "Bharavi's Kiratarjuniya (6th century CE) is the classic poetic retelling of the Kirata episode."
+   ]
+  },
+  "nakula": {
+   "name": "Nakula",
+   "aliases": [
+    "Madreya",
+    "Granthika (in disguise)"
+   ],
+   "description": "Fourth of the Pandavas and elder of the twins, son of Madri by the Ashvins and legal son of Pandu. Considered the handsomest man of his age, he was a master swordsman and an expert in the care and training of horses.",
+   "story": "When the Pandavas were to live their thirteenth year in disguise at the court of King Virata, Nakula chose the role he knew best: he became Granthika, keeper of the king's horses, promising that no horse under his care would ever be vicious or fall sick. His skill kept him unrecognised while his brothers served elsewhere in the palace. Nakula also has a quiet but decisive place in the story of the Yaksha at the enchanted lake. Offered the life of one brother, Yudhishthira chose him over the mighty Bhima and Arjuna, reasoning that Kunti already had a surviving son and that Madri too deserved one. That choice, proof of Yudhishthira's even-handed dharma, persuaded the god to revive all four brothers.",
+   "symbols": [
+    "Sughosha conch",
+    "horses"
+   ],
+   "weapons": [
+    "sword",
+    "bow"
+   ],
+   "vahana": "chariot",
+   "abode": "Indraprastha",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Virata Parva",
+    "Bhagavad Gita 1.16"
+   ],
+   "variations": [
+    "Besides Draupadi, he married Karenumati, a princess of Chedi, by whom he had a son Niramitra."
+   ]
+  },
+  "sahadeva": {
+   "name": "Sahadeva",
+   "aliases": [
+    "Madreya",
+    "Tantipala (in disguise)"
+   ],
+   "description": "Youngest of the Pandavas, twin of Nakula, son of Madri by the Ashvins and legal son of Pandu. Wise and learned, he was skilled in statecraft and astronomy, and he killed Shakuni, the architect of the dice game, on the last day of the war.",
+   "story": "In the dice hall at Hastinapura, as Draupadi was insulted before the Kuru elders, each of the Pandavas swore a vow of vengeance. Bhima vowed to kill Duryodhana and Dushasana, Arjuna to kill Karna, and the quiet Sahadeva swore that he would slay Shakuni, the gambler whose loaded throws had stripped them of everything. For thirteen years he carried that vow through the forest and through his disguise as Tantipala, keeper of King Virata's cattle. On the eighteenth day of the Kurukshetra war, as the Kaurava army was collapsing, Sahadeva sought out Shakuni, reminded him of the dice hall, and cut off his head with a broad-headed arrow, keeping his word.",
+   "symbols": [
+    "Manipushpaka conch"
+   ],
+   "weapons": [
+    "sword",
+    "bow"
+   ],
+   "vahana": "chariot",
+   "abode": "Indraprastha",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Virata Parva",
+    "Mahabharata, Shalya Parva",
+    "Bhagavad Gita 1.16"
+   ],
+   "variations": [
+    "He also married Vijaya, a daughter of the Madra king Dyutimat, by whom he had a son Suhotra.",
+    "Popular traditions credit him with knowing the future but being forbidden to reveal it unasked; this is not found in the Critical Edition."
+   ]
+  },
+  "draupadi": {
+   "name": "Draupadi",
+   "aliases": [
+    "Krishnaa",
+    "Panchali",
+    "Yajnaseni",
+    "Drupadi",
+    "Sairandhri (in disguise)"
+   ],
+   "description": "Daughter of King Drupada of Panchala, born from the sacrificial fire, and common wife of the five Pandavas. Won by Arjuna at her svayamvara, she was humiliated in the Kuru assembly after the game of dice, and her demand for justice became a driving force of the war.",
+   "story": "Staked and lost by Yudhishthira in the game of dice, Draupadi was dragged by her hair into the assembly by Dushasana. She stood before the elders and asked a question none could answer: had Yudhishthira lost himself before he staked her, and if so, what right had he to wager her? Bhishma confessed that the point of dharma was too subtle for him. Karna called her a woman with many husbands and ordered her stripped. Yet as Dushasana pulled at her garment, cloth after cloth appeared, until a mountain of garments lay in the hall and he sank down exhausted. Terrible omens broke out, and the frightened Dhritarashtra offered her boons. She asked only for the freedom of her husbands, refusing any more, for she said greed destroys dharma.",
+   "symbols": [
+    "unbound hair",
+    "Akshaya Patra (shared with Yudhishthira)",
+    "lotus fragrance"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Indraprastha; Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Virata Parva",
+    "Mahabharata, Sauptika Parva"
+   ],
+   "variations": [
+    "In the Critical Edition the endless garments appear without any named cause; the vulgate adds Draupadi's prayer to Krishna, and later tradition credits the miracle directly to him.",
+    "The scene in which Draupadi rejects Karna at her svayamvara as a charioteer's son is in the vulgate but relegated to the apparatus of the Critical Edition.",
+    "Her famous taunt that Duryodhana was a blind man's son, after he fell into a pool in the Maya Sabha, is absent from the Critical Edition; there it is Bhima and others who laugh.",
+    "The Adi Parva explains her five husbands through a previous life in which she asked Shiva five times for a husband; she is also said to be a portion of Shri (Lakshmi).",
+    "In South Indian worship she is a goddess in her own right (Draupadi Amman), with fire-walking festivals."
+   ]
+  },
+  "karna": {
+   "name": "Karna",
+   "aliases": [
+    "Radheya",
+    "Vasushena",
+    "Vaikartana",
+    "Suryaputra",
+    "Angaraja",
+    "Sutaputra",
+    "Daanaveera"
+   ],
+   "description": "Firstborn son of Kunti by the sun god Surya, born with golden armour and earrings, abandoned at birth and raised by the charioteer Adhiratha and his wife Radha. Made king of Anga by his friend Duryodhana, he became Arjuna's great rival and was killed by him on the seventeenth day of the Kurukshetra war.",
+   "story": "Karna was famed for never refusing a Brahmin who asked him for anything at his midday worship of the Sun. Knowing that Karna could never be killed while he wore his natural armour and earrings, Indra, father of Arjuna, planned to take them from him disguised as a Brahmin. Surya warned his son in a dream, but Karna would not break his vow. When Indra came and asked, Karna cut the armour and earrings from his own body and gave them, yet he bargained for something in return. Shamed, Indra gave him the Vasavi Shakti, an unfailing spear that would kill any one enemy but return to Indra after one use. Karna saved it for Arjuna, but was forced to spend it on Ghatotkacha, whose night attack was destroying the Kaurava army.",
+   "symbols": [
+    "golden armour (kavacha)",
+    "earrings (kundala)",
+    "elephant-rope banner"
+   ],
+   "weapons": [
+    "Vijaya bow",
+    "Vasavi Shakti",
+    "Brahmastra",
+    "serpent arrow"
+   ],
+   "vahana": "chariot, driven in his last battle by Shalya",
+   "abode": "Anga (capital Champa); Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Karna Parva",
+    "Mahabharata, Shanti Parva"
+   ],
+   "variations": [
+    "The scene in which Draupadi refuses him at her svayamvara as a charioteer's son is found in the vulgate but relegated to the apparatus of the Critical Edition.",
+    "His death is doomed by two curses: Parashurama's, that he would forget the Brahmastra at his hour of need, and a Brahmin's, whose cow he killed by accident, that his chariot wheel would sink into the earth.",
+    "Later devotional and folk retellings greatly expand his generosity, earning him the title Daanaveera."
+   ]
+  },
+  "adhiratha": {
+   "name": "Adhiratha",
+   "aliases": [
+    "the suta Adhiratha"
+   ],
+   "description": "A charioteer (suta) and friend of Dhritarashtra, who with his wife Radha found and raised the infant Karna. He was Karna's foster father, and Karna honoured him as his father all his life.",
+   "story": "The basket in which Kunti set her newborn son adrift floated down the rivers until it reached the Ganga near Champa, where the charioteer Adhiratha and his wife Radha found it. Inside lay a baby shining like the sun, with golden armour and earrings. Childless, they rejoiced and raised him as their own, naming him Vasushena. Years later, when young Karna entered the tournament of the Kuru princes and challenged Arjuna, old Adhiratha came into the arena trembling, his staff in hand. Karna, newly crowned king of Anga, bowed his anointed head before him, and Adhiratha embraced him as a son. Seeing this, Bhima mocked Karna as a charioteer's son, fit to hold a whip rather than rule Anga.",
+   "symbols": [
+    "charioteer's staff"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Champa (Anga); Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Udyoga Parva"
+   ],
+   "variations": []
+  },
+  "radha-adhiratha": {
+   "name": "Radha (Karna's foster mother)",
+   "aliases": [
+    "Radha",
+    "Radha, wife of Adhiratha"
+   ],
+   "description": "Wife of the charioteer Adhiratha and foster mother of Karna, who is called Radheya, son of Radha, after her. She is distinct from Radha, the beloved of Krishna in later Vaishnava tradition.",
+   "story": "Radha had long prayed for a child. When her husband Adhiratha drew a floating basket from the Ganga and found in it a baby glowing like the sun, clad in natural armour and golden earrings, she took him to her heart as a gift from the gods. She nursed and raised him, and he grew up known as Radheya, the son of Radha. On the eve of war, when Krishna and then Kunti told Karna the secret of his birth and begged him to join the Pandavas, Karna refused. Radha, he said, had cleaned him and fed him when he was abandoned; she was his true mother, and he would not betray the love of the woman who had raised him.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Champa (Anga)",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Udyoga Parva"
+   ],
+   "variations": []
+  },
+  "vrishasena": {
+   "name": "Vrishasena",
+   "aliases": [
+    "son of Karna"
+   ],
+   "description": "Eldest son of Karna and a great warrior on the Kaurava side at Kurukshetra. Arjuna killed him before his father's eyes on the seventeenth day, in revenge for the killing of Abhimanyu.",
+   "story": "Vrishasena, eldest son of Karna, fought beside his father through the later days of the Kurukshetra war and was counted among the Kauravas' finest chariot-warriors. On the seventeenth day, as Karna led the Kaurava army, Vrishasena pressed the Pandava forces hard. Arjuna, still grieving for Abhimanyu, who had been cut down while surrounded by many warriors including Karna, announced before the armies that he would kill Vrishasena in front of his father, and challenged Karna and the others to save him if they could. Then he struck down Vrishasena with a volley of arrows. Karna, overcome with grief and fury, rushed at Arjuna, beginning the final duel in which he himself would fall.",
+   "symbols": [],
+   "weapons": [
+    "bow"
+   ],
+   "vahana": "chariot",
+   "abode": "Anga",
+   "sources": [
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Karna Parva"
+   ],
+   "variations": [
+    "In the Jaimini Ashvamedha and later retellings, Karna's surviving son Vrishaketu is adopted by the Pandavas and fights beside Arjuna."
+   ]
+  },
+  "upapandavas": {
+   "name": "Upapandavas (five sons of Draupadi)",
+   "aliases": [
+    "Draupadeyas",
+    "Prativindhya",
+    "Sutasoma",
+    "Shrutakarma",
+    "Shatanika",
+    "Shrutasena",
+    "sons of Draupadi"
+   ],
+   "description": "The five sons of Draupadi, one by each Pandava: Prativindhya by Yudhishthira, Sutasoma by Bhima, Shrutakarma by Arjuna, Shatanika by Nakula and Shrutasena by Sahadeva. They fought for the Pandavas at Kurukshetra and were murdered in their sleep by Ashwatthama on the night after the war.",
+   "story": "The five Draupadeyas survived eighteen days of battle, but the war was not over for Ashwatthama. On the night Duryodhana lay dying with broken thighs, Drona's son was named the last commander of the Kauravas. Watching an owl kill sleeping crows, he resolved to strike the Pandava camp in darkness. Guarded at the gate by Kripa and Kritavarma, he entered the camp, strangled Dhrishtadyumna, and slaughtered the sleeping warriors, including the five sons of Draupadi, whom some say he mistook for the Pandavas themselves. At dawn Draupadi, mad with grief, vowed to fast to death unless Ashwatthama was punished. The Pandavas hunted him down, and in the end took from his forehead the jewel he had worn since birth.",
+   "symbols": [],
+   "weapons": [
+    "bows",
+    "swords"
+   ],
+   "vahana": "chariots",
+   "abode": "Indraprastha; Panchala",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Sauptika Parva"
+   ],
+   "variations": [
+    "The Adi Parva says they were portions of the Vishvedevas; the Markandeya Purana explains their early deaths by a curse of Vishvamitra on those gods.",
+    "Some texts call Arjuna's son Shrutakirti rather than Shrutakarma.",
+    "The idea that Ashwatthama mistook them for their fathers comes from later retellings; the Critical Edition presents the killing as deliberate."
+   ]
+  },
+  "abhimanyu": {
+   "name": "Abhimanyu",
+   "aliases": [
+    "Saubhadra",
+    "Arjuni"
+   ],
+   "description": "Son of Arjuna and Subhadra, nephew of Krishna and husband of Uttara. On the thirteenth day of the Kurukshetra war, barely sixteen, he broke into Drona's chakravyuha formation and was killed when many Kaurava warriors surrounded him together.",
+   "story": "On the thirteenth day, with Arjuna lured away by the Samshaptakas, Drona arranged his army in the circular chakravyuha. Only Abhimanyu knew how to break into it, though not how to come out. Yudhishthira promised that the others would follow through the breach. Abhimanyu smashed his way in, but Jayadratha, with a boon from Shiva, held the Pandavas back at the gap. Alone inside, the boy routed warrior after warrior, until Drona told Karna that the boy's armour could not be pierced and he must first be disarmed. Karna cut his bow from behind; others killed his horses and charioteer. Fighting with a sword, then a chariot wheel, then a mace, he faced the son of Dushasana. Both fell under each other's blows, but Dushasana's son rose first and struck him on the head as he was getting up.",
+   "symbols": [
+    "chariot wheel"
+   ],
+   "weapons": [
+    "bow",
+    "sword",
+    "chariot wheel",
+    "mace"
+   ],
+   "vahana": "chariot with golden trappings",
+   "abode": "Dvaraka; Indraprastha",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Virata Parva",
+    "Mahabharata, Drona Parva"
+   ],
+   "variations": [
+    "The popular story that he learned to enter the chakravyuha while in his mother's womb, hearing Arjuna describe it, is not in the Critical Edition; there he says Arjuna taught him to enter but not to escape.",
+    "The Adi Parva says he was an incarnation of Varchas, son of the moon god Soma, who agreed to lend him to earth for only sixteen years."
+   ]
+  },
+  "uttara": {
+   "name": "Uttara",
+   "aliases": [
+    "Vairati",
+    "princess of Matsya"
+   ],
+   "description": "Daughter of King Virata of Matsya and Queen Sudeshna, pupil of Arjuna during his year in disguise, and wife of Abhimanyu. Widowed while pregnant, she became the mother of Parikshit, whom Krishna restored to life after Ashwatthama's weapon struck him in the womb.",
+   "story": "At King Virata's court a strange dance teacher called Brihannala taught the princess Uttara singing and dancing; it was Arjuna in disguise, living out Urvashi's curse. When the Pandavas' identity was revealed, the grateful Virata offered his daughter to Arjuna. Arjuna declined, saying that he had been like a father to his pupil, and asked for her as a bride for his son Abhimanyu instead. Their marriage sealed the alliance of Matsya and the Pandavas. Months later Abhimanyu died at Kurukshetra, and after the war Ashwatthama directed his Brahmashira weapon at the wombs of the Pandava women. Uttara's son was born lifeless, but Krishna, keeping his word, brought the child back to life. He was named Parikshit, the one who had been tested.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Upaplavya / Viratanagara (Matsya); later Hastinapura",
+   "sources": [
+    "Mahabharata, Virata Parva",
+    "Mahabharata, Sauptika Parva",
+    "Mahabharata, Ashvamedhika Parva",
+    "Bhagavata Purana, Canto 1"
+   ],
+   "variations": [
+    "In the Bhagavata Purana the unborn Parikshit sees a thumb-sized form of Vishnu protecting him in the womb from Ashwatthama's weapon."
+   ]
+  },
+  "parikshit": {
+   "name": "Parikshit",
+   "aliases": [
+    "Parikshita",
+    "Vishnurata"
+   ],
+   "description": "Son of Abhimanyu and Uttara, grandson of Arjuna, who succeeded Yudhishthira on the Kuru throne. Killed in the womb by Ashwatthama's weapon and revived by Krishna, he died by the bite of the serpent Takshaka; in the Bhagavata Purana he hears the whole Purana from Shuka during his last seven days.",
+   "story": "Out hunting, tired and thirsty, King Parikshit came upon the sage Shamika sitting in a vow of silence and asked about a deer he had wounded. When the sage did not answer, the king in anger hung a dead snake around his neck with the tip of his bow. Shamika's son Shringin, hearing of it, cursed the king to die within seven days by the bite of Takshaka. Shamika sent word to warn him. Parikshit had a palace built on a single pillar, surrounded by guards, physicians and mantras. On the seventh day Takshaka turned back the healer Kashyapa with gifts, and sent Nagas disguised as ascetics to the king with fruits. In one fruit hid a tiny copper-coloured worm; it became Takshaka, who coiled around the laughing king and killed him.",
+   "symbols": [],
+   "weapons": [
+    "bow"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Atharva Veda 20.127",
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Ashvamedhika Parva",
+    "Bhagavata Purana, Cantos 1 and 12"
+   ],
+   "variations": [
+    "The Atharva Veda (20.127, the Kuntapa hymns) praises a Parikshit as a prosperous king of the Kurus; scholars generally connect him with the epic king, though the link is not certain.",
+    "In the Bhagavata Purana he subdues the personified Kali Yuga and, after the curse, spends seven days on the bank of the Ganga hearing the Bhagavata from Shuka."
+   ]
+  },
+  "janamejaya": {
+   "name": "Janamejaya",
+   "aliases": [
+    "Parikshita",
+    "Janamejaya Parikshita"
+   ],
+   "description": "Son of Parikshit and great-grandson of Arjuna, king of the Kurus. To avenge his father he held the great snake sacrifice (sarpa-satra), at which Vaishampayana first recited the Mahabharata to him.",
+   "story": "When the young king Janamejaya learned from the sage Uttanka that his father Parikshit had been killed by Takshaka, he resolved to destroy every serpent. Priests in black robes lit a great fire and chanted mantras that drew snakes of every kind from the ends of the earth to fall writhing into the flames. Takshaka fled to Indra for shelter, but the mantras grew so strong that Indra himself began to be dragged toward the fire and let go. At that moment the young Brahmin Astika, whose mother was a Naga, arrived and praised the sacrifice so beautifully that Janamejaya offered him any boon. Astika asked that the sacrifice stop. Bound by his word, the king ended it, and Takshaka was saved. During that sacrifice Vaishampayana recited the Mahabharata.",
+   "symbols": [
+    "sacrificial fire"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Shatapatha Brahmana 13.5.4",
+    "Aitareya Brahmana 8.21",
+    "Mahabharata, Adi Parva",
+    "Harivamsha",
+    "Bhagavata Purana, Canto 12"
+   ],
+   "variations": [
+    "The Brahmanas record Janamejaya Parikshita as a Kuru king consecrated by the priest Tura Kavasheya and a performer of the horse sacrifice; he is usually identified with the epic king.",
+    "The Harivamsha, presented as a sequel told to him, adds that he was later cursed for mistreating Brahmins at a horse sacrifice."
+   ]
+  }
+ },
+ "edges": {
+  "kuru-king|pratipa|ancestor-of": {
+   "label": "Pratipa descends from King Kuru, eponym of the Kuru branch of the Lunar dynasty"
+  },
+  "puru|pratipa|ancestor-of": {
+   "label": "Pratipa belongs to the Paurava line founded by Puru, son of Yayati"
+  },
+  "pratipa|shantanu|parent": {
+   "label": "Pratipa fathered Shantanu in old age and promised Ganga to him as a bride"
+  },
+  "shantanu|bhishma|parent": {
+   "label": "Shantanu is Bhishma's father"
+  },
+  "ganga|bhishma|parent": {
+   "label": "Ganga bore Devavrata (Bhishma), the eighth Vasu, whom alone she did not drown"
+  },
+  "shantanu|chitrangada|parent": {
+   "label": "Shantanu fathered Chitrangada on Satyavati"
+  },
+  "satyavati|chitrangada|parent": {
+   "label": "Satyavati bore Chitrangada to Shantanu"
+  },
+  "shantanu|vichitravirya|parent": {
+   "label": "Shantanu fathered Vichitravirya on Satyavati"
+  },
+  "satyavati|vichitravirya|parent": {
+   "label": "Satyavati bore Vichitravirya to Shantanu"
+  },
+  "satyavati|vyasa|parent": {
+   "label": "Before her marriage Satyavati bore Krishna Dvaipayana Vyasa to Parashara on an island in the Yamuna"
+  },
+  "vyasa|dhritarashtra|parent": {
+   "label": "Vyasa begot Dhritarashtra on Ambika by niyoga (levirate union) at Satyavati's request"
+  },
+  "ambika|dhritarashtra|parent": {
+   "label": "Ambika shut her eyes in fear of Vyasa, so her son Dhritarashtra was born blind"
+  },
+  "vichitravirya|dhritarashtra|parent": {
+   "label": "Legal father: Dhritarashtra was Vichitravirya's kshetraja son, begotten on his widow by Vyasa through niyoga"
+  },
+  "vyasa|pandu|parent": {
+   "label": "Vyasa begot Pandu on Ambalika by niyoga at Satyavati's request"
+  },
+  "ambalika|pandu|parent": {
+   "label": "Ambalika turned pale at the sight of Vyasa, so her son was born pale (Pandu)"
+  },
+  "vichitravirya|pandu|parent": {
+   "label": "Legal father: Pandu was Vichitravirya's kshetraja son, begotten on his widow by Vyasa through niyoga"
+  },
+  "vyasa|vidura|parent": {
+   "label": "Vyasa begot Vidura on a palace maid whom Ambika sent to him in her place during the niyoga"
+  },
+  "dhritarashtra|duryodhana|parent": {
+   "label": "Dhritarashtra is the father of Duryodhana, eldest of the hundred Kauravas"
+  },
+  "gandhari|duryodhana|parent": {
+   "label": "Gandhari is the mother of Duryodhana, first of her hundred sons"
+  },
+  "dhritarashtra|dushasana|parent": {
+   "label": "Dhritarashtra is the father of Dushasana"
+  },
+  "gandhari|dushasana|parent": {
+   "label": "Gandhari is the mother of Dushasana"
+  },
+  "dhritarashtra|vikarna|parent": {
+   "label": "Dhritarashtra is the father of Vikarna"
+  },
+  "gandhari|vikarna|parent": {
+   "label": "Gandhari is the mother of Vikarna"
+  },
+  "dhritarashtra|dushala|parent": {
+   "label": "Dhritarashtra is the father of Dushala, his only daughter"
+  },
+  "gandhari|dushala|parent": {
+   "label": "Gandhari is the mother of Dushala, born from the hundred-and-first portion of her womb's flesh"
+  },
+  "dhritarashtra|yuyutsu|parent": {
+   "label": "Dhritarashtra fathered Yuyutsu on a vaishya maid who served him during Gandhari's long pregnancy"
+  },
+  "yama|yudhishthira|parent": {
+   "label": "Kunti invoked Dharma (Yama) with Durvasa's mantra and bore Yudhishthira"
+  },
+  "kunti|yudhishthira|parent": {
+   "label": "Kunti is the mother of Yudhishthira"
+  },
+  "pandu|yudhishthira|parent": {
+   "label": "Legal father: Pandu, barred from begetting by Kindama's curse, asked Kunti to invoke Dharma for a son"
+  },
+  "vayu|bhima|parent": {
+   "label": "Kunti invoked the wind god Vayu and bore Bhima"
+  },
+  "kunti|bhima|parent": {
+   "label": "Kunti is the mother of Bhima"
+  },
+  "pandu|bhima|parent": {
+   "label": "Legal father: Bhima was born to Kunti from Vayu at Pandu's request"
+  },
+  "indra|arjuna|parent": {
+   "label": "Kunti invoked Indra and bore Arjuna, after Pandu's year of austerities to win Indra's favour"
+  },
+  "kunti|arjuna|parent": {
+   "label": "Kunti is the mother of Arjuna"
+  },
+  "pandu|arjuna|parent": {
+   "label": "Legal father: Arjuna was born to Kunti from Indra at Pandu's request"
+  },
+  "ashvins|nakula|parent": {
+   "label": "Madri invoked the twin Ashvins with Kunti's mantra and bore Nakula"
+  },
+  "madri|nakula|parent": {
+   "label": "Madri is the mother of Nakula"
+  },
+  "pandu|nakula|parent": {
+   "label": "Legal father: Nakula was born to Madri from the Ashvins at Pandu's request"
+  },
+  "ashvins|sahadeva|parent": {
+   "label": "Madri invoked the twin Ashvins with Kunti's mantra and bore Sahadeva, Nakula's twin"
+  },
+  "madri|sahadeva|parent": {
+   "label": "Madri is the mother of Sahadeva"
+  },
+  "pandu|sahadeva|parent": {
+   "label": "Legal father: Sahadeva was born to Madri from the Ashvins at Pandu's request"
+  },
+  "surya|karna|parent": {
+   "label": "Surya, invoked by the unmarried Kunti, fathered Karna, born with golden armour and earrings"
+  },
+  "kunti|karna|parent": {
+   "label": "Kunti bore Karna before her marriage and set him adrift on the river in a basket"
+  },
+  "adhiratha|karna|parent": {
+   "label": "Foster father: the charioteer Adhiratha found the infant Karna in a basket on the Ganga and raised him"
+  },
+  "radha-adhiratha|karna|parent": {
+   "label": "Foster mother: Radha raised the foundling Karna, who is called Radheya after her"
+  },
+  "karna|vrishasena|parent": {
+   "label": "Karna is the father of Vrishasena, his eldest son"
+  },
+  "draupadi|upapandavas|parent": {
+   "label": "Draupadi bore five sons, one to each Pandava husband"
+  },
+  "yudhishthira|upapandavas|parent": {
+   "label": "Yudhishthira fathered Prativindhya on Draupadi"
+  },
+  "bhima|upapandavas|parent": {
+   "label": "Bhima fathered Sutasoma on Draupadi"
+  },
+  "arjuna|upapandavas|parent": {
+   "label": "Arjuna fathered Shrutakarma (Shrutakirti) on Draupadi"
+  },
+  "nakula|upapandavas|parent": {
+   "label": "Nakula fathered Shatanika on Draupadi"
+  },
+  "sahadeva|upapandavas|parent": {
+   "label": "Sahadeva fathered Shrutasena on Draupadi"
+  },
+  "arjuna|abhimanyu|parent": {
+   "label": "Arjuna is the father of Abhimanyu"
+  },
+  "subhadra|abhimanyu|parent": {
+   "label": "Subhadra, Krishna's sister, is the mother of Abhimanyu"
+  },
+  "arjuna|iravan|parent": {
+   "label": "Arjuna fathered Iravan on the Naga princess Ulupi"
+  },
+  "arjuna|babruvahana|parent": {
+   "label": "Arjuna fathered Babruvahana on Chitrangada of Manipura; the boy was raised as heir of Manipura"
+  },
+  "bhima|ghatotkacha|parent": {
+   "label": "Bhima fathered Ghatotkacha on the rakshasi Hidimbi"
+  },
+  "abhimanyu|parikshit|parent": {
+   "label": "Abhimanyu is the father of Parikshit, born after his death"
+  },
+  "uttara|parikshit|parent": {
+   "label": "Uttara bore Parikshit, who was stillborn from Ashwatthama's weapon and revived by Krishna"
+  },
+  "parikshit|janamejaya|parent": {
+   "label": "Parikshit is the father of Janamejaya, who succeeded him"
+  },
+  "virata|uttara|parent": {
+   "label": "King Virata of Matsya is Uttara's father"
+  },
+  "sudeshna|uttara|parent": {
+   "label": "Queen Sudeshna is Uttara's mother"
+  },
+  "shurasena|kunti|parent": {
+   "label": "Shura (Shurasena) is Pritha's father; he gave her in adoption to his childless cousin King Kuntibhoja, hence the name Kunti"
+  },
+  "drupada|draupadi|parent": {
+   "label": "Draupadi emerged from the sacrificial altar at Drupada's fire rite, performed to obtain a son who would kill Drona"
+  },
+  "bhishma|chitrangada|sibling": {
+   "label": "Half-brothers: both sons of Shantanu; Bhishma crowned Chitrangada"
+  },
+  "bhishma|vichitravirya|sibling": {
+   "label": "Half-brothers: Bhishma ruled as regent for Vichitravirya and won his brides"
+  },
+  "chitrangada|vichitravirya|sibling": {
+   "label": "Brothers, both sons of Shantanu and Satyavati"
+  },
+  "vyasa|chitrangada|sibling": {
+   "label": "Half-brothers through their mother Satyavati"
+  },
+  "vyasa|vichitravirya|sibling": {
+   "label": "Half-brothers through Satyavati; Vyasa raised sons on Vichitravirya's widows"
+  },
+  "amba|ambika|sibling": {
+   "label": "Sisters, princesses of Kashi, abducted together by Bhishma"
+  },
+  "amba|ambalika|sibling": {
+   "label": "Sisters, princesses of Kashi, abducted together by Bhishma"
+  },
+  "ambika|ambalika|sibling": {
+   "label": "Sisters, princesses of Kashi, both married to Vichitravirya"
+  },
+  "dhritarashtra|pandu|sibling": {
+   "label": "Half-brothers, both sons of Vyasa by niyoga"
+  },
+  "dhritarashtra|vidura|sibling": {
+   "label": "Half-brothers, both sons of Vyasa; Vidura served as Dhritarashtra's counsellor"
+  },
+  "pandu|vidura|sibling": {
+   "label": "Half-brothers, both sons of Vyasa"
+  },
+  "yudhishthira|bhima|sibling": {
+   "label": "Pandava brothers, sons of Kunti"
+  },
+  "yudhishthira|arjuna|sibling": {
+   "label": "Pandava brothers, sons of Kunti"
+  },
+  "yudhishthira|nakula|sibling": {
+   "label": "Pandava brothers; Yudhishthira chose to revive Nakula at the Yaksha's lake"
+  },
+  "yudhishthira|sahadeva|sibling": {
+   "label": "Pandava brothers"
+  },
+  "bhima|arjuna|sibling": {
+   "label": "Pandava brothers, sons of Kunti"
+  },
+  "bhima|nakula|sibling": {
+   "label": "Pandava brothers"
+  },
+  "bhima|sahadeva|sibling": {
+   "label": "Pandava brothers"
+  },
+  "arjuna|nakula|sibling": {
+   "label": "Pandava brothers"
+  },
+  "arjuna|sahadeva|sibling": {
+   "label": "Pandava brothers"
+  },
+  "nakula|sahadeva|sibling": {
+   "label": "Twin sons of Madri by the Ashvins"
+  },
+  "karna|yudhishthira|sibling": {
+   "label": "Half-brothers through Kunti; Yudhishthira learned only after Karna's death that he was his elder brother"
+  },
+  "karna|bhima|sibling": {
+   "label": "Half-brothers through Kunti; Karna spared Bhima in battle, keeping his promise to Kunti"
+  },
+  "karna|arjuna|sibling": {
+   "label": "Half-brothers through Kunti, and bitter rivals unaware of their kinship"
+  },
+  "kunti|vasudeva|sibling": {
+   "label": "Siblings, children of Shura; Kunti is thus Krishna's paternal aunt"
+  },
+  "gandhari|shakuni|sibling": {
+   "label": "Siblings, children of King Subala of Gandhara"
+  },
+  "madri|shalya|sibling": {
+   "label": "Siblings of the Madra royal house; Shalya gave Madri to Pandu for a bride-price"
+  },
+  "draupadi|dhrishtadyumna|sibling": {
+   "label": "Twins born from Drupada's sacrificial fire"
+  },
+  "draupadi|shikhandi|sibling": {
+   "label": "Both children of Drupada"
+  },
+  "bhima|hanuman|sibling": {
+   "label": "Half-brothers, both sons of Vayu; they met in the forest during the Pandava exile"
+  },
+  "abhimanyu|upapandavas|sibling": {
+   "label": "Half-brothers, all sons of the Pandavas"
+  },
+  "shantanu|ganga|spouse": {
+   "label": "Shantanu married Ganga on condition that he never question her deeds"
+  },
+  "shantanu|satyavati|spouse": {
+   "label": "Shantanu married Satyavati after Bhishma's vow of renunciation"
+  },
+  "vichitravirya|ambika|spouse": {
+   "label": "Vichitravirya married Ambika, won for him by Bhishma at the Kashi svayamvara"
+  },
+  "vichitravirya|ambalika|spouse": {
+   "label": "Vichitravirya married Ambalika, won for him by Bhishma at the Kashi svayamvara"
+  },
+  "dhritarashtra|gandhari|spouse": {
+   "label": "Gandhari married the blind Dhritarashtra and blindfolded herself for life"
+  },
+  "pandu|kunti|spouse": {
+   "label": "Kunti chose Pandu at her svayamvara"
+  },
+  "pandu|madri|spouse": {
+   "label": "Bhishma obtained Madri for Pandu from her brother Shalya for a bride-price"
+  },
+  "draupadi|yudhishthira|spouse": {
+   "label": "Draupadi married all five Pandavas; Yudhishthira was her first husband in the order of the weddings"
+  },
+  "draupadi|bhima|spouse": {
+   "label": "Draupadi's husband and protector, who killed Kichaka and Dushasana for her sake"
+  },
+  "draupadi|arjuna|spouse": {
+   "label": "Arjuna won Draupadi by hitting the target at her svayamvara; at Kunti's word she became the wife of all five brothers"
+  },
+  "draupadi|nakula|spouse": {
+   "label": "Draupadi married Nakula along with his four brothers"
+  },
+  "draupadi|sahadeva|spouse": {
+   "label": "Draupadi married Sahadeva along with his four brothers"
+  },
+  "arjuna|subhadra|spouse": {
+   "label": "Arjuna carried off Subhadra from Dvaraka with Krishna's encouragement and married her"
+  },
+  "arjuna|ulupi|spouse": {
+   "label": "The Naga princess Ulupi drew Arjuna into the Ganga during his pilgrimage and married him"
+  },
+  "arjuna|chitrangada-manipur|spouse": {
+   "label": "Arjuna married Chitrangada, princess of Manipura, on condition that their son inherit her father's kingdom"
+  },
+  "bhima|hidimbi|spouse": {
+   "label": "Bhima married the rakshasi Hidimbi after killing her brother Hidimba, with Kunti's consent"
+  },
+  "abhimanyu|uttara|spouse": {
+   "label": "Abhimanyu married Uttara, princess of Matsya, sealing the Pandava alliance with Virata"
+  },
+  "adhiratha|radha-adhiratha|spouse": {
+   "label": "The charioteer Adhiratha and his wife Radha, Karna's foster parents"
+  },
+  "bhishma|vasus|reincarnation-of": {
+   "label": "Bhishma was the Vasu Dyaus, cursed by Vashistha to a long human life for stealing the cow Nandini; the other seven were freed at birth by Ganga"
+  },
+  "shikhandi|amba|reincarnation-of": {
+   "label": "Amba, who vowed to destroy Bhishma, entered the fire and was reborn as Drupada's child Shikhandi"
+  },
+  "vidura|yama|reincarnation-of": {
+   "label": "Vidura was Dharma (Yama) born as a man of a maid's womb through the sage Mandavya's curse"
+  },
+  "arjuna|nara-narayana|reincarnation-of": {
+   "label": "Arjuna is the rebirth of the sage Nara, companion of Narayana, who was reborn as Krishna"
+  },
+  "draupadi|lakshmi|avatar-of": {
+   "label": "The Adi Parva says Draupadi was born from a portion of Shri (Lakshmi)"
+  },
+  "kindama|pandu|curse": {
+   "label": "Shot while mating in the form of a deer, the sage Kindama cursed Pandu to die the moment he embraced a woman in desire"
+  },
+  "mandavya|vidura|curse": {
+   "label": "Mandavya cursed Dharma to be born of a shudra woman for punishing a child's fault too harshly; Dharma was born as Vidura"
+  },
+  "vashistha|bhishma|curse": {
+   "label": "Vashistha cursed the Vasus, who stole his cow Nandini, to be born as men; Dyaus, the thief, had to live a full life on earth as Bhishma"
+  },
+  "brahma|shantanu|curse": {
+   "label": "Brahma cursed King Mahabhisha, who gazed at Ganga in the divine assembly, to be born a mortal; he was reborn as Shantanu"
+  },
+  "parashurama|karna|curse": {
+   "label": "Discovering that his pupil was not a Brahmin, Parashurama cursed Karna to forget the Brahmastra when he needed it most"
+  },
+  "gandhari|krishna|curse": {
+   "label": "Grieving her sons, Gandhari cursed Krishna that his clan would destroy itself in thirty-six years and he would die alone"
+  },
+  "urvashi|arjuna|curse": {
+   "label": "Rejected by Arjuna in Indra's heaven, Urvashi cursed him to live as a eunuch; the curse served him as Brihannala at Virata's court"
+  },
+  "vasus|arjuna|curse": {
+   "label": "The Vasus cursed Arjuna for killing Bhishma unfairly; the curse was fulfilled and ended when his son Babruvahana killed him (Ashvamedhika Parva)"
+  },
+  "durvasa|kunti|boon": {
+   "label": "Pleased by her service, Durvasa gave young Kunti a mantra to summon any god and bear his son"
+  },
+  "shiva|arjuna|boon": {
+   "label": "After fighting Arjuna in the guise of a Kirata hunter, Shiva gave him the Pashupata weapon"
+  },
+  "indra|karna|boon": {
+   "label": "Having taken Karna's armour and earrings in the guise of a Brahmin, Indra gave him the Vasavi Shakti, an unfailing spear usable once"
+  },
+  "shantanu|bhishma|boon": {
+   "label": "Moved by his vow, Shantanu granted Bhishma the boon of dying only when he himself chose"
+  },
+  "parashara|satyavati|boon": {
+   "label": "Parashara restored Satyavati's maidenhood and replaced her fishy smell with a fragrance carried for a yojana"
+  },
+  "vyasa|gandhari|boon": {
+   "label": "Vyasa granted Gandhari a hundred sons and divided her miscarried flesh into pots from which the Kauravas were born"
+  },
+  "vyasa|dhritarashtra|boon": {
+   "label": "In the forest Vyasa granted Dhritarashtra sight for one night to see the fallen warriors rise from the Ganga"
+  },
+  "shiva|amba|boon": {
+   "label": "Pleased by her austerities, Shiva promised Amba that in her next life she would cause Bhishma's death"
+  },
+  "shiva|draupadi|boon": {
+   "label": "In a previous life she asked Shiva five times for a virtuous husband, so he granted her five husbands in the next"
+  },
+  "yama|yudhishthira|boon": {
+   "label": "As the Yaksha at the lake, Dharma revived Yudhishthira's brothers and granted that they would stay unrecognised in their year of disguise"
+  },
+  "surya|yudhishthira|boon": {
+   "label": "Surya gave Yudhishthira a copper vessel that fed all the Pandavas' guests each day until Draupadi had eaten"
+  },
+  "agni|arjuna|boon": {
+   "label": "Agni enlisted Arjuna and Krishna to help him devour the Khandava forest and procured celestial weapons for Arjuna"
+  },
+  "varuna|arjuna|boon": {
+   "label": "At Agni's request Varuna gave Arjuna the Gandiva bow, two inexhaustible quivers and a chariot with the monkey banner"
+  },
+  "dikpalas|arjuna|boon": {
+   "label": "After Shiva's gift, the guardians of the directions (Indra, Yama, Varuna and Kubera) gave Arjuna their weapons"
+  },
+  "vasuki|bhima|boon": {
+   "label": "In the Naga realm Vasuki had the poisoned young Bhima drink an elixir giving him the strength of thousands of elephants"
+  },
+  "hanuman|bhima|boon": {
+   "label": "Hanuman promised Bhima that he would roar from Arjuna's banner to strengthen the Pandavas in battle"
+  },
+  "krishna|parikshit|boon": {
+   "label": "Krishna restored to life Parikshit, stillborn after Ashwatthama's weapon struck Uttara's womb"
+  },
+  "janamejaya|astika|boon": {
+   "label": "Janamejaya granted Astika any boon; Astika asked him to stop the snake sacrifice, saving Takshaka"
+  },
+  "jarasandha|karna|boon": {
+   "label": "Defeated by Karna in a wrestling bout, Jarasandha gave him the city of Malini (Shanti Parva)"
+  },
+  "arjuna|bhishma|slayer": {
+   "label": "Arjuna brought down Bhishma on the tenth day, shooting from behind Shikhandi, against whom Bhishma would not raise arms"
+  },
+  "arjuna|karna|slayer": {
+   "label": "Arjuna killed Karna on the seventeenth day while Karna tried to free his chariot wheel, urged on by Krishna"
+  },
+  "arjuna|jayadratha|slayer": {
+   "label": "Arjuna killed Jayadratha before sunset on the fourteenth day, fulfilling his vow to avenge Abhimanyu"
+  },
+  "arjuna|vrishasena|slayer": {
+   "label": "Arjuna killed Vrishasena before Karna's eyes, avenging Abhimanyu"
+  },
+  "arjuna|bhagadatta|slayer": {
+   "label": "Arjuna killed Bhagadatta of Pragjyotisha and his elephant Supratika on the twelfth day"
+  },
+  "bhima|duryodhana|slayer": {
+   "label": "Bhima broke Duryodhana's thighs with his mace in their final duel, fulfilling his vow from the dice hall"
+  },
+  "bhima|dushasana|slayer": {
+   "label": "Bhima killed Dushasana and drank his blood, fulfilling his vow for the insult to Draupadi"
+  },
+  "bhima|vikarna|slayer": {
+   "label": "Bhima killed Vikarna, the Kaurava who had defended Draupadi, grieving that duty compelled him"
+  },
+  "bhima|kichaka|slayer": {
+   "label": "Bhima crushed Kichaka to death at night in Virata's dance hall for molesting Draupadi"
+  },
+  "bhima|jarasandha|slayer": {
+   "label": "Bhima killed Jarasandha by tearing his body apart in a wrestling duel, with Krishna's guidance"
+  },
+  "bhima|hidimba|slayer": {
+   "label": "Bhima killed the rakshasa Hidimba in the forest after the escape from the lac house"
+  },
+  "bhima|bakasura|slayer": {
+   "label": "Bhima killed the rakshasa Baka at Ekachakra to free the townspeople from his demands"
+  },
+  "karna|ghatotkacha|slayer": {
+   "label": "Karna killed Ghatotkacha with Indra's Vasavi Shakti during the night battle on the fourteenth day"
+  },
+  "karna|abhimanyu|slayer": {
+   "label": "Karna cut Abhimanyu's bow from behind as one of the warriors who surrounded him; the final blow came from Dushasana's son",
+   "variation": "The actual killing blow was struck by the son of Dushasana, who is not a separate node here."
+  },
+  "drona|abhimanyu|slayer": {
+   "label": "Drona, who set the chakravyuha, led the great chariot-warriors who surrounded and disarmed Abhimanyu; Dushasana's son struck the final blow",
+   "variation": "The actual killing blow was struck by the son of Dushasana, who is not a separate node here."
+  },
+  "takshaka|parikshit|slayer": {
+   "label": "Takshaka, hidden as a worm in a fruit, bit and killed Parikshit, fulfilling Shringin's curse"
+  },
+  "ashwatthama|upapandavas|slayer": {
+   "label": "Ashwatthama killed the five sons of Draupadi in their sleep during his night raid on the Pandava camp"
+  },
+  "yudhishthira|shalya|slayer": {
+   "label": "Yudhishthira killed Shalya, the last Kaurava commander, with a spear on the eighteenth day"
+  },
+  "sahadeva|shakuni|slayer": {
+   "label": "Sahadeva killed Shakuni on the eighteenth day, fulfilling the vow he swore in the dice hall"
+  },
+  "babruvahana|arjuna|slayer": {
+   "label": "Babruvahana killed his father Arjuna in battle during the horse sacrifice; Ulupi revived him with a Naga gem"
+  },
+  "pandu|kindama|slayer": {
+   "label": "Pandu shot the sage Kindama, who had taken the form of a stag while mating"
+  },
+  "drona|yudhishthira|guru": {
+   "label": "Drona trained the Pandava and Kaurava princes in arms at Hastinapura"
+  },
+  "drona|bhima|guru": {
+   "label": "Drona trained the Pandava and Kaurava princes in arms at Hastinapura"
+  },
+  "drona|nakula|guru": {
+   "label": "Drona trained the Pandava and Kaurava princes in arms at Hastinapura"
+  },
+  "drona|sahadeva|guru": {
+   "label": "Drona trained the Pandava and Kaurava princes in arms at Hastinapura"
+  },
+  "drona|arjuna|guru": {
+   "label": "Drona made Arjuna his favourite pupil, promised him pre-eminence among archers and gave him the Brahmashira"
+  },
+  "drona|karna|guru": {
+   "label": "Karna studied arms under Drona alongside the Kuru princes before going to Parashurama"
+  },
+  "kripa|yudhishthira|guru": {
+   "label": "Kripa was the first teacher of arms to the Kuru princes, before Drona came"
+  },
+  "kripa|bhima|guru": {
+   "label": "Kripa was the first teacher of arms to the Kuru princes, before Drona came"
+  },
+  "kripa|arjuna|guru": {
+   "label": "Kripa was the first teacher of arms to the Kuru princes, before Drona came"
+  },
+  "kripa|nakula|guru": {
+   "label": "Kripa was the first teacher of arms to the Kuru princes, before Drona came"
+  },
+  "kripa|sahadeva|guru": {
+   "label": "Kripa was the first teacher of arms to the Kuru princes, before Drona came"
+  },
+  "kripa|parikshit|guru": {
+   "label": "Yudhishthira entrusted young Parikshit to Kripa as his teacher before the great departure"
+  },
+  "parashurama|bhishma|guru": {
+   "label": "Bhishma learned the science of arms from Parashurama"
+  },
+  "parashurama|karna|guru": {
+   "label": "Karna studied under Parashurama, posing as a Brahmin, and received the Brahmastra"
+  },
+  "krishna|arjuna|guru": {
+   "label": "Krishna taught Arjuna the Bhagavad Gita on the battlefield of Kurukshetra"
+  },
+  "balarama|bhima|guru": {
+   "label": "Bhima learned mace fighting from Balarama, as did Duryodhana"
+  },
+  "vashistha|bhishma|guru": {
+   "label": "Ganga had Devavrata taught the Vedas by Vashistha"
+  },
+  "brihaspati|bhishma|guru": {
+   "label": "Devavrata learned the political science of Brihaspati"
+  },
+  "shukracharya|bhishma|guru": {
+   "label": "Devavrata learned the political science of Ushanas (Shukra)"
+  },
+  "bhishma|yudhishthira|guru": {
+   "label": "From his bed of arrows Bhishma taught Yudhishthira the duties of kings and the paths of liberation (Shanti and Anushasana Parvas)"
+  },
+  "bhishma|dhritarashtra|guru": {
+   "label": "Bhishma raised and educated Dhritarashtra as guardian of the Kuru house"
+  },
+  "bhishma|pandu|guru": {
+   "label": "Bhishma raised and educated Pandu, who became a great archer"
+  },
+  "bhishma|vidura|guru": {
+   "label": "Bhishma raised and educated Vidura, who became learned in dharma"
+  },
+  "dhaumya|yudhishthira|guru": {
+   "label": "Dhaumya served as family priest of the Pandavas from their marriage onward and accompanied them in exile"
+  },
+  "markandeya|yudhishthira|guru": {
+   "label": "Markandeya narrated many ancient tales to Yudhishthira during the forest exile"
+  },
+  "narada|yudhishthira|guru": {
+   "label": "Narada instructed Yudhishthira on kingship at Indraprastha and inspired the Rajasuya"
+  },
+  "vyasa|yudhishthira|guru": {
+   "label": "Vyasa counselled his grandson Yudhishthira at many crises and taught him the Pratismriti lore for Arjuna"
+  },
+  "indra|arjuna|guru": {
+   "label": "Indra hosted Arjuna in Amaravati and taught him the use of celestial weapons"
+  },
+  "arjuna|abhimanyu|guru": {
+   "label": "Arjuna taught his son archery, including how to break into the chakravyuha"
+  },
+  "arjuna|uttara|guru": {
+   "label": "As the dance teacher Brihannala, Arjuna taught Princess Uttara music and dance"
+  },
+  "arjuna|satyaki|guru": {
+   "label": "Satyaki learned archery from Arjuna and was his devoted pupil"
+  },
+  "vaishampayana|janamejaya|guru": {
+   "label": "Vaishampayana, pupil of Vyasa, recited the Mahabharata to Janamejaya at the snake sacrifice"
+  },
+  "vyasa|janamejaya|ally": {
+   "label": "Vyasa attended Janamejaya's snake sacrifice and bade his pupil Vaishampayana recite the Mahabharata to the king"
+  },
+  "shuka|parikshit|guru": {
+   "label": "Shuka recited the Bhagavata Purana to Parikshit during his last seven days (Bhagavata Purana)"
+  },
+  "bhishma|krishna|devotee": {
+   "label": "On his bed of arrows Bhishma praised Krishna as the Supreme Being (Bhishma-stava-raja)"
+  },
+  "kunti|krishna|devotee": {
+   "label": "Kunti's prayer to Krishna, asking for adversity so that she might keep remembering him (Bhagavata Purana)"
+  },
+  "karna|surya|devotee": {
+   "label": "Karna worshipped the Sun daily and gave to any Brahmin who asked at the time of his worship"
+  },
+  "parikshit|krishna|devotee": {
+   "label": "In the Bhagavata Purana Parikshit, protected by Vishnu in the womb, is a model devotee of Krishna"
+  },
+  "karna|duryodhana|ally": {
+   "label": "Duryodhana made Karna king of Anga at the tournament, winning his lifelong loyalty"
+  },
+  "bhishma|duryodhana|ally": {
+   "label": "Bound to the throne of Hastinapura, Bhishma commanded Duryodhana's army for ten days while wishing the Pandavas well"
+  },
+  "bhishma|satyavati|ally": {
+   "label": "Bhishma renounced throne and marriage so that Satyavati's sons could inherit; he later refused her plea to father heirs"
+  },
+  "bhishma|drona|ally": {
+   "label": "Bhishma appointed Drona as teacher of the Kuru princes"
+  },
+  "arjuna|krishna|ally": {
+   "label": "Inseparable friends; Krishna served as Arjuna's charioteer at Kurukshetra"
+  },
+  "arjuna|hanuman|ally": {
+   "label": "Hanuman rode on Arjuna's banner, giving him the name Kapidhvaja"
+  },
+  "arjuna|chitraratha|ally": {
+   "label": "Defeated by Arjuna at night on the Ganga, the Gandharva Chitraratha became his friend and taught him the chakshushi lore of seeing anything in the three worlds"
+  },
+  "bhima|krishna|ally": {
+   "label": "Krishna planned the wrestling duel in which Bhima killed Jarasandha and guided him in the final mace duel"
+  },
+  "yudhishthira|krishna|ally": {
+   "label": "Krishna was Yudhishthira's cousin and counsellor, honoured first at his Rajasuya"
+  },
+  "yudhishthira|yuyutsu|ally": {
+   "label": "Yuyutsu crossed over from the Kaurava army to Yudhishthira's side before the battle"
+  },
+  "yudhishthira|virata|ally": {
+   "label": "Yudhishthira lived at Virata's court as Kanka, the king's dice companion; Virata later fought for the Pandavas"
+  },
+  "nakula|virata|ally": {
+   "label": "Nakula served King Virata as Granthika, keeper of horses, during the year in disguise"
+  },
+  "sahadeva|virata|ally": {
+   "label": "Sahadeva served King Virata as Tantipala, keeper of cattle, during the year in disguise"
+  },
+  "yudhishthira|drupada|ally": {
+   "label": "Drupada allied with the Pandavas after Draupadi's marriage and fought for them at Kurukshetra"
+  },
+  "vidura|yudhishthira|ally": {
+   "label": "Vidura warned Yudhishthira of the lac house and at his death passed his life into him"
+  },
+  "vidura|kunti|ally": {
+   "label": "Kunti stayed in Vidura's house during the Pandavas' exile"
+  },
+  "vidura|krishna|ally": {
+   "label": "Krishna stayed in Vidura's house during his peace embassy to Hastinapura"
+  },
+  "vidura|dhritarashtra|ally": {
+   "label": "Vidura was Dhritarashtra's minister, whose counsel the king heard but rarely followed"
+  },
+  "vidura|uddhava|ally": {
+   "label": "Vidura met Uddhava on pilgrimage and learned from him of Krishna's departure (Bhagavata Purana)"
+  },
+  "kunti|madri|ally": {
+   "label": "Kunti shared her mantra with Madri and raised Nakula and Sahadeva after Madri's death"
+  },
+  "kunti|gandhari|ally": {
+   "label": "Kunti served Gandhari and Dhritarashtra in their forest retreat until all three died in a forest fire"
+  },
+  "kunti|dhritarashtra|ally": {
+   "label": "Kunti followed Dhritarashtra into the forest after the war and died with him in a forest fire"
+  },
+  "kunti|draupadi|ally": {
+   "label": "Kunti's words 'share it equally' led Draupadi to become the wife of all five brothers"
+  },
+  "kunti|hidimbi|ally": {
+   "label": "Kunti allowed Hidimbi to marry Bhima on condition that she return him by night"
+  },
+  "sanjaya|dhritarashtra|ally": {
+   "label": "Sanjaya, Dhritarashtra's charioteer and minister, narrated the war to him with divine sight"
+  },
+  "adhiratha|dhritarashtra|ally": {
+   "label": "The charioteer Adhiratha was a friend of Dhritarashtra"
+  },
+  "draupadi|krishna|ally": {
+   "label": "Draupadi called Krishna her friend (sakha) and poured out her grievances to him in the forest",
+   "variation": "The Critical Edition does not name Krishna as the source of the endless garments; the vulgate adds her prayer to him and later tradition credits him with the miracle."
+  },
+  "draupadi|vikarna|ally": {
+   "label": "Vikarna alone among the Kauravas spoke up in the assembly that Draupadi had not been lawfully won"
+  },
+  "draupadi|satyabhama|ally": {
+   "label": "Draupadi instructed Satyabhama on how a wife keeps her husbands devoted (Vana Parva)"
+  },
+  "satyavati|ambika|ally": {
+   "label": "Satyavati arranged the niyoga for her daughter-in-law and later retired to the forest with her"
+  },
+  "satyavati|ambalika|ally": {
+   "label": "Satyavati arranged the niyoga for her daughter-in-law and later retired to the forest with her"
+  },
+  "abhimanyu|krishna|ally": {
+   "label": "Krishna was Abhimanyu's maternal uncle, in whose city Dvaraka he grew up"
+  },
+  "ganga|pratipa|ally": {
+   "label": "Ganga sat on Pratipa's right thigh; he accepted her as a future daughter-in-law for his son"
+  },
+  "karna|shalya|ally": {
+   "label": "Shalya reluctantly served as Karna's charioteer and demoralised him with taunts, as he had promised Yudhishthira"
+  },
+  "vrishasena|duryodhana|ally": {
+   "label": "Vrishasena fought for Duryodhana under his father Karna"
+  },
+  "parikshit|yudhishthira|ally": {
+   "label": "Yudhishthira crowned his great-nephew Parikshit king of Hastinapura before the great departure"
+  },
+  "parashurama|amba|ally": {
+   "label": "At Amba's plea Parashurama fought his own pupil Bhishma on her behalf, but the duel ended undecided"
+  },
+  "arjuna|karna|enemy": {
+   "label": "Lifelong rivals from the Kuru tournament to their final duel at Kurukshetra"
+  },
+  "bhima|duryodhana|enemy": {
+   "label": "Rivals from childhood; Duryodhana poisoned Bhima and Bhima vowed to break his thigh"
+  },
+  "draupadi|dushasana|enemy": {
+   "label": "Dushasana dragged Draupadi by the hair into the assembly and tried to strip her"
+  },
+  "draupadi|duryodhana|enemy": {
+   "label": "Duryodhana had Draupadi dragged into the assembly and bared his thigh to her"
+  },
+  "draupadi|karna|enemy": {
+   "label": "In the dice hall Karna called Draupadi a woman of many husbands and urged that she be stripped",
+   "variation": "Her public rejection of Karna at the svayamvara is in the vulgate but relegated to the apparatus of the Critical Edition."
+  },
+  "draupadi|jayadratha|enemy": {
+   "label": "Jayadratha tried to abduct Draupadi from the forest hermitage and was captured and humiliated by Bhima"
+  },
+  "draupadi|kichaka|enemy": {
+   "label": "Kichaka harassed Draupadi at Virata's court, where she served as the maid Sairandhri"
+  },
+  "draupadi|ashwatthama|enemy": {
+   "label": "Ashwatthama murdered Draupadi's sons; she demanded his punishment and received his forehead jewel"
+  },
+  "yudhishthira|duryodhana|enemy": {
+   "label": "Rival heirs to the Kuru throne; Duryodhana won Yudhishthira's kingdom at dice"
+  },
+  "yudhishthira|shakuni|enemy": {
+   "label": "Shakuni played dice on Duryodhana's behalf and won Yudhishthira's kingdom, brothers and wife"
+  },
+  "bhishma|amba|enemy": {
+   "label": "Amba held Bhishma responsible for her ruin and devoted her life, and her next life, to his death"
+  },
+  "bhishma|parashurama|enemy": {
+   "label": "Teacher and pupil fought a long duel at Kurukshetra over Amba, which neither could win"
+  },
+  "bhishma|karna|enemy": {
+   "label": "Bhishma disparaged Karna, who refused to fight while Bhishma commanded the Kaurava army"
+  },
+  "shikhandi|bhishma|enemy": {
+   "label": "Bhishma would not fight Shikhandi, born a woman; Arjuna shot him from behind Shikhandi's chariot"
+  },
+  "vidura|duryodhana|enemy": {
+   "label": "Vidura opposed Duryodhana's schemes and was insulted by him in the dice hall"
+  },
+  "arjuna|ashwatthama|enemy": {
+   "label": "After the night raid Arjuna and Ashwatthama loosed Brahmashira weapons at each other, until the sages intervened"
+  },
+  "arjuna|duryodhana|enemy": {
+   "label": "Cousins and enemies; Arjuna led the army that destroyed Duryodhana's host"
+  },
+  "arjuna|ekalavya|enemy": {
+   "label": "Drona demanded Ekalavya's thumb so that no archer would surpass Arjuna"
+  },
+  "arjuna|bhurishravas|enemy": {
+   "label": "Arjuna cut off Bhurishravas' arm to save Satyaki, who then beheaded him"
+  },
+  "abhimanyu|jayadratha|enemy": {
+   "label": "Jayadratha held back the Pandavas at the breach in the chakravyuha, leaving Abhimanyu alone inside"
+  },
+  "abhimanyu|duryodhana|enemy": {
+   "label": "Abhimanyu killed Duryodhana's son Lakshmana in the chakravyuha"
+  },
+  "ashwatthama|uttara|enemy": {
+   "label": "Ashwatthama turned his Brahmashira weapon on the wombs of the Pandava women, killing Uttara's unborn son"
+  },
+  "janamejaya|takshaka|enemy": {
+   "label": "Janamejaya held the snake sacrifice to destroy Takshaka, his father's killer"
+  },
+  "parikshit|kali-purusha|enemy": {
+   "label": "Parikshit subdued the personified Kali and confined him to places of vice (Bhagavata Purana)"
+  },
+  "vrishasena|nakula|enemy": {
+   "label": "Vrishasena fought Nakula and the Pandava forces on the seventeenth day"
+  },
+  "bhima|dhritarashtra|enemy": {
+   "label": "Grieving his sons, Dhritarashtra crushed an iron image of Bhima that Krishna had put in his place"
+  }
+ }
+}

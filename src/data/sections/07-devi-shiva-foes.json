@@ -1,0 +1,1325 @@
+{
+  "section": "07-devi-shiva-foes",
+  "nodes": [
+    {
+      "id": "mahishasura",
+      "name": "Mahishasura",
+      "devanagari": "महिषासुर",
+      "aliases": [
+        "Mahisha",
+        "Mahishasur",
+        "the Buffalo Demon"
+      ],
+      "category": "asura",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The shape-shifting buffalo-demon whose defeat by the Goddess is the central episode of the Devi Mahatmya and the mythic basis of Navaratri and Durga Puja. He conquered heaven and drove out the gods. An earlier Mahabharata passage already has a Mahisha slain by Skanda.",
+      "story": "Having routed Indra and the devas, Mahisha seated himself on the throne of heaven. The exiled gods went to Brahma, Vishnu and Shiva, and from the blazing anger of all of them a single mass of light gathered into the form of a Goddess. Each god gave her a weapon — Shiva his trident, Vishnu his discus, Indra his thunderbolt — and Himavan gave her a lion. Her laughter shook the worlds. Mahisha's generals fell one by one; then he himself charged, changing from buffalo to lion, to a sword-bearing man, to an elephant and back to a buffalo, hurling mountains with his horns. The Goddess drank divine wine, laughed, leapt upon him, pressed his neck under her foot and pierced him with her trident; as he half-emerged from the buffalo's mouth in his own form, she struck off his head with her great sword.",
+      "symbols": [
+        "buffalo",
+        "buffalo head",
+        "shape-shifting"
+      ],
+      "weapons": [
+        "horns and hooves",
+        "sword",
+        "hurled mountains"
+      ],
+      "vahana": null,
+      "abode": "Svarga (usurped from Indra); Mysore (Mahishuru) in Karnataka tradition",
+      "sources": [
+        "Mahabharata, Vana Parva (Skanda episode)",
+        "Markandeya Purana, Devi Mahatmya chs. 2–4",
+        "Devi Bhagavata Purana, Skandha 5",
+        "Vamana Purana",
+        "Kalika Purana"
+      ],
+      "variations": [
+        "Mahabharata (Vana Parva): Mahisha attacks the gods and is killed by the young Skanda, whose spear splits his head.",
+        "Devi Bhagavata: Brahma's boon made him invulnerable to every male, so only a woman could kill him; he proposes marriage to the Goddess before the battle.",
+        "Vamana Purana names the slayer Katyayani, the goddess born from the gods' combined radiance at the hermitage of the sage Katyayana.",
+        "Kalika Purana makes Mahisha a devotee of Shiva who, slain by the Goddess in successive births, asks to remain forever at her feet — explaining his presence in her images.",
+        "Karnataka tradition links him with Mysore (Mahishuru), where the goddess Chamundeshwari slew him."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "shumbha",
+      "name": "Shumbha",
+      "devanagari": "शुम्भ",
+      "aliases": [
+        "Shumbhasura",
+        "Sumbha"
+      ],
+      "category": "asura",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Asura king who, with his younger brother Nishumbha, seized the three worlds and the gods' shares of sacrifice in the final episode of the Devi Mahatmya. Told of the Goddess's beauty, he demanded her in marriage; when she replied that she would wed only one who defeated her in battle, he sent army after army and was finally slain by her in single combat.",
+      "story": "Having taken Indra's realm and the gods' sacrificial shares, Shumbha heard from his servants Chanda and Munda of a woman of peerless beauty on the Himalaya, and sent a messenger to claim her. Smiling, the Goddess replied that in her folly she had once vowed to marry only one who conquered her in battle. Enraged, Shumbha sent Dhumralochana, then Chanda and Munda, then Raktabija — all destroyed — and then his brother Nishumbha, who also fell. He taunted her for relying on the strength of other goddesses. 'I alone exist here in the world; who else is there beside me?' she answered, and the Mothers vanished into her body. They fought with weapons, then hand to hand, rising into the sky; at last she hurled him to the earth and pierced his chest with her spear, and the whole world grew calm.",
+      "symbols": [],
+      "weapons": [
+        "bow and arrows",
+        "sword and shield",
+        "spear (shakti)",
+        "mace"
+      ],
+      "vahana": null,
+      "abode": "Svarga (usurped from Indra)",
+      "sources": [
+        "Harivamsha, Vishnu Parva (Vishnu's charge to the goddess Nidra)",
+        "Markandeya Purana, Devi Mahatmya chs. 5–10",
+        "Vamana Purana",
+        "Devi Bhagavata Purana, Skandha 5"
+      ],
+      "variations": [
+        "The Harivamsha already foretells that the goddess Nidra, dwelling in the Vindhyas, will slay the danavas Shumbha and Nishumbha.",
+        "Devi Bhagavata: the brothers won from Brahma invulnerability against gods, men and beasts, disdaining to ask protection from women.",
+        "Vamana Purana tells the episode with Kaushiki, born from the dark sheath shed by Parvati, as the victorious goddess."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "nishumbha",
+      "name": "Nishumbha",
+      "devanagari": "निशुम्भ",
+      "aliases": [
+        "Nishumbhasura",
+        "Nisumbha"
+      ],
+      "category": "asura",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Younger brother of Shumbha and co-ruler of the asura empire in the Devi Mahatmya. A formidable warrior, he was the last champion to face the Goddess before Shumbha himself.",
+      "story": "After Raktabija's fall, Nishumbha led the asura host against the Goddess while Shumbha followed with his own army. He showered her with arrows and struck her lion on the head with his sword; she shattered his sword and shield with a sharp arrow and split his hurled spear with her discus. Struck down, he rose again, took up a club, and then, multiplying himself into ten thousand arms, covered her with discuses. At last she pierced his heart; from his breast another mighty being emerged crying 'Stop!' — laughing, the Goddess cut off its head with her sword, and Nishumbha fell lifeless to the earth. Maddened with grief and fury at his brother's death, Shumbha rode out for the final battle.",
+      "symbols": [],
+      "weapons": [
+        "sword and shield",
+        "spear",
+        "club",
+        "bow and arrows"
+      ],
+      "vahana": null,
+      "abode": "Svarga (usurped from Indra)",
+      "sources": [
+        "Harivamsha, Vishnu Parva (Vishnu's charge to the goddess Nidra)",
+        "Markandeya Purana, Devi Mahatmya chs. 5–9",
+        "Vamana Purana",
+        "Devi Bhagavata Purana, Skandha 5"
+      ],
+      "variations": [
+        "Devi Bhagavata: the brothers' boon from Brahma left them vulnerable only to a woman.",
+        "Vamana Purana tells the parallel story with Kaushiki as the slayer."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "chanda",
+      "name": "Chanda",
+      "devanagari": "चण्ड",
+      "aliases": [
+        "Chandasura",
+        "Canda"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Asura general and servant of Shumbha who, with his companion Munda, first saw the Goddess on the Himalaya and praised her to their king. Sent to seize her by force, he was beheaded by Kali, and from the slaying of the pair the Goddess took the name Chamunda.",
+      "story": "Chanda and Munda, marching with a fourfold army, found the Goddess seated smiling on her lion on a golden peak of the Himalaya. When they rushed at her with bows and drawn swords, her face darkened with anger, and from her brow sprang Kali — gaunt and black, clad in a tiger skin, garlanded with skulls, her tongue lolling, armed with sword, noose and skull-topped staff. She tore through the army, crushing elephants, chariots and riders in her jaws. Chanda covered her with arrows and Munda hurled thousands of discuses, which vanished into her mouth like suns into a cloud. Laughing terribly, she seized Chanda by the hair and cut off his head; when Munda rushed at her, she struck him down too. She laid both heads before the Goddess, who declared: 'Because you have brought Chanda and Munda, you shall be famed as Chamunda.'",
+      "symbols": [],
+      "weapons": [
+        "bow and arrows",
+        "sword"
+      ],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Markandeya Purana, Devi Mahatmya chs. 5–7",
+        "Devi Bhagavata Purana, Skandha 5",
+        "Vamana Purana"
+      ],
+      "variations": [
+        "The Devi Bhagavata tells the episode with Kalika as their slayer.",
+        "Popular tradition makes Chanda and Munda brothers; the Devi Mahatmya simply pairs them as Shumbha's servants.",
+        "The derivation of the name Chamunda from Chanda and Munda is the Devi Mahatmya's own; Chamunda is also counted among the Matrikas."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "munda",
+      "name": "Munda",
+      "devanagari": "मुण्ड",
+      "aliases": [
+        "Mundasura"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Asura general, companion of Chanda and servant of the brothers Shumbha and Nishumbha. Their praise of the Goddess's beauty set the war in motion, and he fell to Kali after Chanda.",
+      "story": "Wandering on the Himalaya, Chanda and Munda saw the radiant Goddess and hurried to their master. 'Great king,' they said, 'you already possess every jewel of the three worlds — Indra's elephant Airavata, the horse Uchchaihshravas, the Parijata tree, Kubera's great treasure, Varuna's umbrella and noose, the swan-chariot of Brahma. Why not take this jewel among women as well?' Their words kindled Shumbha's desire and set the whole war in motion. Later, sent to drag her back by force, Munda watched Kali spring from the Goddess's brow and devour their army. He hurled thousands of discuses, but they vanished into her mouth; when she beheaded Chanda, Munda rushed at her in rage, and she cut him down with her sword. Kali laid both heads at the Goddess's feet, and she was named Chamunda.",
+      "symbols": [],
+      "weapons": [
+        "discus",
+        "sword"
+      ],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Markandeya Purana, Devi Mahatmya chs. 5–7",
+        "Devi Bhagavata Purana, Skandha 5",
+        "Vamana Purana"
+      ],
+      "variations": [
+        "Popular tradition treats Chanda and Munda as brothers.",
+        "The Devi Bhagavata names the slayer Kalika."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "raktabija",
+      "name": "Raktabija",
+      "devanagari": "रक्तबीज",
+      "aliases": [
+        "Raktavija",
+        "Raktabeej",
+        "Blood-Seed"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Asura general of Shumbha from each drop of whose blood that touched the ground a new warrior equal to him sprang up. In the Devi Mahatmya he was destroyed when Kali, as Chamunda, drank his blood before it could fall while the Goddess struck him down.",
+      "story": "When Raktabija advanced, the Mothers — Brahmani, Maheshvari, Kaumari, Vaishnavi, Varahi, Narasimhi and Aindri — struck him with their weapons; but from every drop of his blood that fell, a new Raktabija arose, until the world was filled with his doubles and the gods despaired. Then Chandika laughed and said to Kali: 'Open wide your mouth, Chamunda, and quickly take in the drops of blood and the great asuras born of them.' As the Goddess pierced him with spear, sword and arrows, Kali caught every drop on her vast tongue and devoured the new-born asuras before they could multiply. Drained of blood, Raktabija sank to the earth and died, and the gods rejoiced while the Mothers danced, drunk with his blood.",
+      "symbols": [
+        "drops of blood"
+      ],
+      "weapons": [
+        "mace"
+      ],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Markandeya Purana, Devi Mahatmya ch. 8",
+        "Devi Bhagavata Purana, Skandha 5",
+        "Vamana Purana"
+      ],
+      "variations": [
+        "The Devi Mahatmya presents his power as innate; later and popular retellings attribute it to a boon from Shiva or Brahma.",
+        "The Vamana Purana is said to make him arise from the funeral pyre of Rambha, Mahishasura's father.",
+        "A similar blood-multiplying power belongs to Andhaka in the Matsya Purana, where too the Mothers are created to drink the blood."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "dhumralochana",
+      "name": "Dhumralochana",
+      "devanagari": "धूम्रलोचन",
+      "aliases": [
+        "Dhumralochan",
+        "Smoke-Eyed"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "The 'smoke-eyed' asura chieftain, the first general Shumbha sent to seize the Goddess by force. She reduced him to ashes with a single angry sound, 'hum', and her lion destroyed his army.",
+      "story": "When the Goddess refused Shumbha's proposal, the asura king turned in fury to Dhumralochana, a lord of his army: 'Go at once with your troops and drag that insolent woman here by the hair. If anyone — god, yaksha or gandharva — rises to protect her, kill him.' Dhumralochana marched to the Himalaya with sixty thousand asuras and ordered her to come willingly to his master or be dragged. 'You are sent by the lord of the asuras, mighty and with an army at your back,' she replied calmly; 'if you take me by force, what can I do to you?' As he rushed at her, she merely uttered the sound 'hum' — and he was burnt to ashes. Her lion, shaking its mane, fell upon his army and tore it apart.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Markandeya Purana, Devi Mahatmya ch. 6",
+        "Devi Bhagavata Purana, Skandha 5"
+      ],
+      "variations": [],
+      "disputed": false
+    },
+    {
+      "id": "durgamasura",
+      "name": "Durgamasura",
+      "devanagari": "दुर्गमासुर",
+      "aliases": [
+        "Durgama",
+        "Durgam"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Asura who, by a boon from Brahma, took possession of the Vedas, so that sacrifice ceased, the gods weakened and a hundred-year drought fell upon the earth. He was slain by the Goddess who, having appeared as Shatakshi and Shakambhari, thereby became known as Durga.",
+      "story": "Durgama, son of Ruru, performed fierce austerities in the Himalaya and asked Brahma for the Vedas. Once they were his, sacred knowledge vanished from the world: brahmins forgot the hymns, fire-offerings stopped, the gods lost their strength and no rain fell for a hundred years. Rivers and wells dried up and living beings perished. The sages prayed to the Goddess, who appeared with countless eyes as Shatakshi and wept for nine days and nights at the suffering until her tears became rivers. As Shakambhari she fed the starving with vegetables, fruits and roots from her own body. Then Durgama marched against her; many shaktis sprang from her body, and after a fierce battle she killed him with her arrows and returned the Vedas to the world. Because she slew Durgama, she is called Durga.",
+      "symbols": [
+        "the stolen Vedas"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Markandeya Purana, Devi Mahatmya ch. 11 (prophecy)",
+        "Devi Bhagavata Purana, Skandha 7"
+      ],
+      "variations": [
+        "The Devi Mahatmya only foretells his death in a single verse; the full narrative is in the Devi Bhagavata.",
+        "The Devi Bhagavata treats Shatakshi, Shakambhari and Durga as successive names of one manifestation."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "arunasura",
+      "name": "Arunasura",
+      "devanagari": "अरुणासुर",
+      "aliases": [
+        "Aruna the daitya",
+        "Arun"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Daitya king who won a boon of invulnerability from Brahma through long devotion to the Gayatri mantra and then conquered the gods. The Goddess slew him as Bhramari, sending forth countless bees — creatures neither two- nor four-legged.",
+      "story": "In the netherworld the daitya Aruna resolved to conquer the gods and performed austerities for thousands of years on the banks of the Ganga in the Himalaya, repeating the Gayatri. Brahma granted his wish: he would not die in battle or by any weapon, by man or woman, nor by any creature with two legs or four. He drove the gods from heaven. Since his strength flowed from the Gayatri, Brihaspati went to him and persuaded him to abandon it. Then the gods prayed to the Devi, who appeared surrounded by innumerable bees, bumblebees and hornets, holding them in her hands. Swarming across the worlds like a dark cloud, the bees tore open the breasts of Aruna and his armies, and the demons perished. Praised by the gods as Bhramari, the Goddess vanished.",
+      "symbols": [
+        "bees"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Patala (the netherworld); later Svarga, usurped",
+      "sources": [
+        "Markandeya Purana, Devi Mahatmya ch. 11 (prophecy)",
+        "Devi Bhagavata Purana, Skandha 10"
+      ],
+      "variations": [
+        "The Devi Mahatmya foretells the episode in one verse; the Devi Bhagavata gives the full narrative.",
+        "Not to be confused with Aruna, the charioteer of Surya."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "tarakasura",
+      "name": "Tarakasura",
+      "devanagari": "तारकासुर",
+      "aliases": [
+        "Taraka",
+        "Tarak"
+      ],
+      "category": "asura",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Mighty daitya whose boon made him vulnerable only to a son of Shiva, forcing the gods to bring about Shiva's marriage to Parvati. He was slain by the young war god Kartikeya (Skanda), a story told in the Mahabharata, the Shiva and Skanda Puranas and Kalidasa's Kumarasambhava.",
+      "story": "Taraka, son of the daitya Vajranga, performed ever more terrible austerities for centuries until Brahma came to grant a boon. He asked to be unconquerable, and to die, if at all, only at the hands of a son of Shiva — for Shiva, mourning Sati, sat lost in meditation and seemed unlikely ever to father a child. Taraka seized heaven and made the gods his servants. At Brahma's counsel they sent Kama to stir Shiva's heart; Kama was burnt to ashes by Shiva's third eye, but Parvati's austerities won Shiva, and their son Kartikeya, born of Shiva's fiery seed and nursed by the Krittikas, was made commander of the divine army. The boy-general met Taraka on the battlefield and, after a fierce duel, pierced him with his spear, restoring heaven to the gods.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Mahabharata, Anushasana Parva (birth of Skanda)",
+        "Mahabharata, Shalya Parva",
+        "Shiva Purana, Rudra Samhita (Parvati and Kumara Khandas)",
+        "Skanda Purana",
+        "Matsya Purana",
+        "Kalidasa, Kumarasambhava"
+      ],
+      "variations": [
+        "Matsya Purana: the boon made him vulnerable only to a child seven days old.",
+        "Andhra tradition holds that Taraka wore a Shiva linga on his body; Kartikeya shattered it, and its five pieces are worshipped at the Pancharama shrines.",
+        "The Mahabharata (Karna Parva) and Shiva Purana make him the father of the three Tripura brothers."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "andhaka",
+      "name": "Andhaka",
+      "devanagari": "अन्धक",
+      "aliases": [
+        "Andhakasura",
+        "the Blind One"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Blind asura born of Shiva and Parvati's play and raised as the son of the daitya Hiranyaksha. Driven by desire for Parvati — unaware that she was his own mother — he warred against Shiva, who impaled him on his trident; purified, he became Shiva's devotee and a leader of his ganas, identified in several accounts with the skeletal Bhringi.",
+      "story": "Once, on Mount Mandara, Parvati playfully covered Shiva's eyes with her hands; the world fell dark, and from the sweat of Shiva's brow, warmed by her touch, a blind, black, fearsome child was born. Shiva gave him to the childless daitya Hiranyaksha. Grown mighty through Brahma's boon, Andhaka ruled the asuras, and when his ministers told him of a peerless woman on Mandara, he demanded her for himself. War followed: Shukracharya revived the fallen asuras with his secret lore until Nandi carried him off and Shiva swallowed him, and every drop of Andhaka's blood sprang up as a new Andhaka. At last Shiva impaled him on his trident and held him aloft for ages. Burnt dry of sin, Andhaka sang Shiva's praises; forgiven, he was made a chief of the ganas and called Bhringi.",
+      "symbols": [
+        "blindness",
+        "impaled on Shiva's trident",
+        "emaciated body (as Bhringi)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "The asura realm; later Kailasa, as Shiva's gana",
+      "sources": [
+        "Matsya Purana",
+        "Kurma Purana",
+        "Vamana Purana",
+        "Linga Purana",
+        "Shiva Purana, Rudra Samhita, Yuddha Khanda"
+      ],
+      "variations": [
+        "Shiva Purana: born from Shiva's sweat when Parvati covered his eyes and given to Hiranyaksha; other Puranas (Matsya, Kurma, Vamana) make him Hiranyaksha's own son.",
+        "Matsya Purana: Shiva emanated the Mothers (Matrikas) to drink the blood from which new Andhakas sprang; when the Mothers then threatened the world, Vishnu as Narasimha brought forth goddesses to restrain them.",
+        "Most accounts end with his redemption rather than death; some name the redeemed Andhaka Bhringi, whereas elsewhere Bhringi is an independent sage devoted solely to Shiva.",
+        "Shiva impaling Andhaka (Andhakasura-vadha) is a major theme of temple sculpture, notably at Ellora and Elephanta."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "jalandhara",
+      "name": "Jalandhara",
+      "devanagari": "जलन्धर",
+      "aliases": [
+        "Jalandhar",
+        "Jalamdhara",
+        "Jalandharasura"
+      ],
+      "category": "asura",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Mighty asura born from the fire of Shiva's anger when it was cast into the ocean, and raised as the Ocean's son. Protected by the fidelity of his devoted wife Vrinda, he conquered the gods, but was slain by Shiva after Vishnu's deception broke that protection.",
+      "story": "When Indra, failing to recognise Shiva in the guise of a naked ascetic, raised his thunderbolt against him, fire blazed from Shiva's third eye; at Brihaspati's plea Shiva cast it into the ocean where the Ganga meets the sea. There it became a wailing child, raised by the Ocean. When Brahma took him on his lap, the boy gripped the creator's neck until tears streamed from his eyes, and so he was named Jalandhara, 'he who holds water'. Crowned by Shukracharya and wedded to the virtuous Vrinda, he avenged the churning of his father the Ocean by conquering heaven. Inflamed by Narada's praise of Parvati, he sent Rahu to demand her from Shiva and even approached her in Shiva's form. The war was decided only when Vishnu broke Vrinda's fidelity; then Shiva's discus struck off Jalandhara's head, and his radiance merged into Shiva.",
+      "symbols": [
+        "ocean"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "The ocean; his capital is traditionally identified with Jalandhar in Punjab",
+      "sources": [
+        "Shiva Purana, Rudra Samhita, Yuddha Khanda",
+        "Padma Purana, Uttara Khanda",
+        "Linga Purana"
+      ],
+      "variations": [
+        "Several versions say Shiva created the Sudarshana discus to kill him — drawing a wheel in the water with his toe — and later gave it to Vishnu.",
+        "Lakshmi, also born of the ocean, regards him as her brother and persuades Vishnu not to kill him in their duel.",
+        "The Padma Purana tells the story from a Vaishnava standpoint, dwelling on Vishnu's grief at Vrinda's pyre."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "vrinda",
+      "name": "Vrinda (Tulasi)",
+      "devanagari": "वृन्दा",
+      "aliases": [
+        "Vrinda",
+        "Brinda",
+        "Tulasi",
+        "Tulsi",
+        "Vrindavani"
+      ],
+      "category": "devi",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Virtuous wife of the asura Jalandhara, whose unwavering fidelity (pativrata) made her husband invincible. Deceived by Vishnu in the form of Jalandhara, she cursed him and gave up her life; she is revered as the holy basil plant Tulasi, sacred to Vishnu and ritually married to him each year in the Tulasi Vivah.",
+      "story": "Vrinda, daughter of the asura Kalanemi, loved Jalandhara with such devotion that no god could slay him while her fidelity held. As his war with Shiva raged, Vishnu came to her in Jalandhara's form — some tellings add illusory demons and a severed head he seemed to revive — and she embraced him as her husband. Her virtue broken, Jalandhara fell to Shiva. Discovering the deception, Vrinda cursed Vishnu: as he had parted her from her husband, he too would lose his wife and need the help of monkeys — fulfilled when he came as Rama. Then she entered the fire. From the ground of her pyre sprang Tulasi, Amalaki and Malati, and devotees say she lives on as Tulasi, without whose leaves no offering to Vishnu is complete. Her story still raises hard questions about divine deception and its cost to the innocent.",
+      "symbols": [
+        "tulasi (holy basil) plant",
+        "tulasi-mala"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Jalandhara's city; as Tulasi, the courtyard shrine (tulasi-vrindavana) of Hindu homes",
+      "sources": [
+        "Shiva Purana, Rudra Samhita, Yuddha Khanda",
+        "Padma Purana, Uttara Khanda",
+        "Brahmavaivarta Purana, Prakriti Khanda",
+        "Devi Bhagavata Purana, Skandha 9"
+      ],
+      "variations": [
+        "Shiva Purana: her curse condemns Vishnu to separation from his wife and dependence on monkeys; the curse that he become the Shaligram stone belongs to the parallel story of Tulasi and Shankhachuda (Brahmavaivarta, Devi Bhagavata), which popular tradition merges with hers.",
+        "In the Brahmavaivarta and Devi Bhagavata, Tulasi is a partial manifestation of Lakshmi, daughter of King Dharmadhvaja and wife of the asura Shankhachuda; the Gandaki river flows from her body and Vishnu becomes the Shaligram stones found in it.",
+        "The annual Tulasi Vivah celebrates her marriage to Vishnu as Shaligram, or to Krishna.",
+        "Vrindavan, Krishna's forest, is traditionally linked with her name, though Gaudiya tradition also knows a separate forest-goddess Vrinda."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "bhasmasura",
+      "name": "Bhasmasura (Vrikasura)",
+      "devanagari": "भस्मासुर",
+      "aliases": [
+        "Vrikasura",
+        "Vrika",
+        "Bhasmasur"
+      ],
+      "category": "asura",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Asura who won from Shiva the power to destroy anyone by touching their head, and then tried to use it on Shiva himself. Vishnu tricked him into placing his hand on his own head — as a young brahmin student in the Bhagavata, and as the enchantress Mohini in popular retellings.",
+      "story": "Vrika, son of Shakuni, asked Narada which god was quickest to please and was told: Shiva. At Kedara he cut pieces of his own flesh and offered them into the fire; on the seventh day, as he was about to sever his head, Shiva rose from the flames and offered a boon. Vrika chose the power to kill anyone on whose head he laid his hand — and at once tried it on Shiva, meaning to carry off Parvati. Shiva fled to the ends of the world, pursued, until Vishnu came to meet the demon as a radiant young brahmachari. 'Why trust the word of Shiva, lord of ghosts, cursed by Daksha?' the boy asked sweetly. 'Test the boon on your own head.' Deluded, Vrika did so, and his head burst apart. The gods rained flowers, and Shiva was saved.",
+      "symbols": [
+        "hand laid upon the head",
+        "ashes"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Bhagavata Purana 10.88",
+        "Regional and popular retellings (Bhasmasura–Mohini episode)"
+      ],
+      "variations": [
+        "Bhagavata: the demon is Vrika, son of Shakuni (an asura, not the Gandhara prince), whose touch makes heads burst; Vishnu comes as a brahmachari.",
+        "In South Indian and popular retellings he is Bhasmasura, whose touch reduces to ash; Vishnu as Mohini lures him into a dance in which he copies her gesture of placing a hand on the head.",
+        "Some Kerala retellings set the union of Shiva and Mohini that produced Ayyappa just after this episode."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "tripurasura",
+      "name": "Tripurasura (the Three Cities' lords)",
+      "devanagari": "त्रिपुरासुर",
+      "aliases": [
+        "Tripura",
+        "Tripurasuras",
+        "Tarakaksha",
+        "Kamalaksha",
+        "Vidyunmali",
+        "Lords of the three cities"
+      ],
+      "category": "asura",
+      "era": "later-vedic",
+      "group": true,
+      "description": "Collective node for the three asura brothers Tarakaksha, Kamalaksha and Vidyunmali, sons of Tarakasura, who ruled three flying cities of gold, silver and iron built by Maya. Their destruction by a single arrow of Shiva, the Tripura-dahana, earned him the name Tripurantaka; the core of the myth already appears in the Vedic Brahmanas.",
+      "story": "After Taraka's death his three sons performed austerities and asked Brahma for immortality; refused, they asked instead for three cities that would come into line only once in a thousand years and could be destroyed only then, by a single arrow. Maya built them fortresses of gold in heaven, silver in the sky and iron on earth, and the brothers, devout worshippers of Shiva, at first ruled well — until pride corrupted them and they oppressed the worlds. The gods fashioned for Shiva a cosmic chariot: the earth its body, sun and moon its wheels, Brahma its charioteer, Mount Meru the bow, the serpent Vasuki the bowstring, and Vishnu himself the arrow, with Agni at its tip. When the three cities aligned, Shiva loosed a single shaft and burned them to ashes.",
+      "symbols": [
+        "three flying cities of gold, silver and iron"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Tripura, the three cities in heaven, sky and earth",
+      "sources": [
+        "Taittiriya Samhita 6.2.3",
+        "Shatapatha Brahmana",
+        "Aitareya Brahmana",
+        "Mahabharata, Karna Parva",
+        "Shiva Purana, Rudra Samhita, Yuddha Khanda",
+        "Matsya Purana",
+        "Linga Purana"
+      ],
+      "variations": [
+        "In the Vedic Brahmanas the asuras' three forts of iron, silver and gold are destroyed with an arrow made of Agni, Soma and Vishnu, shot by Rudra; the named brothers and Shiva's lone arrow appear from the Mahabharata onward.",
+        "Shiva Purana: because the brothers were devout Shaivas, Vishnu first created a heretical teacher who led them away from Vedic and Shaiva worship; only then could Shiva strike.",
+        "Matsya Purana centres the story on Maya, the architect, whom Shiva spares.",
+        "Later tradition says Shiva's chariot broke down because he had not first worshipped Ganesha."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "gayasura",
+      "name": "Gayasura",
+      "devanagari": "गयासुर",
+      "aliases": [
+        "Gaya",
+        "Gayasur"
+      ],
+      "category": "asura",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Pious, giant asura devoted to Vishnu, whose austerities made his body so holy that all who saw or touched him were liberated, emptying the realm of Yama. When he lay down to give his body for Brahma's sacrifice, Vishnu held him still beneath a sacred stone; the place became Gaya in Bihar, the foremost site of offerings to the ancestors.",
+      "story": "Gaya, a giant asura devoted to Vishnu, performed austerities so fierce that the gods trembled. Vishnu granted his wish: his body became holier than every tirtha, so that all who touched or beheld him went straight to heaven, and Yama's realm stood empty. At Vishnu's counsel Brahma asked Gaya for his pure body as the ground for a great sacrifice, and Gaya lay down gladly. Even after the rite his body kept quivering. The gods set a great stone, the Dharmashila, upon him, and still he moved; at last Vishnu himself stood upon it as Gadadhara, the mace-bearer, together with the other gods. Gaya grew still and asked only that they remain there forever and that pinda offerings made on that spot should liberate the ancestors. So Gaya became the holiest place of shraddha, and Vishnu's footprint is worshipped there at the Vishnupada temple.",
+      "symbols": [
+        "Dharmashila stone",
+        "Vishnu's footprint (Vishnupada)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Gaya (Kikata), Bihar",
+      "sources": [
+        "Vayu Purana, Gaya Mahatmya",
+        "Agni Purana (Gaya Mahatmya)"
+      ],
+      "variations": [
+        "Vayu Purana: Vishnu subdues but does not kill Gaya; he lies forever beneath the site, which his body sanctifies.",
+        "Popular retellings say Vishnu pressed him down into the netherworld with his foot, or killed him with his mace.",
+        "Some scholars read the myth as the Brahmanical absorption of an older, possibly Buddhist or local, pilgrimage centre."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "rambha-asura",
+      "name": "Rambha (father of Mahishasura)",
+      "devanagari": "रम्भ",
+      "aliases": [
+        "Rambhasura",
+        "Rambha the danava"
+      ],
+      "category": "asura",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Danava, son of Danu and brother of Karambha, who became the father of Mahishasura through union with a she-buffalo. His story, told in the Vamana and Devi Bhagavata Puranas, explains the buffalo-demon's origin; he is distinct from the apsara Rambha.",
+      "story": "Rambha and his brother Karambha, sons of Danu, longed for mighty sons and began austerities — Karambha standing in the waters of the Panchanada, Rambha amid fires. Indra, taking the form of a crocodile, seized Karambha by the feet and killed him. Grief-stricken, Rambha resolved to cut off his own head as an offering into the fire, but Agni appeared, restrained him and granted him a son who would be unconquerable and able to take any form at will. Returning home, Rambha saw a beautiful she-buffalo and desired her, and from their union Mahisha was born. Soon afterwards a jealous buffalo gored Rambha to death, and as his body burned on the pyre the grieving she-buffalo entered the flames. Accounts differ on what followed: in some Mahisha himself emerges from the pyre, in others a fierce warrior rises from it.",
+      "symbols": [],
+      "weapons": [],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Vamana Purana",
+        "Devi Bhagavata Purana, Skandha 5"
+      ],
+      "variations": [
+        "The Vamana Purana and Devi Bhagavata differ on whether Mahisha was born directly of the she-buffalo or emerged from Rambha's funeral pyre.",
+        "The Vamana Purana is said to make Raktabija arise from Rambha's pyre.",
+        "The Devi Bhagavata names Agni as the giver of his boon; retellings vary."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "mahishi",
+      "name": "Mahishi",
+      "devanagari": "महिषी",
+      "aliases": [
+        "Mahishi the buffalo-demoness",
+        "Leela (in her previous birth)"
+      ],
+      "category": "asura",
+      "era": "late-puranas",
+      "group": false,
+      "description": "Buffalo-headed demoness of Kerala's Sabarimala tradition who sought to avenge Mahishasura and won a boon that only a son born of Shiva and Vishnu could kill her. She was slain by the child-hero Ayyappa (Manikandan); her story is regional and attested in late texts and temple lore.",
+      "story": "After the Goddess slew Mahishasura, his kinswoman Mahishi performed severe austerities to Brahma and obtained a boon: none could kill her but a son born of Shiva and Vishnu — an impossibility, she thought. She overran heaven and tormented the gods. But when Vishnu took the enchanting form of Mohini, a child was born of her union with Shiva: Hariharaputra, left by the Pampa river with a bell around his neck and raised by the king of Pandalam as Manikandan. Journeying through the forest as a boy of twelve, he met Mahishi, fought her and threw her down, dancing upon her body until she died on the banks of the Azhutha river. From the demon's form emerged a beautiful woman, freed from a curse, who asked to marry him; bound by celibacy, he instead gave her a place beside his shrine as Malikappurathamma.",
+      "symbols": [
+        "buffalo head"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Forests of the Western Ghats around Sabarimala",
+      "sources": [
+        "Bhutanatha Upakhyanam (Kerala Sanskrit text)",
+        "Sabarimala temple and oral traditions"
+      ],
+      "variations": [
+        "Kerala tellings variously make her Mahishasura's sister, his cousin (a daughter of Karambha) or his widow.",
+        "In her previous life she was Leela, wife of the sage Dattatreya, cursed by him to be born as a buffalo-demoness; freed by Ayyappa, she became Malikappurathamma.",
+        "She does not appear in the pan-Indian Sanskrit Puranas; the story is a regional Kerala tradition."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "jaya",
+      "name": "Jaya",
+      "devanagari": "जय",
+      "aliases": [
+        "Jaya the dvarapala",
+        "Doorkeeper of Vaikuntha"
+      ],
+      "category": "celestial",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "One of the two gatekeepers (dvarapalas) of Vishnu's Vaikuntha, with his brother Vijaya. Cursed by the four Kumaras for barring their way, he was born three times as a great enemy of Vishnu, returning to his post after being slain by Vishnu's avatars.",
+      "story": "The four Kumaras, eternal sages who look like small boys, passed through six gates of Vaikuntha to see Vishnu. At the seventh, the doorkeepers Jaya and Vijaya, mistaking them for mere naked children, barred their way with their staffs. Angered that such pride could exist even in Vaikuntha, the sages cursed them to fall into births in the world where lust, anger and greed prevail. Vishnu himself hurried to the gate with Lakshmi, honoured the sages and accepted the curse as his own will, assuring the brothers they would soon return. Tradition adds that he offered them a choice — seven births as his devotees or three as his enemies — and, unable to bear long separation, they chose enmity. So they were born as Hiranyakashipu and Hiranyaksha, then Ravana and Kumbhakarna, then Shishupala and Dantavakra.",
+      "symbols": [
+        "mace (gada)",
+        "doorkeeper's stance"
+      ],
+      "weapons": [
+        "mace"
+      ],
+      "vahana": null,
+      "abode": "Vaikuntha",
+      "sources": [
+        "Bhagavata Purana 3.15–16",
+        "Bhagavata Purana 7.1"
+      ],
+      "variations": [
+        "Bhagavata 7.1 assigns the three births to the pair without saying which brother became which; one common mapping gives Jaya the elder roles (Hiranyakashipu, Ravana, Shishupala), but other retellings reverse it.",
+        "The choice between seven births as devotees and three as enemies is a popular elaboration not found in the Bhagavata.",
+        "Images of the pair guard the sanctum doors of South Indian Vishnu temples."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "vijaya",
+      "name": "Vijaya",
+      "devanagari": "विजय",
+      "aliases": [
+        "Vijaya the dvarapala",
+        "Doorkeeper of Vaikuntha"
+      ],
+      "category": "celestial",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Brother of Jaya and co-gatekeeper of Vishnu's Vaikuntha. Under the Kumaras' curse he passed through three demonic births, each ended by an avatar of Vishnu, and then returned to his post.",
+      "story": "In the mapping that makes him the younger of each pair, Vijaya's first birth was as Hiranyaksha, who dragged the earth into the cosmic waters and was slain by Varaha, while his brother as Hiranyakashipu died at the claws of Narasimha. Reborn in the Treta age as Kumbhakarna, Ravana's giant brother, he slept for months on end and fell to Rama's arrows at Lanka. In the Dvapara age he came as Dantavakra, ally of Shishupala, and was killed by Krishna with his mace. In the Bhagavata, Narada tells Yudhishthira that by fixing their minds on Vishnu with unbroken hatred, the brothers thought of him as constantly as any devotee, and so each death at his hands was a liberation; after the third life they returned to the gates of Vaikuntha. Narada tells the story to explain how Shishupala, who reviled Krishna, could merge into him at death.",
+      "symbols": [
+        "mace (gada)",
+        "doorkeeper's stance"
+      ],
+      "weapons": [
+        "mace"
+      ],
+      "vahana": null,
+      "abode": "Vaikuntha",
+      "sources": [
+        "Bhagavata Purana 3.15–16",
+        "Bhagavata Purana 7.1"
+      ],
+      "variations": [
+        "Which brother took which birth is not specified in the Bhagavata; some retellings make Vijaya Hiranyakashipu, Ravana and Shishupala instead.",
+        "Dantavakra (Vijaya's third birth in the common mapping) is killed by Krishna in the Bhagavata's tenth book."
+      ],
+      "disputed": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "durga",
+      "target": "mahishasura",
+      "type": "slayer",
+      "label": "The Goddess (Durga/Chandika) pinned Mahishasura under her foot, pierced him with her trident and beheaded him (Devi Mahatmya)"
+    },
+    {
+      "source": "kartikeya",
+      "target": "mahishasura",
+      "type": "slayer",
+      "label": "In the Mahabharata's Vana Parva, Skanda killed Mahisha with his spear",
+      "variation": "The older epic account; the Devi Mahatmya transfers the deed to the Goddess."
+    },
+    {
+      "source": "katyayani",
+      "target": "mahishasura",
+      "type": "slayer",
+      "label": "The Vamana Purana names the slayer of Mahisha Katyayani, born of the gods' radiance at Katyayana's hermitage",
+      "variation": "Katyayani is identified with Durga as Mahishasuramardini."
+    },
+    {
+      "source": "rambha-asura",
+      "target": "mahishasura",
+      "type": "parent",
+      "label": "Rambha fathered Mahisha on a she-buffalo (Vamana Purana, Devi Bhagavata)"
+    },
+    {
+      "source": "brahma",
+      "target": "mahishasura",
+      "type": "boon",
+      "label": "Brahma granted Mahisha invulnerability against every male, so only a woman could kill him (Devi Bhagavata)"
+    },
+    {
+      "source": "mahishasura",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Mahishasura defeated Indra and usurped the throne of heaven"
+    },
+    {
+      "source": "mahishasura",
+      "target": "mahishi",
+      "type": "sibling",
+      "label": "In Kerala tradition Mahishi is Mahishasura's sister and avenger",
+      "disputed": true,
+      "variation": "Other Kerala tellings make her his cousin (daughter of Karambha) or his widow."
+    },
+    {
+      "source": "mahishasura",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "The Kalika Purana makes Mahisha a devotee of Shiva who asks to stay forever at the Goddess's feet",
+      "disputed": true,
+      "variation": "Found in the Kalika Purana and regional tradition, not the Devi Mahatmya."
+    },
+    {
+      "source": "kaushiki",
+      "target": "shumbha",
+      "type": "slayer",
+      "label": "Kaushiki (Ambika), who emerged from Parvati's body, slew Shumbha in single combat, piercing his chest"
+    },
+    {
+      "source": "durga",
+      "target": "shumbha",
+      "type": "slayer",
+      "label": "Shumbha's slayer, called Ambika and Chandika in the Devi Mahatmya, is worshipped as Durga",
+      "variation": "The Devi Mahatmya's goddess is identified with Durga in later tradition."
+    },
+    {
+      "source": "kaushiki",
+      "target": "nishumbha",
+      "type": "slayer",
+      "label": "Kaushiki pierced Nishumbha's heart and beheaded the being that emerged from it"
+    },
+    {
+      "source": "durga",
+      "target": "nishumbha",
+      "type": "slayer",
+      "label": "Nishumbha fell to the Goddess of the Devi Mahatmya, worshipped as Durga",
+      "variation": "The Devi Mahatmya calls her Ambika, Chandika and Devi."
+    },
+    {
+      "source": "shumbha",
+      "target": "nishumbha",
+      "type": "sibling",
+      "label": "Shumbha and Nishumbha were brothers and joint rulers of the asuras"
+    },
+    {
+      "source": "brahma",
+      "target": "shumbha",
+      "type": "boon",
+      "label": "Brahma made Shumbha invulnerable to gods, men and beasts — but not to women (Devi Bhagavata)"
+    },
+    {
+      "source": "brahma",
+      "target": "nishumbha",
+      "type": "boon",
+      "label": "Brahma's boon left Nishumbha vulnerable only to a woman (Devi Bhagavata)"
+    },
+    {
+      "source": "shumbha",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Shumbha and Nishumbha seized Indra's realm and the gods' sacrificial shares"
+    },
+    {
+      "source": "matrikas",
+      "target": "shumbha",
+      "type": "enemy",
+      "label": "The Matrikas fought Shumbha's armies before merging back into the Goddess"
+    },
+    {
+      "source": "chanda",
+      "target": "shumbha",
+      "type": "ally",
+      "label": "Chanda was Shumbha's servant and general, who first reported the Goddess's beauty"
+    },
+    {
+      "source": "munda",
+      "target": "shumbha",
+      "type": "ally",
+      "label": "Munda was Shumbha's servant and general, who urged him to claim the Goddess"
+    },
+    {
+      "source": "raktabija",
+      "target": "shumbha",
+      "type": "ally",
+      "label": "Raktabija was a great general in Shumbha's army"
+    },
+    {
+      "source": "dhumralochana",
+      "target": "shumbha",
+      "type": "ally",
+      "label": "Dhumralochana was the first general Shumbha sent to seize the Goddess"
+    },
+    {
+      "source": "kali",
+      "target": "chanda",
+      "type": "slayer",
+      "label": "Kali, sprung from the Goddess's brow, seized Chanda by the hair and beheaded him"
+    },
+    {
+      "source": "kali",
+      "target": "munda",
+      "type": "slayer",
+      "label": "Kali cut down Munda after beheading Chanda"
+    },
+    {
+      "source": "chamunda",
+      "target": "chanda",
+      "type": "slayer",
+      "label": "Kali earned the name Chamunda by slaying Chanda and Munda"
+    },
+    {
+      "source": "chamunda",
+      "target": "munda",
+      "type": "slayer",
+      "label": "Kali earned the name Chamunda by slaying Chanda and Munda"
+    },
+    {
+      "source": "chanda",
+      "target": "munda",
+      "type": "sibling",
+      "label": "Chanda and Munda are paired generals, called brothers in popular tradition",
+      "disputed": true,
+      "variation": "The Devi Mahatmya pairs them without stating kinship."
+    },
+    {
+      "source": "chanda",
+      "target": "kaushiki",
+      "type": "enemy",
+      "label": "Chanda and Munda led an army to seize the Goddess by force"
+    },
+    {
+      "source": "munda",
+      "target": "kaushiki",
+      "type": "enemy",
+      "label": "Munda praised the Goddess to Shumbha and then marched to capture her"
+    },
+    {
+      "source": "kali",
+      "target": "raktabija",
+      "type": "slayer",
+      "label": "Kali, as Chamunda, drank every drop of Raktabija's blood so that no new demons could spring from it"
+    },
+    {
+      "source": "kaushiki",
+      "target": "raktabija",
+      "type": "slayer",
+      "label": "Chandika struck Raktabija down with spear and sword while Kali drank his blood"
+    },
+    {
+      "source": "matrikas",
+      "target": "raktabija",
+      "type": "enemy",
+      "label": "The Matrikas wounded Raktabija, but each drop of his blood produced a double"
+    },
+    {
+      "source": "kaushiki",
+      "target": "dhumralochana",
+      "type": "slayer",
+      "label": "The Goddess burnt Dhumralochana to ashes with the mere sound 'hum'"
+    },
+    {
+      "source": "shakambhari",
+      "target": "durgamasura",
+      "type": "slayer",
+      "label": "The Goddess as Shakambhari/Shatakshi fed the starving world and slew Durgama with her arrows (Devi Bhagavata)"
+    },
+    {
+      "source": "durga",
+      "target": "durgamasura",
+      "type": "slayer",
+      "label": "By slaying Durgama the Goddess became known as Durga (Devi Mahatmya 11)"
+    },
+    {
+      "source": "brahma",
+      "target": "durgamasura",
+      "type": "boon",
+      "label": "Brahma granted Durgama possession of the Vedas, bringing sacrifice and rain to an end"
+    },
+    {
+      "source": "durgamasura",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Deprived of Vedic offerings, Indra and the gods were powerless before Durgama"
+    },
+    {
+      "source": "bhramari",
+      "target": "arunasura",
+      "type": "slayer",
+      "label": "The Goddess as Bhramari sent forth swarms of bees that tore Aruna and his army apart"
+    },
+    {
+      "source": "brahma",
+      "target": "arunasura",
+      "type": "boon",
+      "label": "Brahma made Aruna immune to weapons, men, women and all two- and four-legged beings"
+    },
+    {
+      "source": "brihaspati",
+      "target": "arunasura",
+      "type": "enemy",
+      "label": "Brihaspati persuaded Aruna to abandon the Gayatri, the source of his power"
+    },
+    {
+      "source": "arunasura",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Aruna drove Indra and the gods from heaven"
+    },
+    {
+      "source": "kartikeya",
+      "target": "tarakasura",
+      "type": "slayer",
+      "label": "Kartikeya, the son of Shiva, killed Taraka with his spear"
+    },
+    {
+      "source": "brahma",
+      "target": "tarakasura",
+      "type": "boon",
+      "label": "Brahma granted Taraka that only a son of Shiva could kill him",
+      "variation": "Matsya Purana: only a seven-day-old child could kill him."
+    },
+    {
+      "source": "tarakasura",
+      "target": "tripurasura",
+      "type": "parent",
+      "label": "Taraka was the father of the Tripura brothers Tarakaksha, Kamalaksha and Vidyunmali"
+    },
+    {
+      "source": "diti",
+      "target": "tarakasura",
+      "type": "ancestor-of",
+      "label": "Taraka was Diti's grandson through her son Vajranga (Shiva Purana)"
+    },
+    {
+      "source": "tarakasura",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Taraka conquered heaven and made the gods his servants"
+    },
+    {
+      "source": "tarakasura",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Andhra tradition says Taraka wore a Shiva linga, whose shattered pieces are worshipped at the Pancharama shrines",
+      "disputed": true,
+      "variation": "Regional (Andhra) tradition."
+    },
+    {
+      "source": "shiva",
+      "target": "andhaka",
+      "type": "slayer",
+      "label": "Shiva impaled Andhaka on his trident and held him aloft until he was purged of sin",
+      "variation": "In most versions Andhaka is not killed but redeemed and made a gana (Bhringi)."
+    },
+    {
+      "source": "andhaka",
+      "target": "shiva",
+      "type": "created-by",
+      "label": "Andhaka was born from Shiva's sweat when Parvati playfully covered his eyes (Shiva Purana)",
+      "variation": "Matsya, Kurma and Vamana Puranas make him Hiranyaksha's own son."
+    },
+    {
+      "source": "andhaka",
+      "target": "parvati",
+      "type": "created-by",
+      "label": "Parvati's touch on Shiva's eyes brought Andhaka into being, so she is his mother (Shiva Purana)",
+      "variation": "Matsya, Kurma and Vamana Puranas make him Hiranyaksha's own son."
+    },
+    {
+      "source": "hiranyaksha",
+      "target": "andhaka",
+      "type": "parent",
+      "label": "Hiranyaksha raised Andhaka as his son — adopted from Shiva in the Shiva Purana, his natural son in other Puranas"
+    },
+    {
+      "source": "brahma",
+      "target": "andhaka",
+      "type": "boon",
+      "label": "Brahma's boon made Andhaka nearly invincible"
+    },
+    {
+      "source": "andhaka",
+      "target": "parvati",
+      "type": "enemy",
+      "label": "Andhaka lusted after Parvati, not knowing she was his mother, and made war to seize her"
+    },
+    {
+      "source": "shukracharya",
+      "target": "andhaka",
+      "type": "ally",
+      "label": "Shukracharya revived Andhaka's fallen asuras with his secret lore until Shiva swallowed him"
+    },
+    {
+      "source": "nandi",
+      "target": "andhaka",
+      "type": "enemy",
+      "label": "Nandi fought Andhaka's forces and carried Shukracharya off to Shiva"
+    },
+    {
+      "source": "matrikas",
+      "target": "andhaka",
+      "type": "enemy",
+      "label": "In the Matsya Purana Shiva emanated the Matrikas to drink Andhaka's multiplying blood"
+    },
+    {
+      "source": "bhringi",
+      "target": "andhaka",
+      "type": "form-of",
+      "label": "The redeemed Andhaka became Shiva's emaciated gana Bhringi",
+      "disputed": true,
+      "variation": "Elsewhere Bhringi is an independent sage who worshipped Shiva alone."
+    },
+    {
+      "source": "andhaka",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Impaled and purified, Andhaka praised Shiva and became his devoted gana"
+    },
+    {
+      "source": "shiva",
+      "target": "jalandhara",
+      "type": "slayer",
+      "label": "Shiva beheaded Jalandhara with his discus once Vrinda's fidelity was broken"
+    },
+    {
+      "source": "jalandhara",
+      "target": "shiva",
+      "type": "created-by",
+      "label": "Jalandhara was born from the fire of Shiva's third eye, cast into the ocean"
+    },
+    {
+      "source": "jalandhara",
+      "target": "vrinda",
+      "type": "spouse",
+      "label": "Jalandhara's invincibility rested on the fidelity of his wife Vrinda"
+    },
+    {
+      "source": "shukracharya",
+      "target": "jalandhara",
+      "type": "guru",
+      "label": "Shukracharya crowned Jalandhara king of the asuras and served as his preceptor"
+    },
+    {
+      "source": "jalandhara",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Jalandhara conquered heaven to avenge the gods' churning of his father, the Ocean"
+    },
+    {
+      "source": "jalandhara",
+      "target": "vishnu",
+      "type": "enemy",
+      "label": "Jalandhara fought Vishnu, who spared him at Lakshmi's plea and later deceived his wife"
+    },
+    {
+      "source": "jalandhara",
+      "target": "lakshmi",
+      "type": "sibling",
+      "label": "Both born of the ocean, Lakshmi regarded Jalandhara as her brother",
+      "disputed": true,
+      "variation": "Kinship through their common origin in the ocean (Shiva Purana)."
+    },
+    {
+      "source": "rahu",
+      "target": "jalandhara",
+      "type": "ally",
+      "label": "Rahu carried Jalandhara's demand for Parvati to Shiva"
+    },
+    {
+      "source": "jalandhara",
+      "target": "parvati",
+      "type": "enemy",
+      "label": "Jalandhara coveted Parvati and approached her disguised as Shiva"
+    },
+    {
+      "source": "vrinda",
+      "target": "vishnu",
+      "type": "curse",
+      "label": "Deceived by Vishnu, Vrinda cursed him — to lose his wife as Rama (Shiva Purana), or to become the Shaligram stone (popular tradition)",
+      "variation": "The Shaligram curse comes from the parallel Tulasi–Shankhachuda story (Brahmavaivarta, Devi Bhagavata)."
+    },
+    {
+      "source": "kalanemi",
+      "target": "vrinda",
+      "type": "parent",
+      "label": "Vrinda was the daughter of the asura Kalanemi (Shiva Purana)",
+      "variation": "In the Tulasi version she is the daughter of King Dharmadhvaja."
+    },
+    {
+      "source": "vishnu",
+      "target": "vrinda",
+      "type": "spouse",
+      "label": "As Tulasi she is ritually wedded to Vishnu, as Shaligram, in the annual Tulasi Vivah",
+      "disputed": true,
+      "variation": "Ritual and later Puranic tradition; some celebrate her marriage to Krishna."
+    },
+    {
+      "source": "vrinda",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "As the Tulasi plant she is held dearest to Vishnu; no offering to him is complete without her leaves",
+      "variation": "In the Brahmavaivarta, Tulasi performs austerities to win Narayana as husband."
+    },
+    {
+      "source": "vrinda",
+      "target": "lakshmi",
+      "type": "form-of",
+      "label": "The Brahmavaivarta and Devi Bhagavata call Tulasi a partial manifestation of Lakshmi",
+      "disputed": true,
+      "variation": "Applies to the Tulasi–Shankhachuda version, which tradition merges with Vrinda's."
+    },
+    {
+      "source": "shiva",
+      "target": "bhasmasura",
+      "type": "boon",
+      "label": "Shiva granted Vrika the power to kill anyone on whose head he laid his hand"
+    },
+    {
+      "source": "bhasmasura",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Vrika propitiated Shiva by offering his own flesh into the fire at Kedara"
+    },
+    {
+      "source": "vishnu",
+      "target": "bhasmasura",
+      "type": "slayer",
+      "label": "Vishnu, as a young brahmachari, tricked Vrika into touching his own head, which burst apart (Bhagavata 10.88)"
+    },
+    {
+      "source": "mohini",
+      "target": "bhasmasura",
+      "type": "slayer",
+      "label": "As Mohini, Vishnu lured Bhasmasura into a dance in which he placed his hand on his own head and burned to ash",
+      "disputed": true,
+      "variation": "Popular and South Indian retellings; the Bhagavata has Vishnu appear as a brahmin boy."
+    },
+    {
+      "source": "bhasmasura",
+      "target": "shiva",
+      "type": "enemy",
+      "label": "Bhasmasura turned his boon on Shiva himself, chasing him across the worlds to seize Parvati"
+    },
+    {
+      "source": "shiva",
+      "target": "tripurasura",
+      "type": "slayer",
+      "label": "Shiva as Tripurantaka burned the three cities and their lords with a single arrow"
+    },
+    {
+      "source": "rudra",
+      "target": "tripurasura",
+      "type": "slayer",
+      "label": "In the Taittiriya Samhita, Rudra shot the arrow that destroyed the asuras' three forts",
+      "variation": "Vedic version: the arrow is made of Agni, Soma and Vishnu; the named brothers appear later."
+    },
+    {
+      "source": "brahma",
+      "target": "tripurasura",
+      "type": "boon",
+      "label": "Brahma granted the brothers three cities that could be destroyed only by one arrow when they aligned"
+    },
+    {
+      "source": "maya",
+      "target": "tripurasura",
+      "type": "ally",
+      "label": "Maya, architect of the asuras, built the three cities of gold, silver and iron"
+    },
+    {
+      "source": "tripurasura",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "The Tripura brothers were devout worshippers of Shiva until they were led astray (Shiva Purana)"
+    },
+    {
+      "source": "vishnu",
+      "target": "tripurasura",
+      "type": "enemy",
+      "label": "Vishnu became Shiva's arrow and, in the Shiva Purana, sent a heretical teacher to lead the brothers from dharma"
+    },
+    {
+      "source": "vishnu",
+      "target": "gayasura",
+      "type": "slayer",
+      "label": "Vishnu as Gadadhara stood on the stone over Gaya and held him still forever — a subjugation, not a killing, in the Vayu Purana",
+      "disputed": true,
+      "variation": "Popular retellings say Vishnu pushed him into the netherworld or killed him with his mace."
+    },
+    {
+      "source": "vishnu",
+      "target": "gayasura",
+      "type": "boon",
+      "label": "Vishnu made Gaya's body holier than all tirthas and granted that offerings at Gaya liberate the ancestors"
+    },
+    {
+      "source": "gayasura",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Gaya was a great devotee of Vishnu"
+    },
+    {
+      "source": "yama",
+      "target": "gayasura",
+      "type": "enemy",
+      "label": "Yama protested that Gaya's liberating holiness had emptied his realm"
+    },
+    {
+      "source": "gayasura",
+      "target": "brahma",
+      "type": "ally",
+      "label": "Gaya gladly gave his body as the ground for Brahma's sacrifice"
+    },
+    {
+      "source": "danu",
+      "target": "rambha-asura",
+      "type": "parent",
+      "label": "Rambha and Karambha were sons of Danu (Devi Bhagavata)"
+    },
+    {
+      "source": "agni",
+      "target": "rambha-asura",
+      "type": "boon",
+      "label": "Agni stopped Rambha's self-sacrifice and granted him an invincible, shape-shifting son (Devi Bhagavata)"
+    },
+    {
+      "source": "indra",
+      "target": "rambha-asura",
+      "type": "enemy",
+      "label": "Indra, as a crocodile, killed Rambha's brother Karambha during his austerities"
+    },
+    {
+      "source": "ayyappa",
+      "target": "mahishi",
+      "type": "slayer",
+      "label": "Ayyappa (Manikandan), son of Shiva and Mohini, overthrew Mahishi and danced upon her body",
+      "disputed": true,
+      "variation": "Kerala regional tradition (Bhutanatha Upakhyanam, Sabarimala lore)."
+    },
+    {
+      "source": "brahma",
+      "target": "mahishi",
+      "type": "boon",
+      "label": "Brahma granted Mahishi that only a son born of Shiva and Vishnu could kill her",
+      "disputed": true,
+      "variation": "Kerala regional tradition."
+    },
+    {
+      "source": "dattatreya",
+      "target": "mahishi",
+      "type": "curse",
+      "label": "Dattatreya cursed his wife Leela to be born as the buffalo-demoness Mahishi",
+      "disputed": true,
+      "variation": "Sabarimala tradition; freed by Ayyappa she became Malikappurathamma."
+    },
+    {
+      "source": "kumaras",
+      "target": "jaya",
+      "type": "curse",
+      "label": "The four Kumaras cursed Jaya to be born among the asuras for barring them from Vaikuntha"
+    },
+    {
+      "source": "kumaras",
+      "target": "vijaya",
+      "type": "curse",
+      "label": "The four Kumaras cursed Vijaya to be born among the asuras for barring them from Vaikuntha"
+    },
+    {
+      "source": "jaya",
+      "target": "vijaya",
+      "type": "sibling",
+      "label": "Jaya and Vijaya are brothers and joint doorkeepers of Vaikuntha"
+    },
+    {
+      "source": "jaya",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Jaya is Vishnu's gatekeeper and devotee, who chose enmity to return to him quickly"
+    },
+    {
+      "source": "vijaya",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Vijaya is Vishnu's gatekeeper and devotee, who returned to him after three births"
+    },
+    {
+      "source": "hiranyakashipu",
+      "target": "jaya",
+      "type": "reincarnation-of",
+      "label": "Hiranyakashipu was the first birth of Jaya (Bhagavata 7.1)",
+      "disputed": true,
+      "variation": "The Bhagavata names the pair without assigning individual births; some retellings make Hiranyakashipu Vijaya."
+    },
+    {
+      "source": "ravana",
+      "target": "jaya",
+      "type": "reincarnation-of",
+      "label": "Ravana was the second birth of Jaya (Bhagavata 7.1)",
+      "disputed": true,
+      "variation": "Individual mapping is conventional; some retellings make Ravana Vijaya."
+    },
+    {
+      "source": "shishupala",
+      "target": "jaya",
+      "type": "reincarnation-of",
+      "label": "Shishupala was the third birth of Jaya (Bhagavata 7.1)",
+      "disputed": true,
+      "variation": "Individual mapping is conventional; Dantavakra is the other brother's third birth."
+    },
+    {
+      "source": "hiranyaksha",
+      "target": "vijaya",
+      "type": "reincarnation-of",
+      "label": "Hiranyaksha was the first birth of Vijaya (Bhagavata 7.1)",
+      "disputed": true,
+      "variation": "The Bhagavata names the pair without assigning individual births; some retellings make Hiranyaksha Jaya."
+    },
+    {
+      "source": "kumbhakarna",
+      "target": "vijaya",
+      "type": "reincarnation-of",
+      "label": "Kumbhakarna was the second birth of Vijaya (Bhagavata 7.1)",
+      "disputed": true,
+      "variation": "Individual mapping is conventional; some retellings make Kumbhakarna Jaya."
+    }
+  ]
+}

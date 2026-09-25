@@ -1,0 +1,2332 @@
+{
+  "section": "05-avatars",
+  "nodes": [
+    {
+      "id": "matsya",
+      "name": "Matsya",
+      "devanagari": "मत्स्य",
+      "aliases": [
+        "The Fish",
+        "Matsyavatara",
+        "Shaphari"
+      ],
+      "category": "avatar",
+      "era": "later-vedic",
+      "group": false,
+      "description": "The fish incarnation, first of the ten Dashavatara, who rescues Manu and the seeds of life from the cosmic deluge. The flood myth is first told in the Shatapatha Brahmana without naming Vishnu; the Puranas identify the fish with Vishnu.",
+      "story": "While Manu was washing his hands, a tiny fish swam into his palms and begged protection from the bigger fish. Manu kept it in a jar, then a pond, then the sea, and it grew beyond measure. The fish warned that a great flood would sweep away all creatures and told Manu to build a ship. When the waters rose, the fish appeared with a single horn; Manu tied the ship to it and was towed to a northern mountain until the flood receded. In the Puranic retelling the ship also carries the Seven Sages and the seeds of all life, and the fish, revealed as Vishnu, recovers the Vedas stolen by a demon and instructs Manu in dharma through the long night of dissolution.",
+      "symbols": [
+        "horned golden fish",
+        "lower body of a fish with four-armed upper body (iconography)",
+        "conch",
+        "discus"
+      ],
+      "weapons": [
+        "Sudarshana Chakra",
+        "Kaumodaki (mace)"
+      ],
+      "vahana": null,
+      "abode": "The cosmic ocean",
+      "sources": [
+        "Shatapatha Brahmana 1.8.1",
+        "Mahabharata 3.185",
+        "Matsya Purana 1–2",
+        "Bhagavata Purana 8.24",
+        "Agni Purana 2"
+      ],
+      "variations": [
+        "Shatapatha Brahmana: the fish is unnamed and not identified with any god.",
+        "Mahabharata 3.185: the fish reveals himself as Brahma Prajapati, not Vishnu.",
+        "Bhagavata Purana: the king is Satyavrata of Dravida, later Vaivasvata Manu; the fish slays the demon Hayagriva who stole the Vedas.",
+        "Some texts name the demon Shankhasura instead of Hayagriva."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kurma",
+      "name": "Kurma",
+      "devanagari": "कूर्म",
+      "aliases": [
+        "The Tortoise",
+        "Kurmavatara",
+        "Akupara",
+        "Kachchhapa"
+      ],
+      "category": "avatar",
+      "era": "later-vedic",
+      "group": false,
+      "description": "The tortoise incarnation, second of the Dashavatara, who bears Mount Mandara on his back during the churning of the Ocean of Milk. In the Brahmanas it is Prajapati who takes the form of a tortoise to create living beings.",
+      "story": "When the gods, weakened by a curse, allied with the asuras to churn the Ocean of Milk for the nectar of immortality, they uprooted Mount Mandara as the churning rod and wound the serpent Vasuki around it as the rope. But as they pulled, the mountain had no footing and began to sink into the depths. Vishnu then took the form of an immense tortoise, dived beneath the ocean and lifted the mountain on his shell, holding it steady like an island while gods and asuras hauled the serpent back and forth. Supported by the tortoise, the churning continued until treasures, poison, the goddess Lakshmi and at last the physician Dhanvantari with the pot of amrita rose from the waters.",
+      "symbols": [
+        "tortoise shell",
+        "Mount Mandara on its back",
+        "half-tortoise, four-armed iconography"
+      ],
+      "weapons": [
+        "Sudarshana Chakra",
+        "Kaumodaki (mace)"
+      ],
+      "vahana": null,
+      "abode": "The Ocean of Milk (Kshira Sagara)",
+      "sources": [
+        "Shatapatha Brahmana 7.5.1.5",
+        "Taittiriya Aranyaka 1.23",
+        "Valmiki Ramayana, Bala Kanda (churning of the ocean)",
+        "Bhagavata Purana 8.7",
+        "Kurma Purana"
+      ],
+      "variations": [
+        "Shatapatha Brahmana: Prajapati becomes a tortoise (kurma) to create offspring; the tortoise is equated with Kashyapa.",
+        "The Mahabharata's churning account has the tortoise-king Akupara support Mandara at the gods' request rather than Vishnu himself.",
+        "In the Kurma Purana, Kurma narrates the Purana to King Indradyumna and the sages."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "varaha",
+      "name": "Varaha",
+      "devanagari": "वराह",
+      "aliases": [
+        "The Boar",
+        "Yajna-Varaha",
+        "Adi-Varaha",
+        "Bhu-Varaha",
+        "Emusha"
+      ],
+      "category": "avatar",
+      "era": "later-vedic",
+      "group": false,
+      "description": "The boar incarnation, third of the Dashavatara, who raises the Earth goddess from the cosmic waters on his tusks. The Brahmanas attribute the feat to Prajapati as a boar (Emusha); the Puranas make Varaha Vishnu and add his combat with the daitya Hiranyaksha.",
+      "story": "The daitya Hiranyaksha, swollen with pride, dragged the Earth down into the depths of the cosmic ocean. Brahma, meditating on how creation could continue, saw a tiny boar emerge from his nostril, no larger than a thumb, which swelled in moments to the size of a mountain. Roaring so that the sages of the higher worlds chanted hymns in response, the boar plunged into the waters, found the Earth and lifted her gently on his tusks. Hiranyaksha barred his way and mocked him as a mere beast of the forest. A fierce duel of maces followed; at last Varaha struck the daitya down with a blow of his hand. He then set the Earth afloat upon the waters and restored her to her place.",
+      "symbols": [
+        "boar head",
+        "Bhudevi carried on the tusk or arm",
+        "conch",
+        "discus",
+        "lotus"
+      ],
+      "weapons": [
+        "Sudarshana Chakra",
+        "Kaumodaki (mace)",
+        "tusks"
+      ],
+      "vahana": null,
+      "abode": "Varaha-loka; the cosmic waters",
+      "sources": [
+        "Taittiriya Samhita 7.1.5",
+        "Shatapatha Brahmana 14.1.2.11",
+        "Vishnu Purana 1.4",
+        "Bhagavata Purana 3.13, 3.18–19",
+        "Varaha Purana"
+      ],
+      "variations": [
+        "Taittiriya Samhita and Shatapatha Brahmana: Prajapati as a boar (Emusha) raises the earth; no demon is involved.",
+        "Rig Veda 8.77 mentions a boar Emusha shot by Indra, a separate and older motif.",
+        "Early Puranas (e.g. Vishnu Purana 1.4) describe the rescue of Earth without the fight with Hiranyaksha, which is elaborated in the Bhagavata.",
+        "Several Puranas make Varaha and Bhudevi the parents of Narakasura."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "narasimha",
+      "name": "Narasimha",
+      "devanagari": "नरसिंह",
+      "aliases": [
+        "Man-Lion",
+        "Nrisimha",
+        "Narasingha",
+        "Ugra-Narasimha",
+        "Lakshmi-Narasimha"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The man-lion incarnation, fourth of the Dashavatara, who emerges from a pillar to slay the daitya king Hiranyakashipu and protect the child-devotee Prahlada. He is the fierce guardian of devotees and a major deity of Andhra and Karnataka temple traditions.",
+      "story": "Hiranyakashipu had won from Brahma a boon that he could be killed by no man or beast, neither by day nor night, neither indoors nor outdoors, neither on earth nor in the sky, by no weapon. Enraged that his son Prahlada worshipped Vishnu, he tried again and again to kill the boy, who survived poison, elephants, fire and serpents. At last, mocking him, the king asked whether Vishnu was present in a pillar of the hall and struck it. The pillar split and out burst Narasimha, neither man nor beast. At twilight, on the threshold of the palace, he laid the king across his lap and tore him apart with his claws. Only Prahlada's gentle praise could calm the man-lion's fury.",
+      "symbols": [
+        "lion head on a human body",
+        "claws",
+        "pillar",
+        "Lakshmi seated on the lap (Lakshmi-Narasimha)",
+        "yoga-patta (Yoga-Narasimha)"
+      ],
+      "weapons": [
+        "claws",
+        "Sudarshana Chakra",
+        "conch"
+      ],
+      "vahana": "Garuda",
+      "abode": "Ahobilam (temple tradition); Vaikuntha",
+      "sources": [
+        "Mahabharata (Vana and Shanti Parvas, avatar lists)",
+        "Harivamsha",
+        "Vishnu Purana 1.16–20",
+        "Bhagavata Purana 7.8–10",
+        "Taittiriya Aranyaka 10.1 (Narasimha Gayatri)",
+        "Narasimha Purana"
+      ],
+      "variations": [
+        "The Narasimha Gayatri in the Taittiriya Aranyaka (Mahanarayana Upanishad) may predate the epic accounts, though the passage's date is debated.",
+        "The loophole-boon motif parallels the Vedic tale of Indra slaying Namuchi at twilight with foam.",
+        "Shaiva texts (Linga and Shiva Puranas) say Shiva as Sharabha pacified the raging Narasimha; Vaishnava traditions reject this.",
+        "Temple traditions list nine forms at Ahobilam; the Andhra story of his marriage to the tribal girl Chenchu Lakshmi is regional."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "vamana",
+      "name": "Vamana",
+      "devanagari": "वामन",
+      "aliases": [
+        "Trivikrama",
+        "Upendra",
+        "Urukrama",
+        "The Dwarf"
+      ],
+      "category": "avatar",
+      "era": "later-vedic",
+      "group": false,
+      "description": "The dwarf incarnation, fifth of the Dashavatara, who begs three paces of land from the asura king Bali and then grows into Trivikrama, spanning the universe in three strides. The strides of Vishnu are celebrated already in the Rig Veda; the dwarf form first appears in the Shatapatha Brahmana.",
+      "story": "The generous asura king Bali had conquered the three worlds and driven the gods from heaven. Aditi prayed for help, and Vishnu was born to her and Kashyapa as a small brahmin boy. Vamana went to Bali's great sacrifice and asked only for as much land as he could cover in three steps. Bali's guru Shukracharya recognised the god and warned the king, but Bali, unwilling to break his word, poured the water of the gift. Instantly the dwarf grew to cosmic size: one stride covered the earth, a second the heavens, and there was no room left for the third. Bali bowed and offered his own head. Pleased by his integrity, Vishnu sent him to rule the netherworld of Sutala and promised to guard his gate.",
+      "symbols": [
+        "dwarf brahmin boy with umbrella",
+        "water-pot (kamandalu)",
+        "sacred thread",
+        "raised foot of Trivikrama"
+      ],
+      "weapons": [
+        "Sudarshana Chakra (as Trivikrama)",
+        "Kaumodaki (as Trivikrama)"
+      ],
+      "vahana": "Garuda",
+      "abode": "Siddhashrama (Ramayana); Sutala as Bali's guardian",
+      "sources": [
+        "Rig Veda 1.154",
+        "Rig Veda 1.22.16–21",
+        "Shatapatha Brahmana 1.2.5.1–9",
+        "Valmiki Ramayana, Bala Kanda (Siddhashrama)",
+        "Bhagavata Purana 8.15–23",
+        "Vamana Purana",
+        "Harivamsha"
+      ],
+      "variations": [
+        "Rig Veda: Vishnu's three strides measure the worlds, with no dwarf or Bali.",
+        "Shatapatha Brahmana: the gods, led by Vishnu as a dwarf, win from the asuras as much land as the dwarf can lie upon.",
+        "Folk and Puranic versions say Shukracharya, as a bee, blocked the spout of the water-vessel and lost an eye when Vamana pierced it with a blade of kusha grass.",
+        "In Kerala the festival of Onam celebrates Bali (Mahabali) returning annually to visit his people."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "parashurama",
+      "name": "Parashurama",
+      "devanagari": "परशुराम",
+      "aliases": [
+        "Rama Jamadagnya",
+        "Bhargava Rama",
+        "Rama with the Axe",
+        "Parashudhara"
+      ],
+      "category": "avatar",
+      "era": "ramayana",
+      "group": false,
+      "description": "The axe-wielding brahmin-warrior, sixth of the Dashavatara, son of the sage Jamadagni and Renuka, who rid the earth of tyrannical kshatriyas twenty-one times. A chiranjivi (immortal), he appears in both epics as the fierce teacher of warriors.",
+      "story": "The Haihaya king Kartavirya Arjuna, visiting Jamadagni's hermitage, carried off the sage's sacrificial calf by force. Parashurama, returning home, pursued the king, cut off his thousand arms with his axe and killed him. In revenge Kartavirya's sons came while Parashurama was away and slew the meditating Jamadagni. Seeing his mother beat her breast twenty-one times, Parashurama vowed to clear the earth of the kshatriya order twenty-one times over, and he filled five lakes at Samantapanchaka with their blood before offering the earth to the sage Kashyapa. In later ages he taught the arts of war to Bhishma, Drona and Karna, and in the Ramayana he challenged the young Rama with Vishnu's bow, only to recognise him and withdraw.",
+      "symbols": [
+        "axe (parashu) given by Shiva",
+        "matted hair",
+        "bow",
+        "ascetic's garb"
+      ],
+      "weapons": [
+        "Parashu (axe)",
+        "Vijaya bow",
+        "divine astras"
+      ],
+      "vahana": null,
+      "abode": "Mahendra mountain",
+      "sources": [
+        "Mahabharata 3.115–117",
+        "Mahabharata 12.48–49",
+        "Mahabharata, Udyoga Parva (Amba episode)",
+        "Valmiki Ramayana, Bala Kanda (encounter with Rama)",
+        "Bhagavata Purana 9.15–16",
+        "Brahmanda Purana"
+      ],
+      "variations": [
+        "In the epics he is a Bhargava hero whose divinity is partial; later theology calls him an avesha (empowered) avatar who coexists with Rama and Krishna.",
+        "Versions differ on whether Kartavirya himself or his sons stole the calf or the wish-fulfilling cow.",
+        "Kerala and Konkan traditions credit him with reclaiming their coastline from the sea by hurling his axe.",
+        "The Brahmanda Purana says he broke one of Ganesha's tusks when Ganesha barred his way to Shiva.",
+        "The Kalki Purana makes him Kalki's teacher."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "buddha",
+      "name": "Buddha (as avatar)",
+      "devanagari": "बुद्ध",
+      "aliases": [
+        "Buddhavatara",
+        "Shakyamuni",
+        "Gautama",
+        "Mayamoha (related figure)"
+      ],
+      "category": "avatar",
+      "era": "early-puranas",
+      "group": false,
+      "description": "The historical founder of Buddhism, Siddhartha Gautama, was incorporated into some Vaishnava lists as the ninth avatar of Vishnu. Puranic portrayals vary sharply, from a deluder of the demons to the compassionate teacher of non-violence praised by Jayadeva.",
+      "story": "The Puranas that include the Buddha avatar explain it in different ways. In one widely repeated account, when the asuras had grown strong through Vedic sacrifice, Vishnu appeared as a gentle teacher who led them away from the Vedas so that they lost their power. The Vishnu Purana tells a similar tale of an illusory figure, Mayamoha, without explicitly naming him the Buddha. Centuries later, the poet Jayadeva gave the avatar a far warmer meaning: in the Dashavatara hymn of the Gita Govinda he praises Keshava who, taking the form of the Buddha, out of compassion for animals condemned the killing prescribed in the rites of sacrifice. Buddhists themselves do not accept the Buddha as an incarnation of Vishnu.",
+      "symbols": [
+        "seated in meditation",
+        "monk's robe",
+        "curly hair with ushnisha",
+        "abhaya or dhyana mudra"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": null,
+      "sources": [
+        "Matsya Purana 47",
+        "Bhagavata Purana 1.3.24",
+        "Vishnu Purana 3.17–18 (Mayamoha)",
+        "Agni Purana 16",
+        "Garuda Purana",
+        "Jayadeva, Gita Govinda 1 (Dashavatara hymn)"
+      ],
+      "variations": [
+        "Many Dashavatara lists, especially in South India and among Vaishnava traditions honouring Balarama, place Balarama as the eighth or ninth avatar and omit the Buddha.",
+        "Early Puranic portrayals present the avatar as a deluder who misleads demons or the unworthy; Jayadeva and later devotional poets present him as a teacher of compassion and non-violence.",
+        "Medieval Odia poets identified Jagannatha with the Buddha avatar.",
+        "The historical Buddha taught within the Shramana traditions; Buddhists reject the avatar framing."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "kalki",
+      "name": "Kalki",
+      "devanagari": "कल्कि",
+      "aliases": [
+        "Kalkin",
+        "Vishnuyasha's son",
+        "Kalki-avatara"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The prophesied tenth and final avatar of Vishnu, who will appear at the end of the Kali Yuga on a white horse with a blazing sword to destroy the wicked and inaugurate a new Satya Yuga. He is foretold in the Mahabharata and elaborated in the late Kalki Purana.",
+      "story": "At the close of the Kali Yuga, the Puranas foretell, rulers will be thieves, dharma will have almost vanished, and people will live short, fearful lives. Then Vishnu will be born as Kalki in the village of Shambhala, in the house of the brahmin Vishnuyasha. Mounted on a swift white horse and holding a sword that flashes like a comet, he will ride across the earth destroying hosts of the wicked and restoring the order of the four varnas and ashramas. With his work complete, the minds of the people will become clear as crystal, and the world will enter a new age of truth. The Kalki Purana adds that he will study under Parashurama and receive his horse and weapons from Shiva.",
+      "symbols": [
+        "white horse",
+        "raised sword",
+        "armour and crown"
+      ],
+      "weapons": [
+        "sword (given by Shiva in the Kalki Purana)",
+        "bow"
+      ],
+      "vahana": "Devadatta (white horse)",
+      "abode": "Shambhala",
+      "sources": [
+        "Mahabharata 3.188–189",
+        "Vishnu Purana 4.24",
+        "Bhagavata Purana 1.3.25, 12.2",
+        "Agni Purana 16",
+        "Kalki Purana"
+      ],
+      "variations": [
+        "Mahabharata: Kalki Vishnuyasha is a brahmin warrior-king, with the connection to Vishnu less explicit than in the Puranas.",
+        "The Kalki Purana (a late text) adds his marriage to Padmavati, an incarnation of Lakshmi, and his war with the personified Kali.",
+        "Buddhist Kalachakra texts describe separate Kalki kings of Shambhala."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kumaras",
+      "name": "Four Kumaras",
+      "devanagari": "सनकादि कुमार",
+      "aliases": [
+        "Sanakadi",
+        "Chatursana",
+        "Sanaka, Sanandana, Sanatana, Sanatkumara",
+        "Kumara brothers"
+      ],
+      "category": "rishi",
+      "era": "upanishads",
+      "group": true,
+      "description": "The four mind-born sons of Brahma - Sanaka, Sanandana, Sanatana and Sanatkumara - who refused to procreate and remain eternal child-ascetics devoted to knowledge. The Bhagavata counts them as the first avatar of Vishnu; Sanatkumara already appears in the Chandogya Upanishad as Narada's teacher.",
+      "story": "Brahma created the four Kumaras from his mind at the dawn of creation and asked them to populate the worlds. They refused, preferring lifelong celibacy and contemplation of the supreme, and Brahma's anger at their refusal took form as Rudra. Wandering through the worlds as naked boys of five, they once came to the seventh gate of Vaikuntha. The gatekeepers Jaya and Vijaya, mistaking them for children, barred the way. Offended, the Kumaras cursed them to be born on earth among the asuras. Vishnu came out, apologised for his servants, and the sages were so overwhelmed by the fragrance of the tulasi at his feet that they became devotees of his personal form. The doorkeepers were reborn as Hiranyaksha and Hiranyakashipu.",
+      "symbols": [
+        "naked child-ascetics",
+        "four boys of five years",
+        "rosary",
+        "books"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Janaloka",
+      "sources": [
+        "Chandogya Upanishad 7 (Sanatkumara teaching Narada)",
+        "Bhagavata Purana 1.3.6",
+        "Bhagavata Purana 3.12, 3.15–16",
+        "Bhagavata Purana 4.22",
+        "Vishnu Purana 1.7",
+        "Mahabharata, Shanti Parva"
+      ],
+      "variations": [
+        "The Chandogya Upanishad knows only Sanatkumara, identified there with Skanda; the group of four is Puranic.",
+        "Some lists add Sanatsujata or Ribhu, making five or more.",
+        "The Nimbarka Sampradaya traces its lineage to the Kumaras (the Kumara Sampradaya).",
+        "The Bhagavata counts them collectively as the first avatar."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "nara-narayana",
+      "name": "Nara-Narayana",
+      "devanagari": "नर-नारायण",
+      "aliases": [
+        "Nara and Narayana",
+        "Twin sages of Badari"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Twin sage-incarnations of Vishnu, sons of Dharma, who perform eternal austerities at Badarikashrama in the Himalayas. The Mahabharata identifies Arjuna and Krishna as Nara and Narayana reborn.",
+      "story": "Nara and Narayana, twin sons of Dharma, sat in unbroken meditation at Badari in the Himalayas. Their austerities were so intense that Indra feared for his throne and sent the loveliest apsaras of heaven to break their concentration. Narayana simply smiled, struck his thigh, and from it sprang a woman so radiant that the celestial dancers were put to shame; she was named Urvashi, born of the thigh, and was sent back to Indra as a gift. The Mahabharata also tells how the arrogant king Dambhodbhava challenged the twins and was humbled by Nara with a handful of grass-blades. Krishna reminds Arjuna that they are these same ancient sages, reborn for the work of dharma.",
+      "symbols": [
+        "twin ascetics",
+        "matted hair",
+        "deerskin",
+        "rosary",
+        "seated in meditation at Badari"
+      ],
+      "weapons": [
+        "kusha-grass astra (Nara)",
+        "bow (Nara)"
+      ],
+      "vahana": null,
+      "abode": "Badarikashrama (Badrinath)",
+      "sources": [
+        "Mahabharata, Shanti Parva (Narayaniya)",
+        "Mahabharata 5.94 (Dambhodbhava)",
+        "Bhagavata Purana 1.3.9, 11.4",
+        "Devi Bhagavata Purana 4",
+        "Vamana Purana"
+      ],
+      "variations": [
+        "The Narayaniya describes a battle between Narayana and Rudra at Badari that left a mark on Rudra's throat; Shaiva texts tell it differently.",
+        "Some Puranas describe them as a single avatar in two bodies; others as two avatars.",
+        "Badrinath temple tradition regards the deity as Narayana in meditation."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kapila",
+      "name": "Kapila",
+      "devanagari": "कपिल",
+      "aliases": [
+        "Kapila Muni",
+        "Kapila Vasudeva",
+        "Adi-vidvan",
+        "founder of Sankhya"
+      ],
+      "category": "avatar",
+      "era": "ramayana",
+      "group": false,
+      "description": "The sage traditionally regarded as the founder of the Sankhya school of philosophy, counted as an avatar of Vishnu in the Bhagavata, where he is the son of Kardama and Devahuti. In the epics his fiery gaze burns the sixty thousand sons of King Sagara.",
+      "story": "King Sagara performed a horse sacrifice, but the sacrificial horse vanished. His sixty thousand sons dug down through the earth in search of it and at last found it grazing beside the sage Kapila, who sat absorbed in meditation. Taking him for the thief, they rushed at him with weapons and abuse. Kapila opened his eyes, and with a single blazing glance reduced them all to ashes. Years later Sagara's grandson Anshuman came humbly to the sage, who returned the horse and blessed him, revealing that only the waters of the heavenly Ganga could purify the ashes and release the dead princes. That promise set in motion the long labours that ended with Bhagiratha bringing Ganga down to earth.",
+      "symbols": [
+        "ascetic seated in meditation",
+        "matted hair",
+        "rosary",
+        "water-pot"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Patala (Ramayana); Ganga Sagar (Bengal tradition)",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda (Sagara episode)",
+        "Mahabharata 3.104–106",
+        "Bhagavata Purana 1.3.10",
+        "Bhagavata Purana 3.24–33",
+        "Shvetashvatara Upanishad 5.2 (contested reference)"
+      ],
+      "variations": [
+        "The Ramayana identifies Kapila with Vasudeva (Vishnu); the Mahabharata elsewhere links Kapila with Agni or treats him as a great seer.",
+        "The Bhagavata's Kapila teaches a theistic, devotional Sankhya to his mother Devahuti; classical Sankhya (Sankhya Karika) is non-theistic, and scholars debate whether these are the same person.",
+        "Whether the word kapila in Shvetashvatara Upanishad 5.2 refers to the sage is disputed.",
+        "Ganga Sagar island in Bengal hosts his temple and the Makar Sankranti pilgrimage."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "dattatreya",
+      "name": "Dattatreya",
+      "devanagari": "दत्तात्रेय",
+      "aliases": [
+        "Datta",
+        "Atreya",
+        "Avadhuta",
+        "Gurudeva Datta",
+        "Shri Guru Dattatreya"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The divine ascetic and supreme guru, son of the sage Atri and Anasuya, venerated as an avatar of Vishnu and, in later tradition, as the combined embodiment of Brahma, Vishnu and Shiva. He is the patron deity of the Datta Sampradaya and revered by Nath yogis.",
+      "story": "A much-loved tale tells that Anasuya, the wife of Atri, was so renowned for her devotion that the goddesses grew jealous and sent their husbands - Brahma, Vishnu and Shiva - to test her. Disguised as mendicants, the three gods asked her to serve them food while unclothed. By the power of her chastity, Anasuya turned them into infants, nursed them and rocked them in a cradle. When the goddesses came begging for their husbands back, she restored them, and the three gods, pleased, were born as her sons: Soma from Brahma's portion, Dattatreya from Vishnu's, and Durvasa from Shiva's. Dattatreya grew into a wandering avadhuta who learned wisdom from twenty-four teachers in nature and granted boons to kings such as Kartavirya Arjuna.",
+      "symbols": [
+        "three heads (later iconography)",
+        "six arms",
+        "four dogs (the Vedas)",
+        "cow behind him",
+        "audumbara (fig) tree",
+        "rosary",
+        "trident",
+        "discus",
+        "conch",
+        "water-pot"
+      ],
+      "weapons": [
+        "trident",
+        "discus"
+      ],
+      "vahana": null,
+      "abode": "Girnar; Mahur (Mahurgad)",
+      "sources": [
+        "Mahabharata, Vana Parva (Kartavirya episode)",
+        "Markandeya Purana (Dattatreya and Alarka chapters)",
+        "Bhagavata Purana 1.3.11",
+        "Bhagavata Purana 4.1.15–33",
+        "Bhagavata Purana 11.7–9",
+        "Tripura Rahasya",
+        "Avadhuta Gita (tradition)"
+      ],
+      "variations": [
+        "Bhagavata 4.1: Dattatreya is Vishnu's portion, with Soma and Durvasa as portions of Brahma and Shiva; the three-headed Trimurti iconography is medieval.",
+        "The story of Anasuya turning the gods into infants is a later popular elaboration of the Puranic birth account.",
+        "The avadhuta with twenty-four gurus who teaches King Yadu in Bhagavata 11 is identified with Dattatreya by tradition, though the text does not name him.",
+        "The Nath tradition and Mahanubhava sect honour him; Shripada Shrivallabha and Narasimha Saraswati are regarded as his later incarnations in the Datta Sampradaya."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "yajna",
+      "name": "Yajna",
+      "devanagari": "यज्ञ",
+      "aliases": [
+        "Suyajna",
+        "Yajneshvara",
+        "Yajna-purusha"
+      ],
+      "category": "avatar",
+      "era": "early-puranas",
+      "group": false,
+      "description": "Vishnu as the personification of sacrifice, born to Ruchi and Akuti, daughter of Svayambhuva Manu, who served as Indra in the first Manvantara. The Vedic identity of Vishnu with the sacrifice underlies this avatar.",
+      "story": "In the age of the first Manu, Svayambhuva, the sage Ruchi married Manu's daughter Akuti, and twins were born to them: a son, Yajna, and a daughter, Dakshina. Svayambhuva Manu took the boy into his own household, for he recognised in him a portion of Vishnu himself. When the asuras and rakshasas later attacked the aged Manu as he practised austerities, Yajna, with the gods of that age, came to his defence and destroyed them. Because heaven then lacked a king, Yajna himself assumed the office of Indra for that Manvantara. He married Dakshina, the offering-fee that completes every sacrifice, and their twelve sons became the gods of that age.",
+      "symbols": [
+        "sacrificial fire",
+        "sacrificial ladles",
+        "Dakshina as consort"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Svarga (as Indra of the first Manvantara)",
+      "sources": [
+        "Vishnu Purana 1.7",
+        "Bhagavata Purana 1.3.12",
+        "Bhagavata Purana 2.7.2",
+        "Bhagavata Purana 4.1",
+        "Bhagavata Purana 8.1",
+        "Shatapatha Brahmana (yajno vai vishnuh, identification)"
+      ],
+      "variations": [
+        "The Vedic dictum that Vishnu is the sacrifice (yajno vai vishnuh) predates this avatar story.",
+        "Some lists call him Suyajna and count him as the seventh of the Bhagavata's twenty-two avatars."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "rishabha",
+      "name": "Rishabha",
+      "devanagari": "ऋषभ",
+      "aliases": [
+        "Rishabhadeva",
+        "Adinatha (Jain)",
+        "Adishvara",
+        "Vrishabha"
+      ],
+      "category": "avatar",
+      "era": "early-puranas",
+      "group": false,
+      "description": "A royal sage, son of Nabhi and Merudevi, counted among Vishnu's avatars in the Bhagavata, who renounced his kingdom to become a naked ascetic. In Jainism he is revered as the first Tirthankara, Rishabhanatha (Adinatha).",
+      "story": "Rishabha was born to King Nabhi and Queen Merudevi in answer to their prayers. He ruled wisely, and when Indra, jealous, withheld the rains from his land, Rishabha brought down rain by his own yogic power; Indra then gave him his daughter Jayanti as wife. Rishabha fathered a hundred sons, the eldest of whom was Bharata, after whom the land of Bharatavarsha was named. Having taught his sons the path to liberation, he handed the kingdom to Bharata and abandoned everything. Naked and silent, behaving as if mad, deaf and dumb, he wandered through the country ignoring praise and abuse alike. At last, in the forests of Karnataka, he entered a raging forest fire and his body was consumed.",
+      "symbols": [
+        "naked ascetic",
+        "bull (Jain emblem)",
+        "long matted locks"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Ayodhya (Jain tradition); Kailasa / Ashtapada (Jain place of liberation)",
+      "sources": [
+        "Vishnu Purana 2.1",
+        "Bhagavata Purana 5.3–6",
+        "Vayu Purana",
+        "Jain Adipurana of Jinasena",
+        "Kalpa Sutra (Jain)"
+      ],
+      "variations": [
+        "In Jainism Rishabhanatha is the first of the twenty-four Tirthankaras of this cosmic age, a human teacher who attained liberation, not an avatar of Vishnu.",
+        "The Bhagavata's account of his naked asceticism is often read as an acknowledgement or appropriation of Jain tradition; some verses (5.6) criticise those who imitate him.",
+        "His son Bharata, later reborn as Jada Bharata, is distinct from Bharata son of Dushyanta, although both are credited in different texts as the namesake of Bharatavarsha."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "prithu",
+      "name": "Prithu",
+      "devanagari": "पृथु",
+      "aliases": [
+        "Prithu Vainya",
+        "Prithi Vainya",
+        "Adiraja",
+        "the first king"
+      ],
+      "category": "avatar",
+      "era": "later-vedic",
+      "group": false,
+      "description": "The first consecrated king, who emerged from the churned body of the wicked king Vena and made the earth yield her riches by 'milking' her as a cow. The earth, Prithvi, is said to be named after him; the Bhagavata counts him as a partial avatar of Vishnu.",
+      "story": "After the sages slew the impious king Vena, the land fell into anarchy and famine. The sages churned the dead king's arm, and from it rose Prithu, radiant and marked with Vishnu's discus, together with his queen Archi. When he found that the earth had hidden all plants and grain within herself, Prithu took up his bow and pursued her. She fled in the form of a cow through all the worlds, but at last turned and pleaded for her life. She agreed to yield her bounty if a calf and a milker were found. Prithu levelled her mountains, founded villages and fields, and with Svayambhuva Manu as the calf milked from her all the grains; gods, sages, serpents and demons then milked her in turn.",
+      "symbols": [
+        "bow and arrows",
+        "cow (the earth)",
+        "discus mark on the hand",
+        "royal crown"
+      ],
+      "weapons": [
+        "Ajagava bow",
+        "arrows"
+      ],
+      "vahana": null,
+      "abode": "Brahmavarta (on the Sarasvati)",
+      "sources": [
+        "Atharva Veda 8.10",
+        "Shatapatha Brahmana 5.3.5.4",
+        "Mahabharata 12.59",
+        "Vishnu Purana 1.13",
+        "Bhagavata Purana 4.14–23",
+        "Harivamsha"
+      ],
+      "variations": [
+        "A Prithi Vainya is named as a seer in the Rig Veda (10.148); the Atharva Veda says Prithi Vainya milked agriculture and grain from Viraj.",
+        "Texts disagree on which part of Vena was churned: his arm (right hand) for Prithu, his thigh for the dark Nishada.",
+        "Bhagavata 4.19 tells how Indra stole the horse of his hundredth ashvamedha; Brahma persuaded Prithu to stop at ninety-nine.",
+        "The Bhagavata calls him a portion (amsha) or empowered form of Vishnu rather than a full avatar."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "dhanvantari",
+      "name": "Dhanvantari",
+      "devanagari": "धन्वन्तरि",
+      "aliases": [
+        "Physician of the gods",
+        "Adi-vaidya",
+        "Divodasa (Kashi king, identified)",
+        "Amrita-kalasha-dhara"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The divine physician who rose from the churning of the Ocean of Milk carrying the pot of amrita, counted among Vishnu's avatars and revered as the god of Ayurveda. Dhanteras, the first day of Diwali, is celebrated in his honour.",
+      "story": "After a thousand years of churning, when the ocean had already yielded the moon, Lakshmi, the wish-fulfilling cow and many other treasures, a radiant figure rose last from the waves. He was dark and handsome, adorned with garlands, and in his hands he bore a white vessel brimming with amrita, the nectar of immortality. This was Dhanvantari, the physician of the gods. The asuras seized the pot from him at once, setting off the quarrel that Vishnu, as Mohini, would resolve. According to the Harivamsha, Vishnu promised Dhanvantari that he would be born again among men and receive a share of the sacrificial offerings; he was reborn in the royal house of Kashi and there taught the science of medicine, Ayurveda.",
+      "symbols": [
+        "pot of amrita (amrita-kalasha)",
+        "leech (jalauka)",
+        "medicinal herbs",
+        "conch",
+        "discus",
+        "four arms"
+      ],
+      "weapons": [
+        "Sudarshana Chakra",
+        "conch"
+      ],
+      "vahana": null,
+      "abode": "Kashi (as a king in his later birth)",
+      "sources": [
+        "Mahabharata, Adi Parva (churning of the ocean)",
+        "Vishnu Purana 1.9",
+        "Bhagavata Purana 1.3.17",
+        "Bhagavata Purana 8.8",
+        "Harivamsha 1.29",
+        "Sushruta Samhita 1.1"
+      ],
+      "variations": [
+        "The Sushruta Samhita presents Dhanvantari as Divodasa, king of Kashi, who received Ayurveda through the line of Brahma, the Ashvins and Indra and taught it to Sushruta.",
+        "Some Puranas distinguish the ocean-born god from the later human king of Kashi.",
+        "He is also counted among the 'nine jewels' of the legendary king Vikramaditya's court, a separate later tradition."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "mohini",
+      "name": "Mohini",
+      "devanagari": "मोहिनी",
+      "aliases": [
+        "The Enchantress",
+        "Jagan-mohini",
+        "Mohini-avatara"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The enchanting female form assumed by Vishnu to recover the amrita from the asuras and distribute it to the gods. In regional traditions she is also the mother of Ayyappa by Shiva and, in Tamil tradition, the one-night bride of Aravan.",
+      "story": "When the pot of amrita rose from the churned ocean, the asuras snatched it and fell to quarrelling over who should drink first. Suddenly a woman of dazzling beauty appeared among them, and the asuras, bewitched, handed her the pot and asked her to divide it fairly. Mohini seated gods and asuras in two rows and, walking gracefully between them, poured the nectar only for the gods while beguiling the asuras with her glances. The asura Svarbhanu, suspecting the trick, disguised himself and sat between the Sun and the Moon; he had just sipped the amrita when they cried out. Vishnu's discus severed his head, but the immortal head and body lived on as Rahu and Ketu.",
+      "symbols": [
+        "beautiful woman",
+        "pot of amrita",
+        "jewels and garlands"
+      ],
+      "weapons": [
+        "Sudarshana Chakra"
+      ],
+      "vahana": null,
+      "abode": "Vaikuntha",
+      "sources": [
+        "Mahabharata, Adi Parva (churning of the ocean)",
+        "Bhagavata Purana 8.8–9",
+        "Bhagavata Purana 8.12",
+        "Agni Purana 3",
+        "Brahmanda Purana (Lalitopakhyana)"
+      ],
+      "variations": [
+        "The Mahabharata says only that Narayana assumed a bewitching female form; the name Mohini becomes standard in the Puranas.",
+        "Bhagavata 8.12: Shiva asks to see the form and is overwhelmed by desire; Kerala tradition makes Ayyappa their son.",
+        "The story of Mohini tricking Bhasmasura into touching his own head is popular in South Indian folk and dance traditions but is absent from the major Sanskrit Puranas.",
+        "In the Tamil Koothandavar tradition Krishna becomes Mohini to marry Aravan (Iravan) on the eve of his sacrifice."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "hayagriva",
+      "name": "Hayagriva",
+      "devanagari": "हयग्रीव",
+      "aliases": [
+        "Hayashiras",
+        "Hayashirsha",
+        "Vagishvara",
+        "Horse-necked One"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The horse-headed form of Vishnu who rescues the Vedas from the demons Madhu and Kaitabha and is worshipped as the lord of knowledge and learning. He is especially revered in the Sri Vaishnava tradition of South India.",
+      "story": "As Brahma sat on the lotus springing from Vishnu's navel, reciting the Vedas and planning creation, two demons, Madhu and Kaitabha, born from drops of water on the lotus, seized the Vedas and carried them down to the netherworld. Brahma, robbed of the knowledge by which he created, cried out to Vishnu in despair. Vishnu then assumed a luminous form with the head of a horse, its neck shining like the moon and its voice resounding with the chanting of the Sama Veda. Descending into the depths, he recovered the Vedas and restored them to Brahma. When the demons returned in fury, Vishnu fought and slew them, and the Vedas were preserved for creation.",
+      "symbols": [
+        "white horse head",
+        "book (Veda)",
+        "rosary",
+        "conch",
+        "discus",
+        "Lakshmi on the lap (Lakshmi-Hayagriva)",
+        "vyakhyana mudra"
+      ],
+      "weapons": [
+        "Sudarshana Chakra",
+        "conch"
+      ],
+      "vahana": null,
+      "abode": "Tiruvahindrapuram; Mysore (Parakala Matha) in temple tradition",
+      "sources": [
+        "Mahabharata, Shanti Parva (Narayaniya, Hayashiras episode)",
+        "Bhagavata Purana 2.7.11",
+        "Bhagavata Purana 5.18",
+        "Devi Bhagavata Purana 1.5",
+        "Brahmanda Purana (Lalitopakhyana)",
+        "Hayashirsha Pancharatra",
+        "Vedanta Desika, Hayagriva Stotra"
+      ],
+      "variations": [
+        "Mahabharata Narayaniya: Hayashiras recovers the Vedas; Vishnu, in his usual form, then slays Madhu and Kaitabha, so attribution of the killing varies.",
+        "Devi Bhagavata 1.5: Vishnu's head was severed by his own bowstring; the gods fixed a horse's head on him so he could slay an asura named Hayagriva who could be killed only by a horse-headed being.",
+        "In the Brahmanda Purana he teaches the Lalita Sahasranama to the sage Agastya.",
+        "A distinct wrathful Hayagriva is an important protector deity in Tibetan and East Asian Buddhism.",
+        "The Vedic tale of Dadhyanch teaching the Ashvins with a horse's head is sometimes seen as a precursor."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "bhairava",
+      "name": "Bhairava (Kala Bhairava)",
+      "devanagari": "भैरव",
+      "aliases": [
+        "Kala Bhairava",
+        "Kshetrapala",
+        "Kotwal of Kashi",
+        "Batuka Bhairava",
+        "Swarnakarshana Bhairava"
+      ],
+      "category": "avatar",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "The terrifying form of Shiva who emerged from his wrath and cut off Brahma's fifth head, then wandered as a skull-bearing penitent until reaching Varanasi. He is worshipped as the guardian (kotwal) of Kashi and of temples everywhere.",
+      "story": "Brahma and Vishnu once disputed who was the supreme creator. When Brahma, with his fifth head, spoke arrogantly and insulted Shiva, a blazing, fearsome figure sprang from Shiva's anger. This was Bhairava, who with a flick of his fingernail severed Brahma's offending fifth head. But the skull stuck to his hand, and the sin of killing a brahmin (brahmahatya) pursued him as a hideous woman. Carrying the skull as his begging bowl, Bhairava wandered through the worlds as a naked ascetic, visiting holy places without release. Only when he entered the sacred city of Varanasi did the skull fall from his hand at the spot called Kapalamochana, and the sin vanished. Shiva then appointed him the eternal guardian of Kashi.",
+      "symbols": [
+        "skull-bowl (kapala) of Brahma",
+        "dog",
+        "trident",
+        "noose",
+        "damaru",
+        "garland of skulls",
+        "dark body"
+      ],
+      "weapons": [
+        "Trishula (trident)",
+        "khatvanga",
+        "sword",
+        "noose"
+      ],
+      "vahana": "Dog",
+      "abode": "Kashi (Varanasi)",
+      "sources": [
+        "Shiva Purana, Shatarudra Samhita",
+        "Kurma Purana, Uttara-bhaga",
+        "Skanda Purana, Kashi Khanda",
+        "Vamana Purana",
+        "Tantric Bhairava literature"
+      ],
+      "variations": [
+        "The beheading of Brahma by Shiva (as Rudra or as Bhairava) appears in several Puranas with differences in cause and detail.",
+        "Tantric traditions enumerate eight (Ashta) Bhairavas and sixty-four Bhairavas, paired with Matrikas and Yoginis.",
+        "Kathmandu Newar tradition worships him intensely (e.g. Kala Bhairava and Swet Bhairava).",
+        "Some Puranas call him a form rather than an avatar of Shiva; the Shiva Purana lists him among Shiva's avatars."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "virabhadra",
+      "name": "Virabhadra",
+      "devanagari": "वीरभद्र",
+      "aliases": [
+        "Veerabhadra",
+        "Virabhadreshvara",
+        "Bhadra"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The fierce warrior created by Shiva from his rage to destroy Daksha's sacrifice after Sati's death. Worshipped widely in Karnataka and Andhra, especially by Lingayats, he is counted among Shiva's avatars.",
+      "story": "When Sati, humiliated at her father Daksha's sacrifice, gave up her life, Shiva's grief turned to terrible anger. He tore a lock of matted hair from his head and dashed it upon the ground; from it rose Virabhadra, towering, thousand-armed and blazing like the fire of dissolution. At Shiva's command he stormed the sacrificial ground with Shiva's ganas and Bhadrakali, scattering the gods and sages, smashing the altars and defiling the offerings. He plucked Bhrigu's beard, tore out Bhaga's eyes, knocked out Pushan's teeth, and finally cut off Daksha's head and threw it into the fire. Later, when Shiva's anger was appeased, the sacrifice was restored and Daksha revived with the head of a goat.",
+      "symbols": [
+        "many arms",
+        "garland of skulls",
+        "Daksha's goat-headed figure beside him",
+        "tiger skin",
+        "sandals"
+      ],
+      "weapons": [
+        "sword",
+        "shield",
+        "bow and arrow",
+        "Trishula (trident)",
+        "mace"
+      ],
+      "vahana": null,
+      "abode": "Kailasa",
+      "sources": [
+        "Mahabharata, Shanti Parva (destruction of Daksha's sacrifice)",
+        "Vayu Purana 30",
+        "Bhagavata Purana 4.5",
+        "Shiva Purana, Rudra Samhita (Sati Khanda)",
+        "Linga Purana 1.96"
+      ],
+      "variations": [
+        "Mahabharata: Virabhadra is born from Shiva's mouth (in some passages Daksha is not beheaded but is humbled and praises Shiva).",
+        "Vayu Purana: Shiva creates Virabhadra while Devi creates Bhadrakali from her anger; both destroy the sacrifice.",
+        "Bhagavata 4.5: born from a lock of Shiva's hair; he beheads Daksha.",
+        "Linga Purana: Virabhadra takes the Sharabha form to subdue Narasimha."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "bhadrakali",
+      "name": "Bhadrakali",
+      "devanagari": "भद्रकाली",
+      "aliases": [
+        "Bhadra Kali",
+        "Kodungallur Amma",
+        "Kali of Kerala",
+        "Mahakali (in some texts)"
+      ],
+      "category": "devi",
+      "era": "early-puranas",
+      "group": false,
+      "description": "A fierce yet auspicious ('bhadra') form of the Goddess who, in the Vayu Purana, springs from Devi's anger to destroy Daksha's sacrifice alongside Virabhadra. In Kerala she is the great protective goddess who slays the asura Darika.",
+      "story": "In the Kerala tradition the asura Darika, empowered by a boon from Brahma that no man could kill him, conquered the three worlds and tormented gods and humans alike. The sage Narada carried word of his tyranny to Kailasa. Shiva's fury blazed, and from his third eye sprang Bhadrakali, black as a storm cloud, with many arms bearing weapons and a necklace of skulls. Riding the ghost Vetala, she led the hosts of spirits against Darika's army. Darika's wife sought to protect him by a charm, but the goddess prevailed and at last beheaded the asura, bringing his head to Shiva. This battle, the Darikavadham, is re-enacted every year in the ritual dance-dramas of Mudiyettu and Theyyam.",
+      "symbols": [
+        "dark complexion",
+        "garland of skulls",
+        "many arms",
+        "severed head of Darika",
+        "fiery hair",
+        "tongue protruding"
+      ],
+      "weapons": [
+        "sword",
+        "trident",
+        "shield",
+        "skull-bowl",
+        "bell"
+      ],
+      "vahana": "Vetala (ghost)",
+      "abode": "Kodungallur (Kerala temple tradition); Kailasa",
+      "sources": [
+        "Vayu Purana 30 (Daksha episode)",
+        "Brahmanda Purana (Daksha episode)",
+        "Linga Purana",
+        "Kerala tradition: Darikavadham (Mudiyettu, Theyyam, Bhadrakali Pattu)"
+      ],
+      "variations": [
+        "Vayu Purana: created by Devi (Uma) from her wrath at Daksha's sacrifice, as Virabhadra's companion.",
+        "Kerala tradition: born from Shiva's third eye to slay Darika; sometimes regarded as Shiva's daughter.",
+        "The name Bhadrakali appears among the goddess's epithets in hymns attached to the Devi Mahatmya (e.g. the Argala Stotra).",
+        "Some texts treat Bhadrakali as a name of Kali or Durga rather than a separate goddess."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "sharabha",
+      "name": "Sharabha",
+      "devanagari": "शरभ",
+      "aliases": [
+        "Sharabheshvara",
+        "Sharabheshamurti",
+        "Shalva",
+        "Sharabha-Salva"
+      ],
+      "category": "avatar",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "A composite bird-beast form of Shiva, part lion, part bird, with eight legs, who in Shaiva sectarian texts subdues the raging Narasimha. His worship is prominent in Tamil Nadu temples (as Sharabheshvara).",
+      "story": "After Narasimha had slain Hiranyakashipu, his fury did not subside; the man-lion roamed the worlds, and the gods, terrified that he would destroy creation, appealed to Shiva. According to the Linga and Shiva Puranas, Shiva first sent Virabhadra to calm him with reasoning, but Narasimha scorned him. Then Shiva assumed the awesome Sharabha form: part bird and part beast, with wings, eight legs, sharp claws and a lion's body, blazing with the light of a thousand suns. Sharabha seized Narasimha, lifted him into the sky and held him until his pride and anger were broken. Narasimha then praised Shiva, and the Shaiva texts say Shiva wore the man-lion's skin thereafter.",
+      "symbols": [
+        "eight-legged winged lion-bird",
+        "two wings (sometimes identified with Kali and Durga, or Pratyangira and Shulini)",
+        "Narasimha held in its claws"
+      ],
+      "weapons": [
+        "claws",
+        "beak",
+        "wings"
+      ],
+      "vahana": null,
+      "abode": "Kailasa",
+      "sources": [
+        "Linga Purana 1.95–96",
+        "Shiva Purana, Shatarudra Samhita",
+        "Sharabha Upanishad",
+        "Kalika Purana"
+      ],
+      "variations": [
+        "This is a Shaiva sectarian narrative; Vaishnava traditions reject it and some counter with a story of Narasimha assuming the two-headed Gandaberunda form to defeat Sharabha.",
+        "Linga Purana: Virabhadra himself becomes Sharabha; Shiva Purana: Shiva assumes the form directly.",
+        "Kalika Purana: Shiva as Sharabha subdues Varaha rather than Narasimha.",
+        "In the Mahabharata and Ramayana, sharabha denotes a mythical powerful eight-legged beast, not a form of Shiva."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "kirata",
+      "name": "Kirata (Shiva as the hunter)",
+      "devanagari": "किरात",
+      "aliases": [
+        "Kiratamurti",
+        "Kirateshvara",
+        "Kiratarjuniya's Shiva"
+      ],
+      "category": "avatar",
+      "era": "mahabharata",
+      "group": false,
+      "description": "Shiva's form as a mountain hunter (kirata) in which he tests Arjuna's valour and devotion before granting him the Pashupata weapon. The episode is told in the Mahabharata's Vana Parva and in Bharavi's classical poem Kiratarjuniya.",
+      "story": "During the Pandavas' exile, Arjuna went to the Himalayas to perform austerities and win celestial weapons. One day a demon in the form of a wild boar charged at him. Arjuna shot it, but at the same instant an arrow from a burly hunter struck the same boar. The hunter, accompanied by his wife and a band of women, claimed the kill. The two quarrelled and fought: Arjuna's arrows vanished into the hunter's body, his inexhaustible quiver emptied, and when he struck with his bow the hunter snatched it away. Finally they wrestled until Arjuna fell senseless. Recognising at last that the hunter was Shiva himself, with Parvati as the huntress, Arjuna fell at his feet, and Shiva, pleased, gave him the Pashupata weapon.",
+      "symbols": [
+        "hunter's garb",
+        "bow and arrows",
+        "accompanied by Parvati as a huntress (Kirati)",
+        "wild boar"
+      ],
+      "weapons": [
+        "Pinaka bow",
+        "arrows",
+        "Pashupatastra"
+      ],
+      "vahana": null,
+      "abode": "Himalayas (Indrakila mountain)",
+      "sources": [
+        "Mahabharata 3.38–41 (Kairata Parva)",
+        "Bharavi, Kiratarjuniya",
+        "Shiva Purana, Shatarudra Samhita"
+      ],
+      "variations": [
+        "Later versions name the boar-demon Muka (Mukasura), sent by Duryodhana; the Mahabharata calls him simply a danava in boar form.",
+        "The Shiva Purana counts Kirata among Shiva's avatars.",
+        "The Kirata form is linked by some scholars to Shiva's associations with mountain and tribal peoples; Kerala tradition makes the hunter-god Vettakkorumakan the son of Shiva as Kirata and Parvati."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "ayyappa",
+      "name": "Ayyappa (Dharma Shasta)",
+      "devanagari": "अय्यप्पा",
+      "aliases": [
+        "Ayyappan",
+        "Hariharaputra",
+        "Manikandan",
+        "Dharma Shasta",
+        "Shasta",
+        "Bhutanatha"
+      ],
+      "category": "avatar",
+      "era": "late-puranas",
+      "group": false,
+      "description": "The celibate deity of Sabarimala in Kerala, regarded as the son of Shiva and Mohini (Vishnu's female form) and hence called Hariharaputra. His worship, with its forty-one-day vow and mass pilgrimage, is rooted in regional Kerala traditions rather than the classical Puranas.",
+      "story": "The buffalo-demoness Mahishi, sister of Mahishasura, won a boon that she could be killed only by a child born of Shiva and Vishnu. From the union of Shiva and Mohini such a child was born and left, with a bell around his neck, on the banks of the Pampa river, where the childless King Rajashekhara of Pandalam found him and named him Manikandan. The queen later bore a son and, persuaded by a scheming minister, feigned illness and demanded tigress's milk. The twelve-year-old Manikandan went into the forest, slew Mahishi and returned riding a tigress with a herd of tigers. Revealing his divine nature, he asked for a temple at Sabarimala, where he sits in yogic meditation as the eternal celibate.",
+      "symbols": [
+        "seated in yogic posture with a band around his knees (yoga-patta)",
+        "chin mudra",
+        "bell necklace",
+        "tiger"
+      ],
+      "weapons": [
+        "bow and arrow",
+        "sword"
+      ],
+      "vahana": "Tiger (also horse or elephant in Shasta iconography)",
+      "abode": "Sabarimala (Kerala)",
+      "sources": [
+        "Bhutanathopakhyanam (Kerala Sanskrit text, late)",
+        "Sabarimala temple tradition",
+        "Malayalam ritual songs (Ayyappan Pattu)",
+        "Agamic and Tamil traditions of Shasta / Aiyanar"
+      ],
+      "variations": [
+        "Earlier Shasta (Sastha) worship in South India may have merged with the Ayyappa legend; Tamil Aiyanar is often identified with him.",
+        "The birth from Shiva and Mohini is regional (Kerala) and not found in the classical Sanskrit Puranas, though the Bhagavata describes Shiva's infatuation with Mohini.",
+        "Folk traditions give him the Muslim companion Vavar (Vavaru Swami) and link him with Pandalam royalty.",
+        "Some accounts say Mahishi, once slain, was freed from a curse and became the goddess Malikappurathamma."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "vena",
+      "name": "Vena",
+      "devanagari": "वेन",
+      "aliases": [
+        "King Vena",
+        "son of Anga"
+      ],
+      "category": "human",
+      "era": "mahabharata",
+      "group": false,
+      "description": "A tyrannical king, son of Anga and Sunitha, who forbade sacrifices and demanded worship of himself, and was slain by the sages. From his churned body came the dark Nishada and the first righteous king, Prithu.",
+      "story": "Vena, born to King Anga and Sunitha, the daughter of Death, inherited the cruelty of his mother's line. When the sages crowned him, he proclaimed that he alone was god, that all sacrifices and offerings must be made to him, and he forbade the worship of Vishnu. The sages pleaded with him to return to dharma, but he mocked them. Enraged, they struck him down with blades of kusha grass charged with mantras. With no king, robbery and chaos spread. The sages then churned Vena's thigh, and a short, dark man emerged, whom they told to sit down (nishida), and he became the ancestor of the Nishadas, bearing away Vena's sin. Churning his arm, they brought forth the radiant Prithu.",
+      "symbols": [
+        "crown",
+        "kusha grass (instrument of his death)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Anga kingdom (Brahmavarta in some texts)",
+      "sources": [
+        "Mahabharata 12.59",
+        "Vishnu Purana 1.13",
+        "Bhagavata Purana 4.13–14",
+        "Harivamsha",
+        "Padma Purana, Bhumi Khanda"
+      ],
+      "variations": [
+        "The patronymic Vainya (son of Vena) is attached to Prithi in Vedic texts, but the tale of the wicked king is epic-Puranic.",
+        "The Padma Purana says Vena was led astray by a heretic teacher, often read as a polemic against Jainism, and later repented.",
+        "Distinct from Vena, the seer-deity of Rig Veda 10.123."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "renuka",
+      "name": "Renuka",
+      "devanagari": "रेणुका",
+      "aliases": [
+        "Renukadevi",
+        "Yellamma (Karnataka)",
+        "Ekvira (Maharashtra)",
+        "Mariamman (identified in parts of Tamil Nadu)"
+      ],
+      "category": "human",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The wife of the sage Jamadagni and mother of Parashurama, beheaded at her husband's command and restored to life at her son's request. She is worshipped as a goddess across Maharashtra, Karnataka and beyond as Renuka, Yellamma and Ekvira.",
+      "story": "Renuka, daughter of King Prasenajit, was the devoted wife of the sage Jamadagni. One day, going to the river to fetch water, she saw the king Chitraratha sporting with his wives, and for a moment her mind wavered with desire. She returned late, and Jamadagni, perceiving what had passed, flew into a rage. He commanded each of his sons in turn to kill their mother; the four elder sons refused and he cursed them to lose their reason. Parashurama alone obeyed and struck off her head with his axe. The delighted sage offered him any boon. Parashurama asked that his mother be restored to life with no memory of what had happened, that his brothers be healed, and that he himself be invincible.",
+      "symbols": [
+        "water-pot",
+        "head (Yellamma worship)",
+        "neem leaves",
+        "sacred anthill (varuli)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Jamadagni's hermitage; Mahur and Saundatti (temple traditions)",
+      "sources": [
+        "Mahabharata 3.116",
+        "Bhagavata Purana 9.15–16",
+        "Brahmanda Purana",
+        "Renuka Mahatmya (regional)"
+      ],
+      "variations": [
+        "Some versions say her chastity allowed her to carry water in unbaked clay pots, a power she lost when her mind wavered.",
+        "In Karnataka and Maharashtra traditions, her severed head joined a low-caste woman's body, giving rise to the goddesses Yellamma and Mariamman or Matangi.",
+        "After Jamadagni's murder she beat her breast twenty-one times, prompting Parashurama's twenty-one campaigns against the kshatriyas.",
+        "Her temple at Mahur is counted among the Shakti Pithas of Maharashtra."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kartavirya-arjuna",
+      "name": "Kartavirya Arjuna",
+      "devanagari": "कार्तवीर्य अर्जुन",
+      "aliases": [
+        "Sahasrarjuna",
+        "Sahasrabahu",
+        "Haihaya Arjuna",
+        "Kartavirya",
+        "king of Mahishmati"
+      ],
+      "category": "human",
+      "era": "ramayana",
+      "group": false,
+      "description": "The thousand-armed Haihaya king of Mahishmati, who won his powers from the sage Dattatreya, once imprisoned Ravana, and was slain by Parashurama after seizing Jamadagni's sacrificial cow. He is revered as an ideal king by some communities.",
+      "story": "Kartavirya Arjuna, king of Mahishmati on the Narmada, worshipped the sage Dattatreya and received a thousand arms, a golden chariot and dominion over the earth. Once, as he sported with his queens in the Narmada, he stemmed its flow with his thousand arms, and the backed-up waters flooded the camp where Ravana was worshipping Shiva. Ravana attacked him in fury, but Kartavirya overpowered the lord of Lanka, bound him and carried him to Mahishmati, releasing him only at the request of Ravana's grandfather Pulastya. His pride finally undid him: visiting Jamadagni's hermitage, he carried off the sage's sacred calf by force. Parashurama pursued him, hewed off all his thousand arms with his axe and killed him.",
+      "symbols": [
+        "thousand arms",
+        "golden chariot",
+        "royal crown"
+      ],
+      "weapons": [
+        "bows",
+        "divine astras"
+      ],
+      "vahana": "Golden chariot",
+      "abode": "Mahishmati (on the Narmada)",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda (Ravana's defeat)",
+        "Mahabharata 3.115–116",
+        "Mahabharata 12.49",
+        "Bhagavata Purana 9.15",
+        "Vayu and Brahmanda Puranas (Haihaya lineage)",
+        "Markandeya Purana (Dattatreya chapters)"
+      ],
+      "variations": [
+        "Mahabharata 12.49: he burned the hermitage of the sage Apava (identified with Vasishtha), who cursed him to be slain by Parashurama.",
+        "Versions differ on whether he or his sons seized Jamadagni's cow or calf, and whether his sons later killed Jamadagni.",
+        "Some Haihaya and Kalachuri descent traditions revere him as a divine ancestor; he is also regarded as an incarnation of the Sudarshana Chakra in some communities."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kardama",
+      "name": "Kardama",
+      "devanagari": "कर्दम",
+      "aliases": [
+        "Kardama Prajapati",
+        "Kardama Muni"
+      ],
+      "category": "rishi",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "A Prajapati born from Brahma's shadow, husband of Devahuti and father of the sage Kapila and of nine daughters who married the great rishis. After Kapila's birth he renounced the world.",
+      "story": "At Brahma's command to beget offspring, Kardama performed austerities for ten thousand years on the bank of the Sarasvati. Vishnu appeared, shedding a tear of joy that formed the lake Bindu Sarovara, and promised that Svayambhuva Manu would bring his daughter Devahuti to be his wife, and that he himself would be born as their son. Manu came as foretold, and Kardama married Devahuti on the condition that he would leave for the ascetic life once children were born. By his yogic power he created a flying palace in which they travelled the worlds. Nine daughters were born, and at last Vishnu was born as Kapila. Kardama then circumambulated his son, took leave and departed for the forest.",
+      "symbols": [
+        "ascetic",
+        "matted hair",
+        "flying palace (vimana)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Bindu Sarovara (Siddhapur, Gujarat, by tradition)",
+      "sources": [
+        "Bhagavata Purana 3.12",
+        "Bhagavata Purana 3.21–24",
+        "Mahabharata 12.59 (a Kardama in Vena's ancestry)"
+      ],
+      "variations": [
+        "The Bhagavata gives the fullest account; some Puranas list Kardama as a son of Pulaha or among the Prajapatis without this story.",
+        "The Kardama named in the Mahabharata's genealogy of Vena may be a different figure."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "devahuti",
+      "name": "Devahuti",
+      "devanagari": "देवहूति",
+      "aliases": [
+        "Devahooti",
+        "mother of Kapila"
+      ],
+      "category": "human",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "Daughter of Svayambhuva Manu and Shatarupa, wife of the sage Kardama and mother of Kapila. Her dialogue with her son Kapila in the Bhagavata is a foundational exposition of devotional Sankhya and yoga.",
+      "story": "Devahuti, princess and daughter of the first Manu, heard of the sage Kardama from Narada and resolved to marry him. She served him devotedly in his hermitage until her body grew thin from austerity. Pleased, Kardama bathed her in the lake Bindu Sarovara, restoring her beauty, and took her travelling in his flying palace. After nine daughters were born, Kardama prepared to renounce the world, and Devahuti grieved that she had not sought liberation. Then Vishnu was born to her as Kapila. When Kardama had gone, she asked her son how to free herself from attachment. Kapila taught her the principles of Sankhya and the path of devotion, and by following it she attained liberation; her hermitage became the holy place Siddhapada.",
+      "symbols": [
+        "princess turned ascetic"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Bindu Sarovara (Siddhapur, Gujarat, by tradition)",
+      "sources": [
+        "Bhagavata Purana 3.12",
+        "Bhagavata Purana 3.21–33"
+      ],
+      "variations": [
+        "The Vishnu Purana lists only Akuti and Prasuti as Svayambhuva Manu's daughters; Devahuti as a third daughter is chiefly Bhagavata tradition.",
+        "Siddhapur in Gujarat is venerated as the site of her liberation (Matru Gaya)."
+      ],
+      "disputed": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "matsya",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Matsya, the fish, is the first of Vishnu's ten principal avatars",
+      "variation": "Shatapatha Brahmana 1.8.1 does not name the fish; Vishnu's identification is Puranic (Bhagavata 8.24, Matsya Purana)."
+    },
+    {
+      "source": "matsya",
+      "target": "brahma",
+      "type": "avatar-of",
+      "label": "In the Mahabharata the fish reveals himself as Brahma Prajapati",
+      "disputed": true,
+      "variation": "Mahabharata 3.185 only; the Puranas identify the fish with Vishnu."
+    },
+    {
+      "source": "matsya",
+      "target": "vaivasvata-manu",
+      "type": "guru",
+      "label": "Matsya saved Manu from the deluge and taught him the Matsya Purana and the lore of dharma",
+      "variation": "The Bhagavata calls the king Satyavrata, who becomes Vaivasvata Manu."
+    },
+    {
+      "source": "matsya",
+      "target": "saptarishi",
+      "type": "ally",
+      "label": "Matsya towed the ship carrying the Seven Sages through the flood",
+      "variation": "The Seven Sages are in the Mahabharata and Puranic versions, not the Shatapatha Brahmana."
+    },
+    {
+      "source": "kurma",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Kurma, the tortoise, is Vishnu's second avatar, bearing Mount Mandara at the churning of the ocean",
+      "variation": "The Mahabharata's churning account assigns the task to the tortoise-king Akupara."
+    },
+    {
+      "source": "kurma",
+      "target": "prajapati",
+      "type": "form-of",
+      "label": "In the Shatapatha Brahmana Prajapati takes the form of a tortoise to create living beings"
+    },
+    {
+      "source": "kurma",
+      "target": "kashyapa",
+      "type": "form-of",
+      "label": "The Shatapatha Brahmana equates the creator-tortoise (kurma) with Kashyapa, father of all creatures",
+      "disputed": true,
+      "variation": "A Brahmana etymological identification (kashyapa = kurma), not a Puranic narrative."
+    },
+    {
+      "source": "kurma",
+      "target": "vasuki",
+      "type": "ally",
+      "label": "Kurma supported Mount Mandara while the serpent Vasuki served as the churning rope"
+    },
+    {
+      "source": "varaha",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Varaha, the boar, is Vishnu's third avatar, who raised the Earth from the cosmic waters"
+    },
+    {
+      "source": "varaha",
+      "target": "prajapati",
+      "type": "form-of",
+      "label": "The Taittiriya Samhita and Shatapatha Brahmana describe Prajapati as a boar (Emusha) raising the earth"
+    },
+    {
+      "source": "varaha",
+      "target": "hiranyaksha",
+      "type": "slayer",
+      "label": "Varaha killed the daitya Hiranyaksha, who had dragged the Earth into the ocean",
+      "variation": "The Bhagavata elaborates the duel; earlier accounts of the earth's rescue have no demon."
+    },
+    {
+      "source": "varaha",
+      "target": "prithvi",
+      "type": "spouse",
+      "label": "Varaha rescued Bhudevi on his tusks and is worshipped with her as his consort"
+    },
+    {
+      "source": "varaha",
+      "target": "narakasura",
+      "type": "parent",
+      "label": "Several Puranas make Narakasura the son of Varaha and Bhudevi",
+      "disputed": true,
+      "variation": "Vishnu Purana and Kalika Purana; other texts say Naraka was born of Bhudevi when touched by Varaha, or name Hiranyaksha as father."
+    },
+    {
+      "source": "varahi",
+      "target": "varaha",
+      "type": "created-by",
+      "label": "Varahi, one of the Matrikas, is the shakti emanating from Varaha",
+      "variation": "In the Devi Mahatmya she emerges from the body of Vishnu in his boar form."
+    },
+    {
+      "source": "narasimha",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Narasimha, the man-lion, is Vishnu's fourth avatar"
+    },
+    {
+      "source": "narasimha",
+      "target": "hiranyakashipu",
+      "type": "slayer",
+      "label": "Narasimha burst from a pillar and tore apart Hiranyakashipu at twilight on the threshold, evading Brahma's boon"
+    },
+    {
+      "source": "prahlada",
+      "target": "narasimha",
+      "type": "devotee",
+      "label": "Prahlada's devotion summoned Narasimha, and only his praise calmed the man-lion's fury"
+    },
+    {
+      "source": "narasimha",
+      "target": "lakshmi",
+      "type": "spouse",
+      "label": "Narasimha is worshipped with Lakshmi seated on his lap as Lakshmi-Narasimha",
+      "variation": "In the Bhagavata even Lakshmi dares not approach the raging Narasimha; temple traditions pair them."
+    },
+    {
+      "source": "vamana",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Vamana, the dwarf, is Vishnu's fifth avatar, who became Trivikrama",
+      "variation": "Rig Veda 1.154 praises Vishnu's three strides; the dwarf form appears first in Shatapatha Brahmana 1.2.5."
+    },
+    {
+      "source": "kashyapa",
+      "target": "vamana",
+      "type": "parent",
+      "label": "Vamana was born as the son of the sage Kashyapa"
+    },
+    {
+      "source": "aditi",
+      "target": "vamana",
+      "type": "parent",
+      "label": "Vamana was born to Aditi in answer to her prayers for the gods"
+    },
+    {
+      "source": "vamana",
+      "target": "indra",
+      "type": "sibling",
+      "label": "As a son of Aditi, Vamana is Upendra, the younger brother of Indra"
+    },
+    {
+      "source": "vamana",
+      "target": "bali",
+      "type": "enemy",
+      "label": "Vamana begged three steps of land from Bali and with two strides took back the worlds he had conquered"
+    },
+    {
+      "source": "vamana",
+      "target": "bali",
+      "type": "boon",
+      "label": "Pleased by Bali's integrity, Vamana made him ruler of Sutala and became the guardian of his gate",
+      "variation": "Kerala's Onam tradition adds a boon that Mahabali may visit his people once a year."
+    },
+    {
+      "source": "vamana",
+      "target": "shukracharya",
+      "type": "enemy",
+      "label": "Shukracharya warned Bali against the dwarf's request and tried to obstruct the gift",
+      "variation": "Puranic and folk tellings add that Shukra, as a bee, blocked the vessel's spout and lost an eye to a blade of kusha grass."
+    },
+    {
+      "source": "ganga",
+      "target": "vamana",
+      "type": "created-by",
+      "label": "Ganga began to flow when Trivikrama's toe pierced the shell of the cosmic egg",
+      "disputed": true,
+      "variation": "Bhagavata 5.17; other texts say Brahma washed Trivikrama's foot and the water became Ganga, or give different origins."
+    },
+    {
+      "source": "parashurama",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Parashurama is Vishnu's sixth avatar",
+      "variation": "The epics portray him as a Bhargava hero of partial divinity; later theology calls him an avesha (empowered) avatar."
+    },
+    {
+      "source": "jamadagni",
+      "target": "parashurama",
+      "type": "parent",
+      "label": "Parashurama is the youngest son of the sage Jamadagni"
+    },
+    {
+      "source": "renuka",
+      "target": "parashurama",
+      "type": "parent",
+      "label": "Renuka is the mother of Parashurama"
+    },
+    {
+      "source": "parashurama",
+      "target": "kartavirya-arjuna",
+      "type": "slayer",
+      "label": "Parashurama cut off Kartavirya Arjuna's thousand arms and killed him for seizing Jamadagni's sacred calf"
+    },
+    {
+      "source": "parashurama",
+      "target": "renuka",
+      "type": "slayer",
+      "label": "Parashurama beheaded his mother at his father's command, then won her restoration to life as a boon",
+      "disputed": true,
+      "variation": "She is revived at once, so this is not a lasting death; Mahabharata 3.116."
+    },
+    {
+      "source": "jamadagni",
+      "target": "parashurama",
+      "type": "boon",
+      "label": "Jamadagni granted Parashurama boons: Renuka restored to life, his brothers healed, and invincibility"
+    },
+    {
+      "source": "shiva",
+      "target": "parashurama",
+      "type": "guru",
+      "label": "Parashurama learned the arts of war from Shiva and received his axe from him",
+      "variation": "Some traditions say Parashurama won the axe through austerities; the Mahabharata emphasises Shiva's favour."
+    },
+    {
+      "source": "parashurama",
+      "target": "bhishma",
+      "type": "guru",
+      "label": "Parashurama taught Bhishma the use of weapons"
+    },
+    {
+      "source": "parashurama",
+      "target": "drona",
+      "type": "guru",
+      "label": "Parashurama gave Drona his weapons and the knowledge of their use"
+    },
+    {
+      "source": "parashurama",
+      "target": "karna",
+      "type": "guru",
+      "label": "Karna, posing as a brahmin, learned the Brahmastra from Parashurama"
+    },
+    {
+      "source": "parashurama",
+      "target": "karna",
+      "type": "curse",
+      "label": "Parashurama cursed Karna to forget the Brahmastra at his hour of greatest need for deceiving him"
+    },
+    {
+      "source": "parashurama",
+      "target": "bhishma",
+      "type": "enemy",
+      "label": "Parashurama fought Bhishma for twenty-three days on Amba's behalf, without victory"
+    },
+    {
+      "source": "parashurama",
+      "target": "rama",
+      "type": "enemy",
+      "label": "Parashurama challenged Rama after he broke Shiva's bow, then yielded, recognising him as Vishnu",
+      "variation": "Valmiki Ramayana, Bala Kanda; later texts explain it as Parashurama's avatar power passing to Rama."
+    },
+    {
+      "source": "parashurama",
+      "target": "ganesha",
+      "type": "enemy",
+      "label": "Parashurama broke one of Ganesha's tusks with his axe when Ganesha barred him from Shiva",
+      "disputed": true,
+      "variation": "Brahmanda Purana; other stories attribute the broken tusk to Ganesha writing the Mahabharata or to fights with other foes."
+    },
+    {
+      "source": "parashurama",
+      "target": "kalki",
+      "type": "guru",
+      "label": "The Kalki Purana says Parashurama will teach the arts of war to Kalki",
+      "disputed": true,
+      "variation": "Kalki Purana only, a late text."
+    },
+    {
+      "source": "parashurama",
+      "target": "kashyapa",
+      "type": "boon",
+      "label": "After exterminating the kshatriyas, Parashurama gave the whole earth to the sage Kashyapa"
+    },
+    {
+      "source": "buddha",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Some Puranas and Jayadeva's Gita Govinda count the Buddha as Vishnu's ninth avatar",
+      "disputed": true,
+      "variation": "Dashavatara lists vary: many include Buddha as the ninth avatar, while others (especially in South India) place Balarama there. Buddhists themselves do not accept the identification."
+    },
+    {
+      "source": "jagannatha",
+      "target": "buddha",
+      "type": "form-of",
+      "label": "Medieval Odia poets identified Jagannatha with the Buddha avatar",
+      "disputed": true,
+      "variation": "A regional Odia tradition (e.g. Sarala Das, the Panchasakha poets); not accepted in mainstream Jagannatha theology."
+    },
+    {
+      "source": "kalki",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Kalki is the prophesied tenth and final avatar of Vishnu, who will end the Kali Yuga",
+      "variation": "The Mahabharata (3.188–189) links him less explicitly to Vishnu than the Puranas do."
+    },
+    {
+      "source": "kalki",
+      "target": "kali-purusha",
+      "type": "slayer",
+      "label": "Kalki will destroy Kali, the personified spirit of the dark age",
+      "disputed": true,
+      "variation": "The personal battle with Kali is from the late Kalki Purana; earlier texts speak of destroying the wicked in general."
+    },
+    {
+      "source": "shiva",
+      "target": "kalki",
+      "type": "boon",
+      "label": "In the Kalki Purana Shiva gives Kalki his white horse, a sword and a parrot",
+      "disputed": true,
+      "variation": "Kalki Purana only."
+    },
+    {
+      "source": "kalki",
+      "target": "lakshmi",
+      "type": "spouse",
+      "label": "The Kalki Purana says Kalki will marry Padmavati, an incarnation of Lakshmi",
+      "disputed": true,
+      "variation": "Kalki Purana only."
+    },
+    {
+      "source": "kumaras",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "The Bhagavata counts the four Kumaras collectively as the first avatar of Vishnu",
+      "variation": "Bhagavata Purana 1.3.6; they are not among the Dashavatara."
+    },
+    {
+      "source": "kumaras",
+      "target": "brahma",
+      "type": "created-by",
+      "label": "The four Kumaras were the first mind-born sons of Brahma"
+    },
+    {
+      "source": "kumaras",
+      "target": "jaya",
+      "type": "curse",
+      "label": "The Kumaras cursed the Vaikuntha gatekeeper Jaya to be born among asuras for barring their way"
+    },
+    {
+      "source": "kumaras",
+      "target": "vijaya",
+      "type": "curse",
+      "label": "The Kumaras cursed the Vaikuntha gatekeeper Vijaya to be born among asuras for barring their way"
+    },
+    {
+      "source": "kumaras",
+      "target": "narada",
+      "type": "guru",
+      "label": "Sanatkumara teaches Narada the knowledge of the infinite (bhuman) in the Chandogya Upanishad"
+    },
+    {
+      "source": "kumaras",
+      "target": "prithu",
+      "type": "guru",
+      "label": "Sanatkumara instructed King Prithu in the knowledge of the Self",
+      "variation": "Bhagavata Purana 4.22."
+    },
+    {
+      "source": "nara-narayana",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Nara and Narayana, twin sages of Badari, are an avatar of Vishnu",
+      "variation": "Bhagavata 1.3.9 counts them as one avatar; some traditions treat Nara as a separate figure."
+    },
+    {
+      "source": "arjuna",
+      "target": "nara-narayana",
+      "type": "reincarnation-of",
+      "label": "Arjuna is the sage Nara reborn, according to the Mahabharata"
+    },
+    {
+      "source": "krishna",
+      "target": "nara-narayana",
+      "type": "reincarnation-of",
+      "label": "Krishna is the sage Narayana reborn, according to the Mahabharata",
+      "variation": "Other texts see Krishna as the full descent of Vishnu rather than of the sage Narayana."
+    },
+    {
+      "source": "urvashi",
+      "target": "nara-narayana",
+      "type": "created-by",
+      "label": "Narayana created Urvashi from his thigh (uru) to shame the apsaras Indra had sent to tempt him",
+      "variation": "Bhagavata 11.4 and other Puranas; in the Rig Veda Urvashi is an apsaras without this origin."
+    },
+    {
+      "source": "nara-narayana",
+      "target": "narada",
+      "type": "guru",
+      "label": "Narada visited Nara-Narayana at Badari and received the Pancharatra teaching of the Narayaniya"
+    },
+    {
+      "source": "nara-narayana",
+      "target": "shiva",
+      "type": "enemy",
+      "label": "The Narayaniya tells of a battle at Badari in which Narayana seized Rudra by the throat, darkening it",
+      "disputed": true,
+      "variation": "Mahabharata Shanti Parva (Narayaniya); the battle ends in reconciliation, and Shaiva texts explain Shiva's blue throat by the halahala poison."
+    },
+    {
+      "source": "nara-narayana",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Indra, fearing their austerities, sent apsaras to disturb Nara-Narayana, and was humbled"
+    },
+    {
+      "source": "kapila",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Kapila is counted among Vishnu's avatars (Bhagavata 1.3.10); the Ramayana calls him Vasudeva",
+      "variation": "Classical Sankhya's Kapila is a human founder-sage; the identification with Vishnu is epic-Puranic."
+    },
+    {
+      "source": "kardama",
+      "target": "kapila",
+      "type": "parent",
+      "label": "Kapila is the son of the sage Kardama",
+      "variation": "Bhagavata Purana 3.24."
+    },
+    {
+      "source": "devahuti",
+      "target": "kapila",
+      "type": "parent",
+      "label": "Kapila is the son of Devahuti",
+      "variation": "Bhagavata Purana 3.24."
+    },
+    {
+      "source": "kapila",
+      "target": "devahuti",
+      "type": "guru",
+      "label": "Kapila taught his mother Devahuti Sankhya and the path of devotion, leading to her liberation"
+    },
+    {
+      "source": "kapila",
+      "target": "sagara",
+      "type": "curse",
+      "label": "Kapila's fiery glance burned to ashes the sixty thousand sons of King Sagara, who accused him of stealing the sacrificial horse",
+      "variation": "The target of the fire was Sagara's sons, not the king himself."
+    },
+    {
+      "source": "kapila",
+      "target": "anshuman",
+      "type": "boon",
+      "label": "Kapila returned the sacrificial horse to Anshuman and foretold that Ganga's waters would redeem his ancestors"
+    },
+    {
+      "source": "indra",
+      "target": "kapila",
+      "type": "enemy",
+      "label": "Indra stole Sagara's sacrificial horse and left it beside the meditating Kapila",
+      "disputed": true,
+      "variation": "Bhagavata 9.8 and other Puranas name Indra as the thief; the Ramayana speaks only of a disguised thief."
+    },
+    {
+      "source": "dattatreya",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Dattatreya is counted among Vishnu's avatars (Bhagavata 1.3.11)",
+      "variation": "Later tradition venerates him as the combined incarnation of Brahma, Vishnu and Shiva."
+    },
+    {
+      "source": "dattatreya",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "Datta and Nath traditions revere Dattatreya as embodying Shiva as well as Vishnu and Brahma",
+      "disputed": true,
+      "variation": "The Bhagavata makes Durvasa the portion of Shiva; the Trimurti Dattatreya is a medieval development."
+    },
+    {
+      "source": "atri",
+      "target": "dattatreya",
+      "type": "parent",
+      "label": "Dattatreya is the son of the sage Atri"
+    },
+    {
+      "source": "anasuya",
+      "target": "dattatreya",
+      "type": "parent",
+      "label": "Dattatreya is the son of Anasuya, famed for her chastity"
+    },
+    {
+      "source": "dattatreya",
+      "target": "durvasa",
+      "type": "sibling",
+      "label": "Dattatreya and Durvasa were born to Atri and Anasuya as portions of Vishnu and Shiva"
+    },
+    {
+      "source": "dattatreya",
+      "target": "soma",
+      "type": "sibling",
+      "label": "Soma was born to Atri and Anasuya as Brahma's portion, alongside Dattatreya",
+      "variation": "Bhagavata 4.1; elsewhere Soma is born from Atri's eyes or from the churning of the ocean."
+    },
+    {
+      "source": "dattatreya",
+      "target": "kartavirya-arjuna",
+      "type": "boon",
+      "label": "Dattatreya granted Kartavirya Arjuna a thousand arms, a golden chariot and sovereignty"
+    },
+    {
+      "source": "dattatreya",
+      "target": "prahlada",
+      "type": "guru",
+      "label": "The Bhagavata says Dattatreya taught the knowledge of the Self to Alarka, Prahlada and others"
+    },
+    {
+      "source": "dattatreya",
+      "target": "yadu",
+      "type": "guru",
+      "label": "The avadhuta who teaches King Yadu about his twenty-four gurus is identified with Dattatreya",
+      "disputed": true,
+      "variation": "Bhagavata 11.7–9 does not name him; the identification is traditional."
+    },
+    {
+      "source": "dattatreya",
+      "target": "parashurama",
+      "type": "guru",
+      "label": "In the Tripura Rahasya, Dattatreya instructs Parashurama in the knowledge of the Goddess Tripura",
+      "disputed": true,
+      "variation": "Tripura Rahasya, a Shakta text of uncertain date."
+    },
+    {
+      "source": "yajna",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Yajna, the personified sacrifice, is Vishnu's avatar in the Svayambhuva Manvantara",
+      "variation": "Bhagavata 1.3.12; the Vedic formula 'yajno vai vishnuh' underlies the identification."
+    },
+    {
+      "source": "svayambhuva-manu",
+      "target": "yajna",
+      "type": "ancestor-of",
+      "label": "Yajna is the son of Svayambhuva Manu's daughter Akuti and the sage Ruchi"
+    },
+    {
+      "source": "yajna",
+      "target": "indra",
+      "type": "form-of",
+      "label": "Yajna held the office of Indra during the first (Svayambhuva) Manvantara",
+      "disputed": true,
+      "variation": "Indra is treated as an office held by different beings in each Manvantara (Bhagavata 8.1)."
+    },
+    {
+      "source": "rishabha",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "The Bhagavata counts Rishabha, the naked royal ascetic, among Vishnu's avatars",
+      "variation": "In Jainism Rishabhanatha is the first Tirthankara, a liberated human teacher, not an avatar."
+    },
+    {
+      "source": "svayambhuva-manu",
+      "target": "rishabha",
+      "type": "ancestor-of",
+      "label": "Rishabha descends from Svayambhuva Manu through Priyavrata, Agnidhra and Nabhi"
+    },
+    {
+      "source": "indra",
+      "target": "rishabha",
+      "type": "enemy",
+      "label": "Jealous of Rishabha, Indra withheld the rains, which Rishabha restored by his own power; Indra later gave him his daughter Jayanti",
+      "variation": "Bhagavata Purana 5.4."
+    },
+    {
+      "source": "prithu",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "The Bhagavata counts Prithu as a partial (amsha) avatar of Vishnu",
+      "variation": "He is described as an empowered portion rather than a full avatar; Vedic texts know him only as the first king."
+    },
+    {
+      "source": "prithu",
+      "target": "vena",
+      "type": "created-by",
+      "label": "Prithu emerged when the sages churned the arm of the slain king Vena",
+      "variation": "This is not ordinary parentage; the dark Nishada came from Vena's thigh, Prithu from his arm."
+    },
+    {
+      "source": "prithu",
+      "target": "prithvi",
+      "type": "enemy",
+      "label": "Prithu pursued the Earth, fleeing as a cow, until she agreed to yield her riches; she was named Prithvi after him",
+      "variation": "As she became like his daughter, the Earth took his name; the Vedic Prithvi is much older than this etymological legend."
+    },
+    {
+      "source": "indra",
+      "target": "prithu",
+      "type": "enemy",
+      "label": "Indra repeatedly stole the horse of Prithu's hundredth ashvamedha, until Brahma persuaded Prithu to stop",
+      "variation": "Bhagavata Purana 4.19."
+    },
+    {
+      "source": "svayambhuva-manu",
+      "target": "prithu",
+      "type": "ally",
+      "label": "Svayambhuva Manu served as the calf when Prithu milked the grains from the cow-Earth",
+      "variation": "Vishnu Purana 1.13, Bhagavata 4.18; other lists name a different calf."
+    },
+    {
+      "source": "dhruva",
+      "target": "vena",
+      "type": "ancestor-of",
+      "label": "Vena descends from Dhruva through his father Anga",
+      "variation": "Genealogies differ in the intermediate generations."
+    },
+    {
+      "source": "saptarishi",
+      "target": "vena",
+      "type": "slayer",
+      "label": "The sages struck down the impious Vena with mantra-charged blades of kusha grass",
+      "disputed": true,
+      "variation": "Most texts say simply 'the sages' (rishis, munis) without naming the Seven Sages specifically."
+    },
+    {
+      "source": "vena",
+      "target": "vishnu",
+      "type": "enemy",
+      "label": "Vena forbade the worship of Vishnu and sacrifices, demanding worship of himself"
+    },
+    {
+      "source": "dhanvantari",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Dhanvantari, the divine physician, is counted among Vishnu's avatars (Bhagavata 1.3.17)"
+    },
+    {
+      "source": "vishnu",
+      "target": "dhanvantari",
+      "type": "boon",
+      "label": "Vishnu promised Dhanvantari a second birth among men, a share of sacrifices and mastery of Ayurveda",
+      "variation": "Harivamsha 1.29."
+    },
+    {
+      "source": "indra",
+      "target": "dhanvantari",
+      "type": "guru",
+      "label": "In the Sushruta Samhita, Indra teaches Ayurveda to Dhanvantari as Divodasa, king of Kashi",
+      "disputed": true,
+      "variation": "The Sushruta Samhita's lineage runs Brahma - Prajapati - Ashvins - Indra - Dhanvantari; the Kashi king may be distinct from the ocean-born god."
+    },
+    {
+      "source": "dhanvantari",
+      "target": "mohini",
+      "type": "ally",
+      "label": "Dhanvantari brought up the pot of amrita, which Mohini recovered from the asuras and served to the gods"
+    },
+    {
+      "source": "mohini",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Mohini is the enchanting female form of Vishnu (Bhagavata 1.3.17)"
+    },
+    {
+      "source": "mohini",
+      "target": "rahu",
+      "type": "enemy",
+      "label": "Mohini's discus severed Svarbhanu's head when he secretly drank the amrita, creating Rahu and Ketu",
+      "variation": "Most texts attribute the stroke to Vishnu; the asura survived as Rahu (head) and Ketu (body)."
+    },
+    {
+      "source": "mohini",
+      "target": "ketu",
+      "type": "enemy",
+      "label": "Ketu is the headless body of the asura beheaded by Mohini's discus at the distribution of amrita"
+    },
+    {
+      "source": "mohini",
+      "target": "bhasmasura",
+      "type": "slayer",
+      "label": "Mohini tricked Bhasmasura into placing his hand on his own head, burning himself to ashes",
+      "disputed": true,
+      "variation": "A popular South Indian folk and dance-drama tale absent from major Sanskrit Puranas; the Bhagavata 10.88 parallel (Vrikasura) has Vishnu appear as a young brahmachari."
+    },
+    {
+      "source": "mohini",
+      "target": "shiva",
+      "type": "spouse",
+      "label": "Shiva was overwhelmed by Mohini's beauty; Kerala tradition makes them parents of Ayyappa",
+      "disputed": true,
+      "variation": "Bhagavata 8.12 describes Shiva's infatuation but no marriage; the union is regional."
+    },
+    {
+      "source": "mohini",
+      "target": "iravan",
+      "type": "spouse",
+      "label": "In the Tamil Koothandavar tradition, Krishna as Mohini marries Aravan the night before his sacrifice",
+      "disputed": true,
+      "variation": "Tamil (Villiputtur Alvar and Koovagam) tradition; not in the Sanskrit Mahabharata."
+    },
+    {
+      "source": "mohini",
+      "target": "indra",
+      "type": "ally",
+      "label": "Mohini secured the amrita for Indra and the gods, restoring their strength"
+    },
+    {
+      "source": "hayagriva",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Hayagriva, the horse-headed lord of knowledge, is a form of Vishnu",
+      "variation": "Bhagavata 2.7.11 lists him; the Mahabharata Narayaniya calls him Hayashiras."
+    },
+    {
+      "source": "hayagriva",
+      "target": "madhu",
+      "type": "slayer",
+      "label": "Hayagriva slew the demon Madhu after recovering the stolen Vedas",
+      "disputed": true,
+      "variation": "In the Narayaniya, Vishnu slays Madhu in his usual form after Hayagriva recovers the Vedas; the Devi Mahatmya has Vishnu kill him at the Goddess's prompting."
+    },
+    {
+      "source": "hayagriva",
+      "target": "kaitabha",
+      "type": "slayer",
+      "label": "Hayagriva slew the demon Kaitabha after recovering the stolen Vedas",
+      "disputed": true,
+      "variation": "In the Narayaniya, Vishnu slays Kaitabha in his usual form after Hayagriva recovers the Vedas; the Devi Mahatmya has Vishnu kill him at the Goddess's prompting."
+    },
+    {
+      "source": "hayagriva",
+      "target": "brahma",
+      "type": "ally",
+      "label": "Hayagriva recovered the Vedas stolen from Brahma and restored them to him"
+    },
+    {
+      "source": "hayagriva",
+      "target": "agastya",
+      "type": "guru",
+      "label": "Hayagriva taught the Lalita Sahasranama and the glory of Lalita to the sage Agastya",
+      "variation": "Brahmanda Purana, Lalitopakhyana."
+    },
+    {
+      "source": "hayagriva",
+      "target": "saraswati",
+      "type": "ally",
+      "label": "Hayagriva is worshipped with Saraswati as a deity of learning; tradition holds he is her teacher",
+      "disputed": true,
+      "variation": "Sri Vaishnava devotional tradition (e.g. Vedanta Desika); not a Puranic narrative."
+    },
+    {
+      "source": "bhairava",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "Kala Bhairava, the terrifying form born from Shiva's wrath, is counted among Shiva's avatars",
+      "variation": "The Shiva Purana lists him among the avatars; many texts describe him as a form (murti) of Shiva."
+    },
+    {
+      "source": "bhairava",
+      "target": "brahma",
+      "type": "enemy",
+      "label": "Bhairava severed Brahma's arrogant fifth head, whose skull clung to his hand until he reached Kashi",
+      "variation": "Some Puranas attribute the beheading to Shiva or Rudra directly."
+    },
+    {
+      "source": "bhairava",
+      "target": "bhairavi",
+      "type": "spouse",
+      "label": "Bhairavi, one of the Mahavidyas, is the consort of Bhairava"
+    },
+    {
+      "source": "bhairava",
+      "target": "andhaka",
+      "type": "enemy",
+      "label": "In some Puranas Shiva as Bhairava impales the asura Andhaka on his trident",
+      "disputed": true,
+      "variation": "Kurma Purana; other texts have Shiva himself impale Andhaka, who repents and becomes the gana Bhringi."
+    },
+    {
+      "source": "bhairava",
+      "target": "matrikas",
+      "type": "ally",
+      "label": "Tantric tradition pairs the eight Bhairavas with the eight Matrikas as guardians"
+    },
+    {
+      "source": "virabhadra",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "Virabhadra, born of Shiva's wrath at Sati's death, is counted among Shiva's avatars",
+      "variation": "Mahabharata: born from Shiva's mouth; Bhagavata 4.5: from a lock of his matted hair."
+    },
+    {
+      "source": "virabhadra",
+      "target": "daksha",
+      "type": "slayer",
+      "label": "Virabhadra beheaded Daksha and destroyed his sacrifice; Daksha was later restored with a goat's head",
+      "disputed": true,
+      "variation": "In some Mahabharata passages Daksha is humbled rather than beheaded; Shiva later revives him, so the death is not final."
+    },
+    {
+      "source": "virabhadra",
+      "target": "bhadrakali",
+      "type": "ally",
+      "label": "Bhadrakali accompanied Virabhadra in destroying Daksha's sacrifice",
+      "variation": "Some traditions regard her as his consort."
+    },
+    {
+      "source": "virabhadra",
+      "target": "bhrigu",
+      "type": "enemy",
+      "label": "At Daksha's sacrifice Virabhadra tore out the beard of the sage Bhrigu",
+      "variation": "Bhagavata 4.5."
+    },
+    {
+      "source": "virabhadra",
+      "target": "bhaga",
+      "type": "enemy",
+      "label": "Virabhadra plucked out the eyes of the god Bhaga at Daksha's sacrifice",
+      "variation": "Bhagavata 4.5; earlier Vedic lore already makes Bhaga blind."
+    },
+    {
+      "source": "virabhadra",
+      "target": "pushan",
+      "type": "enemy",
+      "label": "Virabhadra knocked out the teeth of Pushan at Daksha's sacrifice",
+      "variation": "Bhagavata 4.5; the Brahmanas already know Pushan as toothless."
+    },
+    {
+      "source": "virabhadra",
+      "target": "vishnu",
+      "type": "enemy",
+      "label": "In some Shaiva Puranas Vishnu defends Daksha's sacrifice and fights Virabhadra",
+      "disputed": true,
+      "variation": "Shiva Purana and Kurma Purana; the Bhagavata has Vishnu absent from the fight."
+    },
+    {
+      "source": "bhadrakali",
+      "target": "parvati",
+      "type": "created-by",
+      "label": "In the Vayu Purana, Devi (Uma) creates Bhadrakali from her anger at Daksha's insult to Shiva"
+    },
+    {
+      "source": "bhadrakali",
+      "target": "shiva",
+      "type": "created-by",
+      "label": "Kerala tradition says Bhadrakali sprang from Shiva's third eye to slay the asura Darika",
+      "disputed": true,
+      "variation": "Kerala regional tradition (Darikavadham); she is sometimes called Shiva's daughter."
+    },
+    {
+      "source": "bhadrakali",
+      "target": "kali",
+      "type": "form-of",
+      "label": "Bhadrakali is an auspicious form of Kali, the fierce Goddess",
+      "variation": "Some texts treat Bhadrakali simply as a name of Kali or Durga."
+    },
+    {
+      "source": "bhadrakali",
+      "target": "daksha",
+      "type": "enemy",
+      "label": "Bhadrakali helped destroy Daksha's sacrifice"
+    },
+    {
+      "source": "sharabha",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "Sharabha, the eight-legged bird-beast, is a form of Shiva in Shaiva sectarian texts",
+      "disputed": true,
+      "variation": "Linga Purana, Shiva Purana; rejected by Vaishnava traditions."
+    },
+    {
+      "source": "sharabha",
+      "target": "virabhadra",
+      "type": "form-of",
+      "label": "In the Linga Purana, Virabhadra assumes the Sharabha form",
+      "disputed": true,
+      "variation": "Linga Purana 1.96; the Shiva Purana has Shiva take the form directly."
+    },
+    {
+      "source": "sharabha",
+      "target": "narasimha",
+      "type": "slayer",
+      "label": "In Shaiva sectarian accounts Sharabha overpowered the raging Narasimha and humbled him",
+      "disputed": true,
+      "variation": "Sectarian: Shaiva texts say Narasimha was subdued (some say flayed) and merged back into Vishnu; Vaishnava traditions reject the story, some adding that Narasimha became Gandaberunda to defeat Sharabha."
+    },
+    {
+      "source": "sharabha",
+      "target": "varaha",
+      "type": "enemy",
+      "label": "The Kalika Purana has Shiva as Sharabha subdue Varaha when the boar will not relinquish his form",
+      "disputed": true,
+      "variation": "Kalika Purana only; a Shakta-Shaiva sectarian narrative."
+    },
+    {
+      "source": "kirata",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "Kirata is Shiva in the guise of a mountain hunter who tested Arjuna",
+      "variation": "The Mahabharata presents it as a disguise; the Shiva Purana counts it among Shiva's avatars."
+    },
+    {
+      "source": "kirata",
+      "target": "arjuna",
+      "type": "boon",
+      "label": "Pleased by Arjuna's valour in their duel, Shiva as Kirata granted him the Pashupata weapon"
+    },
+    {
+      "source": "kirata",
+      "target": "arjuna",
+      "type": "enemy",
+      "label": "Arjuna and the hunter fought over a boar both had shot, until Arjuna recognised Shiva"
+    },
+    {
+      "source": "kirata",
+      "target": "parvati",
+      "type": "spouse",
+      "label": "Parvati accompanied Shiva in the hunt, disguised as a Kirata woman"
+    },
+    {
+      "source": "shiva",
+      "target": "ayyappa",
+      "type": "parent",
+      "label": "Kerala tradition holds Ayyappa to be the son of Shiva",
+      "disputed": true,
+      "variation": "Regional Kerala tradition; not in the classical Sanskrit Puranas."
+    },
+    {
+      "source": "mohini",
+      "target": "ayyappa",
+      "type": "parent",
+      "label": "Ayyappa is Hariharaputra, son of Shiva and Mohini (Vishnu's female form)",
+      "disputed": true,
+      "variation": "Regional Kerala tradition; not in the classical Sanskrit Puranas."
+    },
+    {
+      "source": "ayyappa",
+      "target": "mahishi",
+      "type": "slayer",
+      "label": "Ayyappa slew the buffalo-demoness Mahishi, who could be killed only by a son of Shiva and Vishnu",
+      "disputed": true,
+      "variation": "Some accounts say Mahishi was freed from a curse and became Malikappurathamma."
+    },
+    {
+      "source": "ayyappa",
+      "target": "harihara",
+      "type": "form-of",
+      "label": "As Hariharaputra, Ayyappa embodies the union of Shiva (Hara) and Vishnu (Hari)",
+      "disputed": true,
+      "variation": "Ayyappa is their son rather than the Harihara form itself; the link is theological."
+    },
+    {
+      "source": "jamadagni",
+      "target": "renuka",
+      "type": "spouse",
+      "label": "Renuka was the wife of the sage Jamadagni"
+    },
+    {
+      "source": "jamadagni",
+      "target": "renuka",
+      "type": "curse",
+      "label": "Enraged by Renuka's momentary lapse, Jamadagni ordered her death",
+      "variation": "Mahabharata 3.116; the order is a command to his sons rather than a verbal curse."
+    },
+    {
+      "source": "renuka",
+      "target": "matangi",
+      "type": "form-of",
+      "label": "In some regional traditions Renuka's severed head on another body becomes the goddess Matangi / Yellamma",
+      "disputed": true,
+      "variation": "Karnataka, Maharashtra and Andhra folk traditions; not in the Sanskrit texts."
+    },
+    {
+      "source": "kartavirya-arjuna",
+      "target": "ravana",
+      "type": "enemy",
+      "label": "Kartavirya Arjuna defeated Ravana, bound him and held him captive in Mahishmati"
+    },
+    {
+      "source": "pulastya",
+      "target": "kartavirya-arjuna",
+      "type": "ally",
+      "label": "The sage Pulastya persuaded Kartavirya Arjuna to release his grandson Ravana"
+    },
+    {
+      "source": "kartavirya-arjuna",
+      "target": "jamadagni",
+      "type": "enemy",
+      "label": "Kartavirya Arjuna seized the sacrificial calf from Jamadagni's hermitage",
+      "variation": "Versions differ on whether he or his sons stole the calf or the cow, and on who killed Jamadagni."
+    },
+    {
+      "source": "yadu",
+      "target": "kartavirya-arjuna",
+      "type": "ancestor-of",
+      "label": "The Haihaya king Kartavirya Arjuna belongs to the lineage of Yadu"
+    },
+    {
+      "source": "vashistha",
+      "target": "kartavirya-arjuna",
+      "type": "curse",
+      "label": "The sage Apava, identified with Vasishtha, cursed Kartavirya to be slain by Parashurama for burning his hermitage",
+      "disputed": true,
+      "variation": "Mahabharata 12.49; the identification of Apava with Vasishtha is traditional."
+    },
+    {
+      "source": "kardama",
+      "target": "devahuti",
+      "type": "spouse",
+      "label": "Kardama married Devahuti, daughter of Svayambhuva Manu"
+    },
+    {
+      "source": "kardama",
+      "target": "brahma",
+      "type": "created-by",
+      "label": "Kardama was born from Brahma's shadow",
+      "variation": "Bhagavata 3.12; some Puranas make him a son of Pulaha."
+    },
+    {
+      "source": "kardama",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Kardama's austerities at Bindu Sarovara were rewarded by a vision of Vishnu, who promised to be born as his son"
+    },
+    {
+      "source": "kardama",
+      "target": "anasuya",
+      "type": "parent",
+      "label": "Anasuya, wife of Atri, was one of Kardama's nine daughters",
+      "variation": "Bhagavata 3.24; other Puranas make Anasuya a daughter of Daksha."
+    },
+    {
+      "source": "devahuti",
+      "target": "anasuya",
+      "type": "parent",
+      "label": "Anasuya was a daughter of Devahuti",
+      "variation": "Bhagavata 3.24; other Puranas make Anasuya a daughter of Daksha."
+    },
+    {
+      "source": "kardama",
+      "target": "arundhati",
+      "type": "parent",
+      "label": "Arundhati, wife of Vasishtha, was one of Kardama's nine daughters",
+      "variation": "Bhagavata 3.24; other texts give different parentage."
+    },
+    {
+      "source": "devahuti",
+      "target": "arundhati",
+      "type": "parent",
+      "label": "Arundhati was a daughter of Devahuti",
+      "variation": "Bhagavata 3.24; other texts give different parentage."
+    },
+    {
+      "source": "svayambhuva-manu",
+      "target": "devahuti",
+      "type": "parent",
+      "label": "Devahuti was the daughter of Svayambhuva Manu",
+      "variation": "Bhagavata tradition; the Vishnu Purana lists only Akuti and Prasuti."
+    },
+    {
+      "source": "shatarupa",
+      "target": "devahuti",
+      "type": "parent",
+      "label": "Devahuti was the daughter of Shatarupa",
+      "variation": "Bhagavata tradition; the Vishnu Purana lists only Akuti and Prasuti."
+    },
+    {
+      "source": "devahuti",
+      "target": "prasuti",
+      "type": "sibling",
+      "label": "Devahuti and Prasuti, wife of Daksha, were sisters, daughters of Svayambhuva Manu",
+      "variation": "Bhagavata tradition."
+    },
+    {
+      "source": "rama",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Rama is the seventh avatar of Vishnu",
+      "variation": "Valmiki's Bala and Uttara Kandas state it explicitly; many scholars regard these books as later layers, the core narrative presenting Rama primarily as an ideal human hero."
+    },
+    {
+      "source": "krishna",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Krishna is the eighth avatar of Vishnu",
+      "variation": "Gaudiya Vaishnavas, following Bhagavata 1.3.28 ('krishnas tu bhagavan svayam'), hold Krishna to be the Supreme Lord himself, the source of all avatars."
+    },
+    {
+      "source": "balarama",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "Balarama is counted as an avatar of Vishnu (Bhagavata 1.3.23)",
+      "variation": "Dashavatara lists vary: many include Buddha as the ninth avatar, while others (especially in South India) place Balarama there."
+    },
+    {
+      "source": "balarama",
+      "target": "shesha",
+      "type": "avatar-of",
+      "label": "Balarama is widely regarded as an incarnation of the serpent Shesha",
+      "variation": "The Mahabharata and Puranas describe a white hair of Vishnu (Balarama) and a black hair (Krishna); Shesha leaving Balarama's mouth at his death supports the Shesha identification."
+    },
+    {
+      "source": "hanuman",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "Hanuman is revered as the eleventh Rudra, an avatar of Shiva",
+      "disputed": true,
+      "variation": "Stated in the Shiva Purana (Shatarudra Samhita) and later texts; Valmiki's Ramayana makes him the son of Vayu and does not state it."
+    },
+    {
+      "source": "narada",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "The Bhagavata counts the sage Narada among Vishnu's avatars (1.3.8)",
+      "variation": "Most texts treat Narada as a devotee and mind-born son of Brahma rather than an avatar."
+    },
+    {
+      "source": "vyasa",
+      "target": "vishnu",
+      "type": "avatar-of",
+      "label": "The Bhagavata counts Vyasa, compiler of the Vedas, among Vishnu's avatars (1.3.21)",
+      "variation": "Vishnu Purana 3.3–4 calls each age's Veda-arranger a form of Vishnu."
+    },
+    {
+      "source": "durvasa",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "Durvasa was born to Atri and Anasuya as a partial incarnation of Shiva",
+      "variation": "Bhagavata 4.1; other texts attribute his birth to Shiva's anger."
+    },
+    {
+      "source": "ashwatthama",
+      "target": "shiva",
+      "type": "avatar-of",
+      "label": "The Mahabharata says Ashwatthama was born of the combined portions of Mahadeva, Yama, Kama and Krodha",
+      "variation": "A partial incarnation (amsha), not a full avatar."
+    }
+  ]
+}

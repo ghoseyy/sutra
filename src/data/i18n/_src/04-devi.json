@@ -1,0 +1,1806 @@
+{
+ "section": "04-devi",
+ "nodes": {
+  "adi-parashakti": {
+   "name": "Adi Parashakti",
+   "aliases": [
+    "Mahadevi",
+    "Parashakti",
+    "Mahamaya",
+    "Jaganmata",
+    "Parameshvari",
+    "Devi",
+    "Shakti"
+   ],
+   "description": "The supreme, primordial Goddess of Shakta theology: the dynamic power (shakti) that is ultimate reality itself, from whom gods and goddesses alike emanate. The Devi Mahatmya first presents her as the one Great Goddess behind Durga, Kali and the Mothers; the Devi Bhagavata Purana makes her the source even of Brahma, Vishnu and Shiva.",
+   "story": "In the third book of the Devi Bhagavata, Brahma, Vishnu and Shiva are carried on a flying chariot across strange worlds until they reach Manidvipa, an island of jewels set in an ocean of nectar. There, on a jewelled couch, sits a radiant Goddess attended by countless shaktis. As the three gods draw near they are transformed into young women, and in the nail of her foot they glimpse the entire universe, with other Brahmas, Vishnus and Shivas beyond number. Humbled, Vishnu hymns her as the cause of all causes, the power without which even the gods cannot move. The Goddess entrusts them with creation, preservation and dissolution, gives them Sarasvati, Lakshmi and Gauri as their consorts, and sends them back to their tasks. Later, in the Devi Gita, she tells Himavan plainly that she and Brahman are one.",
+   "symbols": [
+    "pasha (noose)",
+    "ankusha (goad)",
+    "varada and abhaya mudras",
+    "Shri Chakra",
+    "jewelled throne of Manidvipa"
+   ],
+   "weapons": [
+    "pasha",
+    "ankusha"
+   ],
+   "vahana": null,
+   "abode": "Manidvipa (Sarvaloka), beyond all worlds",
+   "sources": [
+    "Rig Veda 10.125 (Devi Sukta, as precursor)",
+    "Devi Mahatmya (Markandeya Purana 81–93)",
+    "Devi Bhagavata Purana, Books 3, 7 and 12",
+    "Devi Gita (Devi Bhagavata Purana 7.31–40)",
+    "Devi Upanishad"
+   ],
+   "variations": [
+    "In the Pradhanika Rahasya appended to the Devi Mahatmya, the root Goddess is Mahalakshmi, who brings forth Mahakali and Mahasarasvati.",
+    "Shri Vidya identifies the supreme Goddess with Lalita Tripura Sundari; Kalikula Tantras with Kali.",
+    "The name 'Adi Parashakti' is a later, largely modern devotional title for the Mahadevi of the Shakta Puranas."
+   ]
+  },
+  "durga": {
+   "name": "Durga",
+   "aliases": [
+    "Ambika",
+    "Chandika",
+    "Mahishasuramardini",
+    "Bhavani",
+    "Jagadamba",
+    "Vindhyavasini",
+    "Sherawali",
+    "Durgatinashini"
+   ],
+   "description": "The invincible warrior form of the Goddess, created from the combined radiance of the gods to destroy the buffalo-demon Mahishasura. Riding a lion and bearing the gods' weapons in her many arms, she protects the cosmic order and is worshipped above all during Navaratri and Durga Puja.",
+   "story": "The buffalo-demon Mahishasura defeated the gods and took Indra's throne. The exiled gods told Brahma, Vishnu and Shiva, whose faces blazed with anger; from them and from every other god poured a radiance that merged into a mountain of light and took the form of a woman whose splendour filled the three worlds. Each god gave her a weapon: Shiva a trident, Vishnu a discus, Indra the thunderbolt, Agni a spear, Varuna a conch and noose, and Himavan a lion to ride. She cut down Mahisha's generals and armies, while the demon himself changed from buffalo to lion, to a man with a sword, to an elephant and back to buffalo. Drinking a divine draught, she laughed, leapt upon him, pinned his neck beneath her foot and pierced him with her trident; as he struggled half-emerged from the buffalo's mouth, she struck off his head.",
+   "symbols": [
+    "lion",
+    "eight or ten arms",
+    "trident",
+    "discus",
+    "conch",
+    "bow and arrows",
+    "lotus",
+    "red sari",
+    "buffalo-demon at her feet"
+   ],
+   "weapons": [
+    "trishula (from Shiva)",
+    "chakra (from Vishnu)",
+    "vajra and bell (from Indra)",
+    "shakti spear (from Agni)",
+    "conch and noose (from Varuna)",
+    "bow and quiver (from Vayu)",
+    "danda (from Yama)",
+    "sword and shield (from Kala)",
+    "axe (from Vishvakarma)"
+   ],
+   "vahana": "Lion (Dawon)",
+   "abode": "The Himalaya and the Vindhya mountains",
+   "sources": [
+    "Taittiriya Aranyaka 10 (Durga Sukta, Mahanarayana Upanishad)",
+    "Mahabharata, Virata Parva and Bhishma Parva (Durga hymns)",
+    "Harivamsha (Arya-stava)",
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 2–4 and 11",
+    "Devi Bhagavata Purana, Book 5",
+    "Kalika Purana"
+   ],
+   "variations": [
+    "The Durga Sukta of the Taittiriya Aranyaka invokes a fiery 'Durga Devi', the earliest use of the name; whether it denotes the later warrior goddess is debated.",
+    "The Durga hymns of Yudhishthira and Arjuna are relegated to the appendix of the Mahabharata's Critical Edition, suggesting later insertion.",
+    "The Vamana Purana names the Mahishasura-slayer Katyayani; the Pradhanika Rahasya calls the goddess of this episode Mahalakshmi.",
+    "Devi Mahatmya ch. 11 explains her name: she will be called Durga for slaying the demon Durgama.",
+    "In Bengali Durga Puja she comes to her parental home with Lakshmi, Sarasvati, Ganesha and Kartikeya as her children."
+   ]
+  },
+  "kali": {
+   "name": "Kali",
+   "aliases": [
+    "Kalika",
+    "Mahakali",
+    "Dakshinakali",
+    "Shyama",
+    "Adya Kali",
+    "Bhavatarini"
+   ],
+   "description": "The dark, fierce Goddess of time and dissolution, who bursts into myth from the furious brow of the Goddess in the Devi Mahatmya. Garlanded with severed heads and standing upon Shiva, she destroys demons and ego alike, and in Tantric and Bengali devotion she is the supreme and compassionate Mother.",
+   "story": "When the demon generals Chanda and Munda advanced with their army to seize the Goddess, Ambika's face grew dark as ink with anger. From her knitted brow sprang Kali: gaunt and terrible, wrapped in a tiger skin, garlanded with skulls, her mouth gaping and tongue lolling, her eyes red and sunken. She hurled herself on the demon host, stuffing elephants, chariots and riders into her mouth and crushing them between her teeth. She seized Chanda by the hair and struck off his head, then cut down Munda, and laid both heads before Ambika, who named her Chamunda. Soon after came Raktabija, from each drop of whose blood a new demon arose. At Chandika's command Kali opened her mouth wide and drank every drop as it fell, devouring the demons born of it, until Raktabija, drained of blood, fell dead.",
+   "symbols": [
+    "dark blue or black skin",
+    "garland of severed heads",
+    "skirt of severed arms",
+    "lolling red tongue",
+    "standing on Shiva",
+    "dishevelled hair",
+    "cremation ground"
+   ],
+   "weapons": [
+    "khadga (sword)",
+    "severed head",
+    "khatvanga (skull-staff)",
+    "kapala (skull-cup)"
+   ],
+   "vahana": null,
+   "abode": "Cremation grounds; Kalighat and Dakshineswar (Bengal)",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 7–8",
+    "Linga Purana (Kali and Daruka)",
+    "Kalika Purana",
+    "Mahabhagavata Purana",
+    "Kali Tantra",
+    "Todala Tantra"
+   ],
+   "variations": [
+    "Proto-forms precede the Devi Mahatmya: the Mundaka Upanishad (1.2.4) names Kali as one of the seven tongues of Agni, the Mahabharata's Sauptika Parva has the dark death-goddess Kalaratri, and the epic Durga hymns use 'Kali' as an epithet.",
+    "Linga Purana: Parvati brings forth Kali, empowered by the poison in Shiva's throat, to slay the demon Daruka.",
+    "The image of Kali biting her tongue in shame after stepping on Shiva is a late Bengali reading; Tantric texts see it as Shakti animating the inert Shiva (shava).",
+    "Adbhuta Ramayana: Sita takes Kali's form to destroy a thousand-headed Ravana."
+   ]
+  },
+  "kaushiki": {
+   "name": "Kaushiki (Ambika)",
+   "aliases": [
+    "Ambika",
+    "Chandika",
+    "Kaushiki Durga",
+    "Mahasarasvati"
+   ],
+   "description": "The radiant goddess who emerged from the bodily sheath (kosha) of Parvati in the third episode of the Devi Mahatmya, where she is usually called Ambika or Chandika. She is the heroine of the war against Shumbha and Nishumbha, from whose brow Kali springs and into whom the Mothers are finally reabsorbed.",
+   "story": "Driven from heaven by the demon brothers Shumbha and Nishumbha, the gods went to the Himalaya and praised the Goddess who dwells in all beings as consciousness, power, hunger and peace. Parvati, coming to bathe in the Ganga, asked whom they were praising, and from her own body came forth an auspicious goddess who answered, 'This hymn is for me.' Because she came from Parvati's sheath she was called Kaushiki, and Parvati herself turned dark. The demon scouts Chanda and Munda saw her beauty and told Shumbha, who sent a messenger proposing marriage. Smiling, she replied that she had foolishly vowed to wed only one who could defeat her in battle. One by one the demons came: she burned Dhumralochana with a single sound, loosed Kali and the Mothers, slew Nishumbha, and finally, alone and in the sky, pierced Shumbha's chest with her spear.",
+   "symbols": [
+    "golden complexion",
+    "lion",
+    "bell",
+    "trident",
+    "conch"
+   ],
+   "weapons": [
+    "trishula",
+    "shakti spear",
+    "bow and arrows",
+    "sword",
+    "discus"
+   ],
+   "vahana": "Lion (Dawon)",
+   "abode": "The Himalaya",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 5–10",
+    "Devi Bhagavata Purana, Book 5",
+    "Vamana Purana",
+    "Shiva Purana, Uma Samhita"
+   ],
+   "variations": [
+    "In the Devi Mahatmya the emerging Kaushiki is golden and Parvati turns dark (Kalika); in the Vamana, Shiva and other Puranas, Parvati, stung at being called dark, sheds her dark skin, which becomes Kaushiki, while she herself becomes golden Gauri.",
+    "The Pradhanika Rahasya identifies the goddess of this third episode as Mahasarasvati."
+   ]
+  },
+  "chamunda": {
+   "name": "Chamunda",
+   "aliases": [
+    "Chamundi",
+    "Chamundeshwari",
+    "Charchika",
+    "Rakta-Chamunda"
+   ],
+   "description": "The name given to Kali after she slew the demon generals Chanda and Munda, and the fiercest of the Seven Mothers. Emaciated and skeletal, she is worshipped as a protective, disease-averting goddess in many regional temples, notably on Chamundi Hill above Mysuru.",
+   "story": "When Kali returned from the battlefield carrying the severed heads of Chanda and Munda, she set them before Ambika and laughed, offering them as a sacrifice and leaving the greater demon Shumbha for the Goddess herself. Pleased, Chandika declared that because she had brought Chanda and Munda she would be famed in the world as Chamunda. Under that name she fought beside the Mothers in the battle against Raktabija: told to spread her mouth wide, Chamunda caught every drop of the demon's blood on her tongue and devoured the demons born from it. Later sculptors gave her a form of her own, a skeletal hag with sunken eyes and shrivelled breasts, seated on a corpse, a scorpion on her belly and an owl beside her, the last and most terrible of the Seven Mothers yet a guardian invoked against plague and famine.",
+   "symbols": [
+    "skeletal body",
+    "sunken eyes",
+    "garland of skulls",
+    "corpse (preta) seat",
+    "owl",
+    "scorpion on the belly"
+   ],
+   "weapons": [
+    "khadga",
+    "trishula",
+    "kapala (skull-cup)",
+    "khatvanga"
+   ],
+   "vahana": "Corpse (preta) or owl",
+   "abode": "Cremation grounds; Chamundi Hill (Mysuru)",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 7–8",
+    "Vishnudharmottara Purana (iconography)",
+    "Agni Purana (iconography)"
+   ],
+   "variations": [
+    "In the Devi Mahatmya Chamunda is simply Kali's new name; later iconographic texts treat her as a distinct skeletal Matrika associated with Shiva-Bhairava.",
+    "In Karnataka tradition Chamundeshwari slays Mahishasura on Chamundi Hill, which gives Mysuru its name."
+   ]
+  },
+  "shakambhari": {
+   "name": "Shakambhari",
+   "aliases": [
+    "Shatakshi",
+    "Banashankari",
+    "Vanashankari",
+    "Durga"
+   ],
+   "description": "The 'Bearer of Greens', a nurturing form of the Goddess who ends a hundred-year drought by feeding the world with vegetables grown from her own body. Prophesied in the Devi Mahatmya, her story is fully told in the Devi Bhagavata, where she is also Shatakshi, the hundred-eyed, whose tears become rain.",
+   "story": "The demon Durgama, having won the Vedas from Brahma by his austerities, made the sacred chants vanish from the earth. Sacrifices ceased, the gods grew weak, and no rain fell for a hundred years; rivers dried and creatures perished. The sages went to the Himalaya and prayed to the Goddess. She appeared covered with countless eyes, Shatakshi, and seeing the suffering she wept without ceasing, until her tears swelled into rivers and flooded the parched land. From her own hands she then gave out vegetables, fruits and nourishing roots, feeding the starving world, and so was called Shakambhari, 'she who bears the greens'. When Durgama attacked, she brought forth a host of shaktis from her body, destroyed his armies, killed the demon with her arrows and restored the Vedas to the sages, taking from him the name Durga.",
+   "symbols": [
+    "vegetables, fruits and roots in her hands",
+    "countless eyes (as Shatakshi)",
+    "lotus",
+    "bow and arrows"
+   ],
+   "weapons": [
+    "bow",
+    "arrows"
+   ],
+   "vahana": "Lion",
+   "abode": "Shakambhari Pithas (Saharanpur, Sambhar); Banashankari (Karnataka)",
+   "sources": [
+    "Mahabharata, Vana Parva (tirtha-yatra: the Shakambhari tirtha)",
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 11",
+    "Devi Bhagavata Purana 7.28"
+   ],
+   "variations": [
+    "The Mahabharata's pilgrimage section tells of the Goddess sustaining herself on vegetables for a thousand divine years at the Shakambhari tirtha.",
+    "The Devi Mahatmya foretells Shakambhari and the slayer of Durgama as successive forms; the Devi Bhagavata merges them with Shatakshi into one episode.",
+    "Worshipped as Banashankari in Karnataka and at Sakrai and Sambhar in Rajasthan."
+   ]
+  },
+  "bhramari": {
+   "name": "Bhramari",
+   "aliases": [
+    "Bhramaramba",
+    "Bhramarambika",
+    "Goddess of Bees"
+   ],
+   "description": "The 'Goddess of Bees', who destroys the demon Arunasura with swarms of bees, hornets and wasps issuing from her body. Prophesied in the Devi Mahatmya and narrated in the Devi Bhagavata, she is worshipped as Bhramaramba, consort of Mallikarjuna, at Srisailam.",
+   "story": "The demon Aruna performed fierce austerities and won from Brahma a boon that no being with two legs or four could kill him. Swollen with power, he drove the gods from heaven and seized their places. The gods learned that his strength rested on his worship of the Gayatri, and when Brihaspati visited him the proud demon abandoned the sacred mantra. The gods then prayed to the Goddess, and she appeared in dazzling splendour, surrounded by and garlanded with humming bees. From her hands and body poured endless swarms of bees, hornets and wasps, six-legged creatures untouched by Brahma's boon. They darkened the sky, fell upon Aruna and his armies, and stung them to death. Praised as Bhramari, the Goddess of the bees, she returned heaven to the gods.",
+   "symbols": [
+    "swarms of bees, hornets and wasps",
+    "garland of bees",
+    "lotus"
+   ],
+   "weapons": [
+    "bees and stinging insects",
+    "trishula",
+    "khadga"
+   ],
+   "vahana": null,
+   "abode": "Srisailam (as Bhramaramba)",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 11",
+    "Devi Bhagavata Purana, Book 10",
+    "Srisailam temple tradition"
+   ],
+   "variations": [
+    "The Devi Mahatmya only foretells that she will kill Aruna in the form of a bee; the full story, with Aruna's boon against two- and four-legged beings, is in the Devi Bhagavata.",
+    "At Srisailam she is Bhramaramba, consort of Shiva as Mallikarjuna, and the shrine is counted as a Shakti Pitha."
+   ]
+  },
+  "annapurna": {
+   "name": "Annapurna",
+   "aliases": [
+    "Annapoorneshwari",
+    "Annada",
+    "Annapurneshvari",
+    "Bhavani of Kashi"
+   ],
+   "description": "The Goddess of food and nourishment, a gentle form of Parvati holding a ladle and a pot of rice. Enthroned at Varanasi (Kashi), she is the source of all sustenance, and even Shiva comes before her as a beggar seeking alms.",
+   "story": "In a widely told devotional legend, Shiva once declared to Parvati that the material world, food included, was mere illusion. To show what the world is without the nourishment she gives, Parvati vanished. At once the earth stood still: fields yielded nothing, hunger spread through every realm, and gods, sages and demons alike grew faint. Even Shiva, lord of ascetics, felt the pangs of hunger. Then word came that in Kashi a goddess had opened a kitchen where no one was turned away. Shiva went there with his skull-bowl and stood humbly before her, and Annapurna, radiant on her throne, filled his bowl with her golden ladle. Understanding that spirit and matter cannot be separated, Shiva honoured her, and she has remained in Kashi ever since, the mother who feeds all who come.",
+   "symbols": [
+    "golden ladle",
+    "pot of rice (akshaya patra)",
+    "throne",
+    "Shiva as beggar before her"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Annapurna temple, Varanasi (Kashi)",
+   "sources": [
+    "Annapurna Stotram (attributed to Adi Shankara)",
+    "Annapurna Upanishad",
+    "Annadamangal of Bharatchandra Ray (18th-century Bengali)"
+   ],
+   "variations": [
+    "The story of Parvati withdrawing food to prove the worth of the material world is devotional and folk rather than classical Puranic.",
+    "In Bengali mangal-kavya Annada (Annapurna) is a form of Durga who grants prosperity to her devotees.",
+    "In the Annapurna Upanishad the goddess grants liberating knowledge to the sage Ribhu."
+   ]
+  },
+  "kamakhya": {
+   "name": "Kamakhya",
+   "aliases": [
+    "Kameshvari",
+    "Kamakhya Devi",
+    "Kamarupa Devi"
+   ],
+   "description": "The Goddess of desire enshrined on Nilachala hill near Guwahati in Assam, the foremost Shakti Pitha, where Sati's yoni is said to have fallen. Worshipped aniconically as a spring-moistened cleft in the rock, she is a great centre of Tantric worship and of the Ambubachi festival marking her yearly menstruation.",
+   "story": "After Sati gave up her life at Daksha's sacrifice, Shiva, maddened with grief, wandered the worlds carrying her body. To end his frenzy, the Kalika Purana says, the gods entered the corpse and dismembered it piece by piece; wherever a part fell, a seat of the Goddess (pitha) arose. Her yoni fell on the blue hill of Nilachala in Kamarupa, and there the Goddess dwells as Kamakhya, with Shiva beside her. The same Purana tells of Naraka, whom Vishnu raised as king of Pragjyotisha and charged to worship Kamakhya alone. For a time he honoured her, but under the influence of the demon Bana he grew arrogant and turned from her, and so fell. To this day the stone cleft, kept moist by a spring, is closed for three days each year while the Goddess is believed to menstruate.",
+   "symbols": [
+    "yoni-shaped stone in a natural spring",
+    "red cloth",
+    "hibiscus",
+    "Ambubachi festival"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Nilachala hill, Kamarupa (Guwahati, Assam)",
+   "sources": [
+    "Kalika Purana",
+    "Yogini Tantra",
+    "Devi Bhagavata Purana, Book 7 (Sati and the pithas)"
+   ],
+   "variations": [
+    "Early accounts (Kalika Purana) have the gods enter and cut up Sati's corpse; later tellings credit Vishnu's Sudarshana discus.",
+    "Local Tantric tradition identifies Kamakhya with Tripura Sundari (Shodashi), and the temple complex houses shrines of all ten Mahavidyas.",
+    "The number and list of Shakti Pithas varies between texts (4, 51, 52 or 108)."
+   ]
+  },
+  "mahavidyas": {
+   "name": "Dasha Mahavidya (Ten Wisdom Goddesses)",
+   "aliases": [
+    "Mahavidyas",
+    "Ten Mahavidyas",
+    "Dasamahavidya"
+   ],
+   "description": "A Tantric group of ten goddesses, each a 'great wisdom' or mantra-embodied aspect of the one Devi, ranging from the terrifying (Kali, Chhinnamasta, Dhumavati) to the beautiful and benign (Tripura Sundari, Kamala). The usual list is Kali, Tara, Tripura Sundari, Bhuvaneshvari, Bhairavi, Chhinnamasta, Dhumavati, Bagalamukhi, Matangi and Kamala.",
+   "story": "When Daksha planned a great sacrifice and invited neither Shiva nor his daughter Sati, Sati resolved to go anyway. Shiva forbade her, reminding her of her father's contempt. Sati's eyes blazed; her body grew dark and terrible, her hair loose, her form vast and fearsome. Alarmed, Shiva turned to flee, but in whichever of the ten directions he ran, a goddess stood blocking his path, each different and each overwhelming. Bewildered, he asked who they were. Sati explained that these were her own forms, the ten Mahavidyas, beginning with Kali who stood before him, and that through them she pervaded all space. Humbled and understanding her supreme power, Shiva gave way, and Sati departed for the sacrifice where she would give up her life, a story told in the Mahabhagavata and Brihaddharma Puranas.",
+   "symbols": [
+    "the ten directions",
+    "yantras and bija-mantras"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kamakhya (Nilachala), where all ten have shrines",
+   "sources": [
+    "Mahabhagavata Purana",
+    "Brihaddharma Purana",
+    "Todala Tantra",
+    "Shaktisangama Tantra",
+    "Devi Bhagavata Purana 7.28 (related list)"
+   ],
+   "variations": [
+    "Lists differ: some name Shodashi or Lalita for Tripura Sundari, and some substitute other goddesses such as Durga or Annapurna; Tara is present in nearly all.",
+    "Devi Bhagavata 7.28: shaktis including Kalika, Tarini, Bagala and Matangi issue from Shatakshi to fight Durgamasura.",
+    "Some traditions derive the ten from Kali or Parvati rather than Sati; the Todala Tantra pairs each with a form of Shiva, and some later texts link them with Vishnu's ten avatars."
+   ]
+  },
+  "tara-devi": {
+   "name": "Tara (Mahavidya)",
+   "aliases": [
+    "Ugra Tara",
+    "Tarini",
+    "Nila Sarasvati",
+    "Ekajata",
+    "Tara Ma"
+   ],
+   "description": "The second Mahavidya, 'she who carries across', depicted dark blue, standing on a corpse with sword, flaying knife, skull-cup and blue lotus. Closely akin to Kali, she likely entered Hindu Tantra from Buddhist Tara worship and is famous at Tarapith in Bengal.",
+   "story": "The Tarapith legend tells that when the gods and demons churned the ocean, the deadly halahala poison rose first, and Shiva swallowed it to save the worlds. Burning from within, he fell unconscious. Tara appeared, took him on her lap like an infant and nursed him at her breast, and her milk quenched the fire of the poison. Tantric tradition adds another tale: the sage Vashistha worshipped Tara for ages without success, until a voice told him to learn her true rites from the Buddha in the land of Mahachina. There he was taught the Kula way of worship, and returning to the cremation ground of Tarapith he gained perfection through her grace. Both stories show Tara as the saviour who ferries devotees across the ocean of suffering, fierce in appearance yet tender as a mother.",
+   "symbols": [
+    "dark blue skin",
+    "standing on a corpse",
+    "tiger skin",
+    "five-skull crown",
+    "blue lotus",
+    "pot belly"
+   ],
+   "weapons": [
+    "khadga",
+    "kartri (flaying knife)",
+    "kapala (skull-cup)"
+   ],
+   "vahana": null,
+   "abode": "Tarapith cremation ground (Birbhum, Bengal)",
+   "sources": [
+    "Tara Tantra",
+    "Rudrayamala",
+    "Brihannila Tantra",
+    "Todala Tantra",
+    "Mahabhagavata Purana"
+   ],
+   "variations": [
+    "Her Hindu cult is widely thought to derive from the Buddhist Tara, especially the fierce Ugra Tara and Ekajata; Tantric tradition itself says Vashistha learned her worship from the Buddha.",
+    "Some texts identify her with Nila Sarasvati, goddess of speech; others treat her as a form of Kali.",
+    "The story of Tara suckling Shiva after the halahala poison is a regional Tarapith legend."
+   ]
+  },
+  "tripura-sundari": {
+   "name": "Tripura Sundari (Lalita)",
+   "aliases": [
+    "Lalita",
+    "Shodashi",
+    "Rajarajeshvari",
+    "Kameshvari",
+    "Kamakshi",
+    "Bala Tripura Sundari",
+    "Shri Vidya"
+   ],
+   "description": "The 'Beautiful One of the Three Cities', supreme deity of the Shri Vidya tradition and the third Mahavidya, worshipped through the Shri Chakra. Radiant red and bearing noose, goad, sugarcane bow and flower arrows, she is the Goddess as beauty, desire and consciousness itself.",
+   "story": "After Shiva burned Kama to ashes, the gana Chitrakarma shaped a figure from the ashes, and it came alive as the demon Bhandasura, who soon conquered the three worlds. In despair Indra and the gods kindled a great sacrifice and resolved to offer themselves into the fire. From that fire of consciousness rose Lalita Tripura Sundari, blazing like a thousand dawns, seated on the Shri Chakra chariot. She wed Shiva as Kameshvara and marched against Bhanda with an army of shaktis, led by Varahi as commander and Shyamala as minister. When the demon's obstacle-yantra stalled her forces, she glanced at Kameshvara's face and brought forth Ganesha to shatter it. At last she slew Bhandasura with the Kameshvara missile and burned his city. Then, moved by Rati's grief, she restored Kama to life. This tale, the Lalitopakhyana, is taught by Hayagriva to the sage Agastya.",
+   "symbols": [
+    "Shri Chakra (Shri Yantra)",
+    "sugarcane bow",
+    "five flower arrows",
+    "red complexion",
+    "throne of the five Brahmas (pancha-brahmasana)",
+    "crescent moon"
+   ],
+   "weapons": [
+    "pasha (noose)",
+    "ankusha (goad)",
+    "sugarcane bow",
+    "five flower arrows",
+    "Kameshvara astra"
+   ],
+   "vahana": null,
+   "abode": "Shripura (Manidvipa), amid the Ocean of Nectar",
+   "sources": [
+    "Brahmanda Purana, Lalitopakhyana",
+    "Lalita Sahasranama (Brahmanda Purana)",
+    "Saundarya Lahari (attributed to Adi Shankara)",
+    "Vamakeshvara Tantra (Nityashodashikarnava)",
+    "Tripura Rahasya"
+   ],
+   "variations": [
+    "Shri Vidya regards her, not Kali, as the highest Mahavidya and the supreme Goddess.",
+    "She is worshipped as the child Bala, the sixteen-year-old Shodashi and the queen Rajarajeshvari; at Kanchipuram she is Kamakshi.",
+    "Bhandasura, her great foe, appears only in the Lalitopakhyana and related Shri Vidya texts."
+   ]
+  },
+  "bhuvaneshvari": {
+   "name": "Bhuvaneshvari",
+   "aliases": [
+    "Queen of the Worlds",
+    "Manidvipeshvari",
+    "Hrimkari"
+   ],
+   "description": "The fourth Mahavidya, 'Queen of the Worlds', who embodies space and the manifest cosmos as its creatrix and ruler. Serene and radiant, she holds a noose and goad and shows the gestures of boon-giving and fearlessness; the Devi Bhagavata identifies her with the supreme Goddess of Manidvipa.",
+   "story": "Before the worlds were made, the Devi Bhagavata relates, Vishnu lay as an infant on a banyan leaf floating on the waters of dissolution, wondering who had made him and why. A bodiless voice spoke half a verse: 'All this is I alone; there is nothing else eternal.' As he pondered its meaning, the Goddess appeared before him in radiant splendour, attended by her shaktis, and revealed that it was by her power alone that he, Brahma and Shiva would carry out their work. The three worlds, the bhuvanas, would arise within her and be ruled by her. Later, when the three gods were carried to her jewelled island of Manidvipa, they hymned her by this very name. Tantric worshippers meditate on this cosmic Queen as Bhuvaneshvari, whose seed-syllable hrim is said to contain the whole universe.",
+   "symbols": [
+    "noose",
+    "goad",
+    "varada and abhaya mudras",
+    "crescent moon on her crown",
+    "three eyes",
+    "lotus throne",
+    "bija mantra hrim"
+   ],
+   "weapons": [
+    "pasha",
+    "ankusha"
+   ],
+   "vahana": null,
+   "abode": "Manidvipa",
+   "sources": [
+    "Devi Bhagavata Purana, Books 1, 3 and 12",
+    "Prapanchasara Tantra (attributed to Shankara)",
+    "Todala Tantra",
+    "Shaktisangama Tantra"
+   ],
+   "variations": [
+    "The Devi Bhagavata uses the name for the supreme Goddess herself; in Mahavidya lists she is one of ten.",
+    "The Todala Tantra pairs her with Shiva as Tryambaka."
+   ]
+  },
+  "bhairavi": {
+   "name": "Bhairavi",
+   "aliases": [
+    "Tripura Bhairavi",
+    "Rudra Bhairavi",
+    "Shmashana Bhairavi"
+   ],
+   "description": "The fifth Mahavidya, the 'Terrible One', a fierce goddess of destruction and of the fiery energy of tapas and kundalini. Red as a thousand rising suns, wearing a garland of skulls and holding a rosary and book, she is the terrifying power that burns away ignorance and presides over the body's dissolution at death.",
+   "story": "Bhairavi has few narrative myths of her own; she is known chiefly through her meditation verses and through the tale of Sati's ten forms. When Shiva, confronted by Sati's rage before Daksha's sacrifice, tried to flee, one of the goddesses who barred his way was Bhairavi, glowing red like the rising sun, her garland of skulls wet with blood, her three eyes blazing, a gentle smile on her lips as she held out her hands in the gestures of fearlessness and blessing. Her Tantric devotees see in her the fire that consumes all things at the end of an age and the inner heat of austerity that consumes the ego. As Tripura Bhairavi she is the fierce face of Tripura Sundari, and her name is also borne by women adepts of Tantra.",
+   "symbols": [
+    "red complexion",
+    "garland of skulls",
+    "rosary (akshamala)",
+    "book",
+    "varada and abhaya mudras",
+    "three eyes",
+    "crescent moon"
+   ],
+   "weapons": [
+    "khadga (in fierce forms)"
+   ],
+   "vahana": null,
+   "abode": "Cremation grounds",
+   "sources": [
+    "Todala Tantra",
+    "Mahabhagavata Purana",
+    "Brihaddharma Purana",
+    "Tantrasara of Krishnananda Agamavagisha"
+   ],
+   "variations": [
+    "The Todala Tantra names Dakshinamurti as her consort; others pair her with Batuka or Kala Bhairava.",
+    "Many forms are distinguished (Tripura Bhairavi, Sampatprada Bhairavi, Kaulesha Bhairavi and others), and 'Bhairavi' is also a title of female Tantric adepts."
+   ]
+  },
+  "chhinnamasta": {
+   "name": "Chhinnamasta",
+   "aliases": [
+    "Chhinnamastika",
+    "Prachanda Chandika",
+    "Vajravairochani"
+   ],
+   "description": "The sixth Mahavidya, the 'Severed-headed' goddess, who holds her own decapitated head as three jets of blood flow from her neck into its mouth and those of her two attendants. One of the most startling images of Hindu Tantra, she stands for self-sacrifice, the giving and renewal of life, and mastery over desire.",
+   "story": "The Pranatoshini Tantra tells that Parvati once went to bathe in the Mandakini river with her two companions, Jaya and Vijaya, also called Dakini and Varnini. After bathing, the attendants grew desperately hungry and begged her for food. She asked them to wait, but they pleaded again: a mother feeds her children before herself, and she was the mother of the world. Moved by compassion, the Goddess cut off her own head. From her neck three streams of blood leapt up: one into the mouth of her own severed head, and one into the mouth of each attendant. All three drank and were satisfied, and the Goddess then resumed her usual form and returned home. In her image she stands upon Kama and Rati in union, showing the life-force that she both restrains and pours out.",
+   "symbols": [
+    "her own severed head in her hand",
+    "three streams of blood",
+    "attendants Dakini and Varnini",
+    "standing on Kama and Rati in union",
+    "red complexion",
+    "serpent sacred thread"
+   ],
+   "weapons": [
+    "kartri (knife)",
+    "khadga"
+   ],
+   "vahana": null,
+   "abode": "Chintpurni (Himachal Pradesh) and Rajrappa (Jharkhand)",
+   "sources": [
+    "Pranatoshini Tantra (citing the Narada Pancharatra)",
+    "Shaktisangama Tantra",
+    "Tantrasara"
+   ],
+   "variations": [
+    "She closely parallels the Buddhist Vajrayogini in her headless form Chinnamunda, probably her source or cousin.",
+    "In another version the self-beheading follows a battle, when the Goddess's shaktis remained thirsty for blood.",
+    "The couple beneath her feet is read either as her conquest of desire or as desire fuelling her life-force."
+   ]
+  },
+  "dhumavati": {
+   "name": "Dhumavati",
+   "aliases": [
+    "Dhumra",
+    "Widow Goddess",
+    "Jyeshtha (identified)"
+   ],
+   "description": "The seventh Mahavidya, an old, ugly widow in soiled white, riding a horseless chariot bannered with a crow. Embodying smoke, poverty, misfortune and the void after dissolution, she is also a teacher of detachment who grants liberating insight to those beyond worldly desire.",
+   "story": "According to the Pranatoshini Tantra, Sati was once seized with a raging hunger on Mount Kailasa and asked Shiva for food. When he did not provide it at once, her hunger grew so fierce that she swallowed Shiva himself. At that moment smoke began to pour from her body, clouding her beauty. From within her, Shiva asked to be let out, and she disgorged him. Angered, he declared that since she had devoured her husband she would henceforth live as a widow, and so she became Dhumavati, 'the smoky one', grey, dishevelled and lonely. Another account says she rose from the smoke of Sati's burning body at Daksha's sacrifice. Either way she is the goddess who remains when all else has been consumed, fearsome to the worldly but a giver of freedom to renunciants.",
+   "symbols": [
+    "crow",
+    "horseless chariot",
+    "winnowing basket",
+    "white widow's garments",
+    "dishevelled hair",
+    "missing teeth"
+   ],
+   "weapons": [],
+   "vahana": "Crow (or a horseless chariot with a crow banner)",
+   "abode": "Cremation grounds and desolate places",
+   "sources": [
+    "Pranatoshini Tantra",
+    "Phetkarini Tantra",
+    "Shaktisangama Tantra",
+    "Tantrasara"
+   ],
+   "variations": [
+    "Two origin accounts: Sati swallowing Shiva in hunger, or Dhumavati rising from the smoke of Sati's self-immolation.",
+    "She shares traits with the Vedic misfortune goddess Nirriti and with Jyeshtha and Alakshmi.",
+    "Uniquely among the Mahavidyas she has no consort."
+   ]
+  },
+  "bagalamukhi": {
+   "name": "Bagalamukhi",
+   "aliases": [
+    "Bagala",
+    "Pitambara",
+    "Valgamukhi",
+    "Brahmastra-vidya"
+   ],
+   "description": "The eighth Mahavidya, the golden-yellow goddess who stuns or paralyses enemies, seizing a demon's tongue while raising a cudgel. Associated with the colour yellow and with turmeric, she grants stambhana, the power to silence foes, false speech and hostile forces.",
+   "story": "Long ago, a legend tells, a terrible cosmic storm arose that threatened to destroy all creation. Vishnu, the preserver, was powerless to stop it, and went to Saurashtra, where he performed austerities beside the Haridra lake, the lake of turmeric, propitiating Tripura Sundari. Pleased, the Goddess rose from the yellow waters as Bagalamukhi, clad in gold, and with a single gesture stilled the raging winds. Another tale tells of the demon Madan, who won the power that whatever he said would come true, and used it to kill and torment. The gods prayed, and Bagalamukhi seized the demon by the tongue, silencing him before he could speak his curses, and raised her cudgel over him. Before she struck, he begged to be worshipped with her, and so he is shown at her feet.",
+   "symbols": [
+    "yellow garments and complexion",
+    "demon's tongue held in her hand",
+    "golden throne",
+    "turmeric",
+    "champaka flowers",
+    "crescent moon"
+   ],
+   "weapons": [
+    "gada (cudgel)",
+    "mudgara (club)"
+   ],
+   "vahana": null,
+   "abode": "Pitambara Peeth (Datia) and the Haridra lake (Saurashtra)",
+   "sources": [
+    "Mahabhagavata Purana",
+    "Todala Tantra",
+    "Tantrasara"
+   ],
+   "variations": [
+    "Her name is often explained from 'valga' (bridle), 'she who holds the bridle'; popularly it is read as 'crane-faced'.",
+    "Accounts differ on the demon she silences (often called Madan) and on whether she arose for Vishnu at the turmeric lake."
+   ]
+  },
+  "matangi": {
+   "name": "Matangi",
+   "aliases": [
+    "Raja Matangi",
+    "Shyamala",
+    "Uchchhishta Chandalini",
+    "Mantrini",
+    "Tantric Sarasvati"
+   ],
+   "description": "The ninth Mahavidya, an emerald-green 'Tantric Sarasvati' who rules speech, music and learning and is often shown playing the vina. Paradoxically linked with pollution, leftovers (uchchhishta) and outcastes, she overturns orthodox purity rules, and as Shyamala she is Lalita's chief minister.",
+   "story": "The Shaktisangama Tantra tells that Vishnu and Lakshmi once visited Shiva and Parvati on Kailasa and brought them fine food. As the four deities ate, some morsels fell to the ground, and from those fallen leftovers arose a maiden of dark-green beauty. She asked them for their leftover food, uchchhishta, the very substance orthodox purity rules shun. The four gods gave it to her gladly, and Shiva declared that she would be known as Uchchhishta Matangi, and that those who repeat her mantra and worship her would gain their desires and mastery over their enemies. In the Shri Vidya tradition this same goddess becomes Raja Shyamala, the wise minister of Lalita, playing her vina with a parrot beside her, the patron of eloquence, music and all the arts.",
+   "symbols": [
+    "emerald-green complexion",
+    "vina",
+    "parrot",
+    "crescent moon",
+    "red garments",
+    "skull-cup"
+   ],
+   "weapons": [
+    "pasha",
+    "ankusha",
+    "khadga"
+   ],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Shaktisangama Tantra",
+    "Pranatoshini Tantra",
+    "Brahmanda Purana, Lalitopakhyana (as Shyamala/Mantrini)",
+    "Todala Tantra",
+    "Tantrasara"
+   ],
+   "variations": [
+    "Origin stories vary: from the leftovers of Shiva, Parvati, Vishnu and Lakshmi; as daughter of the sage Matanga; or as Parvati disguised as an outcaste woman to test Shiva.",
+    "In Shri Vidya she is Raja Shyamala, minister of Lalita, while her Uchchhishta form preserves her link with impurity."
+   ]
+  },
+  "kamala": {
+   "name": "Kamala",
+   "aliases": [
+    "Kamalatmika",
+    "Gajalakshmi",
+    "Shri",
+    "Lakshmi"
+   ],
+   "description": "The tenth Mahavidya, 'She of the Lotus', the Tantric form of Lakshmi: golden, seated on a lotus and bathed by elephants pouring water from pitchers. The most benign of the ten, she grants prosperity, fertility and good fortune, carrying the circle of wisdom goddesses into the world of abundance.",
+   "story": "When the gods and demons churned the ocean of milk, among the treasures that rose from the waters came the goddess Shri, radiant and seated on a full-blown lotus, holding lotuses in her hands. The Vishnu Purana tells that the great elephants of the quarters bathed her with pure water from golden vessels, while sages sang the Shri Sukta and the ocean offered her garlands. All the gods and demons longed for her, but she chose Vishnu and placed her garland upon him. The Tantric image of Kamala preserves exactly this scene: four white elephants pour nectar over the golden goddess on her lotus. By including her as the last Mahavidya, Tantric tradition teaches that the Goddess who manifests as fearsome Kali and smoky Dhumavati is also the gracious bestower of wealth, beauty and worldly fulfilment.",
+   "symbols": [
+    "lotuses in two hands",
+    "four elephants pouring water from pitchers",
+    "golden complexion",
+    "varada and abhaya mudras",
+    "jewelled crown"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "A lotus in the ocean of milk; Vaikuntha",
+   "sources": [
+    "Todala Tantra",
+    "Tantrasara",
+    "Shri Sukta (Rig Veda Khila)",
+    "Vishnu Purana 1.9 (Lakshmi's emergence)"
+   ],
+   "variations": [
+    "Tantric texts pair her with Vishnu or with Sadashiva as consort.",
+    "She is essentially Lakshmi in Tantric guise; some lists call her Kamalatmika."
+   ]
+  },
+  "navadurga": {
+   "name": "Navadurga (Nine Durgas)",
+   "aliases": [
+    "Nine Forms of Durga",
+    "Nava Durga"
+   ],
+   "description": "The nine forms of Durga worshipped on the nine successive nights of Navaratri: Shailaputri, Brahmacharini, Chandraghanta, Kushmanda, Skandamata, Katyayani, Kalaratri, Mahagauri and Siddhidatri. The canonical list comes from the Devi Kavacha, one of the protective hymns recited with the Devi Mahatmya.",
+   "story": "In the Devi Kavacha, the sage Markandeya asks Brahma for a secret that has never been revealed, one that protects every being in the world. Brahma answers that the most sacred and beneficial protection is the armour of the Goddess, and begins by naming her nine forms: first Shailaputri, second Brahmacharini, third Chandraghanta, fourth Kushmanda, fifth Skandamata, sixth Katyayani, seventh Kalaratri, eighth Mahagauri and ninth Siddhidatri. Those who take refuge in her, he promises, will not be harmed by fire, flood, enemies or the terrors of battle. Over time Navaratri worship assigned one form to each night, and popular devotion reads the sequence as a journey through Parvati's life: daughter of the mountain, ascetic bride, wife, cosmic creatrix, mother of Skanda, warrior, destroyer, purified radiance and giver of perfection.",
+   "symbols": [
+    "nine nights of Navaratri",
+    "kalasha (sacred pot)",
+    "nine colours of the festival"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Devi Kavacha (recited with the Devi Mahatmya; its colophon attributes it to the Varaha Purana)"
+   ],
+   "variations": [
+    "The mapping of each form to a particular night and to episodes of Parvati's life is a later liturgical and popular development.",
+    "Regional traditions worship other groupings of nine goddesses, such as the Navadurga masked dancers of Bhaktapur in Nepal."
+   ]
+  },
+  "shailaputri": {
+   "name": "Shailaputri",
+   "aliases": [
+    "Hemavati",
+    "Parvati",
+    "Vrisharudha",
+    "Sati Bhavani"
+   ],
+   "description": "The first of the Navadurga, 'Daughter of the Mountain', worshipped on the first night of Navaratri. Riding a bull and holding a trident and lotus, she is Parvati as the child of Himavan, Sati reborn.",
+   "story": "When Sati, Daksha's daughter, could not bear her father's insult to Shiva, she gave up her body in the fire of yoga at his sacrifice. The grieving Shiva withdrew into deep meditation, and the worlds were left without the union of Shiva and Shakti. The Goddess then chose to be born again, this time as the daughter of Himavan, lord of the mountains, and his queen Mena. Because she was the daughter of the mountain (shaila) she was called Shailaputri, and also Parvati and Haimavati. From childhood her heart was fixed on Shiva, and her whole life would lead back to him. On the first night of Navaratri devotees worship her seated on a bull, a crescent moon on her brow, trident in one hand and lotus in the other, as the steady foundation from which the Goddess's journey begins.",
+   "symbols": [
+    "bull",
+    "trident",
+    "lotus",
+    "crescent moon"
+   ],
+   "weapons": [
+    "trishula"
+   ],
+   "vahana": "Bull (Nandi)",
+   "abode": "The Himalaya",
+   "sources": [
+    "Devi Kavacha",
+    "Shiva Purana, Rudra Samhita (Parvati's birth)",
+    "Kumarasambhava of Kalidasa"
+   ],
+   "variations": [
+    "Modern devotional teaching associates her with the muladhara chakra; the classical texts give only her name within the nine."
+   ]
+  },
+  "brahmacharini": {
+   "name": "Brahmacharini",
+   "aliases": [
+    "Aparna",
+    "Uma",
+    "Tapasvini",
+    "Tapashcharini"
+   ],
+   "description": "The second of the Navadurga, Parvati as the ascetic maiden who won Shiva through austerity. Walking barefoot and holding a rosary and water-pot, she embodies devotion, discipline and steadfast resolve.",
+   "story": "After Shiva burned Kama to ashes with his third eye, Parvati understood that beauty alone would never win him. She resolved to gain him by austerity. Leaving her father's palace, she went into the forest, wore bark garments and endured summer fires and winter waters. For a time she lived on leaves; then she gave up even leaves, and so was called Aparna. Her mother Mena cried out 'U ma!', 'O, do not!', giving her the name Uma. At last a young brahmachari came to her hermitage and mocked Shiva as a wild ash-smeared wanderer unworthy of her. Parvati, furious, refused to listen and turned to leave. The youth then revealed himself as Shiva, overcome by her devotion, and accepted her as his bride. As Brahmacharini she is honoured on the second night of Navaratri.",
+   "symbols": [
+    "rosary (japa mala)",
+    "water-pot (kamandalu)",
+    "bare feet",
+    "white garments"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Himalayan forest hermitage",
+   "sources": [
+    "Devi Kavacha",
+    "Shiva Purana, Rudra Samhita",
+    "Kumarasambhava of Kalidasa, canto 5"
+   ],
+   "variations": [
+    "The derivations of the names Uma (from Mena's cry 'u ma') and Aparna (from renouncing even leaves) come from the Kumarasambhava and the Puranas; the Navadurga identification is liturgical."
+   ]
+  },
+  "chandraghanta": {
+   "name": "Chandraghanta",
+   "aliases": [
+    "Chandrakhanda",
+    "Chandika",
+    "Ranachandi"
+   ],
+   "description": "The third of the Navadurga, named for the bell-shaped half-moon on her forehead. Ten-armed and riding a tiger or lion, she is the Goddess ready for battle, whose bell's clang terrifies demons while bringing peace to her devotees.",
+   "story": "A popular devotional legend links Chandraghanta with Parvati's wedding. The Shiva Purana tells that when Shiva came to Himavan's city to claim his bride, he arrived as himself: smeared with ash, garlanded with serpents, riding a bull, followed by ghosts, goblins and wild ganas. Queen Mena fainted at the sight and swore she would never give her daughter to such a groom. Navaratri lore adds that Parvati then assumed a fierce and dazzling form, ten-armed, with a crescent moon like a bell upon her brow, and faced Shiva as his equal, persuading him to take on a handsome, gentle form. Shiva appeared as the radiant Chandrashekhara, and the wedding went ahead in joy. Worshipped on the third night, she combines martial readiness with serene grace, the ring of her bell driving away evil spirits.",
+   "symbols": [
+    "bell-shaped crescent moon on her forehead",
+    "ten arms",
+    "golden complexion",
+    "bell"
+   ],
+   "weapons": [
+    "trishula",
+    "gada",
+    "khadga",
+    "bow and arrows"
+   ],
+   "vahana": "Tiger (or lion)",
+   "abode": "Kailasa",
+   "sources": [
+    "Devi Kavacha",
+    "Shiva Purana, Rudra Samhita (Shiva's wedding procession)"
+   ],
+   "variations": [
+    "Her wedding legend is a modern devotional elaboration; the Shiva Purana tells only of Mena's horror at Shiva's appearance and of Shiva later taking a beautiful form."
+   ]
+  },
+  "kushmanda": {
+   "name": "Kushmanda",
+   "aliases": [
+    "Ashtabhuja Devi",
+    "Kushmandi"
+   ],
+   "description": "The fourth of the Navadurga, the eight-armed creatrix who, in devotional tradition, brought the cosmic egg into being with her smile. She is said to dwell in the core of the sun, giving it light and warmth.",
+   "story": "Navaratri devotional literature tells that before creation there was only darkness, without form or light. Then the Goddess smiled, and from that gentle smile the cosmic egg, the brahmanda, came into being, and light spread through the void. Because she brought forth the universe as a 'little warm egg' she is called Kushmanda. Having created the worlds, she took up her dwelling in the heart of the sun, the only one able to live there, and gave the sun its radiance and power. She is shown with eight arms, holding a water-pot, bow, arrow, lotus, a jar of nectar, discus, mace and a rosary, riding a lion. On the fourth night of Navaratri devotees offer her the ash gourd, kushmanda, and pray to her for health, energy and the dispelling of darkness in the mind.",
+   "symbols": [
+    "eight arms",
+    "jar of nectar",
+    "rosary",
+    "lotus",
+    "water-pot",
+    "the sun",
+    "ash gourd offerings"
+   ],
+   "weapons": [
+    "bow and arrows",
+    "chakra",
+    "gada"
+   ],
+   "vahana": "Lion",
+   "abode": "The core of the sun (devotional tradition)",
+   "sources": [
+    "Devi Kavacha"
+   ],
+   "variations": [
+    "Her cosmogonic myth and solar abode belong to modern Navaratri devotional literature; the classical texts give only her name.",
+    "The name is explained either as 'little warm egg' (ku-ushma-anda) or from the kushmanda (ash gourd) offered to her."
+   ]
+  },
+  "skandamata": {
+   "name": "Skandamata",
+   "aliases": [
+    "Mother of Skanda",
+    "Padmasana Devi"
+   ],
+   "description": "The fifth of the Navadurga, Parvati as mother of Skanda (Kartikeya), shown seated on a lion or lotus with the infant god on her lap. She embodies the protective, nurturing love of the Goddess.",
+   "story": "The demon Tarakasura had won from Brahma the boon that only a son of Shiva could kill him, and since Shiva was lost in meditation, the demon believed himself immortal. He overran heaven and tormented the gods. After Parvati's austerities won Shiva, the gods waited anxiously for the promised child. Shiva's fiery seed passed through Agni and the Ganga and came to rest in a thicket of reeds, where the six Krittikas nursed the six-faced infant. Parvati took the child into her arms as her own, and her love united his six forms into one. Raised by his mother, Skanda became commander of the gods' armies and slew Tarakasura. As Skandamata, worshipped on the fifth night, she holds the baby Skanda on her lap with lotuses in her hands, and devotees believe that honouring her pleases the son as well.",
+   "symbols": [
+    "infant Skanda on her lap",
+    "two lotuses",
+    "seated on a lotus",
+    "lion"
+   ],
+   "weapons": [],
+   "vahana": "Lion",
+   "abode": "Kailasa",
+   "sources": [
+    "Devi Kavacha",
+    "Shiva Purana, Rudra Samhita (Kumara Khanda)",
+    "Skanda Purana",
+    "Kumarasambhava of Kalidasa"
+   ],
+   "variations": [
+    "Accounts of Skanda's birth differ widely: in the Mahabharata he is born of Agni and Svaha with the Krittikas as foster-mothers, while Puranic versions make him the son of Shiva and Parvati."
+   ]
+  },
+  "katyayani": {
+   "name": "Katyayani",
+   "aliases": [
+    "Mahishasuramardini",
+    "Kanyakumari",
+    "Vraja Katyayani"
+   ],
+   "description": "The sixth of the Navadurga, a warrior goddess who in the Vamana Purana is born in the hermitage of the sage Katyayana and slays Mahishasura. She is also the goddess whom the young gopis of Vraja worshipped to win Krishna as their husband.",
+   "story": "The Vamana Purana tells that when Mahishasura drove the gods from heaven, Vishnu, Shiva and the other gods became so angry that a great radiance streamed from their bodies. It gathered at the hermitage of the sage Katyayana, who added his own splendour, and from it a goddess took shape, called Katyayani after him. Armed with the gods' weapons, she went to the Vindhya mountains, where the demons, dazzled by her beauty, reported her to Mahisha. When he came to claim her she fought him, and finally leapt upon the buffalo and slew him. The Bhagavata Purana adds a gentler scene: in the month of Margashirsha the unmarried gopis of Vraja bathed each dawn in the Yamuna, made an image of the goddess from sand and prayed, 'O Katyayani, make the son of Nanda our husband.'",
+   "symbols": [
+    "four or ten arms",
+    "sword",
+    "lotus",
+    "golden radiance",
+    "lion"
+   ],
+   "weapons": [
+    "khadga",
+    "trishula"
+   ],
+   "vahana": "Lion",
+   "abode": "The Vindhya mountains; Vrindavan",
+   "sources": [
+    "Taittiriya Aranyaka 10.1 (Durga Gayatri)",
+    "Mahabharata, Bhishma Parva (Arjuna's Durga-stava)",
+    "Vamana Purana",
+    "Bhagavata Purana 10.22",
+    "Devi Kavacha"
+   ],
+   "variations": [
+    "The Taittiriya Aranyaka's gayatri reads 'katyayanaya' beside Kanyakumari and Durgi, so whether it names the goddess is debated.",
+    "The Vamana Purana credits Katyayani with killing Mahishasura, where the Devi Mahatmya names the slayer Ambika or Chandika."
+   ]
+  },
+  "kalaratri": {
+   "name": "Kalaratri",
+   "aliases": [
+    "Shubhankari",
+    "Kali",
+    "Night of Destruction"
+   ],
+   "description": "The seventh of the Navadurga, the 'Night of Time', the most terrifying form of the Goddess, dark and dishevelled, riding a donkey with flames issuing from her breath. Though fearsome she is called Shubhankari, 'she who does good', because she destroys evil and fear.",
+   "story": "Kalaratri first appears in the Mahabharata's Sauptika Parva, on the night Ashwatthama fell on the sleeping Pandava camp. As the slaughter raged, the doomed warriors saw a dark woman, Kalaratri, with a blood-red mouth and bloodshot eyes, clad in crimson and wearing red garlands, holding a noose and singing as she dragged away men, horses and elephants. Each of them, the epic says, had seen her in their dreams every night since the war began. Later tradition absorbed this death-night into the Goddess: the Devi Mahatmya's first hymn calls her Kalaratri, and the Devi Kavacha makes her the seventh Durga. On the seventh night of Navaratri she is worshipped black as night, hair unbound, three eyes flashing, riding a donkey, one hand raised in blessing, as the power before whom all demons, ghosts and fears flee.",
+   "symbols": [
+    "dark complexion",
+    "dishevelled hair",
+    "three eyes",
+    "necklace flashing like lightning",
+    "flames from her breath",
+    "varada and abhaya mudras"
+   ],
+   "weapons": [
+    "iron hook",
+    "khadga",
+    "noose (in the Mahabharata)"
+   ],
+   "vahana": "Donkey",
+   "abode": "Cremation grounds",
+   "sources": [
+    "Mahabharata, Sauptika Parva",
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 1 (as an epithet)",
+    "Devi Kavacha"
+   ],
+   "variations": [
+    "In the Mahabharata Kalaratri is a personified night of death rather than a form of Durga; the Devi Mahatmya uses the name as an epithet of the Goddess.",
+    "Popular Navaratri lore sometimes credits Kalaratri with slaying Raktabija, a role the Devi Mahatmya gives to Kali/Chamunda and Chandika."
+   ]
+  },
+  "mahagauri": {
+   "name": "Mahagauri",
+   "aliases": [
+    "Gauri",
+    "Shvetambaradhara",
+    "Vrisharudha"
+   ],
+   "description": "The eighth of the Navadurga, Parvati in her radiant white form, compared to the conch, the moon and jasmine. Riding a white bull and dressed in white, she embodies purity, calm and the forgiveness of sins.",
+   "story": "During her long austerities to win Shiva, Parvati sat through sun, rain and dust until her body grew dark and weathered. When at last Shiva was pleased and accepted her, he washed her with the pure waters of the Ganga flowing from his locks, and her body became dazzlingly white, radiant as lightning, and she was called Mahagauri, 'the great white one'. Other Puranas tell it differently: Shiva teasingly called Parvati 'Kali', the dark one, and she, hurt, went off to perform austerities until Brahma granted her a golden complexion; the dark skin she shed became the goddess Kaushiki. Either way, the eighth night of Navaratri celebrates the Goddess made luminous through tapas. She is shown four-armed, holding a trident and a damaru, calm and gentle, and young girls are often worshipped in her honour.",
+   "symbols": [
+    "white garments",
+    "white bull",
+    "conch-white complexion",
+    "damaru",
+    "varada and abhaya mudras"
+   ],
+   "weapons": [
+    "trishula"
+   ],
+   "vahana": "White bull",
+   "abode": "Kailasa",
+   "sources": [
+    "Devi Kavacha",
+    "Shiva Purana",
+    "Matsya Purana (Parvati becomes Gauri)"
+   ],
+   "variations": [
+    "Versions differ: Shiva bathes her in the Ganga after her penance, or Brahma grants her a golden complexion after Shiva teases her dark skin, the shed skin becoming Kaushiki."
+   ]
+  },
+  "siddhidatri": {
+   "name": "Siddhidatri",
+   "aliases": [
+    "Siddhidayini"
+   ],
+   "description": "The ninth of the Navadurga, 'Giver of Perfections', who bestows the siddhis, the supernatural powers and ultimate fulfilment, on gods, sages and devotees. Seated on a lotus or riding a lion, she is worshipped on the final night of Navaratri.",
+   "story": "Popular devotional literature tells that at the dawn of creation Shiva worshipped the supreme Goddess, who was without form. Pleased, she appeared to him as Siddhidatri and granted him the eight great siddhis: anima, the power to become tiny; mahima, to become vast; garima, to become heavy; laghima, to become weightless; prapti, to reach anywhere; prakamya, to fulfil every wish; ishitva, lordship; and vashitva, control over all. By her grace half of Shiva's body became the Goddess, and he became Ardhanarishvara, half man and half woman. She is shown four-armed, holding discus, conch, mace and lotus, attended by siddhas, gandharvas, yakshas, gods and even demons, all of whom worship her. On the ninth night devotees pray to her for the completion of every undertaking and for the final perfection, liberation.",
+   "symbols": [
+    "lotus seat",
+    "four arms",
+    "conch",
+    "lotus",
+    "attended by siddhas and gandharvas"
+   ],
+   "weapons": [
+    "chakra",
+    "gada"
+   ],
+   "vahana": "Lion (or seated on a lotus)",
+   "abode": null,
+   "sources": [
+    "Devi Kavacha"
+   ],
+   "variations": [
+    "The story of Shiva gaining the siddhis and becoming Ardhanarishvara through her is found in modern devotional literature; the classical texts give only her name.",
+    "Standard lists give eight siddhis; some Puranic lists give eighteen."
+   ]
+  },
+  "matrikas": {
+   "name": "Saptamatrika (Seven Mothers)",
+   "aliases": [
+    "Seven Mothers",
+    "Matrikas",
+    "Ashtamatrika",
+    "Matri"
+   ],
+   "description": "The 'Mothers', a group of fierce goddesses who are the shaktis (female powers) of major gods: Brahmani, Vaishnavi, Maheshvari, Kaumari, Varahi, Aindri and Chamunda in the common list of seven. Ambivalent guardians of children and villages, they fight as the Goddess's army in the Devi Mahatmya and are carved together in many temples.",
+   "story": "As the demon Raktabija's armies closed in on the Goddess, the Devi Mahatmya relates, the shakti of each god came forth from his body, with his form, ornaments and mount. Brahmani came in a swan-drawn chariot with rosary and water-pot; Maheshvari rode a bull, trident in hand; Kaumari, the power of Skanda, rode a peacock with a spear; Vaishnavi came on Garuda bearing conch, discus and mace; Varahi took the form of a boar; Narasimhi came with a lion's mane that scattered the stars; and Aindri rode an elephant wielding the thunderbolt. With water, trident, spear and discus they routed the demons. Later, when Shumbha taunted the Goddess for relying on others' strength, she drew all the Mothers back into her body and declared: 'I alone exist here in the world; who else is there besides me?'",
+   "symbols": [
+    "seven or eight goddesses seated in a row",
+    "children on their laps",
+    "flanked by Virabhadra and Ganesha in temple panels"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Village shrines and temple panels (Ellora, Elephanta, Badami)",
+   "sources": [
+    "Mahabharata, Vana Parva and Shalya Parva (Skanda's Mothers)",
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 8–10",
+    "Matsya Purana (Andhaka episode)",
+    "Varaha Purana",
+    "Vishnudharmottara Purana"
+   ],
+   "variations": [
+    "The Mahabharata's Mothers are a vast host of Skanda's companions, dangerous to children, not yet a fixed group of seven.",
+    "The Devi Mahatmya includes Narasimhi (with Chamunda counted as Kali); many lists have seven, while Nepal and eastern India worship eight (Ashtamatrika), sometimes adding Narasimhi or Mahalakshmi.",
+    "Matsya Purana: Shiva creates the Mothers to drink the blood of Andhaka; when they grow uncontrollable, Narasimha brings forth goddesses to restrain them.",
+    "The Varaha Purana links the Mothers with moral vices such as desire, anger and greed."
+   ]
+  },
+  "brahmani": {
+   "name": "Brahmani",
+   "aliases": [
+    "Brahmi"
+   ],
+   "description": "The shakti of Brahma and first of the Seven Mothers, four-faced and golden like her lord. Riding a swan and carrying a rosary and water-pot, she embodies Brahma's creative power.",
+   "story": "When the Mothers came forth to fight beside the Goddess against the armies of Shumbha and Nishumbha, the first to appear was the power of Brahma. The Devi Mahatmya describes her arriving in a celestial chariot drawn by swans, holding a rosary and a water-pot, bearing the likeness of the creator himself. In the battle she needed no blade: wherever she sprinkled the water from her kamandalu, the demons lost their strength and valour and fell helpless. Temple sculptors later gave her Brahma's four faces (three visible in relief), a yellow complexion, a book and rosary, and seated her first in the row of Mothers. Because her attributes overlap so closely with those of Sarasvati, the two are often identified, and in parts of western India she is honoured as Brahmani Mata, a lineage goddess.",
+   "symbols": [
+    "four faces",
+    "swan",
+    "rosary",
+    "water-pot (kamandalu)",
+    "yellow complexion",
+    "book"
+   ],
+   "weapons": [
+    "water sprinkled from her kamandalu"
+   ],
+   "vahana": "Swan (Hamsa)",
+   "abode": "Brahmaloka",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 8",
+    "Vishnudharmottara Purana",
+    "Agni Purana"
+   ],
+   "variations": [
+    "Often conflated with Sarasvati; some lists name her Brahmi.",
+    "Southern iconography shows three faces in relief rather than four."
+   ]
+  },
+  "vaishnavi": {
+   "name": "Vaishnavi",
+   "aliases": [
+    "Narayani"
+   ],
+   "description": "The shakti of Vishnu and one of the Seven Mothers, riding Garuda and bearing Vishnu's conch, discus, mace, bow and sword. She embodies the preserving and protecting power of Vishnu.",
+   "story": "When the gods sent forth their powers to aid the Goddess, Vishnu's shakti came riding on Garuda, holding conch, discus, mace, the bow Sharnga and a sword, adorned like Vishnu himself. In the Devi Mahatmya's battle against Raktabija, the demon who multiplied from every drop of his own blood, Vaishnavi hurled her discus at him. The wound gushed, and from the streaming blood thousands of demons sprang up, each as mighty as the first, filling the battlefield. Her attack thus revealed the terrible power of Raktabija's boon, which only Kali, drinking every drop, could overcome. In sculpture Vaishnavi is dark like Vishnu, crowned with a tall kirita, and bears his weapons. Her name also recalls Narayani, the title by which the gods hymn the whole Goddess in the Devi Mahatmya's eleventh chapter.",
+   "symbols": [
+    "Garuda",
+    "conch",
+    "discus",
+    "mace",
+    "dark complexion",
+    "kirita crown",
+    "vanamala garland"
+   ],
+   "weapons": [
+    "chakra",
+    "gada",
+    "shankha",
+    "Sharnga bow",
+    "khadga"
+   ],
+   "vahana": "Garuda",
+   "abode": "Vaikuntha",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 8",
+    "Vishnudharmottara Purana",
+    "Agni Purana"
+   ],
+   "variations": [
+    "Distinct from, though popularly linked with, Vaishno Devi of the Trikuta hills in Jammu."
+   ]
+  },
+  "maheshvari": {
+   "name": "Maheshvari",
+   "aliases": [
+    "Rudrani",
+    "Raudri",
+    "Maheshi"
+   ],
+   "description": "The shakti of Shiva (Maheshvara) and one of the Seven Mothers, riding a bull and wielding the trident. She embodies Shiva's power of dissolution and transformation.",
+   "story": "Among the powers that came forth from the gods to fight beside the Goddess was Maheshvari, the shakti of Shiva. The Devi Mahatmya describes her seated on a bull, holding a fine trident, with great serpents as bracelets and the crescent moon adorning her hair, the very image of her lord. When Raktabija's blood began to spawn countless new demons, she drove her trident into him along with the other Mothers, only to see the host multiply. An older tale in the Matsya Purana tells how Shiva, battling the demon Andhaka, whose blood also produced new demons, created a whole company of Mothers to drink it; Maheshvari stands at their head. In sculpture she has Shiva's third eye, a crown of matted locks and sometimes his drum, and is seated with the bull beneath her.",
+   "symbols": [
+    "bull",
+    "trident",
+    "crescent moon",
+    "serpent bracelets",
+    "third eye",
+    "matted locks",
+    "damaru"
+   ],
+   "weapons": [
+    "trishula",
+    "parashu (in some images)"
+   ],
+   "vahana": "Bull (Nandi)",
+   "abode": "Kailasa",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 8",
+    "Matsya Purana",
+    "Vishnudharmottara Purana"
+   ],
+   "variations": [
+    "Also called Rudrani or Raudri; some lists place her first among the Mothers instead of Brahmani."
+   ]
+  },
+  "kaumari": {
+   "name": "Kaumari",
+   "aliases": [
+    "Kartikeyani",
+    "Kumari",
+    "Kaumarika"
+   ],
+   "description": "The shakti of Skanda (Kumara, Kartikeya) and one of the Seven Mothers, riding a peacock and wielding the spear. She embodies youthful martial vigour.",
+   "story": "The war-god Skanda had long been surrounded by Mothers; the Mahabharata describes hosts of them as his companions, fierce goddesses who could protect or harm children. In the Devi Mahatmya his own shakti takes the stage: from Guha came Kaumari, mounted on a peacock and holding a spear, in the form of the youthful god himself. She joined the other Mothers in the fight against the demon armies, and when Raktabija advanced she struck him with her spear, only for his blood to spawn fresh demons. In temple sculpture she is often red-hued, sometimes six-faced like Skanda, with the peacock at her feet and a cockerel banner, and she is honoured as the eternally young one who grants courage and protects children from the illnesses that the old Mothers were believed to cause.",
+   "symbols": [
+    "peacock",
+    "spear (shakti)",
+    "red complexion",
+    "six faces (in some images)",
+    "cockerel banner"
+   ],
+   "weapons": [
+    "shakti (spear)",
+    "vajra (in some images)"
+   ],
+   "vahana": "Peacock (Paravani)",
+   "abode": "Kailasa",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 8",
+    "Mahabharata, Vana Parva (Skanda's Mothers, as background)",
+    "Vishnudharmottara Purana",
+    "Agni Purana"
+   ],
+   "variations": [
+    "Her link to Skanda connects her with the Mahabharata's host of Mothers attending the war-god."
+   ]
+  },
+  "varahi": {
+   "name": "Varahi",
+   "aliases": [
+    "Dandanatha",
+    "Dandini",
+    "Panchami",
+    "Barahi",
+    "Varttali"
+   ],
+   "description": "The boar-headed shakti of Varaha, Vishnu's boar avatar, and one of the Seven Mothers. In Shri Vidya she rises to become Dandanatha, commander-in-chief of Lalita Tripura Sundari's armies, and she is worshipped at night in Tantric rites.",
+   "story": "When the powers of the gods came forth to aid the Goddess, the Devi Mahatmya tells, the shakti of Vishnu's Boar incarnation appeared in a boar's form, and in the battle she gored and struck the demons down, and wounded Raktabija with her sword. Her greatest role comes in the Lalitopakhyana. When Lalita Tripura Sundari marched against Bhandasura, her army of shaktis was led by Varahi as Dandanatha, riding her chariot Kirichakra, wielding plough and pestle. She commanded the vast host through the long war, destroying Bhanda's generals, while Shyamala served as minister. Tantric worshippers honour her as a powerful protectress, pot-bellied and boar-faced, who is traditionally worshipped at night; in Varanasi and Odisha her temples are among the oldest shrines of the Mothers.",
+   "symbols": [
+    "boar's head",
+    "pot belly",
+    "plough",
+    "pestle",
+    "Kirichakra chariot",
+    "night worship"
+   ],
+   "weapons": [
+    "hala (plough)",
+    "musala (pestle)",
+    "khadga",
+    "danda (staff)"
+   ],
+   "vahana": "Buffalo (or boar)",
+   "abode": "Kirichakra chariot (in Shri Vidya)",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 8",
+    "Brahmanda Purana, Lalitopakhyana",
+    "Vishnudharmottara Purana"
+   ],
+   "variations": [
+    "In the Devi Mahatmya she is the shakti of Varaha; in Shri Vidya she is Dandanatha, Lalita's commander.",
+    "In Nepal the Buddhist Vajravarahi is a comparable boar-headed goddess."
+   ]
+  },
+  "aindri": {
+   "name": "Aindri",
+   "aliases": [
+    "Indrani",
+    "Mahendri",
+    "Vajri"
+   ],
+   "description": "The shakti of Indra and one of the Seven Mothers, riding the elephant Airavata and wielding the thunderbolt. She embodies Indra's royal and martial power.",
+   "story": "From Indra came his shakti Aindri, the Devi Mahatmya relates, seated on the great elephant and holding the thunderbolt, thousand-eyed like the king of the gods himself. When the demon Raktabija stepped forward to fight, it was Aindri he first faced. She struck him with her thunderbolt, and blood flowed from the wound; at once, from every drop that touched the ground, a new demon arose, equal to Raktabija in form and strength. So the terrible secret of his boon was revealed, and the Mothers found that every blow only multiplied their enemies, until Kali drank his blood. In sculpture Aindri wears a crown and ornaments of royalty, with an elephant beneath her seat. Many lists call her Indrani, and she is often conflated with Shachi, Indra's queen.",
+   "symbols": [
+    "elephant Airavata",
+    "thunderbolt (vajra)",
+    "thousand eyes",
+    "golden complexion",
+    "royal crown"
+   ],
+   "weapons": [
+    "vajra",
+    "ankusha"
+   ],
+   "vahana": "Elephant (Airavata)",
+   "abode": "Amaravati (Svarga)",
+   "sources": [
+    "Devi Mahatmya (Markandeya Purana 81–93), ch. 8",
+    "Vishnudharmottara Purana",
+    "Agni Purana"
+   ],
+   "variations": [
+    "Called Indrani in many lists and often conflated with Shachi, Indra's queen, though as a Matrika she is his emanated power rather than his wife."
+   ]
+  }
+ },
+ "edges": {
+  "adi-parashakti|brahman|form-of": {
+   "label": "Shakta theology identifies the supreme Goddess with Brahman itself as its dynamic power (Devi Gita)"
+  },
+  "brahma|adi-parashakti|created-by": {
+   "label": "In the Devi Bhagavata the Goddess brings forth Brahma to create the worlds",
+   "variation": "Shakta account (Devi Bhagavata); Vaishnava and Shaiva texts give other origins"
+  },
+  "vishnu|adi-parashakti|created-by": {
+   "label": "In the Devi Bhagavata the Goddess brings forth Vishnu to preserve the worlds",
+   "variation": "Shakta account (Devi Bhagavata); Vaishnava and Shaiva texts give other origins"
+  },
+  "shiva|adi-parashakti|created-by": {
+   "label": "In the Devi Bhagavata the Goddess brings forth Shiva to dissolve the worlds",
+   "variation": "Shakta account (Devi Bhagavata); Vaishnava and Shaiva texts give other origins"
+  },
+  "durga|adi-parashakti|form-of": {
+   "label": "Durga is the warrior manifestation of the supreme Goddess"
+  },
+  "kali|adi-parashakti|form-of": {
+   "label": "Kali is revered as the supreme Goddess herself in Kalikula Tantra and Bengali Shaktism"
+  },
+  "kaushiki|adi-parashakti|form-of": {
+   "label": "Kaushiki is the Great Goddess manifest for the war against Shumbha and Nishumbha"
+  },
+  "parvati|adi-parashakti|form-of": {
+   "label": "Parvati is the Great Goddess born as Himavan's daughter (Devi Gita)"
+  },
+  "sati|adi-parashakti|form-of": {
+   "label": "Sati is the Great Goddess born as Daksha's daughter (Devi Bhagavata, Kalika Purana)"
+  },
+  "lakshmi|adi-parashakti|form-of": {
+   "label": "As Mahalakshmi she is the root form of the Goddess in the Devi Mahatmya's Pradhanika Rahasya"
+  },
+  "saraswati|adi-parashakti|form-of": {
+   "label": "As Mahasarasvati she is one of the three great forms of the Goddess in the Devi Mahatmya tradition"
+  },
+  "mahavidyas|adi-parashakti|form-of": {
+   "label": "The ten Mahavidyas are aspects of the one supreme Goddess"
+  },
+  "tripura-sundari|adi-parashakti|form-of": {
+   "label": "Shri Vidya worships Lalita Tripura Sundari as the supreme Goddess herself"
+  },
+  "bhuvaneshvari|adi-parashakti|form-of": {
+   "label": "The Devi Bhagavata names the supreme Goddess of Manidvipa Bhuvaneshvari"
+  },
+  "shakambhari|adi-parashakti|form-of": {
+   "label": "Shakambhari-Shatakshi is the supreme Goddess appearing to end the great drought (Devi Bhagavata 7.28)"
+  },
+  "adi-parashakti|madhu|enemy": {
+   "label": "As Yoganidra (Mahamaya) she left the sleeping Vishnu and deluded Madhu so he could be slain (Devi Mahatmya ch. 1)",
+   "variation": "The Pradhanika Rahasya names the goddess of this first episode Mahakali"
+  },
+  "adi-parashakti|kaitabha|enemy": {
+   "label": "As Mahamaya she clouded Kaitabha's mind so that Vishnu could kill him (Devi Mahatmya ch. 1)",
+   "variation": "The Pradhanika Rahasya names the goddess of this first episode Mahakali"
+  },
+  "vak|adi-parashakti|form-of": {
+   "label": "Shakta tradition reads the Devi Sukta (Rig Veda 10.125), spoken by Vak, as the Goddess's self-revelation"
+  },
+  "adi-parashakti|himavan|guru": {
+   "label": "The Goddess taught the Devi Gita to Himavan before being born as his daughter (Devi Bhagavata 7.31–40)"
+  },
+  "durga|parvati|form-of": {
+   "label": "Durga is widely identified with Parvati, consort of Shiva"
+  },
+  "durga|shiva|created-by": {
+   "label": "Her face was formed from Shiva's radiance, and he gave her a trident (Devi Mahatmya ch. 2)"
+  },
+  "durga|vishnu|created-by": {
+   "label": "Her arms came from Vishnu's radiance, and he gave her a discus (Devi Mahatmya ch. 2)"
+  },
+  "durga|brahma|created-by": {
+   "label": "Her feet came from Brahma's radiance, and he gave her a rosary and water-pot (Devi Mahatmya ch. 2)"
+  },
+  "durga|indra|created-by": {
+   "label": "Her waist came from Indra's radiance, and he gave her the thunderbolt and a bell (Devi Mahatmya ch. 2)"
+  },
+  "durga|agni|created-by": {
+   "label": "Her three eyes arose from Agni's radiance, and he gave her a spear (Devi Mahatmya ch. 2)"
+  },
+  "durga|yama|created-by": {
+   "label": "Her hair came from Yama's radiance, and he gave her his staff (Devi Mahatmya ch. 2)"
+  },
+  "durga|varuna|created-by": {
+   "label": "Her thighs and shanks came from Varuna's radiance, and he gave her a conch and noose (Devi Mahatmya ch. 2)"
+  },
+  "durga|vayu|created-by": {
+   "label": "Her ears came from Vayu's radiance, and the wind god gave her bow and quivers (Devi Mahatmya ch. 2)"
+  },
+  "durga|surya|created-by": {
+   "label": "Her toes came from Surya's radiance, and he filled her pores with his rays (Devi Mahatmya ch. 2)"
+  },
+  "durga|soma|created-by": {
+   "label": "Her breasts came from the Moon's radiance (Devi Mahatmya ch. 2)"
+  },
+  "durga|kubera|created-by": {
+   "label": "Her nose came from Kubera's radiance, and he gave her a cup of wine (Devi Mahatmya ch. 2)"
+  },
+  "durga|prithvi|created-by": {
+   "label": "Her hips came from the radiance of the Earth (Devi Mahatmya ch. 2)"
+  },
+  "durga|vasus|created-by": {
+   "label": "Her fingers came from the radiance of the Vasus (Devi Mahatmya ch. 2)"
+  },
+  "durga|mahishasura|slayer": {
+   "label": "Durga pinned the buffalo-demon Mahishasura beneath her foot and beheaded him (Devi Mahatmya ch. 3)"
+  },
+  "durga|durgamasura|slayer": {
+   "label": "The Goddess slew the demon Durgama and so became known as Durga (Devi Mahatmya ch. 11; Devi Bhagavata 7.28)"
+  },
+  "durga|shiva|spouse": {
+   "label": "As a form of Parvati, Durga is the consort of Shiva"
+  },
+  "dawon|durga|vahana": {
+   "label": "The lion, given to her by Himavan in the Devi Mahatmya, is Durga's mount"
+  },
+  "krishna|durga|sibling": {
+   "label": "As Yoganidra (Ekanamsha) she was born to Yashoda the night Krishna was born and exchanged for him (Harivamsha)"
+  },
+  "yashoda|durga|parent": {
+   "label": "Yogamaya, whom the Bhagavata names Durga among other titles, was born as Yashoda's daughter (Bhagavata 10.2–4)"
+  },
+  "kamsa|durga|enemy": {
+   "label": "Kamsa tried to dash the infant against a rock; she rose into the sky as the eight-armed Goddess and foretold his death"
+  },
+  "arjuna|durga|devotee": {
+   "label": "At Krishna's urging Arjuna hymned Durga before the Kurukshetra war and received her blessing (Mahabharata, Bhishma Parva)",
+   "variation": "The Critical Edition places this hymn in an appendix"
+  },
+  "yudhishthira|durga|devotee": {
+   "label": "Yudhishthira praised Durga as the Pandavas entered Virata's city in disguise (Mahabharata, Virata Parva)",
+   "variation": "The Critical Edition places this hymn in an appendix"
+  },
+  "rama|durga|devotee": {
+   "label": "Rama worshipped the Goddess before his final battle with Ravana, the autumn akala-bodhana of Durga Puja",
+   "variation": "Found in the Devi Bhagavata (Book 3), Kalika Purana and Krittivasa's Bengali Ramayana, not in Valmiki"
+  },
+  "markandeya|durga|devotee": {
+   "label": "Markandeya narrates the Devi Mahatmya, which forms part of the Markandeya Purana"
+  },
+  "navadurga|durga|form-of": {
+   "label": "The Navadurga are the nine forms of Durga worshipped at Navaratri"
+  },
+  "katyayani|durga|form-of": {
+   "label": "Katyayani is a warrior form of Durga and an epithet of the Goddess"
+  },
+  "kaushiki|durga|form-of": {
+   "label": "Kaushiki is Durga (Ambika) of the Shumbha-Nishumbha episode"
+  },
+  "shakambhari|durga|form-of": {
+   "label": "Shakambhari is a nourishing form of the Goddess foretold in Devi Mahatmya ch. 11"
+  },
+  "bhramari|durga|form-of": {
+   "label": "Bhramari is a form of the Goddess foretold in Devi Mahatmya ch. 11"
+  },
+  "kali|kaushiki|created-by": {
+   "label": "Kali sprang from the furious brow of Ambika when Chanda and Munda attacked (Devi Mahatmya ch. 7)"
+  },
+  "kali|parvati|form-of": {
+   "label": "After Kaushiki emerged, Parvati herself turned dark and was called Kalika (Devi Mahatmya ch. 5)",
+   "variation": "Linga Purana: Parvati brings forth Kali to slay the demon Daruka"
+  },
+  "kali|durga|form-of": {
+   "label": "Kali is the embodied wrath of Durga"
+  },
+  "kali|shiva|spouse": {
+   "label": "Kali is the Shakti of Shiva as Mahakala; iconography shows her standing on his body"
+  },
+  "kali|chanda|slayer": {
+   "label": "Kali seized Chanda by the hair and beheaded him (Devi Mahatmya ch. 7)"
+  },
+  "kali|munda|slayer": {
+   "label": "Kali cut down Munda and brought both heads to Ambika, earning the name Chamunda (Devi Mahatmya ch. 7)"
+  },
+  "kali|raktabija|slayer": {
+   "label": "Kali drank every drop of Raktabija's blood so no new demons could arise, while Chandika struck him down (Devi Mahatmya ch. 8)"
+  },
+  "kali|mahavidyas|member-of": {
+   "label": "Kali is the first of the ten Mahavidyas"
+  },
+  "bhadrakali|kali|form-of": {
+   "label": "Bhadrakali, who arose at Daksha's sacrifice, is revered as a form of Kali"
+  },
+  "kalaratri|kali|form-of": {
+   "label": "Kalaratri, the dark Night of Time, is closely identified with Kali"
+  },
+  "chamunda|kali|form-of": {
+   "label": "Chamunda is the name Kali earned by slaying Chanda and Munda (Devi Mahatmya ch. 7)"
+  },
+  "tara-devi|kali|form-of": {
+   "label": "Tantric texts treat Tara as closely akin to Kali, sometimes as her blue form"
+  },
+  "mahavidyas|kali|form-of": {
+   "label": "Some Kalikula texts regard all ten Mahavidyas as forms of Kali"
+  },
+  "kaushiki|parvati|created-by": {
+   "label": "Kaushiki emerged from Parvati's bodily sheath (kosha) as the gods hymned the Goddess (Devi Mahatmya ch. 5)",
+   "variation": "Other Puranas: the dark skin Parvati sheds becomes Kaushiki"
+  },
+  "kaushiki|shumbha|slayer": {
+   "label": "She pierced Shumbha's chest with her spear after a battle fought in the sky (Devi Mahatmya ch. 10)"
+  },
+  "kaushiki|nishumbha|slayer": {
+   "label": "She slew Nishumbha, beheading the figure that burst from his chest (Devi Mahatmya ch. 9)"
+  },
+  "kaushiki|dhumralochana|slayer": {
+   "label": "She reduced Dhumralochana to ashes with the single syllable hum (Devi Mahatmya ch. 6)"
+  },
+  "kaushiki|raktabija|slayer": {
+   "label": "Chandika struck down Raktabija with her weapons once Kali had drunk his blood (Devi Mahatmya ch. 8)"
+  },
+  "dawon|kaushiki|vahana": {
+   "label": "Ambika rode the lion into battle against Shumbha's armies"
+  },
+  "shiva|kaushiki|ally": {
+   "label": "Through her emanation Shivaduti she sent Shiva as envoy to Shumbha and Nishumbha (Devi Mahatmya ch. 8)"
+  },
+  "kaushiki|saraswati|form-of": {
+   "label": "The Pradhanika Rahasya identifies the goddess of the third episode as Mahasarasvati"
+  },
+  "indra|kaushiki|devotee": {
+   "label": "Indra and the gods hymned the Goddess on the Himalaya, prompting her appearance (Devi Mahatmya ch. 5)"
+  },
+  "chamunda|kaushiki|created-by": {
+   "label": "As Kali she issued from the brow of Ambika (Durga) (Devi Mahatmya ch. 7)"
+  },
+  "chamunda|chanda|slayer": {
+   "label": "She killed Chanda and was therefore named Chamunda (Devi Mahatmya ch. 7)"
+  },
+  "chamunda|munda|slayer": {
+   "label": "She killed Munda and was therefore named Chamunda (Devi Mahatmya ch. 7)"
+  },
+  "chamunda|matrikas|member-of": {
+   "label": "Chamunda is counted among the Seven Mothers"
+  },
+  "chamunda|raktabija|enemy": {
+   "label": "Chamunda spread her mouth wide and drank Raktabija's blood (Devi Mahatmya ch. 8)"
+  },
+  "chamunda|mahishasura|slayer": {
+   "label": "Karnataka tradition holds that Chamundeshwari killed Mahishasura on Chamundi Hill, Mysuru",
+   "variation": "Local sthala tradition; the Devi Mahatmya credits Ambika/Chandika"
+  },
+  "shakambhari|durgamasura|slayer": {
+   "label": "As Shatakshi-Shakambhari she killed Durgama and restored the Vedas (Devi Bhagavata 7.28)"
+  },
+  "bhramari|arunasura|slayer": {
+   "label": "Bhramari's swarms of bees, hornets and wasps stung Arunasura and his army to death (Devi Bhagavata, Book 10)"
+  },
+  "bhramari|shiva|spouse": {
+   "label": "At Srisailam she is Bhramaramba, consort of Shiva as Mallikarjuna"
+  },
+  "brihaspati|bhramari|ally": {
+   "label": "Brihaspati led Arunasura to abandon the Gayatri, making him vulnerable to the Goddess (Devi Bhagavata, Book 10)"
+  },
+  "annapurna|parvati|form-of": {
+   "label": "Annapurna is Parvati as the giver of food"
+  },
+  "annapurna|shiva|spouse": {
+   "label": "Shiva, as a beggar with his skull-bowl, receives food from Annapurna in Kashi"
+  },
+  "annapurna|durga|form-of": {
+   "label": "Bengali mangal-kavya worship Annada (Annapurna) as a form of Durga"
+  },
+  "kamakhya|sati|form-of": {
+   "label": "Kamakhya is worshipped where Sati's yoni fell after her death (Kalika Purana)"
+  },
+  "kamakhya|shiva|spouse": {
+   "label": "Shiva dwells with her on Nilachala; the shrine's Bhairava is Umananda"
+  },
+  "narakasura|kamakhya|devotee": {
+   "label": "Vishnu made Naraka king of Pragjyotisha and bade him worship Kamakhya; his later defiance led to his fall (Kalika Purana)"
+  },
+  "kamakhya|tripura-sundari|form-of": {
+   "label": "Local Tantric tradition identifies Kamakhya with Tripura Sundari (Shodashi)"
+  },
+  "mahavidyas|sati|created-by": {
+   "label": "Sati manifested the ten Mahavidyas to overpower Shiva when he forbade her to attend Daksha's sacrifice (Mahabhagavata, Brihaddharma Purana)"
+  },
+  "mahavidyas|shakambhari|created-by": {
+   "label": "Shaktis including Kalika, Tarini, Bagala and Matangi issue from Shatakshi to fight Durgama (Devi Bhagavata 7.28)",
+   "variation": "An alternative origin to the Sati account"
+  },
+  "tara-devi|mahavidyas|member-of": {
+   "label": "Tara is the second Mahavidya"
+  },
+  "tripura-sundari|mahavidyas|member-of": {
+   "label": "Tripura Sundari (Shodashi) is the third Mahavidya"
+  },
+  "bhuvaneshvari|mahavidyas|member-of": {
+   "label": "Bhuvaneshvari is the fourth Mahavidya"
+  },
+  "bhairavi|mahavidyas|member-of": {
+   "label": "Bhairavi is the fifth Mahavidya"
+  },
+  "chhinnamasta|mahavidyas|member-of": {
+   "label": "Chhinnamasta is the sixth Mahavidya"
+  },
+  "dhumavati|mahavidyas|member-of": {
+   "label": "Dhumavati is the seventh Mahavidya"
+  },
+  "bagalamukhi|mahavidyas|member-of": {
+   "label": "Bagalamukhi is the eighth Mahavidya"
+  },
+  "matangi|mahavidyas|member-of": {
+   "label": "Matangi is the ninth Mahavidya"
+  },
+  "kamala|mahavidyas|member-of": {
+   "label": "Kamala is the tenth Mahavidya"
+  },
+  "tara-devi|shiva|spouse": {
+   "label": "The Todala Tantra pairs Tara with Shiva as Akshobhya"
+  },
+  "vashistha|tara-devi|devotee": {
+   "label": "Tantric legend says Vashistha learned Tara's worship from the Buddha and gained perfection at Tarapith",
+   "variation": "Tara Tantra, Rudrayamala"
+  },
+  "tara-devi|saraswati|form-of": {
+   "label": "As Nila Sarasvati, Tara is worshipped as a goddess of speech and learning"
+  },
+  "tripura-sundari|shiva|spouse": {
+   "label": "Lalita wed Shiva as Kameshvara (Brahmanda Purana, Lalitopakhyana)"
+  },
+  "varahi|tripura-sundari|ally": {
+   "label": "As Dandanatha, Varahi commanded Lalita's army against Bhandasura (Lalitopakhyana)"
+  },
+  "matangi|tripura-sundari|ally": {
+   "label": "As Shyamala (Mantrini), Matangi is Lalita's chief minister (Lalitopakhyana)"
+  },
+  "tripura-sundari|kamadeva|boon": {
+   "label": "After slaying Bhandasura, Lalita restored Kama to life at Rati's plea (Lalitopakhyana)"
+  },
+  "ganesha|tripura-sundari|created-by": {
+   "label": "Lalita brought forth Maha-Ganapati by a glance at Kameshvara's face to shatter Bhanda's obstacle-yantra (Lalitopakhyana; Lalita Sahasranama)",
+   "variation": "The Shiva Purana gives a different birth, from Parvati alone"
+  },
+  "agastya|tripura-sundari|devotee": {
+   "label": "Agastya received the Lalitopakhyana and the Lalita Sahasranama from Hayagriva"
+  },
+  "hayagriva|tripura-sundari|devotee": {
+   "label": "Hayagriva expounds Lalita's glory as the teacher of the Lalitopakhyana"
+  },
+  "lopamudra|tripura-sundari|devotee": {
+   "label": "Lopamudra is revered as the seer of the hadi form of the Shri Vidya mantra (Lopamudra-vidya)"
+  },
+  "indra|tripura-sundari|devotee": {
+   "label": "Indra and the gods performed the sacrifice from whose fire Lalita arose (Lalitopakhyana)"
+  },
+  "bhuvaneshvari|shiva|spouse": {
+   "label": "The Todala Tantra pairs Bhuvaneshvari with Shiva as Tryambaka"
+  },
+  "vishnu|bhuvaneshvari|devotee": {
+   "label": "In the Devi Bhagavata Vishnu hymns the Goddess of Manidvipa as Bhuvaneshvari"
+  },
+  "brahma|bhuvaneshvari|devotee": {
+   "label": "Brahma, with Vishnu and Shiva, beheld and praised her in Manidvipa (Devi Bhagavata, Book 3)"
+  },
+  "bhairavi|dakshinamurti|spouse": {
+   "label": "The Todala Tantra names Shiva as Dakshinamurti as Bhairavi's consort",
+   "variation": "Others pair her with Batuka or Kala Bhairava"
+  },
+  "bhairavi|tripura-sundari|form-of": {
+   "label": "As Tripura Bhairavi she is regarded as the fierce aspect of Tripura Sundari"
+  },
+  "chhinnamasta|parvati|form-of": {
+   "label": "Pranatoshini Tantra: Parvati beheaded herself to feed her hungry attendants"
+  },
+  "chhinnamasta|shiva|spouse": {
+   "label": "The Todala Tantra pairs Chhinnamasta with Shiva as Kabandha, the headless"
+  },
+  "shiva|dhumavati|curse": {
+   "label": "After Sati swallowed him in hunger, Shiva cursed her to live as a widow, Dhumavati (Pranatoshini Tantra)"
+  },
+  "dhumavati|sati|form-of": {
+   "label": "Dhumavati is Sati in widowed, smoky form, or rises from the smoke of Sati's pyre"
+  },
+  "dhumavati|alakshmi|form-of": {
+   "label": "She shares inauspiciousness and poverty with Alakshmi/Jyeshtha, with whom some identify her"
+  },
+  "vishnu|bagalamukhi|devotee": {
+   "label": "Vishnu's penance at the Haridra lake brought forth Bagalamukhi to still a cosmic storm",
+   "variation": "Popular and Tantric legend"
+  },
+  "bagalamukhi|tripura-sundari|form-of": {
+   "label": "In the Haridra lake legend, Tripura Sundari, pleased by Vishnu, emerged as Bagalamukhi"
+  },
+  "matangi|saraswati|form-of": {
+   "label": "Matangi is revered as the Tantric Sarasvati, goddess of speech and music"
+  },
+  "matangi|parvati|form-of": {
+   "label": "Pranatoshini Tantra: Parvati took the form of an outcaste woman to test Shiva"
+  },
+  "matangi|shiva|spouse": {
+   "label": "The Todala Tantra pairs Matangi with Shiva as Matanga"
+  },
+  "kamala|lakshmi|form-of": {
+   "label": "Kamala is the Tantric form of Lakshmi, bathed by elephants on her lotus"
+  },
+  "kamala|vishnu|spouse": {
+   "label": "As Lakshmi, Kamala is the consort of Vishnu",
+   "variation": "Some Tantric texts give Sadashiva as her consort"
+  },
+  "navadurga|parvati|form-of": {
+   "label": "Popular liturgy reads the nine forms as stages of Parvati's life"
+  },
+  "markandeya|navadurga|devotee": {
+   "label": "In the Devi Kavacha, Brahma reveals the nine Durgas to Markandeya"
+  },
+  "shailaputri|navadurga|member-of": {
+   "label": "Shailaputri is the first Navadurga"
+  },
+  "brahmacharini|navadurga|member-of": {
+   "label": "Brahmacharini is the second Navadurga"
+  },
+  "chandraghanta|navadurga|member-of": {
+   "label": "Chandraghanta is the third Navadurga"
+  },
+  "kushmanda|navadurga|member-of": {
+   "label": "Kushmanda is the fourth Navadurga"
+  },
+  "skandamata|navadurga|member-of": {
+   "label": "Skandamata is the fifth Navadurga"
+  },
+  "katyayani|navadurga|member-of": {
+   "label": "Katyayani is the sixth Navadurga"
+  },
+  "kalaratri|navadurga|member-of": {
+   "label": "Kalaratri is the seventh Navadurga"
+  },
+  "mahagauri|navadurga|member-of": {
+   "label": "Mahagauri is the eighth Navadurga"
+  },
+  "siddhidatri|navadurga|member-of": {
+   "label": "Siddhidatri is the ninth Navadurga"
+  },
+  "shailaputri|parvati|form-of": {
+   "label": "Shailaputri is Parvati as daughter of the mountain"
+  },
+  "himavan|shailaputri|parent": {
+   "label": "As Shailaputri, daughter of the mountain (shaila), she is Himavan's child"
+  },
+  "shailaputri|sati|reincarnation-of": {
+   "label": "Shailaputri is Sati reborn after her self-immolation at Daksha's sacrifice"
+  },
+  "nandi|shailaputri|vahana": {
+   "label": "Shailaputri rides the bull Nandi"
+  },
+  "brahmacharini|parvati|form-of": {
+   "label": "Brahmacharini is Parvati as the ascetic maiden"
+  },
+  "brahmacharini|shiva|devotee": {
+   "label": "She performed severe austerities to win Shiva as husband (Shiva Purana; Kumarasambhava)"
+  },
+  "chandraghanta|parvati|form-of": {
+   "label": "Chandraghanta is Parvati as the bride ready for battle"
+  },
+  "chandraghanta|shiva|spouse": {
+   "label": "Devotional lore links Chandraghanta with Parvati's wedding to Shiva"
+  },
+  "kushmanda|adi-parashakti|form-of": {
+   "label": "Navaratri lore makes Kushmanda the primordial Goddess who smiled the cosmic egg into being"
+  },
+  "skandamata|parvati|form-of": {
+   "label": "Skandamata is Parvati as mother of Skanda"
+  },
+  "skandamata|kartikeya|parent": {
+   "label": "Skandamata is the mother of Skanda (Kartikeya), shown holding him on her lap"
+  },
+  "katyayani|mahishasura|slayer": {
+   "label": "Katyayani slew Mahishasura in the Vindhya mountains (Vamana Purana)",
+   "variation": "The Devi Mahatmya names the slayer Ambika/Chandika"
+  },
+  "kalaratri|raktabija|slayer": {
+   "label": "Popular Navaratri lore credits Kalaratri with slaying Raktabija",
+   "variation": "The Devi Mahatmya gives this role to Kali/Chamunda and Chandika"
+  },
+  "mahagauri|parvati|form-of": {
+   "label": "Mahagauri is Parvati made radiant white after her austerities"
+  },
+  "mahagauri|shiva|spouse": {
+   "label": "Shiva bathed her in Ganga water after her penance, making her radiant white"
+  },
+  "nandi|mahagauri|vahana": {
+   "label": "Mahagauri rides a white bull, identified with Nandi"
+  },
+  "siddhidatri|adi-parashakti|form-of": {
+   "label": "Siddhidatri is the supreme Goddess as giver of all perfections"
+  },
+  "shiva|siddhidatri|devotee": {
+   "label": "Popular lore: Shiva gained the eight siddhis by worshipping her and became Ardhanarishvara"
+  },
+  "matrikas|kaushiki|form-of": {
+   "label": "In Devi Mahatmya ch. 10 the Goddess reabsorbs the Mothers, declaring them her own powers"
+  },
+  "matrikas|kartikeya|ally": {
+   "label": "The Mahabharata's hosts of Mothers attend the war-god Skanda (Vana and Shalya Parvas)"
+  },
+  "matrikas|raktabija|enemy": {
+   "label": "The Mothers fought Raktabija and his army (Devi Mahatmya ch. 8)"
+  },
+  "matrikas|shumbha|enemy": {
+   "label": "The Mothers fought beside the Goddess against Shumbha's armies (Devi Mahatmya ch. 8–10)"
+  },
+  "matrikas|andhaka|enemy": {
+   "label": "The Mothers were created to drink the blood of the demon Andhaka (Matsya Purana)"
+  },
+  "matrikas|shiva|created-by": {
+   "label": "In the Matsya Purana Shiva creates the Mothers to fight Andhaka",
+   "variation": "In the Devi Mahatmya each Mother emanates from her own god"
+  },
+  "narasimha|matrikas|enemy": {
+   "label": "Narasimha brought forth goddesses to restrain the Mothers when they grew uncontrollable (Matsya Purana)"
+  },
+  "virabhadra|matrikas|ally": {
+   "label": "Virabhadra flanks the Seven Mothers as their guardian in temple sculpture"
+  },
+  "ganesha|matrikas|ally": {
+   "label": "Ganesha flanks the Seven Mothers in temple sculpture panels"
+  },
+  "brahmani|brahma|created-by": {
+   "label": "Brahmani is the shakti that came forth from Brahma (Devi Mahatmya ch. 8)"
+  },
+  "brahmani|matrikas|member-of": {
+   "label": "Brahmani is one of the Seven Mothers"
+  },
+  "hamsa-vahana|brahmani|vahana": {
+   "label": "Brahmani arrives in a chariot drawn by swans (Devi Mahatmya ch. 8)"
+  },
+  "brahmani|saraswati|form-of": {
+   "label": "Brahmani is often conflated with Sarasvati"
+  },
+  "vaishnavi|vishnu|created-by": {
+   "label": "Vaishnavi is the shakti that came forth from Vishnu (Devi Mahatmya ch. 8)"
+  },
+  "vaishnavi|matrikas|member-of": {
+   "label": "Vaishnavi is one of the Seven Mothers"
+  },
+  "garuda|vaishnavi|vahana": {
+   "label": "Vaishnavi rides Garuda (Devi Mahatmya ch. 8)"
+  },
+  "vaishnavi|raktabija|enemy": {
+   "label": "Vaishnavi struck Raktabija with her discus, only for his blood to spawn new demons (Devi Mahatmya ch. 8)"
+  },
+  "maheshvari|shiva|created-by": {
+   "label": "Maheshvari is the shakti that came forth from Shiva (Devi Mahatmya ch. 8)"
+  },
+  "maheshvari|matrikas|member-of": {
+   "label": "Maheshvari is one of the Seven Mothers"
+  },
+  "nandi|maheshvari|vahana": {
+   "label": "Maheshvari rides Shiva's bull (Devi Mahatmya ch. 8)"
+  },
+  "maheshvari|raktabija|enemy": {
+   "label": "Maheshvari struck Raktabija with her trident (Devi Mahatmya ch. 8)"
+  },
+  "kaumari|kartikeya|created-by": {
+   "label": "Kaumari is the shakti that came forth from Skanda (Devi Mahatmya ch. 8)"
+  },
+  "kaumari|matrikas|member-of": {
+   "label": "Kaumari is one of the Seven Mothers"
+  },
+  "paravani|kaumari|vahana": {
+   "label": "Kaumari rides Skanda's peacock (Devi Mahatmya ch. 8)"
+  },
+  "kaumari|raktabija|enemy": {
+   "label": "Kaumari struck Raktabija with her spear (Devi Mahatmya ch. 8)"
+  },
+  "varahi|varaha|created-by": {
+   "label": "Varahi is the shakti of Vishnu's boar avatar (Devi Mahatmya ch. 8)"
+  },
+  "varahi|matrikas|member-of": {
+   "label": "Varahi is one of the Seven Mothers"
+  },
+  "varahi|raktabija|enemy": {
+   "label": "Varahi struck Raktabija with her sword (Devi Mahatmya ch. 8)"
+  },
+  "aindri|indra|created-by": {
+   "label": "Aindri is the shakti that came forth from Indra (Devi Mahatmya ch. 8)"
+  },
+  "aindri|matrikas|member-of": {
+   "label": "Aindri is one of the Seven Mothers"
+  },
+  "airavata|aindri|vahana": {
+   "label": "Aindri rides the great elephant Airavata (Devi Mahatmya ch. 8)"
+  },
+  "aindri|raktabija|enemy": {
+   "label": "Aindri's thunderbolt drew Raktabija's first blood, and from every drop a new demon arose (Devi Mahatmya ch. 8)"
+  },
+  "aindri|shachi|form-of": {
+   "label": "Aindri (Indrani) is often conflated with Shachi, Indra's queen"
+  }
+ }
+}

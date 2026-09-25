@@ -1,0 +1,912 @@
+{
+ "section": "09-sages",
+ "nodes": {
+  "narada": {
+   "name": "Narada",
+   "aliases": [
+    "Devarshi",
+    "Narada Muni",
+    "Brahmaputra",
+    "Kalahapriya"
+   ],
+   "description": "Narada is the wandering divine sage (devarshi), a mind-born son of Brahma who travels between the worlds singing the name of Narayana on his vina. He carries news and counsel between gods, sages and kings, and in bhakti tradition is the model devotee and teacher of devotion. His meddling sometimes sets events in motion, earning him the playful epithet 'lover of quarrels'.",
+   "story": "In the Bhagavata Purana Narada tells Vyasa of his previous life. In an earlier cycle of creation he was the young son of a maidservant who waited on wandering sages during the rainy season. Eating the remnants of their meals and listening to their songs about Hari, the boy's heart turned wholly towards God. When his mother died of a snakebite, he wandered alone into a forest, sat beneath a pippala tree and meditated. The form of the Lord flashed within his heart and vanished, leaving him aching with longing. A divine voice told him he would not see that form again in this life, but that his devotion would never fade. At the dissolution he entered Narayana, and in the next creation he was born from Brahma, to roam the worlds forever singing the Lord's names.",
+   "symbols": [
+    "vina (Mahati)",
+    "kartals (hand cymbals)",
+    "chanting 'Narayana, Narayana'",
+    "sacred thread and topknot"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Roams the three worlds; Brahmaloka",
+   "sources": [
+    "Atharva Veda",
+    "Aitareya Brahmana 7.13",
+    "Chandogya Upanishad 7",
+    "Mahabharata, Sabha Parva 5",
+    "Valmiki Ramayana, Bala Kanda 1",
+    "Bhagavata Purana 1.5–6, 6.5, 7.7",
+    "Narada Bhakti Sutra"
+   ],
+   "variations": [
+    "The Rig Vedic Anukramani attributes hymns 8.13 and 9.104–105 to a seer Narada Kanva, but this is a later attribution.",
+    "The Bhagavata makes Narada born from Brahma's lap; the Mahabharata and Puranas elsewhere count him among the gandharvas or as a son of Kashyapa in a different birth.",
+    "The Shiva Purana and Tulsidas' Ramcharitmanas tell of Narada's pride over conquering desire, after which Vishnu gave him a monkey's face and Narada cursed Vishnu to suffer separation from his wife as Rama."
+   ]
+  },
+  "durvasa": {
+   "name": "Durvasa",
+   "aliases": [
+    "Durvasas",
+    "Durvasa Muni"
+   ],
+   "description": "Durvasa is the famously irascible sage, son of Atri and Anasuya and regarded as born of a portion of Shiva. His curses and boons are turning points in many stories: the loss of the gods' fortune before the churning of the ocean, Kunti's mantra for summoning gods, and, in Kalidasa's drama, Shakuntala's forgotten ring. Though quick to anger, he is equally quick to reward sincere hospitality.",
+   "story": "Wandering the earth, Durvasa received from a Vidyadhari a fragrant garland of celestial flowers. Meeting Indra riding his elephant Airavata, the sage offered it to the king of the gods. Indra carelessly placed it on the elephant's head; drawn by the scent, Airavata pulled it down with his trunk and trampled it. Durvasa blazed with anger: because Indra, drunk with his own splendour, had scorned a gift given in reverence, the prosperity of the three worlds would desert him. Lakshmi withdrew, the gods lost their vigour, plants withered and sacrifices ceased, and the asuras rose against heaven. Desperate, the devas went to Vishnu, who counselled them to churn the Ocean of Milk together with the asuras to regain their lost fortune and win the nectar of immortality.",
+   "symbols": [
+    "matted locks",
+    "water-pot (kamandalu)",
+    "staff",
+    "bark garments"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Wandering; hermitages across the earth",
+   "sources": [
+    "Mahabharata, Adi Parva (Kunti's mantra)",
+    "Mahabharata, Vana Parva (visit to the exiled Pandavas)",
+    "Mahabharata, Anushasana Parva (Durvasa's stay with Krishna)",
+    "Vishnu Purana 1.9",
+    "Bhagavata Purana 4.1, 9.4–5",
+    "Kalidasa, Abhijnanashakuntalam, Act 4",
+    "Valmiki Ramayana, Uttara Kanda"
+   ],
+   "variations": [
+    "The curse on Shakuntala is Kalidasa's invention; in the Mahabharata Dushyanta simply pretends not to know her.",
+    "In the Uttara Kanda, Durvasa's demand to see Rama at once forces Lakshmana to break Rama's vow, leading to Lakshmana's departure.",
+    "Some Puranas say the garland was a gift from Shiva or Vishnu's prasada rather than from a Vidyadhari."
+   ]
+  },
+  "vyasa": {
+   "name": "Vyasa (Krishna Dvaipayana)",
+   "aliases": [
+    "Veda Vyasa",
+    "Krishna Dvaipayana",
+    "Badarayana",
+    "Parasharya",
+    "Satyavateya"
+   ],
+   "description": "Vyasa, 'the arranger', is the sage credited with dividing the one Veda into four, composing the Mahabharata and, in tradition, the Puranas and the Brahma Sutras. Son of Parashara and Satyavati, he is also the biological grandfather of both the Kauravas and the Pandavas, and appears throughout the epic he narrates. He is revered as a partial incarnation of Vishnu and one of the Chiranjivis.",
+   "story": "Born on an island in the Yamuna to the fisher-maiden Satyavati and the sage Parashara, the dark-skinned child grew up at once and left for the forest, promising his mother he would come whenever she thought of him. Years later, when her son Vichitravirya died childless, Satyavati summoned him to raise heirs for the Kuru line by niyoga with the widowed queens. Ambika shut her eyes at the sight of the gaunt, matted ascetic, and her son Dhritarashtra was born blind; Ambalika turned pale with fear, and Pandu was born pale. When Ambika later sent a maidservant in her place, the woman received him calmly and bore the wise Vidura. So the grandfather of both warring houses later composed the Mahabharata, the story of his own descendants.",
+   "symbols": [
+    "dark complexion",
+    "matted locks",
+    "manuscript or book",
+    "rosary (akshamala)",
+    "deer-skin seat"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Badari (Badrinath) hermitage",
+   "sources": [
+    "Mahabharata, Adi Parva 1.57, 1.99–100",
+    "Mahabharata, Shanti Parva (Moksha-dharma; birth of Shuka)",
+    "Vishnu Purana 3.3–4",
+    "Bhagavata Purana 1.3–7",
+    "Devi Bhagavata Purana, Book 1"
+   ],
+   "variations": [
+    "The Vishnu Purana (3.3) lists twenty-eight Vyasas, one for each dvapara yuga of this manvantara; Krishna Dvaipayana is the latest.",
+    "The story of Ganesha writing the Mahabharata to Vyasa's dictation appears in some manuscripts but was excluded from the Critical Edition as an interpolation.",
+    "Tradition identifies him with Badarayana, author of the Brahma Sutras; many scholars treat them as different people."
+   ]
+  },
+  "valmiki": {
+   "name": "Valmiki",
+   "aliases": [
+    "Adikavi",
+    "Prachetasa",
+    "Maharishi Valmiki"
+   ],
+   "description": "Valmiki is the adikavi, the first poet, author of the Ramayana and a character within it. He shelters the banished Sita in his hermitage, raises her twin sons Lava and Kusha and teaches them to sing his poem. His name is traditionally derived from valmika, the anthill that grew over him during long meditation.",
+   "story": "Valmiki once asked Narada whether any man then living possessed every virtue, and Narada told him the story of Rama. Later, walking to the Tamasa river with his disciple Bharadvaja, Valmiki watched a pair of krauncha birds absorbed in each other when a hunter's arrow struck the male. As the female cried over her dying mate, grief welled up in the sage and poured out as a curse in a new, measured verse: 'Hunter, may you never find rest for endless years.' Troubled that he had spoken in anger, he wondered at the form his words had taken. Brahma then appeared, told him the metre had come by his will, and commanded him to tell the whole story of Rama in it. So, it is said, grief (shoka) became verse (shloka), and the first poem was born.",
+   "symbols": [
+    "palm-leaf manuscript",
+    "anthill (valmika)",
+    "rosary",
+    "writing stylus"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hermitage on the Tamasa river, near the Ganga",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda 1–4",
+    "Valmiki Ramayana, Ayodhya Kanda (Rama's visit at Chitrakuta)",
+    "Valmiki Ramayana, Uttara Kanda (Sita's exile and the twins)",
+    "Mahabharata, Anushasana Parva (mention)"
+   ],
+   "variations": [
+    "His earlier life as the highway robber Ratnakara, who repeated 'mara' until it became 'Rama', is a later tradition (Adhyatma Ramayana, Skanda Purana and folk retellings); it is not in the Valmiki Ramayana.",
+    "In the Uttara Kanda he calls himself the tenth son of Prachetas; some later traditions identify Prachetas with Varuna.",
+    "Communities such as the Balmikis venerate him as their guru and ancestor."
+   ]
+  },
+  "markandeya": {
+   "name": "Markandeya",
+   "aliases": [
+    "Mrikandu-putra",
+    "Bhargava Markandeya",
+    "Chiranjivi Markandeya"
+   ],
+   "description": "Markandeya is an ageless sage of the Bhrigu line who survives the cosmic dissolution. In the Mahabharata he narrates long cycles of tales to the exiled Pandavas and recounts his vision of the divine child floating on a banyan leaf amid the flood. The Markandeya Purana, including the Devi Mahatmya, is placed in his mouth, and later Shaiva tradition celebrates Shiva's rescue of the boy Markandeya from Yama.",
+   "story": "In a widely loved Puranic tale, the sage Mrikandu and his wife Marudvati, long childless, worshipped Shiva and were offered a choice: a dull son who would live long, or a brilliant, virtuous son who would live only sixteen years. They chose the latter. As the boy's sixteenth year closed, Markandeya went to a Shiva linga and worshipped without pause. When Yama's messengers could not approach him, Yama came himself and cast his noose; it fell around both the boy and the linga he embraced. Shiva burst forth from the linga in fury, struck down the god of death and blessed Markandeya to remain sixteen forever. The episode gave Shiva the name Kalantaka, 'ender of Time', and is popularly associated with the Mahamrityunjaya prayer.",
+   "symbols": [
+    "embracing a Shiva linga",
+    "youthful form",
+    "rosary",
+    "banyan leaf (vision of the pralaya)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hermitages in the Himalaya; survives the pralaya on the cosmic waters",
+   "sources": [
+    "Mahabharata, Vana Parva (Markandeya Samasya)",
+    "Markandeya Purana (incl. Devi Mahatmya, chs. 81–93)",
+    "Bhagavata Purana 12.8–10",
+    "Later Puranic and Tamil temple tradition (Kalantaka legend, Thirukkadaiyur)"
+   ],
+   "variations": [
+    "The rescue from Yama is Puranic and temple tradition; the Mahabharata presents Markandeya as a long-lived sage who witnessed many dissolutions.",
+    "The Linga Purana tells a parallel rescue from Kala of a devotee named Shveta.",
+    "In the Mahabharata the child on the banyan leaf is Narayana/Krishna; the Bhagavata places the vision after a boon from Nara-Narayana."
+   ]
+  },
+  "parashara": {
+   "name": "Parashara",
+   "aliases": [
+    "Parashara Shaktya",
+    "Gautama-Parashara"
+   ],
+   "description": "Parashara is a Vedic seer, grandson of Vashistha and son of Shakti, to whom a group of Rig Vedic hymns to Agni is attributed. In the epics he is the father of Vyasa by Satyavati, and he narrates the Vishnu Purana to his disciple Maitreya. The Parashara Smriti and an early astrological tradition are also attached to his name.",
+   "story": "Travelling on pilgrimage, Parashara boarded a ferry on the Yamuna rowed by Satyavati, the fisher-chief's foster daughter, whose body smelled of fish. Captivated, he asked for her love. She hesitated, fearing for her maidenhood and the sages watching from the banks, so Parashara raised a thick mist to veil them and promised that her virginity would be restored. He also granted that the fishy odour would give way to a fragrance carried a whole yojana, earning her the names Gandhavati and Yojanagandha. On an island in the river she gave birth to Krishna Dvaipayana, who grew at once to manhood and departed for the forest. Parashara went on his way, and Satyavati later became the queen of King Shantanu.",
+   "symbols": [
+    "rosary",
+    "water-pot",
+    "matted locks"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Rig Veda 1.65–73 (attributed to Parashara Shaktya)",
+    "Mahabharata, Adi Parva 1.57",
+    "Mahabharata, Adi Parva (Parashara's sacrifice against the rakshasas)",
+    "Vishnu Purana 1.1",
+    "Parashara Smriti"
+   ],
+   "variations": [
+    "In the Mahabharata and Vishnu Purana, Parashara begins a sacrifice to burn all rakshasas to avenge his father, but is persuaded by Vashistha and Pulastya to stop.",
+    "Attribution of the Brihat Parashara Hora Shastra (astrology) to him is traditional and much later."
+   ]
+  },
+  "shakti-rishi": {
+   "name": "Shakti (son of Vashistha)",
+   "aliases": [
+    "Shaktri",
+    "Shakti Vasishtha"
+   ],
+   "description": "Shakti is the eldest of Vashistha's hundred sons and the father of Parashara. Verses of the Rig Veda are attributed to him, and in the Mahabharata his curse on King Kalmashapada sets off the tragic destruction of Vashistha's sons amid the feud with Vishvamitra.",
+   "story": "King Kalmashapada of the Ikshvaku line, returning from a hunt, met Shakti on a narrow forest path. Neither would give way. The king ordered the sage aside, and when Shakti replied that the path belonged to the brahmana, the king struck him with a whip. Shakti cursed him to roam the earth as a man-eating rakshasa. Vishvamitra, who coveted the king's patronage and bore enmity to Vashistha's house, sent a rakshasa named Kinkara to enter the cursed king. Maddened, Kalmashapada devoured Shakti first and then all of Vashistha's other sons. Shakti's widow Adrishyanti was then carrying their child; when the grieving Vashistha tried again and again to end his life, he heard the unborn Parashara reciting the Veda from her womb and chose to live.",
+   "symbols": [
+    "rosary",
+    "water-pot"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Vashistha's hermitage",
+   "sources": [
+    "Rig Veda 9.108 (verses attributed to Shakti Vasishtha in the Anukramani)",
+    "Mahabharata, Adi Parva (Vasishtha and Kalmashapada)",
+    "Vishnu Purana 1.1"
+   ],
+   "variations": [
+    "Some versions say Vishvamitra himself, rather than a hired rakshasa, drove the king to devour Shakti."
+   ]
+  },
+  "yajnavalkya": {
+   "name": "Yajnavalkya",
+   "aliases": [
+    "Yajnavalkya Vajasaneya",
+    "Vajasaneya"
+   ],
+   "description": "Yajnavalkya is the great ritualist and philosopher of the Shatapatha Brahmana and the Brihadaranyaka Upanishad, the seer of the White (Shukla) Yajurveda. His dialogues with King Janaka, with his wife Maitreyi and with the scholars of Janaka's court, including Gargi, are among the foundations of Vedanta. A law code, the Yajnavalkya Smriti, bears his name.",
+   "story": "King Janaka of Videha once held a sacrifice with lavish gifts and, wishing to learn who was most learned among the brahmins of Kuru and Panchala, set apart a thousand cows with gold pieces tied to their horns. When no one dared claim them, Yajnavalkya told his pupil Samashravas to drive them home. Challenged for his presumption, he replied that he bowed to the most learned, but simply wanted the cows. One after another the great scholars questioned him: Ashvala, Artabhaga, Bhujyu, Ushasta, Kahola, Gargi twice, Uddalaka Aruni and finally Vidagdha Shakalya, who pressed him on the number of gods and, failing to answer the sage's last question, lost his head as warned. Through these answers Yajnavalkya unfolded the Self as the inner controller, describable only as 'not this, not this' (neti neti).",
+   "symbols": [
+    "palm-leaf manuscripts",
+    "cows of Janaka's contest",
+    "horse (Surya as Vaji)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Mithila (Videha), court of Janaka",
+   "sources": [
+    "Shatapatha Brahmana",
+    "Brihadaranyaka Upanishad 2.4, 3.1–9, 4.1–5",
+    "Mahabharata, Shanti Parva (dialogue with Janaka)",
+    "Vishnu Purana 3.5",
+    "Yajnavalkya Smriti"
+   ],
+   "variations": [
+    "In the Vishnu Purana, after a quarrel with his teacher Vaishampayana, he vomits the Yajurveda, which other pupils eat as partridges (tittiri), giving the Taittiriya (Black) recension; Surya in the form of a horse then teaches him the White Yajurveda.",
+    "Brihadaranyaka 6.3.7 and 6.5 place him in a line of teachers after Uddalaka Aruni."
+   ]
+  },
+  "uddalaka": {
+   "name": "Uddalaka Aruni",
+   "aliases": [
+    "Aruni",
+    "Uddalaka Gautama",
+    "Aruni Panchalya"
+   ],
+   "description": "Uddalaka Aruni is one of the most important teachers of the Brahmanas and Upanishads, father of Shvetaketu. His teaching in the sixth chapter of the Chandogya Upanishad, with its refrain tat tvam asi ('you are that'), is among the most celebrated passages in Indian philosophy. He also appears questioning Yajnavalkya in Janaka's court.",
+   "story": "When his son Shvetaketu returned at twenty-four from twelve years of study, proud and thinking himself learned, Uddalaka asked whether he had sought that teaching by which the unheard becomes heard and the unknown known. Shvetaketu admitted he had not. So his father taught him through homely examples. He had him drop a lump of salt into water overnight and in the morning asked him to find it; it could not be seen, yet every sip tasted of salt. He had him split a banyan fruit, then a seed within it, until nothing visible remained, and showed that from that unseen essence the great tree grows. Each lesson ended with the same refrain: that subtlest essence is the Self of all this; that is the real, that is the Self; you are that, Shvetaketu.",
+   "symbols": [
+    "salt dissolved in water",
+    "banyan seed",
+    "sacrificial fire"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Panchala / Kuru country",
+   "sources": [
+    "Shatapatha Brahmana",
+    "Chandogya Upanishad 5.3, 6.1–16",
+    "Brihadaranyaka Upanishad 3.7, 6.2",
+    "Kaushitaki Upanishad 1",
+    "Mahabharata, Adi Parva 1.3",
+    "Mahabharata, Vana Parva 3.132"
+   ],
+   "variations": [
+    "The Mahabharata (Adi Parva 1.3) tells of Aruni of Panchala, pupil of Ayoda Dhaumya, who lay in a breach of a field embankment to stop the water and was renamed Uddalaka; this Aruni is traditionally identified with the Upanishadic teacher.",
+    "He is addressed by the clan name Gautama in the Upanishads."
+   ]
+  },
+  "shvetaketu": {
+   "name": "Shvetaketu",
+   "aliases": [
+    "Shvetaketu Aruneya",
+    "Shvetaketu Auddalaki"
+   ],
+   "description": "Shvetaketu is the son and pupil of Uddalaka Aruni, the listener to whom 'tat tvam asi' is addressed in the Chandogya Upanishad. He appears in the Shatapatha Brahmana and several Upanishads as a proud young scholar humbled into learning, and the Mahabharata credits him with establishing the rule of marital fidelity.",
+   "story": "According to a tale Pandu tells Kunti in the Mahabharata, in ancient times women were free to go with any man. One day, as the young Shvetaketu sat with his parents, a brahmin came, took his mother by the hand and led her away. Uddalaka calmly explained that this was the ancient custom, but Shvetaketu was outraged and laid down a new rule: from then on a wife who strayed from her husband, or a husband who betrayed a faithful wife, would incur a sin as grave as killing an unborn child. The Upanishads remember him differently, as the proud graduate humbled when King Pravahana Jaivali asked him five questions on the soul's journey after death that he could not answer, and he returned to ask his father for the teaching.",
+   "symbols": [
+    "student's staff",
+    "sacred thread"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Panchala",
+   "sources": [
+    "Shatapatha Brahmana",
+    "Chandogya Upanishad 5.3, 6.1–16",
+    "Brihadaranyaka Upanishad 6.2",
+    "Kaushitaki Upanishad 1",
+    "Mahabharata, Adi Parva 1.113",
+    "Mahabharata, Vana Parva 3.132–134"
+   ],
+   "variations": [
+    "The Mahabharata makes him the maternal uncle and companion of Ashtavakra."
+   ]
+  },
+  "nachiketa": {
+   "name": "Nachiketa",
+   "aliases": [
+    "Nachiketas",
+    "Nachiketa Vajashravasa"
+   ],
+   "description": "Nachiketa is the boy who went to the house of Death and won from Yama the teaching on the immortal Self. His story first appears in the Taittiriya Brahmana and is the frame of the Katha Upanishad, where his refusal of every worldly temptation makes him an enduring model of the earnest seeker.",
+   "story": "Vajashravasa performed a sacrifice in which he was to give away all he owned, but he gave only old, barren cows. His young son Nachiketa, troubled, asked again and again, 'To whom will you give me?' Irritated, his father snapped, 'To Death I give you!' Nachiketa went to the house of Yama and, finding him away, waited three nights without food. On his return Yama, anxious at having neglected a brahmin guest, offered three boons. Nachiketa asked that his father be calm and welcome him back, then for knowledge of the fire ritual that leads to heaven, which Yama named after him. For the third he asked what becomes of a man after death. Yama tried to dissuade him with long life, wealth and celestial maidens, but the boy refused them all, and Yama taught him the imperishable Self.",
+   "symbols": [
+    "the Nachiketa fire altar",
+    "chain of gold given by Yama"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "House of Yama (temporarily)",
+   "sources": [
+    "Taittiriya Brahmana 3.11.8",
+    "Katha Upanishad 1.1–2.3",
+    "Mahabharata, Anushasana Parva (Nachiketa and Yama, on the gift of cows)"
+   ],
+   "variations": [
+    "The Taittiriya Brahmana version centres on the fire ritual; the Katha Upanishad adds the teaching on the Self.",
+    "His father is called Vajashravasa, Ushan Vajashravasa, and (Katha 1.11) Auddalaki Aruni; commentators disagree on whether this is Uddalaka Aruni himself."
+   ]
+  },
+  "maitreyi": {
+   "name": "Maitreyi",
+   "aliases": [
+    "Brahmavadini Maitreyi"
+   ],
+   "description": "Maitreyi is the wife of Yajnavalkya whose dialogue with him in the Brihadaranyaka Upanishad is one of the classic statements on the Self. The Upanishad calls her a brahmavadini, a woman who discoursed on Brahman, in contrast to his other wife Katyayani, and she chooses knowledge of immortality over a share of his wealth.",
+   "story": "Preparing to leave household life, Yajnavalkya told his wife Maitreyi that he would divide his property between her and his other wife, Katyayani. Maitreyi asked whether the whole earth filled with wealth would make her immortal. 'No,' he said, 'your life would be like the life of the wealthy, but there is no hope of immortality through wealth.' 'What should I do with that which will not make me immortal?' she replied. 'Tell me what you know.' Delighted, Yajnavalkya taught her that husband, wife, sons, wealth and worlds are dear not for their own sake but for the sake of the Self, which is to be seen, heard, reflected upon and meditated upon. When she was bewildered by his words that after death there is no awareness, he explained that where there is no duality, there is no second to be known.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Mithila (Videha)",
+   "sources": [
+    "Brihadaranyaka Upanishad 2.4, 4.5"
+   ],
+   "variations": [
+    "The Ashvalayana Grihya Sutra honours a Sulabha Maitreyi among women teachers; whether she is the same person is uncertain."
+   ]
+  },
+  "gargi": {
+   "name": "Gargi Vachaknavi",
+   "aliases": [
+    "Gargi",
+    "Vachaknavi"
+   ],
+   "description": "Gargi Vachaknavi, daughter of the sage Vachaknu of the Garga clan, is the philosopher who twice questioned Yajnavalkya before King Janaka's assembly in the Brihadaranyaka Upanishad. Her probing questions on what the world is 'woven' upon drew out the teaching of the Imperishable (akshara), and she is remembered as one of the great women thinkers of the Vedic age.",
+   "story": "At the assembly in Janaka's court, Gargi pressed Yajnavalkya with a chain of questions: if all this is woven on water, on what is water woven? On air, he replied; and air on the intermediate regions, and those on the worlds of the gandharvas, sun, moon, stars, gods, Indra and Prajapati, until she asked on what the worlds of Brahman are woven. 'Gargi, do not question too far, lest your head fall off,' he warned, and she fell silent. Later she rose again, telling the brahmins she would ask him two questions like arrows fitted to a warrior's bow. On what is woven that which is above the sky and below the earth, past, present and future? On space, he said; and space on the Imperishable, at whose command sun and moon stand apart. Satisfied, she declared that none of them would defeat him.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Mithila (Videha)",
+   "sources": [
+    "Brihadaranyaka Upanishad 3.6, 3.8",
+    "Ashvalayana Grihya Sutra 3.4.4"
+   ],
+   "variations": [
+    "The later Yoga Yajnavalkya presents Gargi as Yajnavalkya's wife and pupil; this is not found in the Upanishad."
+   ]
+  },
+  "ashtavakra": {
+   "name": "Ashtavakra",
+   "aliases": [
+    "Ashtavakra Muni"
+   ],
+   "description": "Ashtavakra, 'bent in eight places', is the sage born crooked because of his father's curse, who as a boy defeated the court scholar Bandin in King Janaka's assembly. He is the grandson of Uddalaka Aruni, and the late non-dual classic, the Ashtavakra Gita, presents him instructing Janaka on the Self.",
+   "story": "While still in the womb, Ashtavakra corrected his father Kahoda's recitation of the Veda; stung, Kahoda cursed him to be born bent in eight places. Kahoda later went to King Janaka's court, was defeated in debate by Bandin, and was drowned according to the terms of the contest. At twelve, learning the truth, Ashtavakra set out for Mithila with his uncle Shvetaketu. Barred at the gate as a mere boy, he argued his way in, declaring that neither years nor grey hair make one great, but learning. Before the assembled scholars he defeated Bandin in a contest of verse. Bandin then revealed that he was a son of Varuna and had sent the brahmins to his father's sacrifice. Kahoda returned, and after bathing in the Samanga river, Ashtavakra's limbs became straight.",
+   "symbols": [
+    "body bent in eight places",
+    "staff"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Mithila; hermitage of Uddalaka",
+   "sources": [
+    "Mahabharata, Vana Parva 3.132–134",
+    "Mahabharata, Anushasana Parva (Ashtavakra and Disha)",
+    "Ashtavakra Gita",
+    "Vishnu Purana 5.38"
+   ],
+   "variations": [
+    "The Ashtavakra Gita is a much later Advaita text (dated variously between the 8th and 14th centuries CE).",
+    "In the Vishnu Purana, apsaras who laughed at his form are cursed to fall into the hands of robbers as Krishna's widows, though he blesses them to regain heaven afterwards."
+   ]
+  },
+  "shuka": {
+   "name": "Shuka",
+   "aliases": [
+    "Shukadeva",
+    "Shuka Goswami",
+    "Vaiyasaki",
+    "Brahmarata"
+   ],
+   "description": "Shuka is the son of Vyasa, a sage born already detached and illumined, who attains liberation in the Mahabharata's Moksha-dharma. In the Bhagavata Purana he recites the entire Bhagavata to King Parikshit during the king's last seven days, and so is revered as the paramount narrator of Krishna's story.",
+   "story": "Vyasa performed long austerities to Shiva on Mount Meru for a son as pure as the elements. As he churned the fire-sticks (arani), he saw the apsara Ghritachi, who had taken the form of a female parrot, and his seed fell upon the sticks; from them Shuka, 'the parrot', was born, radiant as fire. He mastered the Vedas and, at his father's bidding, went to King Janaka of Mithila, who tested his detachment and confirmed his wisdom. In the Bhagavata, Shuka wanders naked and unconcerned; bathing apsaras do not cover themselves before the youth, yet grow shy before his aged father, for they see that Shuka perceives no difference. Later he sat before King Parikshit, cursed to die within seven days, and recited the whole Bhagavata Purana on the banks of the Ganga.",
+   "symbols": [
+    "parrot",
+    "youthful naked ascetic",
+    "manuscript of the Bhagavata"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Wanders freely; ultimately merges into the Absolute",
+   "sources": [
+    "Mahabharata, Shanti Parva (Moksha-dharma: birth and liberation of Shuka)",
+    "Bhagavata Purana 1.4, 1.19",
+    "Devi Bhagavata Purana, Book 1"
+   ],
+   "variations": [
+    "In the Mahabharata Shuka departs from the world and merges into the sky, while his father calls after him; the Bhagavata keeps him present to narrate to Parikshit.",
+    "Some Puranic versions give Shuka a wife and children; the Mahabharata and Bhagavata present him as a lifelong renunciate."
+   ]
+  },
+  "kanva": {
+   "name": "Kanva",
+   "aliases": [
+    "Kanva Kashyapa",
+    "Kashyapa (patronymic)"
+   ],
+   "description": "Kanva is the forest sage on the Malini river who found the abandoned infant Shakuntala and raised her as his daughter. Dushyanta's marriage to Shakuntala and the birth of Bharata, the eponymous ancestor of the Bharatas, take place in his hermitage. He also appears as a counsellor to Duryodhana and, with Vishvamitra and Narada, as one of the sages whose curse doomed the Yadavas.",
+   "story": "King Dushyanta, hunting on the banks of the Malini, entered the peaceful hermitage of the sage Kanva and found only a young woman, Shakuntala. She told him that Kanva was away gathering fruit, and explained her origin: born to Vishvamitra and the apsara Menaka, abandoned in the forest and guarded by shakunta birds, she had been found and raised by Kanva as his daughter. Dushyanta married her there by the gandharva rite and returned to his capital. When Kanva came back he knew by his inner vision what had happened and approved the union, foretelling that her son would be a great king. After the boy Bharata was born and had grown strong in the hermitage, subduing wild beasts, Kanva sent mother and son to Dushyanta's court with his disciples.",
+   "symbols": [
+    "hermitage on the Malini",
+    "deer and hermitage animals",
+    "water-pot"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hermitage on the Malini river",
+   "sources": [
+    "Mahabharata, Adi Parva 1.64–68",
+    "Mahabharata, Udyoga Parva (Kanva counsels Duryodhana)",
+    "Mahabharata, Mausala Parva",
+    "Kalidasa, Abhijnanashakuntalam"
+   ],
+   "variations": [
+    "Distinct from, though often associated with, the Rig Vedic seer Kanva Ghaura, eponym of the Kanva family of Rig Veda Book 8; the epic sage is called Kashyapa.",
+    "In Kalidasa's drama, Kanva is away on pilgrimage to Somatirtha when Dushyanta arrives, and his farewell to Shakuntala in Act 4 is one of its most celebrated scenes."
+   ]
+  },
+  "vishrava": {
+   "name": "Vishrava",
+   "aliases": [
+    "Vishravas",
+    "Paulastya"
+   ],
+   "description": "Vishrava is a sage, son of Pulastya, and father of both Kubera, the lord of wealth, and the rakshasa siblings Ravana, Kumbhakarna, Vibhishana and Shurpanakha. Through him the rakshasa royal house of Lanka descends from a mind-born son of Brahma, which is why Ravana is called Paulastya.",
+   "story": "After the rakshasas were driven from Lanka to the underworld by Vishnu, their elder Sumali saw the splendour of Kubera, Vishrava's son, and resolved that his own line should produce a son as mighty. He sent his daughter Kaikesi to the sage. She approached Vishrava at dusk, as he tended his sacred fire, and asked him for children. Vishrava consented but warned that, having come at so dreadful an hour, she would bear fearsome and cruel sons. When she pleaded, he promised that her last son would be righteous and devoted to dharma. So Kaikesi bore the ten-headed Ravana, the giant Kumbhakarna, the rakshasi Shurpanakha and finally the gentle Vibhishana. Kubera, his son by Devavarnini, daughter of Bharadvaja, had already received Lanka and the Pushpaka chariot, and the rivalry between his sons would shape the Ramayana.",
+   "symbols": [
+    "sacred fire",
+    "rosary"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hermitage of Vishrava",
+   "sources": [
+    "Valmiki Ramayana, Uttara Kanda 7.2–9",
+    "Mahabharata, Vana Parva 3.258–259",
+    "Bhagavata Purana 4.1"
+   ],
+   "variations": [
+    "In the Mahabharata (Vana Parva), Kubera is Pulastya's son who leaves him for Brahma; Pulastya then generates Vishrava from half of himself, and Kubera gives him three rakshasis: Pushpotkata (mother of Ravana and Kumbhakarna), Raka (mother of Khara and Shurpanakha) and Malini (mother of Vibhishana).",
+    "Puranas name Kubera's mother Ilavida rather than Devavarnini."
+   ]
+  },
+  "rishyashringa": {
+   "name": "Rishyashringa",
+   "aliases": [
+    "Rishyasringa",
+    "Shringi",
+    "Ekashringa"
+   ],
+   "description": "Rishyashringa, 'the deer-horned', is the son of the sage Vibhandaka, raised in the wilderness without ever seeing a woman. Lured to the drought-stricken kingdom of Anga, he brought the rains and married Princess Shanta, and later performed the sacrifice that gave King Dasharatha his four sons.",
+   "story": "Rishyashringa, son of the sage Vibhandaka, grew up in a remote forest hermitage with no knowledge of women or of the world. When drought struck the kingdom of Anga because of a fault of King Romapada, the ministers learned that rain would return only if this innocent ascetic came to the land. Courtesans were sent to the forest; the youth, thinking them strange young ascetics, was charmed by their sweets and embraces and followed them. In the Mahabharata he is carried away on a floating hermitage built on a raft. As soon as he set foot in Anga the rains fell. Romapada gave him his daughter Shanta in marriage. Later, at King Dasharatha's request, Rishyashringa presided over the sacrifice for sons from which Rama and his brothers were born.",
+   "symbols": [
+    "single horn on the forehead",
+    "deer",
+    "sacrificial fire"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Vibhandaka's hermitage; Anga; later Ayodhya",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda",
+    "Mahabharata, Vana Parva 3.110–113",
+    "Vishnu Purana 3.2",
+    "Bhagavata Purana 8.13"
+   ],
+   "variations": [
+    "The Mahabharata says he was born of a doe after Vibhandaka's seed was stirred by the sight of the apsara Urvashi.",
+    "Some later retellings make Shanta Dasharatha's own daughter adopted by Romapada; the Bala Kanda calls her Romapada's daughter.",
+    "A Buddhist parallel is the Nalinika / Alambusa Jataka; some scholars have linked the tale to the later unicorn legend."
+   ]
+  },
+  "dhruva": {
+   "name": "Dhruva",
+   "aliases": [
+    "Dhruva Maharaja",
+    "Auttanapadi"
+   ],
+   "description": "Dhruva is the prince, son of King Uttanapada and grandson of Svayambhuva Manu, whose childhood austerities won him from Vishnu the fixed position of the pole star (dhruva), around which the heavens revolve. He is a model of steadfast devotion, and later ruled as a righteous king before ascending to his eternal station.",
+   "story": "Prince Dhruva, son of King Uttanapada by his neglected queen Suniti, once tried to climb onto his father's lap, but his stepmother Suruchi pulled him away, telling him that only her son Uttama deserved that seat, and that he should have been born from her womb. Stung, the five-year-old ran to his mother, who told him to seek refuge in Vishnu. Leaving the palace, he met sages who taught him to meditate on the Lord: Narada in the Bhagavata, the seven rishis in the Vishnu Purana. In the Madhuvana forest by the Yamuna he performed austerities so fierce that the worlds trembled. Vishnu appeared, touched his cheek with the conch, and granted him the pole-star position, a fixed abode around which the stars and planets revolve, higher than any other.",
+   "symbols": [
+    "pole star",
+    "child ascetic standing on one leg",
+    "Vishnu's conch touching his cheek"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Dhruvaloka (the pole star)",
+   "sources": [
+    "Vishnu Purana 1.11–12",
+    "Bhagavata Purana 4.8–12"
+   ],
+   "variations": [
+    "In the Vishnu Purana, Dhruva is instructed by the Saptarishi (Marichi and the others); in the Bhagavata, by Narada, who teaches him the twelve-syllable mantra.",
+    "The Bhagavata adds his later war with the yakshas after his brother Uttama is killed, halted by Svayambhuva Manu, and a boon from Kubera."
+   ]
+  },
+  "vaishampayana": {
+   "name": "Vaishampayana",
+   "aliases": [
+    "Vaishampayana Muni"
+   ],
+   "description": "Vaishampayana is a disciple of Vyasa who recited the Mahabharata to King Janamejaya at his snake sacrifice; that recitation forms the inner frame of the epic. The Puranas also make him the first teacher of the Yajurveda, from whose school the Taittiriya (Black) Yajurveda descends.",
+   "story": "When King Janamejaya held his great snake sacrifice to avenge his father Parikshit, Vyasa came to the assembly with his disciples. The king asked him about the deeds of his ancestors, the Pandavas and the Kauravas, and the cause of their quarrel. Vyasa turned to his pupil Vaishampayana, who had learned the whole Bharata from him, and told him to recite it. In the intervals of the sacrifice Vaishampayana narrated the epic, answering the king's questions as he went. The bard Ugrashravas heard that recitation and later retold it to the sages of the Naimisha forest, in the frame in which the Mahabharata reaches us. In the Vishnu Purana, Vaishampayana appears also as the teacher of the Yajurveda whose quarrel with his pupil Yajnavalkya led to the Black and White Yajurveda.",
+   "symbols": [
+    "manuscript of the Bharata",
+    "rosary"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Court of Janamejaya (Hastinapura / Takshashila)",
+   "sources": [
+    "Mahabharata, Adi Parva 1.1, 1.54–55",
+    "Harivamsha",
+    "Vishnu Purana 3.4–5",
+    "Bhagavata Purana 12.6"
+   ],
+   "variations": [
+    "The Mahabharata says Vyasa taught the epic to five disciples (Sumantu, Jaimini, Paila, Shuka and Vaishampayana), and different versions circulated among them.",
+    "The Vishnu Purana says he incurred the sin of killing a brahmin (his nephew, by accident), which his pupils expiated for him."
+   ]
+  }
+ },
+ "edges": {
+  "narada|brahma|created-by": {
+   "label": "Narada is a mind-born son of Brahma; the Bhagavata says he sprang from Brahma's lap"
+  },
+  "narada|vishnu|devotee": {
+   "label": "Narada is the archetypal devotee of Vishnu-Narayana, ever chanting his name"
+  },
+  "narada|valmiki|guru": {
+   "label": "Narada told Valmiki the story of Rama, the seed of the Ramayana (Bala Kanda 1)"
+  },
+  "narada|dhruva|guru": {
+   "label": "Narada taught the boy Dhruva to meditate on Vishnu with the twelve-syllable mantra (Bhagavata 4.8)",
+   "variation": "In the Vishnu Purana the Saptarishi instruct Dhruva instead."
+  },
+  "narada|prahlada|guru": {
+   "label": "Narada taught Prahlada devotion to Vishnu while he was still in Kayadhu's womb (Bhagavata 7.7)"
+  },
+  "narada|vyasa|guru": {
+   "label": "Narada urged the dissatisfied Vyasa to compose the Bhagavata, singing Krishna's glories (Bhagavata 1.5)"
+  },
+  "narada|shuka|guru": {
+   "label": "Narada instructed Shuka before his final liberation (Mahabharata, Shanti Parva)"
+  },
+  "kumaras|narada|guru": {
+   "label": "Sanatkumara taught Narada the knowledge of the infinite (bhuman) beyond all learning (Chandogya Upanishad 7)"
+  },
+  "daksha|narada|curse": {
+   "label": "Daksha cursed Narada to wander without rest after Narada turned Daksha's sons away from procreation (Bhagavata 6.5)"
+  },
+  "narada|samba|curse": {
+   "label": "With Vishvamitra and Kanva, Narada cursed Samba, disguised as a pregnant woman, to bear the iron club that destroyed the Yadavas (Mausala Parva)"
+  },
+  "narada|yudhishthira|guru": {
+   "label": "Narada instructed Yudhishthira on kingship in his new assembly hall (Sabha Parva 5) and told the Pandavas the tale of Sunda and Upasunda"
+  },
+  "narada|savitri|ally": {
+   "label": "Narada warned that Satyavan would die within a year, yet Savitri held to her choice (Vana Parva)"
+  },
+  "narada|kayadhu|ally": {
+   "label": "Narada rescued the pregnant Kayadhu from Indra and sheltered her in his hermitage (Bhagavata 7.7)"
+  },
+  "narada|tumburu|ally": {
+   "label": "Narada and the gandharva Tumburu are paired celestial musicians, at times rivals in song"
+  },
+  "narada|harishchandra|guru": {
+   "label": "Narada advised the sonless Harishchandra to pray to Varuna for a son (Aitareya Brahmana 7.13)"
+  },
+  "narada|vishnu|curse": {
+   "label": "Narada, humiliated after Vishnu gave him a monkey's face, cursed Vishnu to suffer separation from his wife as Rama",
+   "variation": "Shiva Purana and Tulsidas' Ramcharitmanas; not in the epics."
+  },
+  "atri|durvasa|parent": {
+   "label": "Durvasa is a son of the sage Atri (Bhagavata 4.1)"
+  },
+  "anasuya|durvasa|parent": {
+   "label": "Durvasa was born to Anasuya after Atri's austerities (Bhagavata 4.1)"
+  },
+  "durvasa|shiva|form-of": {
+   "label": "Durvasa was born of a portion (amsha) of Shiva, as Dattatreya was of Vishnu and Soma of Brahma"
+  },
+  "durvasa|dattatreya|sibling": {
+   "label": "Brothers, sons of Atri and Anasuya"
+  },
+  "durvasa|soma|sibling": {
+   "label": "Brothers, sons of Atri and Anasuya in the Bhagavata's account",
+   "variation": "Elsewhere Soma is born from Atri's eyes or from the churning of the ocean."
+  },
+  "durvasa|indra|curse": {
+   "label": "Durvasa cursed Indra to lose his fortune after Airavata trampled the sage's garland, leading to the churning of the ocean (Vishnu Purana 1.9)"
+  },
+  "durvasa|shakuntala|curse": {
+   "label": "Durvasa cursed the distracted Shakuntala to be forgotten by Dushyanta until he saw a token",
+   "variation": "Kalidasa's Abhijnanashakuntalam; absent from the Mahabharata version."
+  },
+  "durvasa|kunti|boon": {
+   "label": "Pleased by the young Kunti's service, Durvasa gave her a mantra to summon any god and have a child by him (Adi Parva)"
+  },
+  "durvasa|ambarisha|enemy": {
+   "label": "Durvasa, offended, sent a demon against King Ambarisha; Vishnu's Sudarshana pursued him until he begged Ambarisha's forgiveness (Bhagavata 9.4–5)"
+  },
+  "durvasa|duryodhana|boon": {
+   "label": "Pleased by Duryodhana's hospitality, Durvasa granted a boon; Duryodhana asked him to visit the exiled Pandavas after Draupadi had eaten (Vana Parva)"
+  },
+  "durvasa|krishna|boon": {
+   "label": "After Krishna and Rukmini served him patiently, Durvasa blessed Krishna's body with invulnerability wherever it had been smeared with his payasa (Anushasana Parva)",
+   "variation": "Later tradition links the unsmeared sole to the hunter Jara's fatal arrow."
+  },
+  "durvasa|draupadi|ally": {
+   "label": "Durvasa's hungry arrival at the forest hermitage tested Draupadi; Krishna ate a morsel from her pot and the sage and his disciples felt sated and left (Vana Parva)"
+  },
+  "parashara|vyasa|parent": {
+   "label": "Parashara fathered Vyasa on Satyavati on an island in the Yamuna (Adi Parva 1.57)"
+  },
+  "satyavati|vyasa|parent": {
+   "label": "Satyavati bore Krishna Dvaipayana on an island (dvipa) before her marriage to Shantanu"
+  },
+  "vyasa|dhritarashtra|parent": {
+   "label": "Biological father by niyoga with Ambika, at Satyavati's request after Vichitravirya died childless; Dhritarashtra was born blind because Ambika shut her eyes"
+  },
+  "vyasa|pandu|parent": {
+   "label": "Biological father by niyoga with Ambalika; Pandu was born pale because she turned pale at the sight of the sage"
+  },
+  "vyasa|vidura|parent": {
+   "label": "Biological father by niyoga with a maidservant sent in Ambika's place, who received him calmly and bore the wise Vidura"
+  },
+  "vyasa|shuka|parent": {
+   "label": "Shuka was born from Vyasa's seed fallen on the fire-sticks (Shanti Parva)"
+  },
+  "vyasa|vaishampayana|guru": {
+   "label": "Vyasa taught the Mahabharata and the Yajurveda to his disciple Vaishampayana"
+  },
+  "vyasa|shuka|guru": {
+   "label": "Vyasa taught Shuka the Vedas and the Mahabharata"
+  },
+  "vyasa|sanjaya|boon": {
+   "label": "Vyasa granted Sanjaya divine sight to narrate the Kurukshetra war to Dhritarashtra (Bhishma Parva)"
+  },
+  "vyasa|gandhari|boon": {
+   "label": "Pleased by Gandhari's hospitality, Vyasa granted her a hundred sons (Adi Parva)"
+  },
+  "vyasa|vishnu|avatar-of": {
+   "label": "Vyasa is counted among the avatars of Vishnu (Bhagavata 1.3; Vishnu Purana 3.4)"
+  },
+  "vyasa|vichitravirya|sibling": {
+   "label": "Half-brothers, both sons of Satyavati; Vyasa raised heirs for the childless Vichitravirya"
+  },
+  "shiva|vyasa|boon": {
+   "label": "Vyasa worshipped Shiva on Mount Meru and received the boon of a son as pure as the elements (Shanti Parva)"
+  },
+  "vyasa|ganesha|ally": {
+   "label": "Ganesha acted as scribe while Vyasa dictated the Mahabharata",
+   "variation": "Found in some manuscripts of the Adi Parva; excluded from the Critical Edition as an interpolation."
+  },
+  "vyasa|saptarishi|member-of": {
+   "label": "Vyasa is named among the Saptarishi of the coming eighth (Savarni) manvantara (Vishnu Purana 3.2)"
+  },
+  "vyasa|yudhishthira|guru": {
+   "label": "Vyasa repeatedly counselled Yudhishthira: consoling him after the war and urging the ashvamedha sacrifice (Shanti and Ashvamedhika Parvas)"
+  },
+  "vyasa|draupadi|ally": {
+   "label": "Vyasa explained to Drupada that Draupadi's marriage to five husbands was ordained by her past life (Adi Parva)"
+  },
+  "brahma|valmiki|guru": {
+   "label": "Brahma appeared to Valmiki after the krauncha verse and commanded him to compose the Ramayana, granting him vision of all its events (Bala Kanda 2)"
+  },
+  "valmiki|lava|guru": {
+   "label": "Valmiki raised Lava in his hermitage and taught him to sing the Ramayana"
+  },
+  "valmiki|kusha|guru": {
+   "label": "Valmiki raised Kusha in his hermitage and taught him to sing the Ramayana"
+  },
+  "valmiki|sita|ally": {
+   "label": "Valmiki sheltered the banished, pregnant Sita in his hermitage and later vouched for her purity before Rama's assembly (Uttara Kanda)"
+  },
+  "valmiki|rama|ally": {
+   "label": "Rama visited Valmiki near Chitrakuta during his exile; years later the sage brought Lava, Kusha and Sita to Rama's ashvamedha"
+  },
+  "valmiki|bharadvaja|guru": {
+   "label": "Bharadvaja was Valmiki's disciple, present at the Tamasa when the first shloka was born (Bala Kanda 2)",
+   "variation": "Whether this disciple is the same as the Vedic seer Bharadvaja (whose hermitage at Prayaga Rama visits) is uncertain."
+  },
+  "varuna|valmiki|parent": {
+   "label": "Valmiki calls himself a son of Prachetas, whom later tradition identifies with Varuna",
+   "variation": "The Uttara Kanda has 'tenth son of Prachetas'; the identification with Varuna is later."
+  },
+  "bhrigu|markandeya|ancestor-of": {
+   "label": "Markandeya, son of Mrikandu, belongs to the Bhargava line descending from Bhrigu"
+  },
+  "markandeya|shiva|devotee": {
+   "label": "Markandeya clung to the Shiva linga when Yama came for him"
+  },
+  "shiva|markandeya|boon": {
+   "label": "Shiva emerged from the linga, struck down Yama and blessed Markandeya to remain sixteen forever",
+   "variation": "Puranic and temple tradition (Kalantaka); not in the Mahabharata."
+  },
+  "yama|markandeya|enemy": {
+   "label": "Yama cast his noose to take Markandeya at the end of his allotted sixteen years",
+   "variation": "Puranic and temple tradition only."
+  },
+  "markandeya|vishnu|devotee": {
+   "label": "In the pralaya Markandeya saw Narayana as a child on a banyan leaf and entered his body to behold the universe (Vana Parva; Bhagavata 12.9)"
+  },
+  "nara-narayana|markandeya|boon": {
+   "label": "Pleased by his austerities, Nara-Narayana granted Markandeya's wish to see the Lord's maya (Bhagavata 12.8–9)"
+  },
+  "markandeya|yudhishthira|guru": {
+   "label": "Markandeya narrated cycles of tales to the exiled Yudhishthira, including the stories of Savitri and of Rama (Vana Parva)"
+  },
+  "markandeya|durga|devotee": {
+   "label": "Markandeya narrates the Devi Mahatmya, the great hymn of the Goddess's victories (Markandeya Purana 81–93)"
+  },
+  "shakti-rishi|parashara|parent": {
+   "label": "Parashara is the son of Shakti and Adrishyanti, born after his father's death"
+  },
+  "parashara|satyavati|boon": {
+   "label": "Parashara restored Satyavati's maidenhood and replaced her fishy odour with a fragrance carried a yojana (Adi Parva 1.57)"
+  },
+  "vashistha|parashara|guru": {
+   "label": "Vashistha raised and taught his grandson Parashara and dissuaded him from his sacrifice to destroy all rakshasas"
+  },
+  "pulastya|parashara|boon": {
+   "label": "Pleased that Parashara abandoned his vengeful sacrifice, Pulastya blessed him to become the author of a Purana (Vishnu Purana 1.1)"
+  },
+  "parashara|vishnu|devotee": {
+   "label": "Parashara narrates the Vishnu Purana to Maitreya, proclaiming Vishnu the source of the world"
+  },
+  "vashistha|shakti-rishi|parent": {
+   "label": "Shakti is the eldest of Vashistha's hundred sons"
+  },
+  "arundhati|shakti-rishi|parent": {
+   "label": "Shakti is a son of Arundhati and Vashistha"
+  },
+  "vishvamitra|shakti-rishi|enemy": {
+   "label": "Vishvamitra set a rakshasa into the cursed King Kalmashapada, who then devoured Shakti (Adi Parva)"
+  },
+  "yajnavalkya|maitreyi|spouse": {
+   "label": "Maitreyi was one of Yajnavalkya's two wives (Brihadaranyaka 2.4, 4.5)"
+  },
+  "yajnavalkya|maitreyi|guru": {
+   "label": "Yajnavalkya taught Maitreyi that all is dear for the sake of the Self (Brihadaranyaka 2.4, 4.5)"
+  },
+  "yajnavalkya|janaka|guru": {
+   "label": "Yajnavalkya instructed King Janaka of Videha on the Self (Brihadaranyaka 4.1–4)",
+   "variation": "The Upanishadic Janaka of Videha is usually taken as a different king of the same dynasty from Sita's father; tradition often conflates them."
+  },
+  "gargi|yajnavalkya|ally": {
+   "label": "Gargi twice questioned Yajnavalkya in Janaka's assembly and finally declared him unbeatable (Brihadaranyaka 3.6, 3.8)"
+  },
+  "uddalaka|yajnavalkya|guru": {
+   "label": "Brihadaranyaka 6.3.7 names Uddalaka Aruni as the teacher of Yajnavalkya Vajasaneya; in 3.7 Uddalaka questions him on the inner controller"
+  },
+  "vaishampayana|yajnavalkya|guru": {
+   "label": "Yajnavalkya was a pupil of Vaishampayana until their quarrel, when he gave back the Yajurveda he had learned (Vishnu Purana 3.5)"
+  },
+  "surya|yajnavalkya|guru": {
+   "label": "Surya, in the form of a horse (vaji), revealed the White Yajurveda (Vajasaneyi Samhita) to Yajnavalkya (Vishnu Purana 3.5)"
+  },
+  "uddalaka|shvetaketu|parent": {
+   "label": "Shvetaketu is the son of Uddalaka Aruni"
+  },
+  "uddalaka|shvetaketu|guru": {
+   "label": "Uddalaka taught Shvetaketu 'tat tvam asi' (Chandogya Upanishad 6)"
+  },
+  "uddalaka|ashtavakra|ancestor-of": {
+   "label": "Maternal grandfather: Uddalaka's daughter Sujata married his pupil Kahoda and bore Ashtavakra (Vana Parva 3.132)"
+  },
+  "uddalaka|nachiketa|parent": {
+   "label": "Katha Upanishad 1.11 calls Nachiketa's father Auddalaki Aruni, identified by some commentators with Uddalaka Aruni",
+   "variation": "The Taittiriya Brahmana names the father Vajashravasa; 'Auddalaki' may mean a son of Uddalaka."
+  },
+  "gautama|uddalaka|ancestor-of": {
+   "label": "Uddalaka is addressed by the clan name Gautama (Chandogya 5.3; Brihadaranyaka 6.2)",
+   "variation": "A gotra (clan) affiliation rather than a stated genealogy."
+  },
+  "shvetaketu|ashtavakra|ally": {
+   "label": "Uncle and nephew raised together; Shvetaketu accompanied Ashtavakra to Janaka's court (Vana Parva 3.133)"
+  },
+  "yama|nachiketa|guru": {
+   "label": "Yama taught Nachiketa the nature of the imperishable Self (Katha Upanishad)"
+  },
+  "yama|nachiketa|boon": {
+   "label": "Yama granted Nachiketa three boons for making him wait three nights unfed, naming the fire ritual after him"
+  },
+  "ashtavakra|janaka|guru": {
+   "label": "In the Ashtavakra Gita, Ashtavakra instructs King Janaka on the Self; in the Mahabharata he wins a debate at Janaka's court",
+   "variation": "The Ashtavakra Gita is a late text; the Upanishadic/epic Janaka is not necessarily Sita's father."
+  },
+  "gargi|janaka|ally": {
+   "label": "Gargi was among the learned participants in Janaka's philosophical assembly (Brihadaranyaka 3)",
+   "variation": "The Upanishadic Janaka is often distinguished from Sita's father Siradhvaja."
+  },
+  "janaka|shuka|guru": {
+   "label": "Sent by Vyasa to King Janaka of Mithila, Shuka was tested and instructed by him (Shanti Parva; Devi Bhagavata)",
+   "variation": "The Janaka of this episode is not necessarily Sita's father."
+  },
+  "shuka|parikshit|guru": {
+   "label": "Shuka narrated the Bhagavata Purana to King Parikshit during his last seven days (Bhagavata 1.19)"
+  },
+  "shuka|krishna|devotee": {
+   "label": "In the Bhagavata, Shuka, though already liberated, is drawn to recite the glories of Krishna"
+  },
+  "kanva|shakuntala|parent": {
+   "label": "Foster father: Kanva found the abandoned infant and raised her in his hermitage (Adi Parva 1.66)",
+   "variation": "Her birth parents are Vishvamitra and the apsara Menaka."
+  },
+  "kanva|dushyanta|ally": {
+   "label": "Kanva approved Dushyanta's gandharva marriage to Shakuntala and later sent her and Bharata to his court"
+  },
+  "kanva|bharata-king|guru": {
+   "label": "Bharata was born and grew up in Kanva's hermitage, where the sage performed his birth rites (Adi Parva)"
+  },
+  "kanva|samba|curse": {
+   "label": "With Vishvamitra and Narada, Kanva cursed Samba to give birth to the iron club that destroyed the Yadavas (Mausala Parva)"
+  },
+  "kanva|duryodhana|guru": {
+   "label": "Kanva counselled Duryodhana to make peace with the Pandavas, telling him the story of Matali (Udyoga Parva)"
+  },
+  "kashyapa|kanva|ancestor-of": {
+   "label": "The epic Kanva bears the patronymic Kashyapa",
+   "variation": "Likely a clan (gotra) name rather than a stated genealogy."
+  },
+  "pulastya|vishrava|parent": {
+   "label": "Vishrava is the son of Pulastya (Uttara Kanda 7.2)",
+   "variation": "In the Mahabharata, Pulastya creates Vishrava from half of himself."
+  },
+  "vishrava|kubera|parent": {
+   "label": "Kubera (Vaishravana) is Vishrava's son by Devavarnini, daughter of Bharadvaja",
+   "variation": "In the Mahabharata Kubera is Pulastya's own son, and Vishrava is created afterwards from half of Pulastya; Puranas name Kubera's mother Ilavida."
+  },
+  "vishrava|ravana|parent": {
+   "label": "Kaikesi bore Ravana to Vishrava; approached at dusk, the sage foretold cruel sons"
+  },
+  "vishrava|kumbhakarna|parent": {
+   "label": "Kumbhakarna was Vishrava's second son by Kaikesi"
+  },
+  "vishrava|vibhishana|parent": {
+   "label": "Vishrava promised Kaikesi that her last son, Vibhishana, would be righteous"
+  },
+  "vishrava|shurpanakha|parent": {
+   "label": "Shurpanakha is Vishrava's daughter by Kaikesi"
+  },
+  "vishrava|kaikesi|spouse": {
+   "label": "Sumali sent his daughter Kaikesi to Vishrava to bear sons as mighty as Kubera (Uttara Kanda 7.9)"
+  },
+  "vishrava|khara|parent": {
+   "label": "In the Mahabharata, Vishrava fathers Khara on the rakshasi Raka",
+   "variation": "Mahabharata, Vana Parva 3.259; in the Ramayana Khara is Ravana's cousin."
+  },
+  "rishyashringa|shanta|spouse": {
+   "label": "Romapada of Anga gave Shanta to Rishyashringa after his arrival brought rain"
+  },
+  "rishyashringa|dasharatha|ally": {
+   "label": "Rishyashringa presided over Dasharatha's sacrifice for sons, from which Rama and his brothers were born (Bala Kanda)"
+  },
+  "kashyapa|rishyashringa|ancestor-of": {
+   "label": "Rishyashringa's father Vibhandaka is called a son of Kashyapa (Vana Parva 3.110)"
+  },
+  "rishyashringa|saptarishi|member-of": {
+   "label": "Named among the Saptarishi of the coming eighth (Savarni) manvantara (Vishnu Purana 3.2; Bhagavata 8.13)"
+  },
+  "svayambhuva-manu|dhruva|ancestor-of": {
+   "label": "Dhruva is the grandson of Svayambhuva Manu through his son Uttanapada"
+  },
+  "saptarishi|dhruva|guru": {
+   "label": "The seven sages taught the boy Dhruva how to worship Vishnu (Vishnu Purana 1.11)",
+   "variation": "The Bhagavata gives this role to Narada."
+  },
+  "vishnu|dhruva|boon": {
+   "label": "Vishnu granted Dhruva the pole-star position, fixed above all other heavenly bodies"
+  },
+  "dhruva|vishnu|devotee": {
+   "label": "Dhruva performed severe austerities for Vishnu at Madhuvana as a five-year-old"
+  },
+  "kubera|dhruva|boon": {
+   "label": "After Dhruva ended his war on the yakshas, Kubera granted him a boon, and he asked for unwavering remembrance of Hari (Bhagavata 4.12)"
+  },
+  "dhruva|vena|ancestor-of": {
+   "label": "The wicked king Vena, father of Prithu, descends from Dhruva's line (Vishnu Purana 1.13; Bhagavata 4.13)"
+  },
+  "vaishampayana|janamejaya|guru": {
+   "label": "At Vyasa's command, Vaishampayana narrated the Mahabharata to Janamejaya during his snake sacrifice (Adi Parva)"
+  }
+ }
+}

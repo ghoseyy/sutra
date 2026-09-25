@@ -1,0 +1,506 @@
+# chunk | id | Name | category | era   (era = first textual appearance; agents may correct)
+@01-cosmology|Origins, cosmology, Manus, Vedic groups and primordial goddesses
+brahman|Brahman|cosmic|upanishads
+hiranyagarbha|Hiranyagarbha|cosmic|rigveda
+purusha|Purusha|cosmic|rigveda
+prajapati|Prajapati|cosmic|rigveda
+creation-nasadiya|Nasadiya Sukta — Hymn of Creation|event|rigveda
+svayambhuva-manu|Svayambhuva Manu|human|mahabharata
+shatarupa|Shatarupa|human|early-puranas
+vaivasvata-manu|Vaivasvata Manu|human|rigveda
+great-flood|The Great Flood (Manu and the Fish)|event|later-vedic
+saptarishi|Saptarishi (Seven Sages)|rishi|later-vedic
+adityas|Adityas|vedic|rigveda
+vasus|Vasus|vedic|rigveda
+rudras-group|Ekadasha Rudras|vedic|rigveda
+maruts|Maruts|vedic|rigveda
+aditi|Aditi|vedic|rigveda
+diti|Diti|vedic|rigveda
+danu|Danu|vedic|rigveda
+prithvi|Prithvi (Bhudevi)|vedic|rigveda
+dyaus|Dyaus Pita|vedic|rigveda
+prishni|Prishni|vedic|rigveda
+vak|Vak|vedic|rigveda
+ratri|Ratri|vedic|rigveda
+ushas|Ushas|vedic|rigveda
+ashvins|Ashvins|vedic|rigveda
+@02-vedic|Major Vedic deities
+indra|Indra|vedic|rigveda
+shachi|Shachi (Indrani)|vedic|rigveda
+agni|Agni|vedic|rigveda
+svaha|Svaha|vedic|mahabharata
+varuna|Varuna|vedic|rigveda
+mitra|Mitra|vedic|rigveda
+surya|Surya (Vivasvat)|vedic|rigveda
+sanjna|Sanjna (Saranyu)|vedic|rigveda
+chhaya|Chhaya|vedic|early-puranas
+soma|Soma (Chandra)|vedic|rigveda
+vayu|Vayu|vedic|rigveda
+rudra|Rudra|vedic|rigveda
+yama|Yama (Dharmaraja)|vedic|rigveda
+yami|Yami (Yamuna)|vedic|rigveda
+savitr|Savitr|vedic|rigveda
+pushan|Pushan|vedic|rigveda
+bhaga|Bhaga|vedic|rigveda
+aryaman|Aryaman|vedic|rigveda
+tvashtr|Tvashtr|vedic|rigveda
+vishvakarma|Vishvakarma|vedic|rigveda
+parjanya|Parjanya|vedic|rigveda
+brihaspati|Brihaspati|vedic|rigveda
+@03-trimurti|The Trimurti, their consorts, children and iconic forms
+brahma|Brahma|trimurti|upanishads
+vishnu|Vishnu|trimurti|rigveda
+shiva|Shiva|trimurti|upanishads
+saraswati|Saraswati|devi|rigveda
+lakshmi|Lakshmi (Shri)|devi|later-vedic
+parvati|Parvati (Uma)|devi|upanishads
+sati|Sati (Dakshayani)|devi|early-puranas
+ganesha|Ganesha|trimurti|early-puranas
+kartikeya|Kartikeya (Skanda, Murugan)|trimurti|mahabharata
+ashokasundari|Ashokasundari|trimurti|late-puranas
+riddhi|Riddhi|devi|middle-puranas
+siddhi|Siddhi|devi|middle-puranas
+devasena|Devasena|devi|mahabharata
+valli|Valli|devi|late-puranas
+himavan|Himavan|celestial|mahabharata
+mena|Mena|celestial|ramayana
+daksha|Daksha|rishi|rigveda
+prasuti|Prasuti|human|early-puranas
+ganga|Ganga|devi|rigveda
+alakshmi|Alakshmi (Jyeshtha)|devi|later-vedic
+nataraja|Nataraja|avatar|middle-puranas
+ardhanarishvara|Ardhanarishvara|avatar|early-puranas
+dakshinamurti|Dakshinamurti|avatar|middle-puranas
+pashupati|Pashupati|avatar|later-vedic
+harihara|Harihara|avatar|early-puranas
+jagannatha|Jagannatha|avatar|late-puranas
+venkateshvara|Venkateshvara|avatar|late-puranas
+@04-devi|The Devi / Shakti tradition: Mahavidyas, Navadurga, Matrikas and forms of the Goddess
+adi-parashakti|Adi Parashakti|devi|late-puranas
+durga|Durga|devi|mahabharata
+kali|Kali|devi|early-puranas
+mahavidyas|Dasha Mahavidya (Ten Wisdom Goddesses)|devi|late-puranas
+tara-devi|Tara (Mahavidya)|devi|late-puranas
+tripura-sundari|Tripura Sundari (Lalita)|devi|late-puranas
+bhuvaneshvari|Bhuvaneshvari|devi|late-puranas
+bhairavi|Bhairavi|devi|late-puranas
+chhinnamasta|Chhinnamasta|devi|late-puranas
+dhumavati|Dhumavati|devi|late-puranas
+bagalamukhi|Bagalamukhi|devi|late-puranas
+matangi|Matangi|devi|late-puranas
+kamala|Kamala|devi|late-puranas
+navadurga|Navadurga (Nine Durgas)|devi|late-puranas
+shailaputri|Shailaputri|devi|late-puranas
+brahmacharini|Brahmacharini|devi|late-puranas
+chandraghanta|Chandraghanta|devi|late-puranas
+kushmanda|Kushmanda|devi|late-puranas
+skandamata|Skandamata|devi|late-puranas
+katyayani|Katyayani|devi|late-puranas
+kalaratri|Kalaratri|devi|late-puranas
+mahagauri|Mahagauri|devi|late-puranas
+siddhidatri|Siddhidatri|devi|late-puranas
+matrikas|Saptamatrika (Seven Mothers)|devi|mahabharata
+brahmani|Brahmani|devi|early-puranas
+vaishnavi|Vaishnavi|devi|early-puranas
+maheshvari|Maheshvari|devi|early-puranas
+kaumari|Kaumari|devi|early-puranas
+varahi|Varahi|devi|early-puranas
+aindri|Aindri|devi|early-puranas
+chamunda|Chamunda|devi|early-puranas
+kaushiki|Kaushiki (Ambika)|devi|early-puranas
+shakambhari|Shakambhari|devi|early-puranas
+annapurna|Annapurna|devi|late-puranas
+bhramari|Bhramari|devi|early-puranas
+kamakhya|Kamakhya|devi|late-puranas
+@05-avatars|Avatars of Vishnu (Dashavatara and the 24 of the Bhagavata) and forms of Shiva
+matsya|Matsya|avatar|later-vedic
+kurma|Kurma|avatar|later-vedic
+varaha|Varaha|avatar|later-vedic
+narasimha|Narasimha|avatar|mahabharata
+vamana|Vamana (Trivikrama)|avatar|later-vedic
+parashurama|Parashurama|avatar|ramayana
+buddha|Buddha (as avatar)|avatar|early-puranas
+kalki|Kalki|avatar|mahabharata
+kumaras|Four Kumaras|rishi|upanishads
+nara-narayana|Nara-Narayana|avatar|mahabharata
+kapila|Kapila|avatar|ramayana
+dattatreya|Dattatreya|avatar|mahabharata
+yajna|Yajna|avatar|middle-puranas
+rishabha|Rishabha|avatar|middle-puranas
+prithu|Prithu|avatar|later-vedic
+dhanvantari|Dhanvantari|avatar|mahabharata
+mohini|Mohini|avatar|mahabharata
+hayagriva|Hayagriva|avatar|mahabharata
+bhairava|Bhairava (Kala Bhairava)|avatar|middle-puranas
+virabhadra|Virabhadra|avatar|mahabharata
+bhadrakali|Bhadrakali|devi|early-puranas
+sharabha|Sharabha|avatar|middle-puranas
+kirata|Kirata (Shiva as the hunter)|avatar|mahabharata
+ayyappa|Ayyappa (Dharma Shasta)|avatar|late-puranas
+vena|Vena|human|mahabharata
+renuka|Renuka|human|mahabharata
+kartavirya-arjuna|Kartavirya Arjuna|human|ramayana
+kardama|Kardama|rishi|middle-puranas
+devahuti|Devahuti|human|middle-puranas
+@06-daityas|Daityas and Danavas: Kashyapa's asura line, Vedic adversaries and foes of Vishnu
+hiranyakashipu|Hiranyakashipu|asura|mahabharata
+hiranyaksha|Hiranyaksha|asura|mahabharata
+prahlada|Prahlada|asura|later-vedic
+kayadhu|Kayadhu|asura|early-puranas
+virochana|Virochana|asura|upanishads
+bali|Mahabali|asura|ramayana
+banasura|Banasura|asura|mahabharata
+holika|Holika|asura|late-puranas
+vritra|Vritra|asura|rigveda
+vishvarupa|Vishvarupa (Trishiras)|asura|rigveda
+namuchi|Namuchi|asura|rigveda
+shambara|Shambara|asura|rigveda
+vala|Vala|asura|rigveda
+puloman|Puloman|asura|mahabharata
+shukracharya|Shukracharya (Ushanas Kavya)|rishi|rigveda
+maya|Mayasura|asura|ramayana
+rahu|Rahu (Svarbhanu)|asura|rigveda
+ketu|Ketu|asura|early-puranas
+narakasura|Narakasura|asura|mahabharata
+kalanemi|Kalanemi|asura|mahabharata
+vatapi|Vatapi|asura|ramayana
+ilvala|Ilvala|asura|ramayana
+sunda|Sunda|asura|mahabharata
+upasunda|Upasunda|asura|mahabharata
+kali-purusha|Kali (spirit of the Kali Yuga)|asura|mahabharata
+madhu|Madhu|asura|mahabharata
+kaitabha|Kaitabha|asura|mahabharata
+@07-devi-shiva-foes|Asuras opposed by the Devi and by Shiva/Skanda, plus Vishnu's cursed gatekeepers
+mahishasura|Mahishasura|asura|mahabharata
+shumbha|Shumbha|asura|early-puranas
+nishumbha|Nishumbha|asura|early-puranas
+chanda|Chanda|asura|early-puranas
+munda|Munda|asura|early-puranas
+raktabija|Raktabija|asura|early-puranas
+dhumralochana|Dhumralochana|asura|early-puranas
+durgamasura|Durgamasura|asura|early-puranas
+arunasura|Arunasura|asura|late-puranas
+tarakasura|Tarakasura|asura|mahabharata
+andhaka|Andhaka|asura|early-puranas
+jalandhara|Jalandhara|asura|middle-puranas
+vrinda|Vrinda (Tulasi)|devi|middle-puranas
+bhasmasura|Bhasmasura (Vrikasura)|asura|middle-puranas
+tripurasura|Tripurasura (the Three Cities' lords)|asura|later-vedic
+gayasura|Gayasura|asura|early-puranas
+rambha-asura|Rambha (father of Mahishasura)|asura|middle-puranas
+mahishi|Mahishi|asura|late-puranas
+jaya|Jaya|celestial|middle-puranas
+vijaya|Vijaya|celestial|middle-puranas
+@08-rishis-vedic|Vedic rishis, the mind-born sages and their wives
+bhrigu|Bhrigu|rishi|rigveda
+atri|Atri|rishi|rigveda
+anasuya|Anasuya|rishi|ramayana
+kashyapa|Kashyapa|rishi|rigveda
+angiras|Angiras|rishi|rigveda
+pulastya|Pulastya|rishi|mahabharata
+pulaha|Pulaha|rishi|mahabharata
+kratu|Kratu|rishi|mahabharata
+marichi|Marichi|rishi|mahabharata
+vashistha|Vashistha|rishi|rigveda
+arundhati|Arundhati|rishi|later-vedic
+vishvamitra|Vishvamitra|rishi|rigveda
+jamadagni|Jamadagni|rishi|rigveda
+gautama|Gautama Maharishi|rishi|rigveda
+ahalya|Ahalya|human|later-vedic
+bharadvaja|Bharadvaja|rishi|rigveda
+dadhichi|Dadhichi (Dadhyanch)|rishi|rigveda
+chyavana|Chyavana|rishi|rigveda
+sukanya|Sukanya|human|later-vedic
+agastya|Agastya|rishi|rigveda
+lopamudra|Lopamudra|rishi|rigveda
+@09-sages|Upanishadic, epic and Puranic sages and devotees
+narada|Narada|rishi|later-vedic
+durvasa|Durvasa|rishi|mahabharata
+vyasa|Vyasa (Krishna Dvaipayana)|rishi|mahabharata
+valmiki|Valmiki|rishi|ramayana
+markandeya|Markandeya|rishi|mahabharata
+parashara|Parashara|rishi|rigveda
+shakti-rishi|Shakti (son of Vashistha)|rishi|rigveda
+yajnavalkya|Yajnavalkya|rishi|later-vedic
+uddalaka|Uddalaka Aruni|rishi|later-vedic
+shvetaketu|Shvetaketu|rishi|upanishads
+nachiketa|Nachiketa|human|later-vedic
+maitreyi|Maitreyi|rishi|upanishads
+gargi|Gargi Vachaknavi|rishi|upanishads
+ashtavakra|Ashtavakra|rishi|mahabharata
+shuka|Shuka|rishi|mahabharata
+kanva|Kanva|rishi|mahabharata
+vishrava|Vishrava|rishi|ramayana
+rishyashringa|Rishyashringa|rishi|ramayana
+dhruva|Dhruva|human|early-puranas
+vaishampayana|Vaishampayana|rishi|mahabharata
+@10-ramayana-ayodhya|Ramayana: Rama's family, Ayodhya, Mithila and forest allies
+rama|Rama|avatar|ramayana
+sita|Sita|devi|ramayana
+lakshmana|Lakshmana|human|ramayana
+urmila|Urmila|human|ramayana
+bharata|Bharata|human|ramayana
+mandavi|Mandavi|human|ramayana
+shatrughna|Shatrughna|human|ramayana
+shrutakirti|Shrutakirti|human|ramayana
+dasharatha|Dasharatha|human|ramayana
+kausalya|Kausalya|human|ramayana
+kaikeyi|Kaikeyi|human|ramayana
+sumitra|Sumitra|human|ramayana
+manthara|Manthara|human|ramayana
+shanta|Shanta|human|ramayana
+janaka|Janaka|human|later-vedic
+sunaina|Sunaina|human|late-puranas
+kushadhvaja|Kushadhvaja|human|ramayana
+lava|Lava|human|ramayana
+kusha|Kusha|human|ramayana
+guha|Guha|human|ramayana
+shabari|Shabari|human|ramayana
+jatayu|Jatayu|animal|ramayana
+sampati|Sampati|animal|ramayana
+kabandha|Kabandha|rakshasa|ramayana
+viradha|Viradha|rakshasa|ramayana
+shravana-kumara|Shravana Kumara|human|ramayana
+@11-ramayana-vanara|Ramayana: Hanuman, the Vanaras and beings met on the way to Lanka
+hanuman|Hanuman|avatar|ramayana
+anjana|Anjana|animal|ramayana
+kesari|Kesari|animal|ramayana
+sugriva|Sugriva|animal|ramayana
+vali|Vali|animal|ramayana
+tara-kishkindha|Tara (queen of Kishkindha)|animal|ramayana
+ruma|Ruma|animal|ramayana
+angada|Angada|animal|ramayana
+jambavan|Jambavan|animal|ramayana
+nala-vanara|Nala (vanara engineer)|animal|ramayana
+nila|Nila|animal|ramayana
+surasa|Surasa|celestial|ramayana
+simhika|Simhika|rakshasa|ramayana
+lankini|Lankini|rakshasa|ramayana
+mainaka|Mainaka|celestial|ramayana
+makardhvaja|Makardhvaja|animal|late-puranas
+ahiravana|Ahiravana|rakshasa|late-puranas
+@12-lanka|Ramayana: Ravana, his family and the rakshasas of Lanka
+ravana|Ravana|rakshasa|ramayana
+kumbhakarna|Kumbhakarna|rakshasa|ramayana
+vibhishana|Vibhishana|rakshasa|ramayana
+mandodari|Mandodari|rakshasa|ramayana
+indrajit|Indrajit (Meghanada)|rakshasa|ramayana
+shurpanakha|Shurpanakha|rakshasa|ramayana
+maricha|Maricha|rakshasa|ramayana
+subahu|Subahu|rakshasa|ramayana
+tataka|Tataka|rakshasa|ramayana
+khara|Khara|rakshasa|ramayana
+dushana|Dushana|rakshasa|ramayana
+prahasta|Prahasta|rakshasa|ramayana
+atikaya|Atikaya|rakshasa|ramayana
+akshayakumara|Akshayakumara|rakshasa|ramayana
+sarama|Sarama|rakshasa|ramayana
+trijata|Trijata|rakshasa|ramayana
+kaikesi|Kaikesi|rakshasa|ramayana
+sumali|Sumali|rakshasa|ramayana
+vedavati|Vedavati|human|ramayana
+@13-dynasties|The Solar (Ikshvaku) and Lunar (Chandra) dynasties up to the Kurus
+ikshvaku|Ikshvaku|human|rigveda
+mandhata|Mandhata|human|rigveda
+trishanku|Trishanku|human|ramayana
+harishchandra|Harishchandra|human|later-vedic
+taramati|Taramati (Shaivya)|human|early-puranas
+rohita|Rohita|human|later-vedic
+shunahshepa|Shunahshepa|human|later-vedic
+sagara|Sagara|human|ramayana
+asamanja|Asamanja|human|ramayana
+anshuman|Anshuman|human|ramayana
+dilipa|Dilipa|human|ramayana
+bhagiratha|Bhagiratha|human|ramayana
+raghu|Raghu|human|ramayana
+aja|Aja|human|ramayana
+indumati|Indumati|human|early-puranas
+ila|Ila|human|rigveda
+pururavas|Pururavas|human|rigveda
+ayu|Ayu|human|rigveda
+nahusha|Nahusha|human|rigveda
+yayati|Yayati|human|rigveda
+devayani|Devayani|human|mahabharata
+sharmishtha|Sharmishtha|asura|mahabharata
+kacha|Kacha|rishi|mahabharata
+yadu|Yadu|human|rigveda
+puru|Puru|human|rigveda
+dushyanta|Dushyanta|human|mahabharata
+shakuntala|Shakuntala|human|mahabharata
+bharata-king|Bharata (son of Dushyanta)|human|later-vedic
+kuru-king|Kuru|human|mahabharata
+@14-kuru|Mahabharata: the Kuru elders, the Pandavas and their heirs
+pratipa|Pratipa|human|mahabharata
+shantanu|Shantanu|human|mahabharata
+bhishma|Bhishma|human|mahabharata
+satyavati|Satyavati|human|mahabharata
+chitrangada|Chitrangada (son of Shantanu)|human|mahabharata
+vichitravirya|Vichitravirya|human|mahabharata
+amba|Amba|human|mahabharata
+ambika|Ambika|human|mahabharata
+ambalika|Ambalika|human|mahabharata
+dhritarashtra|Dhritarashtra|human|mahabharata
+gandhari|Gandhari|human|mahabharata
+pandu|Pandu|human|mahabharata
+kunti|Kunti (Pritha)|human|mahabharata
+madri|Madri|human|mahabharata
+vidura|Vidura|human|mahabharata
+yudhishthira|Yudhishthira|human|mahabharata
+bhima|Bhima|human|mahabharata
+arjuna|Arjuna|human|mahabharata
+nakula|Nakula|human|mahabharata
+sahadeva|Sahadeva|human|mahabharata
+draupadi|Draupadi|human|mahabharata
+karna|Karna|human|mahabharata
+adhiratha|Adhiratha|human|mahabharata
+radha-adhiratha|Radha (Karna's foster mother)|human|mahabharata
+vrishasena|Vrishasena|human|mahabharata
+upapandavas|Upapandavas (five sons of Draupadi)|human|mahabharata
+abhimanyu|Abhimanyu|human|mahabharata
+uttara|Uttara|human|mahabharata
+parikshit|Parikshit|human|later-vedic
+janamejaya|Janamejaya|human|later-vedic
+@15-kaurava-allies|Mahabharata: the Kauravas, the teachers, Panchala, Matsya and the war's warriors
+duryodhana|Duryodhana|human|mahabharata
+dushasana|Dushasana|human|mahabharata
+vikarna|Vikarna|human|mahabharata
+dushala|Dushala|human|mahabharata
+jayadratha|Jayadratha|human|mahabharata
+yuyutsu|Yuyutsu|human|mahabharata
+shakuni|Shakuni|human|mahabharata
+drona|Drona|human|mahabharata
+kripi|Kripi|human|mahabharata
+ashwatthama|Ashwatthama|human|mahabharata
+kripa|Kripa|human|mahabharata
+drupada|Drupada|human|mahabharata
+dhrishtadyumna|Dhrishtadyumna|human|mahabharata
+shikhandi|Shikhandi|human|mahabharata
+virata|Virata|human|mahabharata
+sudeshna|Sudeshna|human|mahabharata
+kichaka|Kichaka|human|mahabharata
+ekalavya|Ekalavya|human|mahabharata
+shalya|Shalya|human|mahabharata
+bhagadatta|Bhagadatta|human|mahabharata
+bhurishravas|Bhurishravas|human|mahabharata
+satyaki|Satyaki|human|mahabharata
+kritavarma|Kritavarma|human|mahabharata
+sanjaya|Sanjaya|human|mahabharata
+@16-yadava|Krishna, Balarama and the Yadavas of Mathura, Vrindavan and Dvaraka
+krishna|Krishna|avatar|mahabharata
+balarama|Balarama|avatar|mahabharata
+revati|Revati|human|mahabharata
+devaki|Devaki|human|mahabharata
+vasudeva|Vasudeva|human|mahabharata
+shurasena|Shurasena|human|mahabharata
+nanda|Nanda|human|mahabharata
+yashoda|Yashoda|human|mahabharata
+radha|Radha|devi|late-puranas
+rukmini|Rukmini|human|mahabharata
+satyabhama|Satyabhama|human|mahabharata
+jambavati|Jambavati|human|mahabharata
+rukmi|Rukmi|human|mahabharata
+pradyumna|Pradyumna|human|mahabharata
+aniruddha|Aniruddha|human|mahabharata
+usha|Usha (daughter of Bana)|asura|mahabharata
+samba|Samba|human|mahabharata
+kamsa|Kamsa|human|mahabharata
+jarasandha|Jarasandha|human|mahabharata
+shishupala|Shishupala|human|mahabharata
+putana|Putana|rakshasa|mahabharata
+kaliya|Kaliya|celestial|mahabharata
+sudama|Sudama (Kuchela)|human|middle-puranas
+akrura|Akrura|human|mahabharata
+uddhava|Uddhava|human|mahabharata
+sandipani|Sandipani|rishi|mahabharata
+jara|Jara|human|mahabharata
+subhadra|Subhadra|human|mahabharata
+@17-mahabharata-episodes|Mahabharata: Pandava marriages and sons, forest episodes and embedded tales
+hidimbi|Hidimbi|rakshasa|mahabharata
+hidimba|Hidimba|rakshasa|mahabharata
+ghatotkacha|Ghatotkacha|rakshasa|mahabharata
+barbarika|Barbarika|rakshasa|late-puranas
+iravan|Iravan|human|mahabharata
+ulupi|Ulupi|celestial|mahabharata
+chitrangada-manipur|Chitrangada (princess of Manipura)|human|mahabharata
+babruvahana|Babruvahana|human|mahabharata
+bakasura|Bakasura|rakshasa|mahabharata
+mandavya|Mandavya|rishi|mahabharata
+kindama|Kindama|rishi|mahabharata
+nala-king|Nala (king of Nishadha)|human|mahabharata
+damayanti|Damayanti|human|mahabharata
+savitri|Savitri|human|mahabharata
+satyavan|Satyavan|human|mahabharata
+dhaumya|Dhaumya|rishi|mahabharata
+@18-nagas-vahanas|Nagas, the Garuda family, divine mounts and sacred animals
+shesha|Shesha (Ananta)|celestial|mahabharata
+vasuki|Vasuki|celestial|mahabharata
+takshaka|Takshaka|celestial|later-vedic
+karkotaka|Karkotaka|celestial|mahabharata
+manasa|Manasa|devi|late-puranas
+astika|Astika|rishi|mahabharata
+jaratkaru|Jaratkaru (the sage)|rishi|mahabharata
+kadru|Kadru|celestial|mahabharata
+vinata|Vinata|celestial|mahabharata
+garuda|Garuda|animal|rigveda
+aruna|Aruna|celestial|mahabharata
+nandi|Nandi|animal|mahabharata
+airavata|Airavata|animal|mahabharata
+mushika|Mushika (Ganesha's mouse)|animal|middle-puranas
+paravani|Paravani (Kartikeya's peacock)|animal|mahabharata
+hamsa-vahana|Hamsa (the divine swan)|animal|early-puranas
+uluka|Uluka (Lakshmi's owl)|animal|late-puranas
+dawon|Dawon (the Goddess's lion)|animal|early-puranas
+uchchaihshravas|Uchchaihshravas|animal|mahabharata
+kamadhenu|Kamadhenu|animal|mahabharata
+nandini|Nandini (Shabala)|animal|ramayana
+makara|Makara|animal|early-puranas
+bhringi|Bhringi|rishi|middle-puranas
+@19-celestials|Kama and Rati, Apsaras, Gandharvas, the Navagraha, Dikpalas and celebrated devotees
+kamadeva|Kamadeva|celestial|later-vedic
+rati|Rati|celestial|mahabharata
+urvashi|Urvashi|celestial|rigveda
+menaka|Menaka|celestial|ramayana
+rambha|Rambha (apsara)|celestial|ramayana
+tilottama|Tilottama|celestial|mahabharata
+chitraratha|Chitraratha|celestial|mahabharata
+tumburu|Tumburu|celestial|mahabharata
+navagraha|Navagraha (Nine Planets)|celestial|early-puranas
+mangala|Mangala (Angaraka)|celestial|mahabharata
+budha|Budha|celestial|mahabharata
+shani|Shani|celestial|mahabharata
+rohini|Rohini|celestial|later-vedic
+tara-brihaspati|Tara (wife of Brihaspati)|celestial|early-puranas
+dikpalas|Dikpalas (Guardians of the Directions)|celestial|mahabharata
+kubera|Kubera|celestial|later-vedic
+chitragupta|Chitragupta|celestial|middle-puranas
+gajendra|Gajendra|animal|middle-puranas
+ambarisha|Ambarisha|human|mahabharata
+@20-events|Key events (each linked to every character involved)
+samudra-manthan|Samudra Manthan (Churning of the Ocean)|event|ramayana
+daksha-yajna|Daksha Yajna|event|mahabharata
+kurukshetra-war|Kurukshetra War|event|mahabharata
+lanka-war|The War of Lanka|event|ramayana
+ganga-descent|Descent of the Ganga (Gangavatarana)|event|ramayana
+lingodbhava|Lingodbhava (the Pillar of Fire)|event|early-puranas
+tripura-dahana|Tripura Dahana (Burning of the Three Cities)|event|later-vedic
+kama-dahana|Kama Dahana (Burning of Kama)|event|early-puranas
+skanda-birth|Birth of Skanda and slaying of Taraka|event|ramayana
+govardhana-lila|Lifting of Govardhana|event|mahabharata
+bhagavad-gita|The Bhagavad Gita discourse|event|mahabharata
+game-of-dice|The Game of Dice|event|mahabharata
+draupadi-svayamvara|Draupadi's Svayamvara|event|mahabharata
+sita-svayamvara|Sita's Svayamvara (breaking of Shiva's bow)|event|ramayana
+rama-vanavasa|Rama's Exile|event|ramayana
+sita-abduction|Abduction of Sita|event|ramayana
+lanka-dahana|Burning of Lanka|event|ramayana
+rama-setu|Building of Rama Setu|event|ramayana
+sarpa-satra|Janamejaya's Snake Sacrifice|event|mahabharata
+three-strides|Vamana's Three Strides|event|later-vedic
+holika-dahan|Holika Dahan|event|late-puranas
+mahishasura-vadha|Slaying of Mahishasura|event|early-puranas
+mausala|Mausala — End of the Yadavas|event|mahabharata
+khandava-dahana|Burning of the Khandava Forest|event|mahabharata
+rajasuya|Yudhishthira's Rajasuya|event|mahabharata
+garuda-amrita|Garuda Steals the Amrita|event|mahabharata
+vritra-vadha|Slaying of Vritra|event|rigveda
+mahaprasthana|Mahaprasthana — the Great Departure|event|mahabharata

@@ -1,0 +1,1838 @@
+{
+ "section": "03-trimurti",
+ "nodes": {
+  "brahma": {
+   "name": "Brahma",
+   "aliases": [
+    "Svayambhu",
+    "Pitamaha",
+    "Prajapati",
+    "Hiranyagarbha",
+    "Chaturmukha",
+    "Vidhi",
+    "Vidhata",
+    "Kamalasana",
+    "Abjaja",
+    "Lokesha"
+   ],
+   "description": "Brahma is the four-faced creator god of the Trimurti, who fashions the worlds and their creatures at the start of each cosmic cycle. He inherits the role of the Vedic creator Prajapati and first appears as a personal god in the Upanishads (Mundaka calls him the first of the gods). Although revered as the grandsire (Pitamaha) of all beings, he has very few temples and receives little independent worship.",
+   "story": "At the end of a cosmic night, when Vishnu lay asleep on the serpent Shesha upon the causal waters, a golden lotus rose from his navel, and on it Brahma awoke. Seeing nothing but water and darkness, he turned to look in every direction, and so gained four faces. Not knowing who he was or where he came from, he climbed down the lotus stalk for ages without finding its root, then returned to his seat. There he heard a voice sound two syllables, 'tapa, tapa' (austerity), and he sat in meditation for a thousand divine years. When his mind became clear, the Lord revealed himself, and Brahma, empowered, began to create: first the mind-born sages, then the Prajapatis, gods, demons, humans and all living things.",
+   "symbols": [
+    "four faces",
+    "four arms",
+    "lotus seat",
+    "Vedas",
+    "kamandalu (water pot)",
+    "akshamala (rosary)",
+    "sruva (sacrificial ladle)",
+    "white beard"
+   ],
+   "weapons": [],
+   "vahana": "Hamsa (swan or goose)",
+   "abode": "Brahmaloka (Satyaloka)",
+   "sources": [
+    "Mundaka Upanishad 1.1.1",
+    "Kaushitaki Upanishad",
+    "Mahabharata",
+    "Manusmriti, Chapter 1",
+    "Vishnu Purana, Book 1",
+    "Bhagavata Purana, Cantos 2-3",
+    "Matsya Purana",
+    "Shiva Purana"
+   ],
+   "variations": [
+    "Vaishnava Puranas (Bhagavata, Vishnu) have Brahma born from the lotus of Vishnu's navel; Shaiva texts (Shiva Purana, Linga Purana) have Brahma and Vishnu both emanate from Shiva; Shakta texts (Devi Bhagavata) make all three gods creations of the Great Goddess.",
+    "Manusmriti and several Puranas describe him as born within the golden cosmic egg (Hiranyagarbha) that floated on the primordial waters.",
+    "He is said to have once had five heads; Shaiva texts say Shiva (as Bhairava) cut off the fifth for its arrogance or for a false claim during the pillar-of-light contest.",
+    "Legends explaining his lack of worship vary: Shiva's curse after Brahma lied about seeing the top of the fiery linga, or Savitri's curse at Pushkar (Padma Purana), where one of his few temples stands."
+   ]
+  },
+  "vishnu": {
+   "name": "Vishnu",
+   "aliases": [
+    "Narayana",
+    "Hari",
+    "Vasudeva",
+    "Janardana",
+    "Madhusudana",
+    "Keshava",
+    "Trivikrama",
+    "Upendra",
+    "Padmanabha",
+    "Achyuta",
+    "Purushottama",
+    "Govinda"
+   ],
+   "description": "Vishnu is the preserver of the Trimurti and the supreme deity of Vaishnavism, who descends as avatars whenever dharma declines. In the Rig Veda he is a comparatively minor but exalted god, the friend of Indra famed for his three strides across the cosmos, and he later rises to cosmic supremacy in the epics and Puranas. His consorts are Lakshmi (Shri) and Bhudevi, his mount is Garuda and he rests on the serpent Shesha in the ocean of milk.",
+   "story": "Between two ages of creation Vishnu lay in yogic sleep on the coils of Shesha, floating on the endless ocean. From the wax of his ears two mighty demons, Madhu and Kaitabha, sprang up and rushed at Brahma, who sat trembling on the lotus from Vishnu's navel. Brahma praised Yoganidra, the goddess of sleep, and she withdrew from Vishnu's eyes. The Lord awoke and wrestled the demons with his bare arms for five thousand years. Drunk with pride, they offered him any boon he wished. 'Then be slain by me,' said Vishnu. Trapped by their own word, they asked to be killed where the earth was not flooded. Vishnu smiled, laid them across his thighs, and severed their heads with his discus, earning the name Madhusudana.",
+   "symbols": [
+    "four arms",
+    "dark blue or cloud-coloured body",
+    "Shrivatsa mark",
+    "Kaustubha gem",
+    "Vanamala garland",
+    "lotus (padma)",
+    "conch Panchajanya",
+    "yellow garments (pitambara)"
+   ],
+   "weapons": [
+    "Sudarshana Chakra (discus)",
+    "Kaumodaki (mace)",
+    "Sharanga (bow)",
+    "Nandaka (sword)"
+   ],
+   "vahana": "Garuda",
+   "abode": "Vaikuntha; Kshira Sagara (ocean of milk)",
+   "sources": [
+    "Rig Veda 1.22",
+    "Rig Veda 1.154",
+    "Rig Veda 7.99",
+    "Shatapatha Brahmana",
+    "Mahabharata (incl. Bhagavad Gita)",
+    "Vishnu Purana",
+    "Bhagavata Purana",
+    "Devi Mahatmya, Chapter 1"
+   ],
+   "variations": [
+    "In the Rig Veda Vishnu has only a handful of hymns and is chiefly Indra's ally; his supremacy develops in the Brahmanas (where he is identified with the sacrifice) and the epics.",
+    "Vaishnava traditions identify Vishnu (Narayana) with the supreme Brahman; Shaiva and Shakta texts place him below Shiva or the Devi respectively.",
+    "In the Devi Mahatmya the slaying of Madhu and Kaitabha is made possible by the Goddess as Yoganidra; in the Mahabharata and Harivamsha versions the emphasis is on Vishnu alone.",
+    "Some Tamil traditions make Vishnu the brother of Parvati (as Minakshi's brother Alagar), who gives her away in marriage to Shiva."
+   ]
+  },
+  "shiva": {
+   "name": "Shiva",
+   "aliases": [
+    "Mahadeva",
+    "Maheshvara",
+    "Shankara",
+    "Shambhu",
+    "Rudra",
+    "Nilakantha",
+    "Pashupati",
+    "Hara",
+    "Bholenath",
+    "Tryambaka",
+    "Gangadhara",
+    "Chandrashekhara",
+    "Umapati",
+    "Nataraja"
+   ],
+   "description": "Shiva is the destroyer and transformer of the Trimurti and the supreme deity of Shaivism, at once the ash-smeared ascetic of Mount Kailasa and the householder with Parvati and their sons. He grows out of the Vedic storm god Rudra, and the Shvetashvatara Upanishad is the first text to exalt Rudra-Shiva as the supreme lord. He is worshipped above all in the form of the linga.",
+   "story": "When the gods and asuras churned the ocean of milk for the nectar of immortality, the first thing to rise from the waters was not treasure but Halahala, a black poison whose fumes began to scorch the three worlds. Gods, demons and every creature fled in terror, and Prajapati's creatures cried out for help. Moved by compassion, Shiva took the poison in his cupped palm and drank it. Parvati, alarmed, pressed his throat so it would go no further, or in other tellings Shiva simply held it there by his own power. The venom stained his throat a deep blue, and from that day he has been called Nilakantha, the blue-throated one, the god who swallows the world's suffering so that others may live.",
+   "symbols": [
+    "third eye",
+    "crescent moon",
+    "river Ganga in matted locks (jata)",
+    "serpent around the neck",
+    "ash (vibhuti)",
+    "tiger or elephant skin",
+    "rudraksha beads",
+    "damaru (drum)",
+    "linga",
+    "blue throat"
+   ],
+   "weapons": [
+    "Trishula (trident)",
+    "Pinaka (bow)",
+    "Pashupatastra",
+    "khatvanga (skull-staff)",
+    "parashu (axe)"
+   ],
+   "vahana": "Nandi (bull)",
+   "abode": "Mount Kailasa; Varanasi (Kashi)",
+   "sources": [
+    "Shvetashvatara Upanishad",
+    "Atharva Veda",
+    "Mahabharata (Anushasana Parva, Shiva Sahasranama)",
+    "Valmiki Ramayana",
+    "Shiva Purana",
+    "Linga Purana",
+    "Kurma Purana",
+    "Bhagavata Purana, Canto 8",
+    "Skanda Purana"
+   ],
+   "variations": [
+    "The word shiva ('auspicious') is used in the Rig Veda as an epithet of Rudra and other gods; the identification of Rudra with a supreme Shiva is first explicit in the Shvetashvatara Upanishad.",
+    "Shaiva Siddhanta, Kashmir Shaivism and the Pashupata and Lingayat traditions describe his nature and relation to the soul differently; Vaishnava texts sometimes make him subordinate to or a devotee of Vishnu.",
+    "In the Halahala episode, some versions have Parvati stop the poison at his throat, others have Shiva hold it by his own yogic power; Vishnu and Brahma are sometimes said to have asked him to drink it."
+   ]
+  },
+  "saraswati": {
+   "name": "Saraswati",
+   "aliases": [
+    "Sarasvati",
+    "Sharada",
+    "Vani",
+    "Vagdevi",
+    "Bharati",
+    "Vagishvari",
+    "Brahmi",
+    "Shatarupa",
+    "Veenapani",
+    "Mahasarasvati"
+   ],
+   "description": "Saraswati is the goddess of knowledge, speech, music and the arts and the consort of Brahma. In the Rig Veda she is a mighty sacred river, praised as 'best of mothers, best of rivers, best of goddesses', and the Brahmanas identify her with Vak, sacred speech. In later Hinduism she becomes the white-clad patron of learning, worshipped especially at Vasant Panchami.",
+   "story": "The Matsya Purana tells how Brahma, meditating on creation, brought forth from his own body a radiant woman, known by many names: Shatarupa, Savitri, Gayatri, Sarasvati. Captivated by her, he could not take his eyes from her; as she moved respectfully around him, a new face sprang up on each side so that he might keep gazing, and a fifth appeared above. Though she was born from him, she became his consort, and from their union came Svayambhuva Manu and the order of human life. Theologians have long read the episode as a mystery rather than a scandal: the creator and his own creative Word, speech and knowledge, must unite before the worlds can be named and ordered. Other texts, troubled by it, have Shiva sever Brahma's fifth head.",
+   "symbols": [
+    "white garments",
+    "white lotus",
+    "veena",
+    "book (pustaka)",
+    "akshamala (rosary)",
+    "water pot",
+    "swan",
+    "peacock"
+   ],
+   "weapons": [],
+   "vahana": "Hamsa (swan); sometimes a peacock",
+   "abode": "Brahmaloka; the banks of the river Sarasvati",
+   "sources": [
+    "Rig Veda 2.41.16",
+    "Rig Veda 6.61",
+    "Rig Veda 10.17",
+    "Aitareya Brahmana",
+    "Shatapatha Brahmana",
+    "Mahabharata, Shalya Parva",
+    "Matsya Purana",
+    "Brahmavaivarta Purana",
+    "Devi Bhagavata Purana"
+   ],
+   "variations": [
+    "In the Rig Veda she is chiefly a river goddess (Sarasvati river) linked with purification, fertility and the Ashvins; the later texts describe the river as vanishing into the desert.",
+    "Matsya Purana and others make her Brahma's daughter and consort; many traditions simply call her Brahma's wife, and some (Pushkar legend, Padma Purana) separate her from Savitri and Gayatri as distinct consorts.",
+    "The Brahmavaivarta Purana makes Sarasvati one of the three wives of Vishnu (with Lakshmi and Ganga), whose quarrel led to mutual curses turning them into rivers.",
+    "In Shakta theology (Devi Mahatmya, Devi Bhagavata) she is Mahasarasvati, one of the three great forms of the supreme Goddess."
+   ]
+  },
+  "lakshmi": {
+   "name": "Lakshmi (Shri)",
+   "aliases": [
+    "Shri",
+    "Sri",
+    "Padma",
+    "Kamala",
+    "Narayani",
+    "Haripriya",
+    "Kshirasagara-suta",
+    "Indira",
+    "Bhargavi",
+    "Mahalakshmi",
+    "Gajalakshmi"
+   ],
+   "description": "Lakshmi, also called Shri, is the goddess of prosperity, fortune, beauty and sovereignty and the eternal consort of Vishnu. The Shri Sukta and the Shatapatha Brahmana already praise Shri as a radiant goddess of abundance, and in the Puranas she rises from the churning of the ocean of milk. She incarnates alongside Vishnu's avatars, most famously as Sita and Rukmini.",
+   "story": "Once the sage Durvasa gave Indra a garland of heavenly flowers, but Indra tossed it onto his elephant, who trampled it. Durvasa cursed him, and Shri, fortune herself, departed from the heavens: the gods grew weak, sacrifices ceased and the asuras triumphed. On Vishnu's advice, gods and asuras churned the ocean of milk. Among the wonders that rose, the most dazzling was Lakshmi, seated on a full-blown lotus and holding lotuses in her hands. The sages sang the Shri Sukta, the rivers came to bathe her, and the elephants of the quarters poured water over her from golden vessels. The ocean gave her a garland of unfading lotuses. Ignoring every other suitor, she went straight to Vishnu and made her home on his chest, and fortune returned to the worlds.",
+   "symbols": [
+    "lotus",
+    "gold coins flowing from her hand",
+    "elephants showering water (Gajalakshmi)",
+    "red or pink garments",
+    "kalasha (pot of plenty)",
+    "abhaya and varada mudras"
+   ],
+   "weapons": [],
+   "vahana": "Owl (uluka); sometimes an elephant; seated on a lotus",
+   "abode": "Vaikuntha (on Vishnu's chest, the Shrivatsa); Kshira Sagara",
+   "sources": [
+    "Shri Sukta (Rig Veda Khilani)",
+    "Shatapatha Brahmana 11.4.3",
+    "Mahabharata",
+    "Vishnu Purana, Book 1",
+    "Bhagavata Purana, Canto 8",
+    "Padma Purana",
+    "Lakshmi Tantra"
+   ],
+   "variations": [
+    "The Vishnu Purana first makes Shri the daughter of the sage Bhrigu and Khyati, and then describes her re-emergence from the ocean after Durvasa's curse.",
+    "In the Shatapatha Brahmana Shri emerges from Prajapati's austerities and the other gods take her qualities from her.",
+    "Vaishnava traditions hold she incarnates with each avatar: as Padma with Vamana, Dharani with Parashurama, Sita with Rama, Rukmini with Krishna; Sri Vaishnavism makes her the mediator (purushakara) between devotee and God.",
+    "In Shakta theology (Devi Mahatmya) Mahalakshmi is the supreme Goddess herself, source of all three great goddesses.",
+    "Her mount is given as the owl in eastern India (Bengal, Odisha); elsewhere she is shown seated on a lotus flanked by elephants."
+   ]
+  },
+  "parvati": {
+   "name": "Parvati (Uma)",
+   "aliases": [
+    "Uma",
+    "Gauri",
+    "Shailaja",
+    "Girija",
+    "Haimavati",
+    "Aparna",
+    "Ambika",
+    "Bhavani",
+    "Shivakami",
+    "Minakshi",
+    "Kamakshi",
+    "Durga (in many traditions)"
+   ],
+   "description": "Parvati, 'daughter of the mountain', is the consort of Shiva, the daughter of Himavan and Mena and the rebirth of Sati. First glimpsed as Uma Haimavati in the Kena Upanishad, she becomes the model of devoted love won through austerity and the mother of Ganesha and Kartikeya. In Shakta traditions she is a gentle form of the supreme Goddess, whose fierce aspects include Durga and Kali.",
+   "story": "After Sati's death, Shiva withdrew into deep meditation, and the demon Taraka, who could be killed only by a son of Shiva, terrorized the gods. Sati was reborn as Parvati, and at the gods' urging Kama shot his flower arrow at Shiva while she served him, only to be burnt to ashes by the third eye. Undaunted, Parvati resolved to win Shiva by her own austerity. She gave up food, then even leaves, and was called Aparna. One day a young brahmachari visited her hermitage and mocked Shiva as a ghost-haunted beggar who wore snakes and ash. Parvati angrily rose to leave rather than hear her lord insulted. The youth then revealed himself as Shiva, declared himself her servant bought by her penance, and asked Himavan for her hand.",
+   "symbols": [
+    "lotus",
+    "mirror",
+    "green or red sari",
+    "noose and goad (in some forms)",
+    "gentle two-armed form beside Shiva"
+   ],
+   "weapons": [
+    "trishula (in martial forms)"
+   ],
+   "vahana": "Lion or tiger; often shares Nandi with Shiva",
+   "abode": "Mount Kailasa",
+   "sources": [
+    "Kena Upanishad 3.12",
+    "Valmiki Ramayana, Bala Kanda",
+    "Mahabharata",
+    "Kalidasa, Kumarasambhava",
+    "Shiva Purana, Rudra Samhita (Parvati Khanda)",
+    "Skanda Purana",
+    "Devi Bhagavata Purana"
+   ],
+   "variations": [
+    "In the Kena Upanishad Uma Haimavati is a luminous goddess who explains Brahman to Indra; later tradition reads 'Haimavati' as daughter of Himavan.",
+    "The Valmiki Ramayana makes Uma the younger sister of Ganga, both daughters of Himavat and Mena, without mentioning Sati.",
+    "Shakta texts identify her with the supreme Goddess and make Durga, Kali, Kaushiki and the Navadurga her forms; Tamil traditions worship her as Minakshi at Madurai, with Vishnu as her brother."
+   ]
+  },
+  "sati": {
+   "name": "Sati (Dakshayani)",
+   "aliases": [
+    "Dakshayani",
+    "Dakshaja",
+    "Uma (in some texts)",
+    "Bhavani"
+   ],
+   "description": "Sati is the first wife of Shiva, the daughter of Daksha and Prasuti, who gave up her life at her father's sacrifice after he insulted her husband. Her death, Shiva's grief and the destruction of Daksha's sacrifice form one of the most influential myths of Shaivism and Shaktism. She is reborn as Parvati, and the places where parts of her body fell are venerated as the Shakti Pithas.",
+   "story": "Daksha never forgave Shiva for failing to rise and bow to him, so when he held a great sacrifice he invited every god except his son-in-law. Sati, hearing of the festival, begged Shiva to let her go to her father's house. He warned her she would only be insulted, but she went. At the sacrifice Daksha ignored her and mocked Shiva before all the assembled gods. Unable to bear the insult, Sati declared she would no longer carry a body born from Daksha, sat in yogic meditation and was consumed by the fire of her own inner power. When Shiva heard, he tore a lock from his hair and struck it on the ground; from it rose Virabhadra, who laid waste to the sacrifice. Shiva then wandered the worlds carrying her body.",
+   "symbols": [
+    "red garments",
+    "sindoor",
+    "yogic posture in fire (in depictions of her death)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kailasa",
+   "sources": [
+    "Mahabharata, Shanti Parva (Daksha's sacrifice)",
+    "Vayu Purana",
+    "Kurma Purana",
+    "Bhagavata Purana, Canto 4",
+    "Shiva Purana, Rudra Samhita (Sati Khanda)",
+    "Devi Bhagavata Purana",
+    "Kalika Purana"
+   ],
+   "variations": [
+    "In the Mahabharata, Daksha's sacrifice is destroyed because Shiva was excluded, but Sati's self-immolation is not yet part of the story.",
+    "Bhagavata and Shiva Puranas describe her death by yogic fire; some versions have her leap into the sacrificial fire.",
+    "Later Shakta texts (Devi Bhagavata, Kalika Purana) add that Vishnu's discus cut her corpse, carried by the grieving Shiva, into pieces whose places of fall became the Shakti Pithas; the number of pithas varies (4, 51, 52, 108).",
+    "The Mahabhagavata and Brihaddharma Puranas say the Ten Mahavidyas appeared from Sati when Shiva tried to stop her from going to the sacrifice."
+   ]
+  },
+  "ganesha": {
+   "name": "Ganesha",
+   "aliases": [
+    "Ganapati",
+    "Vinayaka",
+    "Vighneshvara",
+    "Vighnaharta",
+    "Gajanana",
+    "Ekadanta",
+    "Lambodara",
+    "Pillaiyar",
+    "Heramba",
+    "Siddhidata",
+    "Gajamukha"
+   ],
+   "description": "Ganesha, the elephant-headed son of Shiva and Parvati, is the lord of beginnings and the remover (and placer) of obstacles, invoked before every rite and undertaking. Lord of Shiva's ganas and patron of wisdom and letters, he is worshipped across all Hindu sects and beyond. His cult flowered in the Gupta period, and the Ganapatya tradition treats him as the supreme deity.",
+   "story": "Wanting a servant loyal to her alone, Parvati rubbed the turmeric paste from her body while bathing, shaped it into a handsome boy and breathed life into him. She set him at the door with a staff and told him to let no one in. When Shiva returned, the boy barred his way. Shiva's ganas attacked and were driven back; even the gods could not pass. At last, in the battle, Shiva cut off the boy's head with his trident. Parvati's grief and fury shook the worlds, and she threatened to unleash her powers until her son was restored. Shiva sent his ganas north to bring the head of the first creature they met; they returned with an elephant's head. Shiva set it on the body, revived the child and made him chief of the ganas.",
+   "symbols": [
+    "elephant head",
+    "single broken tusk",
+    "large belly",
+    "modaka (sweet)",
+    "noose (pasha)",
+    "goad (ankusha)",
+    "serpent belt",
+    "lotus"
+   ],
+   "weapons": [
+    "ankusha (goad)",
+    "pasha (noose)",
+    "parashu (axe)",
+    "broken tusk"
+   ],
+   "vahana": "Mushika (mouse or rat)",
+   "abode": "Kailasa; Svanandaloka (Ganapatya tradition)",
+   "sources": [
+    "Yajnavalkya Smriti (Vinayaka)",
+    "Matsya Purana",
+    "Shiva Purana, Rudra Samhita (Kumara Khanda)",
+    "Brahmavaivarta Purana, Ganapati Khanda",
+    "Ganesha Purana",
+    "Mudgala Purana",
+    "Ganapati Atharvashirsha"
+   ],
+   "variations": [
+    "Rig Veda 2.23.1 addresses Brihaspati as 'Ganapati'; the elephant-headed god is not found in Vedic texts, and early Smriti texts describe Vinayakas as troublesome beings to be appeased.",
+    "Birth: the Shiva Purana has Parvati create him from her body paste and Shiva behead him; the Brahmavaivarta Purana says he was born as Krishna's gift and lost his head to the gaze of Shani; other versions attribute his elephant head to Parvati's bath or to his creation by Shiva.",
+    "Wives: the Shiva Purana marries him to Siddhi and Buddhi, daughters of Prajapati Vishvarupa; North Indian popular tradition names them Riddhi and Siddhi; in South India (as Pillaiyar) he is widely held to be a lifelong brahmachari; in Bengal he is sometimes linked with the banana-tree goddess (Kala Bou).",
+    "The story that he wrote down the Mahabharata as Vyasa dictated is absent from the Critical Edition and is considered a later interpolation.",
+    "His broken tusk is explained variously: broken by Parashurama in a fight, snapped off by Ganesha to write the Mahabharata, or thrown at the moon."
+   ]
+  },
+  "kartikeya": {
+   "name": "Kartikeya (Skanda, Murugan)",
+   "aliases": [
+    "Skanda",
+    "Murugan",
+    "Kumara",
+    "Subrahmanya",
+    "Shanmukha",
+    "Guha",
+    "Senani",
+    "Devasenapati",
+    "Saravanabhava",
+    "Velayudha",
+    "Mahasena",
+    "Arumugam"
+   ],
+   "description": "Kartikeya, also Skanda, Kumara, Subrahmanya and in Tamil Murugan, is the six-faced god of war and commander of the army of the gods, born to destroy the demon Taraka. He is the son of Shiva, although texts disagree on who bore him: Agni, Ganga, the six Krittikas, Svaha or Parvati. Once widely worshipped across India, he remains a principal deity of the Tamil people.",
+   "story": "The demon Taraka had won from Brahma the boon that only a son of Shiva could kill him, and Shiva was lost in meditation. When at last Shiva's fiery seed was released, no one could bear it. Agni carried it until he could hold it no more and gave it to the river Ganga, who in turn deposited it among the reeds of the Saravana lake. There a radiant child was born, and the six Krittikas (the Pleiades) came to nurse him. So that he could drink from all six at once, the child grew six faces, and so he is Shanmukha and Kartikeya, son of the Krittikas. Within days he was a youth of blazing power. The gods made him their general, and riding his peacock, spear in hand, he led them to battle and slew Taraka.",
+   "symbols": [
+    "six faces (Shanmukha)",
+    "spear (vel)",
+    "peacock",
+    "rooster banner",
+    "youthful form"
+   ],
+   "weapons": [
+    "Vel (spear, given by Parvati in Tamil tradition)",
+    "shakti",
+    "bow and arrows",
+    "vajra"
+   ],
+   "vahana": "Paravani (peacock)",
+   "abode": "Mount Kailasa; Skandagiri; the six abodes (Arupadaiveedu) of Murugan in Tamil Nadu",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda",
+    "Mahabharata, Aranyaka (Vana) Parva",
+    "Mahabharata, Shalya Parva",
+    "Kalidasa, Kumarasambhava",
+    "Skanda Purana",
+    "Shiva Purana, Rudra Samhita (Kumara Khanda)",
+    "Tirumurukarruppatai",
+    "Kanda Puranam"
+   ],
+   "variations": [
+    "The Chandogya Upanishad (7.26.2) calls the sage Sanatkumara 'Skanda', which some take as the earliest reference to him.",
+    "Birth: the Ramayana makes him the son of Shiva's seed borne by Agni and Ganga and nursed by the Krittikas; in the Mahabharata Agni fathers him on Svaha, who takes the forms of six of the Saptarishis' wives; later Puranas stress Parvati as his mother; Kalidasa's Kumarasambhava ends with Shiva and Parvati's union.",
+    "Consorts: the Mahabharata gives him Devasena; Tamil tradition adds Valli, the huntress of the hills; in North India he is often regarded as a celibate youth.",
+    "The Mahabharata also credits him with slaying Mahisha, a feat later texts give to Durga."
+   ]
+  },
+  "ashokasundari": {
+   "name": "Ashokasundari",
+   "aliases": [
+    "Ashoka Sundari",
+    "Vriksha-sundari"
+   ],
+   "description": "Ashokasundari is a daughter of Shiva and Parvati known chiefly from the Padma Purana, created from the wish-fulfilling tree to relieve Parvati's loneliness. She is the destined wife of King Nahusha of the Lunar dynasty. She is little known in pan-Indian tradition, though she is honoured in some regional and folk worship.",
+   "story": "When Shiva was away and Kartikeya had left home, Parvati felt lonely and went to the Kalpavriksha, the wish-granting tree of paradise. She wished for a daughter, and a lovely girl appeared from the tree; because she was born to end her mother's sorrow (shoka), she was named Ashokasundari. Parvati blessed her that she would marry Nahusha, a hero of the Lunar race. Years later the asura Hunda, infatuated, tried to win her and then, disguised, to deceive her. Ashokasundari refused him and cursed him to die at Nahusha's hands. Hunda kidnapped the infant Nahusha to escape his fate, but the child was rescued and raised by the sage Vasishtha. Grown to manhood, Nahusha slew Hunda and married Ashokasundari, who bore him the famous king Yayati.",
+   "symbols": [
+    "young maiden",
+    "born of the wish-fulfilling tree"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kailasa; later the court of Nahusha",
+   "sources": [
+    "Padma Purana"
+   ],
+   "variations": [
+    "Her story is found mainly in the Padma Purana; other Puranas do not mention a daughter of Shiva and Parvati by this name.",
+    "Other Puranic genealogies name a different wife for Nahusha or leave her unnamed, so her motherhood of Yayati is specific to the Padma Purana account.",
+    "Some modern popular retellings and regional traditions identify other goddesses (such as the serpent goddess Manasa in Bengal) as daughters of Shiva; these are separate traditions."
+   ]
+  },
+  "riddhi": {
+   "name": "Riddhi",
+   "aliases": [
+    "Riddhi Devi",
+    "Riddhi (prosperity)"
+   ],
+   "description": "Riddhi, whose name means prosperity and abundance, is popularly worshipped in North and West India as one of the two consorts of Ganesha alongside Siddhi. Together with their sons Shubha and Labha she personifies the auspicious fruits that follow the worship of the remover of obstacles. The Shiva Purana itself names Ganesha's wives as Siddhi and Buddhi, so the pairing Riddhi-Siddhi reflects later devotional tradition.",
+   "story": "When Diwali comes and merchants open fresh account books, many in North and West India write 'Shubh' and 'Labh', auspiciousness and profit, on either side of their doorways and ledgers, and paint the swastika between them. These words are the names of Ganesha's sons, and their mothers are Riddhi and Siddhi. In the popular telling, Ganesha, having won the race around the world by circling his parents, was married with great festivity to two sisters, Riddhi, prosperity, and Siddhi, spiritual attainment. Devotees say that whoever worships Ganesha with sincerity never finds his house empty, for Riddhi follows him with abundance and Siddhi with success. Images in temples and home shrines often show the two goddesses standing on either side of the seated god, fanning him or holding lamps.",
+   "symbols": [
+    "attendant beside Ganesha",
+    "lamp or flywhisk (chamara)",
+    "lotus"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Beside Ganesha, on Kailasa",
+   "sources": [
+    "North Indian devotional tradition (Ganesha vrata-kathas)",
+    "Shiva Purana, Rudra Samhita (Kumara Khanda) (as Buddhi)"
+   ],
+   "variations": [
+    "The Shiva Purana names Ganesha's two wives Siddhi and Buddhi (wisdom), daughters of Prajapati Vishvarupa; Riddhi takes Buddhi's place in later popular tradition.",
+    "The sons are called Shubha and Labha in popular tradition; the Shiva Purana names them Kshema and Labha.",
+    "South Indian tradition largely regards Ganesha as unmarried, and some scholars interpret Riddhi and Siddhi as personified powers rather than wives."
+   ]
+  },
+  "siddhi": {
+   "name": "Siddhi",
+   "aliases": [
+    "Siddhi Devi"
+   ],
+   "description": "Siddhi, 'spiritual attainment' or 'success', is one of the two consorts of Ganesha in the Shiva Purana and the Ganesha Purana, paired with Buddhi (wisdom) in Sanskrit texts and with Riddhi (prosperity) in popular tradition. She personifies the accomplishment that comes to those who worship Ganesha. Her son in the Shiva Purana is Kshema or, in popular belief, Shubha.",
+   "story": "Shiva and Parvati decided their two sons should marry, and to settle who would wed first they set a contest: whoever went around the whole earth and returned first would win. Kartikeya leapt on his peacock and sped away across the world. Ganesha, whose mount was only a mouse, thought for a moment, then bathed, seated his parents together and walked reverently around them seven times. 'The scriptures say that to circle one's parents is to circle the earth,' he explained, 'so I have finished.' Delighted by his wisdom, Shiva and Parvati arranged his marriage to the two lovely daughters of Prajapati Vishvarupa, Siddhi and Buddhi. When Kartikeya returned to find the wedding done, he left in anger for the Krauncha mountain, and Siddhi bore Ganesha a son.",
+   "symbols": [
+    "attendant beside Ganesha",
+    "flywhisk (chamara)",
+    "lotus"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Beside Ganesha, on Kailasa",
+   "sources": [
+    "Shiva Purana, Rudra Samhita (Kumara Khanda)",
+    "Ganesha Purana",
+    "Mudgala Purana"
+   ],
+   "variations": [
+    "The Shiva Purana pairs her with Buddhi; popular North Indian tradition pairs her with Riddhi.",
+    "The Mudgala Purana treats Siddhi and Buddhi as the shaktis or powers of Ganesha rather than wives in the ordinary sense.",
+    "In South India Ganesha is widely held to be a brahmachari and is not shown with consorts; the Siddhi of the eight siddhis (yogic powers) is a separate concept."
+   ]
+  },
+  "devasena": {
+   "name": "Devasena",
+   "aliases": [
+    "Deivanai",
+    "Deivayanai",
+    "Shashthi",
+    "Amritavalli (Tamil tradition, previous birth)"
+   ],
+   "description": "Devasena, 'army of the gods', is the first consort of Kartikeya, given to him by Indra after he became the commander of the divine army. In the Mahabharata she is a daughter of Prajapati rescued by Indra; later South Indian tradition, where she is Deivanai, makes her the daughter of Indra and Shachi. She is also identified with Shashthi, the goddess who protects children.",
+   "story": "One day Indra heard a woman crying out on Mount Manasa and found the demon Keshin dragging away a maiden. Indra drove him off with his thunderbolt. The maiden said she was Devasena; her sister Daityasena had gone willingly with Keshin, but she longed for a husband mighty enough to conquer gods, demons and all the worlds. Indra searched for such a hero and found none, until the blazing young Skanda appeared, born of Agni. Having made him commander of the gods, Indra led Devasena to him and the two were married with Vedic rites, Brihaspati chanting the mantras. From that day, the Mahabharata says, the gods called her Shashthi, Lakshmi, Asha and Sukhaprada, and Skanda became Devasenapati, lord of the army of the gods.",
+   "symbols": [
+    "standing beside Skanda (right side in Tamil iconography)",
+    "lotus",
+    "blue lily"
+   ],
+   "weapons": [],
+   "vahana": "Elephant (Airavata, as Indra's daughter, in Tamil tradition)",
+   "abode": "With Skanda; Tiruparankundram (Tamil tradition of the wedding)",
+   "sources": [
+    "Mahabharata, Aranyaka (Vana) Parva (Skanda episode)",
+    "Skanda Purana",
+    "Brahmavaivarta Purana",
+    "Kanda Puranam"
+   ],
+   "variations": [
+    "The Mahabharata calls her a daughter of Prajapati whom Indra protects and gives in marriage; later South Indian texts make her Indra's own daughter by Shachi (Deivanai, raised by the elephant Airavata).",
+    "Kanda Puranam says Devasena and Valli were previously Amritavalli and Sundaravalli, daughters of Vishnu, reborn to marry Murugan.",
+    "The Brahmavaivarta Purana and folk tradition identify her with Shashthi, protector of children, worshipped on the sixth day after birth."
+   ]
+  },
+  "valli": {
+   "name": "Valli",
+   "aliases": [
+    "Valliyammai",
+    "Sundaravalli (previous birth, Tamil tradition)",
+    "Kuramagal"
+   ],
+   "description": "Valli is the second consort of Murugan (Kartikeya) in Tamil tradition, a daughter of the hill-dwelling Kuravar people raised by their chief Nambi. Her courtship by Murugan, who woos her in disguise in the millet fields, is one of the best-loved stories of Tamil devotion. She represents the soul's spontaneous love for God, complementing Devasena's formal, ritual union.",
+   "story": "Valli, found as an infant in a pit dug for valli roots, was raised by Nambi, chief of the hunters, and as a girl she guarded the millet fields, scaring away parrots with her sling. Murugan, prompted by Narada's praise of her, came to woo her disguised as a hunter, then as a trader and at last as an old ascetic who begged her for water and then for her hand. She laughed him off. So Murugan called on his elder brother Ganesha, who charged out of the forest as a wild elephant. Terrified, Valli ran into the old man's arms and promised to marry him if he saved her. The elephant vanished, Murugan revealed his radiant six-faced form, and after Nambi's opposition was overcome they were married at Tiruttani.",
+   "symbols": [
+    "standing at Murugan's left side",
+    "lotus",
+    "sling or millet (as a huntress)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "With Murugan; Tiruttani and Valli Malai (Tamil Nadu)",
+   "sources": [
+    "Tirumurukarruppatai",
+    "Paripatal",
+    "Kanda Puranam (Kachiyappa Shivacharyar)",
+    "Tamil folk tradition"
+   ],
+   "variations": [
+    "Valli is a figure of Tamil literature and worship and is largely absent from Sanskrit Puranas; early Sangam poems allude to Murugan's love for a hill maiden, while the full courtship narrative is told in the medieval Kanda Puranam.",
+    "Kanda Puranam says she was previously Sundaravalli, a daughter of Vishnu, who did penance to marry Murugan and was reborn among the Kuravar.",
+    "Accounts differ on whether Ganesha's help as an elephant was requested by Murugan or offered unasked."
+   ]
+  },
+  "himavan": {
+   "name": "Himavan",
+   "aliases": [
+    "Himavat",
+    "Himavant",
+    "Himalaya",
+    "Himavanta",
+    "Parvataraja",
+    "Giriraja",
+    "Shailendra"
+   ],
+   "description": "Himavan is the personified Himalaya, king of mountains, husband of Mena and father of Parvati, Ganga and the mountain Mainaka. The snowy range is praised as early as the Rig Veda, and the epics portray it as a divine being with a court and a family. As Parvati's father he becomes Shiva's father-in-law, and the Kumarasambhava opens with a celebrated description of him.",
+   "story": "The Ramayana tells that Himavat, lord of mountains, married Mena, daughter of Mount Meru, and had two daughters of peerless beauty. The elder was Ganga; the gods begged Himavat to give her to them for the good of the worlds, and he consented, so she flowed into heaven. The younger, Uma, took up fierce austerities and was given in marriage to Rudra. In the later telling, Narada visited Himavan's court, read the young Parvati's palm and declared that her husband would be a naked, homeless yogi, which dismayed her parents until Narada revealed that the yogi was Shiva himself. When the Seven Sages came from Shiva to ask for her hand, Himavan received them with honour and gave his daughter away in a wedding attended by all the gods.",
+   "symbols": [
+    "snowy mountain",
+    "royal crown",
+    "mountain king in human form"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The Himalaya mountains (Oshadhiprastha, his capital in the Kumarasambhava)",
+   "sources": [
+    "Rig Veda 10.121.4 (the snowy mountains)",
+    "Kena Upanishad 3.12 (Uma Haimavati)",
+    "Valmiki Ramayana, Bala Kanda",
+    "Mahabharata",
+    "Kalidasa, Kumarasambhava",
+    "Shiva Purana, Rudra Samhita (Parvati Khanda)"
+   ],
+   "variations": [
+    "The Rig Veda mentions the snowy mountains but not a personified father-king; the epithet Haimavati in the Kena Upanishad implies the later genealogy.",
+    "The Ramayana gives Himavat two daughters, Ganga and Uma; the Puranas add a son, Mainaka, and sometimes others.",
+    "Mena is called a daughter of Meru in the Ramayana but a mind-born daughter of the Pitris in the Vishnu and Shiva Puranas."
+   ]
+  },
+  "mena": {
+   "name": "Mena",
+   "aliases": [
+    "Mena Devi",
+    "Menavati"
+   ],
+   "description": "Mena is the queen of Himavan and the mother of Parvati, Ganga and Mainaka. The Ramayana calls her a daughter of Mount Meru, while the Puranas make her a mind-born daughter of the Pitris (ancestors) and Svadha. She is remembered for her tender, anxious love for Parvati, and she is distinct from the apsara Menaka.",
+   "story": "When Shiva's wedding procession arrived at Himavan's city, Mena hurried to the balcony eager to see her son-in-law. First came handsome gods, and each time she asked hopefully if this was Shiva. Then came the ganas: ghosts, goblins and misshapen beings, and at last a five-faced figure smeared with ash, wearing serpents, riding a bull. When told this was Shiva, Mena fainted. Reviving, she wept and cursed Narada and swore she would sooner throw Parvati into the sea than give her to such a groom. Vishnu, Brahma and Narada could not console her. Only when Shiva, at Parvati's request, showed himself in a form of dazzling beauty, adorned like a prince, did Mena rejoice, praise him and welcome him as her daughter's husband.",
+   "symbols": [
+    "queen of the mountain realm"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Himavan's city in the Himalaya",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda",
+    "Vishnu Purana, Book 1",
+    "Kalidasa, Kumarasambhava",
+    "Shiva Purana, Rudra Samhita (Parvati Khanda)"
+   ],
+   "variations": [
+    "The Ramayana calls her the daughter of Meru; the Vishnu Purana and Shiva Purana make her a mind-born daughter of the Pitris and Svadha.",
+    "The episode of her fainting at Shiva's appearance is told in the Shiva Purana; Kalidasa's Kumarasambhava presents the wedding without it."
+   ]
+  },
+  "daksha": {
+   "name": "Daksha",
+   "aliases": [
+    "Daksha Prajapati",
+    "Prachetasa (in a later birth)"
+   ],
+   "description": "Daksha, 'the skilful', is a Prajapati (progenitor), a son of Brahma and the father of many daughters whose marriages populated the universe: Aditi, Diti, Danu, Kadru and Vinata to Kashyapa, the twenty-seven nakshatras to Soma, and Sati to Shiva. In the Rig Veda he is already an abstract creative power, paradoxically both the father and the son of Aditi. Proud and strict in ritual, he insulted Shiva at his sacrifice, was beheaded by Virabhadra and restored with a goat's head.",
+   "story": "Daksha gave twenty-seven of his daughters, the lunar mansions, in marriage to Soma, the moon god. But Soma loved only Rohini and spent all his time with her. The other sisters complained to their father, and Daksha warned Soma twice to treat his wives equally. When Soma ignored him, Daksha cursed him with a wasting disease. The moon began to shrink, and as it faded the plants, herbs and all creatures that depend on its nectar began to wither. The gods pleaded with Daksha, who could not withdraw his curse but softened it: Soma would bathe in the sea at Prabhasa and worship Shiva, and would then wax and wane by turns forever. So the moon grows and fades each month, and Shiva, who sheltered him, wears the crescent in his hair.",
+   "symbols": [
+    "goat's head (after his restoration)",
+    "sacrificial fire",
+    "Prajapati in royal attire"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kanakhala near Haridwar (site of his sacrifice)",
+   "sources": [
+    "Rig Veda 10.72",
+    "Shatapatha Brahmana",
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Shalya Parva (curse of Soma)",
+    "Mahabharata, Shanti Parva (Daksha's sacrifice)",
+    "Vishnu Purana, Book 1",
+    "Bhagavata Purana, Cantos 4 and 6",
+    "Shiva Purana, Rudra Samhita (Sati Khanda)"
+   ],
+   "variations": [
+    "Rig Veda 10.72 states that Daksha was born of Aditi and Aditi of Daksha; the Mahabharata and Puranas make him the son of Brahma (born from his right thumb) and the father of Aditi.",
+    "The Vishnu and Bhagavata Puranas describe two births: first as Brahma's son married to Prasuti (daughter of Svayambhuva Manu), then, after his death at the sacrifice, as the son of the ten Prachetas and Marisha, married to Asikni (Virini), who bore the sixty daughters.",
+    "The number of his daughters varies: 24 by Prasuti (Vishnu Purana), 16 (Bhagavata), 50 or 60 by Asikni.",
+    "Versions of the Soma curse differ in the cure: Prabhasa (Somnath) and Shiva worship in Shaiva texts, bathing in the Sarasvati in the Mahabharata."
+   ]
+  },
+  "prasuti": {
+   "name": "Prasuti",
+   "aliases": [],
+   "description": "Prasuti is a daughter of Svayambhuva Manu and Shatarupa and the wife of Daksha. Her many daughters were given to Dharma, the great sages, Agni, the Pitris and Shiva, and among them was Sati. Through these marriages the Puranas explain the spread of virtues, sacrificial fires and lineages across creation.",
+   "story": "When Brahma had created Svayambhuva Manu and Shatarupa, the first man and woman, they had two sons and three daughters: Akuti, Devahuti and Prasuti. Prasuti was given in marriage to Daksha, the skilful Prajapati, and bore him many daughters. Thirteen of them, Shraddha (faith), Lakshmi (fortune), Dhriti (steadiness), Medha (intelligence) and their sisters, were married to Dharma, so that the virtues became the wives of righteousness. Khyati went to Bhrigu, Anasuya to Atri, Svaha to Agni, the fire of the sacrifice, and Svadha to the Pitris, the ancestors, so that the offerings to gods and to forefathers might always be received. The youngest, Sati, chose Shiva. Prasuti thus became the mother of the principles on which Puranic life rests, and she lived to grieve when Sati died at Daksha's sacrifice.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The court of Daksha",
+   "sources": [
+    "Vishnu Purana, Book 1",
+    "Bhagavata Purana, Canto 4",
+    "Vayu Purana",
+    "Shiva Purana, Rudra Samhita"
+   ],
+   "variations": [
+    "The Vishnu Purana gives her 24 daughters; the Bhagavata Purana gives 16.",
+    "The Bhagavata makes Anasuya a daughter of Kardama and Devahuti rather than of Prasuti.",
+    "Aditi, Diti and the other wives of Kashyapa are daughters of Daksha's later wife Asikni (Virini), not of Prasuti."
+   ]
+  },
+  "ganga": {
+   "name": "Ganga",
+   "aliases": [
+    "Ganges",
+    "Jahnavi",
+    "Bhagirathi",
+    "Mandakini",
+    "Vishnupadi",
+    "Tripathaga",
+    "Surasari",
+    "Alaknanda",
+    "Devanadi"
+   ],
+   "description": "Ganga is the holiest river of India and her personified goddess, whose waters purify sin and carry the ashes of the dead. Named in the Rig Veda, she becomes in the epics the daughter of Himavan, brought down from heaven by Bhagiratha, caught in Shiva's matted locks, and later the wife of King Shantanu and mother of Bhishma. She rides the makara and carries a water pot.",
+   "story": "King Shantanu met a beautiful woman on the banks of the Ganga and asked her to be his wife. She agreed on one condition: he must never question or oppose anything she did. They married, and when their first son was born she carried him to the river and drowned him. Six more sons followed, and each met the same fate while Shantanu kept silent in anguish. When she took the eighth to the water, he could bear it no longer and cried out. She stopped and revealed herself as the goddess Ganga. The children, she explained, were the eight Vasus, cursed by Vasishtha to be born as men; she had freed seven at once. The eighth, Devavrata, must live a long human life. She took him away to raise him, later returning him as the great Bhishma.",
+   "symbols": [
+    "water pot (kumbha)",
+    "lotus",
+    "white garments",
+    "flowing river",
+    "crocodile-like makara"
+   ],
+   "weapons": [],
+   "vahana": "Makara",
+   "abode": "Heaven (as Mandakini), the earth and the underworld; Shiva's matted locks",
+   "sources": [
+    "Rig Veda 10.75.5",
+    "Valmiki Ramayana, Bala Kanda",
+    "Mahabharata, Adi Parva",
+    "Bhagavata Purana, Canto 5",
+    "Brahmavaivarta Purana",
+    "Skanda Purana (Kashi Khanda)"
+   ],
+   "variations": [
+    "The Rig Veda names the Ganga only in passing (Nadistuti hymn); the Sarasvati and Sindhu are far more prominent there.",
+    "Origin: the Ramayana makes her Himavan's elder daughter; Vaishnava texts say she flows from Vishnu's foot when Vamana's stride pierced the cosmic shell (Vishnupadi), and later tellings add that Brahma caught this water in his kamandalu.",
+    "Some traditions (and much folk and devotional art) regard Ganga as a second consort of Shiva; the Brahmavaivarta Purana makes her a wife of Vishnu.",
+    "She is also named as a mother of Kartikeya, having received Shiva's seed from Agni."
+   ]
+  },
+  "alakshmi": {
+   "name": "Alakshmi (Jyeshtha)",
+   "aliases": [
+    "Jyeshtha",
+    "Jyeshtha Devi",
+    "Kalakarni",
+    "Mudevi (Tamil)",
+    "Daridra"
+   ],
+   "description": "Alakshmi, 'not-Lakshmi', is the goddess of misfortune, poverty and strife, and Jyeshtha, 'the elder', is her Puranic form as Lakshmi's elder sister who rose from the churning of the ocean before her. The Shri Sukta already prays for Alakshmi to be driven away, while the Linga and Padma Puranas give her a husband and a place in the world. Jyeshtha was worshipped openly in South India between roughly the 7th and 10th centuries before her cult declined.",
+   "story": "When the ocean of milk was churned, the Puranas say, a dark, gloomy goddess rose before radiant Lakshmi appeared; she was Jyeshtha, the elder, and because she came first she had to be married first. The Linga Purana tells that she was given to the sage Dussaha. Wherever the sage took her, she was distressed by the sound of Vedic chanting, the smoke of sacrifices and the worship of Vishnu and Shiva, and she could not bear to stay. On the sage Markandeya's advice Dussaha left her, and Jyeshtha wept alone until Vishnu consoled her and granted her dwelling in homes of quarrelling, impurity and neglect, sustained by offerings. So in parts of eastern India, on the night of Lakshmi puja, households still symbolically drive Alakshmi out before inviting Lakshmi in.",
+   "symbols": [
+    "crow banner",
+    "broom",
+    "winnowing basket",
+    "donkey",
+    "dark or aged form",
+    "heavy body"
+   ],
+   "weapons": [],
+   "vahana": "Donkey",
+   "abode": "Homes of strife, gambling and impurity",
+   "sources": [
+    "Shri Sukta (Rig Veda Khilani)",
+    "Baudhayana Grihyasutra (Jyeshtha worship)",
+    "Linga Purana",
+    "Padma Purana",
+    "Tamil devotional literature (as Mudevi)"
+   ],
+   "variations": [
+    "The Shri Sukta names Alakshmi only as a force to be expelled; the personified Jyeshtha with a genealogy appears in the Puranas.",
+    "Her husband is the sage Dussaha in the Linga Purana and the sage Uddalaka in the Padma Purana.",
+    "Some scholars compare her with the Mahavidya Dhumavati, the widow goddess who shares her crow, winnowing basket and inauspicious nature, though the texts do not simply identify them."
+   ]
+  },
+  "nataraja": {
+   "name": "Nataraja",
+   "aliases": [
+    "Natesha",
+    "Adavallan",
+    "Kuttan",
+    "Sabhapati",
+    "Ananda Tandava murti",
+    "Lord of Dance"
+   ],
+   "description": "Nataraja, 'king of dancers', is Shiva performing the cosmic dance (Ananda Tandava) that creates, sustains and dissolves the universe. The form is worshipped above all at the Chidambaram temple in Tamil Nadu, and the Chola bronzes of the ring of fire are among the most celebrated images in world art. Each element of the pose expresses the five divine acts: creation, preservation, destruction, concealment and grace.",
+   "story": "In the pine forest of Daruka, proud sages performed rites believing their own rituals ruled the world. Shiva came among them as a beautiful wandering mendicant, with Vishnu disguised as the enchantress Mohini, and the sages' wives were entranced. Furious, the sages conjured a tiger from their sacrificial fire; Shiva flayed it and wrapped its skin around his waist. They sent a serpent; he wore it as an ornament. They sent Apasmara, the dwarf of ignorance; Shiva pinned him down with his right foot and began to dance. The sages, humbled, understood whom they had opposed. Later, the Chidambaram legend says, the sages Patanjali and Vyaghrapada did penance to behold that dance, and Shiva performed the Ananda Tandava for them in the golden hall, where he dances still.",
+   "symbols": [
+    "ring of fire (prabhamandala)",
+    "damaru (drum) in upper right hand",
+    "fire in upper left hand",
+    "abhaya mudra",
+    "raised left leg",
+    "dwarf Apasmara under right foot",
+    "flying matted locks with Ganga",
+    "crescent moon",
+    "serpent"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Chidambaram (the Chit Sabha, hall of consciousness)",
+   "sources": [
+    "Natya Shastra, Chapter 4 (Shiva's tandava)",
+    "Tevaram (Appar, Sambandar)",
+    "Tirumantiram (Tirumular)",
+    "Koyil Puranam (Umapati Shivacharya)",
+    "Chidambara Mahatmya"
+   ],
+   "variations": [
+    "The Natya Shastra already describes Shiva as the source of the vigorous tandava dance, but the iconic Chidambaram Nataraja with the ring of fire is a South Indian development that flourished under the Cholas (10th-12th centuries).",
+    "Texts list many dances of Shiva (the Ananda, Rudra, Sandhya, Urdhva and other tandavas), and Tamil tradition speaks of five sacred dance halls (Pancha Sabhai).",
+    "A Tamil legend describes a dance contest with Kali at Tiruvalangadu, which Shiva won by raising his leg straight up (Urdhva Tandava), a pose modesty forbade Kali to copy."
+   ]
+  },
+  "ardhanarishvara": {
+   "name": "Ardhanarishvara",
+   "aliases": [
+    "Ardhanari",
+    "Ardhanarinateshvara",
+    "Umardhanga",
+    "Naranari",
+    "Ardhayuvatishvara"
+   ],
+   "description": "Ardhanarishvara, 'the lord who is half woman', is the composite form of Shiva and Parvati, male on the right side and female on the left. It expresses the inseparability of Shiva and Shakti, of spirit and energy, and the unity of male and female principles in creation. Images of the form appear from the Kushana period, and the Vishnu Purana already describes Rudra appearing as half man, half woman.",
+   "story": "The sage Bhringi was so single-minded a devotee of Shiva that he would worship no one else. When he came to Kailasa, he wished to circumambulate only Shiva, not Parvati who sat beside him. Parvati drew close to her lord to prevent it, but Bhringi took the form of a beetle and bored a path between them. To teach him that Shiva and Shakti cannot be divided, Shiva drew Parvati into himself, becoming half woman. Still Bhringi tried to circle only the male half, boring through the middle of the united body. In some tellings Parvati then drew away from Bhringi the part of the body that comes from the mother, blood and flesh, leaving him a skeleton unable to stand, until Shiva, at his repentance, granted him a third leg to support himself.",
+   "symbols": [
+    "right half male: matted locks, crescent moon, serpent, trident",
+    "left half female: jewelled hair, earring, breast, mirror or lotus",
+    "Nandi and lion together"
+   ],
+   "weapons": [
+    "trishula (on the male side)"
+   ],
+   "vahana": "Nandi (and the lion)",
+   "abode": "Kailasa",
+   "sources": [
+    "Vishnu Purana, Book 1",
+    "Linga Purana",
+    "Shiva Purana, Shatarudra Samhita",
+    "Matsya Purana",
+    "Kalidasa, Kumarasambhava (invocation)",
+    "Tamil Shaiva hymns (Tevaram)"
+   ],
+   "variations": [
+    "In the Vishnu Purana, Rudra is born from Brahma's anger as half man, half woman and is told to divide himself, producing the Rudras and the female powers.",
+    "The Shiva Purana describes Shiva appearing as Ardhanarishvara to Brahma so that creation could proceed through male and female; the Bhringi story is found in South Indian (Tamil) tellings and later Puranas.",
+    "Shakta interpretations emphasize the goddess half as the active power without which Shiva is inert."
+   ]
+  },
+  "dakshinamurti": {
+   "name": "Dakshinamurti",
+   "aliases": [
+    "Dakshinamurthy",
+    "Jnana Dakshinamurti",
+    "Adi Guru",
+    "Medha Dakshinamurti"
+   ],
+   "description": "Dakshinamurti, 'the one facing south', is Shiva as the supreme teacher (guru) of yoga, music, knowledge and liberating wisdom. He is shown as a youthful ascetic seated beneath a banyan tree, teaching aged sages through silence. His image faces south on the outer wall of most South Indian Shiva temples.",
+   "story": "The four mind-born sons of Brahma, Sanaka, Sanandana, Sanatana and Sanatkumara, had mastered every scripture yet their minds were not at rest. Seeking the final truth, they came to Mount Kailasa and found Shiva seated beneath a great banyan tree, not as an aged master but as a radiant youth, facing south. They sat at his feet, old men before a boy, and waited for his teaching. Shiva said nothing. He simply sat in perfect stillness, the thumb and forefinger of his right hand joined in the chin mudra, the sign of the individual soul united with the Absolute. As they gazed at him, their doubts dissolved one by one, and in that silence they realized the Self. So the Dakshinamurti hymn praises the wonder of a young guru whose silence was the teaching.",
+   "symbols": [
+    "banyan tree",
+    "chin mudra (sign of knowledge)",
+    "book or palm-leaf manuscript",
+    "rosary",
+    "fire and serpent",
+    "right foot on the dwarf Apasmara",
+    "four aged sages at his feet",
+    "deer"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kailasa, beneath the banyan tree",
+   "sources": [
+    "Shvetashvatara Upanishad 4.21 ('your southern face')",
+    "Dakshinamurti Stotra (attributed to Adi Shankaracharya)",
+    "Dakshinamurti Upanishad",
+    "Shaiva Agamas (iconography)"
+   ],
+   "variations": [
+    "The Shvetashvatara Upanishad invokes the 'southern face' (dakshinam mukham) of Rudra for protection, often cited as the root of the name.",
+    "Iconographic texts distinguish several forms: Jnana (knowledge), Yoga, Vina (music, holding a lute) and Vyakhyana (exposition) Dakshinamurti.",
+    "The disciples are usually the four Kumaras; some traditions list the seven sages or other rishis instead."
+   ]
+  },
+  "pashupati": {
+   "name": "Pashupati",
+   "aliases": [
+    "Pashupatinath",
+    "Pasupati",
+    "Lord of Creatures",
+    "Lord of Animals"
+   ],
+   "description": "Pashupati, 'lord of creatures (pashu)', is an ancient epithet of Rudra-Shiva as protector and master of animals and, in Shaiva theology, of bound souls. The name appears in the Atharva Veda and the Brahmanas, gave its name to the early Pashupata ascetic order, and is venerated above all at the Pashupatinath temple in Kathmandu. In Shaiva Siddhanta, pati (the lord) frees pashu (the soul) from pasha (the bonds).",
+   "story": "The Nepalese tradition tells that Shiva once grew weary of Kailasa and, taking the form of a beautiful deer, went to roam the forest of Mrigasthali on the banks of the Bagmati with Parvati. The gods searched the three worlds for him, and when they finally found him they tried to bring him back. Shiva refused, and in the struggle Vishnu (or the gods) seized him by the horn, which broke into pieces. Shiva then declared that since he had dwelt there as a beast, he would be known as Pashupati, lord of animals, and that whoever saw him there would never be reborn as an animal. The broken horn was worshipped as a linga, which in time was buried, rediscovered by a cow pouring her milk upon it, and enshrined in the temple.",
+   "symbols": [
+    "linga (the five-faced Pashupatinath linga)",
+    "deer",
+    "bull",
+    "trident"
+   ],
+   "weapons": [
+    "Pashupatastra (the weapon of Pashupati)"
+   ],
+   "vahana": "Nandi (bull)",
+   "abode": "Pashupatinath, Kathmandu (Nepal)",
+   "sources": [
+    "Atharva Veda",
+    "Shatapatha Brahmana",
+    "Mahabharata",
+    "Nepala Mahatmya (attributed to the Skanda Purana)",
+    "Pashupata Sutras"
+   ],
+   "variations": [
+    "In the Brahmanas, Pashupati is one of the eight names of Rudra-Agni; the Mahabharata links the name to the Tripura legend, in which the gods agreed to be Shiva's pashus (beasts) to receive his help.",
+    "The seal from Mohenjo-daro showing a figure surrounded by animals was dubbed 'Proto-Shiva Pashupati' by John Marshall; this identification is widely disputed by scholars.",
+    "The deer-horn legend is Nepalese; a similar tradition connects Shiva's escape in bull form from the Pandavas with Kedarnath and Pashupatinath."
+   ]
+  },
+  "harihara": {
+   "name": "Harihara",
+   "aliases": [
+    "Shankaranarayana",
+    "Hari-Hara",
+    "Haryardha"
+   ],
+   "description": "Harihara is the composite form of Vishnu (Hari) and Shiva (Hara), shown with Shiva on the right half and Vishnu on the left. It expresses the essential unity of the two great gods and was widely carved from the 6th century onward, notably at Badami. The form bridges Vaishnava and Shaiva devotion.",
+   "story": "A local legend of Harihar in Karnataka tells of the asura Guha, who won from Brahma the boon that he could be killed neither by Hari nor by Hara. Secure in that promise, he tormented sages and gods alike. The gods turned to Vishnu and Shiva, who saw at once the loophole in the boon: the asura could not be slain by Vishnu or by Shiva, but nothing had been said of both together. So the two gods merged into a single body, Shiva on the right with matted locks, trident and ash, Vishnu on the left with crown, discus and yellow silk. As Harihara they fought Guha and destroyed him, and the place was sanctified by their combined presence. The deeper teaching, repeated by Puranic sages, is that whoever hates Shiva cannot love Vishnu, and whoever hates Vishnu cannot know Shiva.",
+   "symbols": [
+    "right half Shiva: matted locks, trident, ash, serpent, tiger skin",
+    "left half Vishnu: crown, discus, conch, yellow garment"
+   ],
+   "weapons": [
+    "trishula",
+    "Sudarshana Chakra"
+   ],
+   "vahana": "Nandi and Garuda",
+   "abode": "Harihar (Karnataka); Shankaranarayana temples of South India",
+   "sources": [
+    "Mahabharata, Shanti Parva (Narayana declares his unity with Rudra)",
+    "Harivamsha",
+    "Local sthala-purana of Harihar"
+   ],
+   "variations": [
+    "The theological identity of Vishnu and Shiva is expressed in the Mahabharata and Harivamsha; the combined iconic image becomes common from the Gupta and early Chalukya periods.",
+    "The Guhasura story is a regional temple legend; other traditions simply present Harihara as a revelation of the unity of the two gods to sages or devotees.",
+    "Some sectarian texts reject the equality implied by Harihara, placing one god above the other."
+   ]
+  },
+  "jagannatha": {
+   "name": "Jagannatha",
+   "aliases": [
+    "Jagannath",
+    "Purushottama",
+    "Kalia (Odia)",
+    "Nila Madhava",
+    "Darubrahma",
+    "Patitapavana"
+   ],
+   "description": "Jagannatha, 'lord of the universe', is a form of Vishnu identified with Krishna and worshipped at Puri in Odisha in a unique wooden image with large round eyes and stump arms. He is enshrined with his brother Balabhadra and sister Subhadra, and his annual Ratha Yatra chariot festival draws millions. The deity likely has roots in local tribal worship absorbed into Vaishnavism.",
+   "story": "King Indradyumna of Malava longed to see the deity Nila Madhava, secretly worshipped in the forest by the Sabara chief Vishvavasu. He sent the priest Vidyapati, who married the chief's daughter and was at last led blindfold to the shrine. But when the king arrived, the image had vanished. In a dream the Lord told Indradyumna that he would appear as a log (daru) floating in the sea. The log came ashore, but no craftsman could cut it, until an aged carpenter, said to be Vishvakarma himself, offered to carve the images behind closed doors in twenty-one days, if no one disturbed him. After some days the silence alarmed Queen Gundicha, and the doors were opened. The carpenter had vanished, leaving the three images without hands or feet, and so they are worshipped still.",
+   "symbols": [
+    "large round eyes",
+    "black face",
+    "stump arms without hands",
+    "wooden image (daru)",
+    "Nilachakra (blue wheel) on the temple spire",
+    "chariot (ratha)"
+   ],
+   "weapons": [
+    "Sudarshana (worshipped as a separate pillar-like deity beside him)"
+   ],
+   "vahana": "Garuda",
+   "abode": "Puri (Shrikshetra, Purushottama Kshetra), Odisha",
+   "sources": [
+    "Skanda Purana, Vaishnava Khanda (Purushottama Kshetra Mahatmya)",
+    "Brahma Purana (Purushottama Mahatmya chapters)",
+    "Madala Panji (Puri temple chronicle)",
+    "Sarala Mahabharata (Odia)"
+   ],
+   "variations": [
+    "Many scholars see tribal (Sabara) origins for the wooden deity, later absorbed into Vaishnavism; Buddhist and Jain origins have also been proposed.",
+    "Some traditions identify the image with the remains of Krishna's body or heart (brahma padartha), transferred at each Nabakalebara renewal of the images.",
+    "He is identified with Krishna, with Vishnu as Purushottama, and, in some Odia traditions, with Buddha as an avatar; Shaiva and Shakta elements (Bhairava, Vimala) are also present at Puri.",
+    "The Puranic Mahatmyas describing Puri are late additions to the Skanda and Brahma Puranas."
+   ]
+  },
+  "venkateshvara": {
+   "name": "Venkateshvara",
+   "aliases": [
+    "Venkateswara",
+    "Srinivasa",
+    "Balaji",
+    "Govinda",
+    "Venkatachalapati",
+    "Tirupati Timmappa",
+    "Elumalaiyan",
+    "Venkataramana"
+   ],
+   "description": "Venkateshvara, 'lord of the Venkata hill', is a form of Vishnu worshipped at Tirumala near Tirupati in Andhra Pradesh, one of the most visited shrines in the world. Praised by the Tamil Alvar poets, he is believed to have come to earth in the Kali Yuga to save humanity. His consorts are Lakshmi, who dwells on his chest, and Padmavati.",
+   "story": "The sage Bhrigu, sent to test which god was greatest, found Vishnu reclining with Lakshmi and not noticing him, and kicked him in the chest. Vishnu gently massaged the sage's foot, but Lakshmi, whose home was that chest, left Vaikuntha in anger for the earth. Searching for her, Vishnu came to the Venkata hill and lived hidden in an anthill, fed by a cow, and was cared for by the devout Vakula Devi. As Srinivasa he met and fell in love with Padmavati, daughter of King Akasha Raja, herself a form of Lakshmi. To pay for a wedding worthy of a king's daughter he borrowed a vast sum from Kubera. Devotees say the Lord still stands on the hill repaying the interest, and the offerings of pilgrims help him settle his debt.",
+   "symbols": [
+    "standing form with four arms",
+    "conch and discus in upper hands",
+    "varada and katyavalambita mudras",
+    "Lakshmi on the chest",
+    "broad white namam on forehead",
+    "covered eyes"
+   ],
+   "weapons": [
+    "Sudarshana Chakra",
+    "Nandaka sword (in some depictions)"
+   ],
+   "vahana": "Garuda",
+   "abode": "Tirumala (the seven hills, Venkatadri), near Tirupati",
+   "sources": [
+    "Nalayira Divya Prabandham (Alvar hymns on Tiruvenkatam)",
+    "Silappatikaram (description of Vishnu at Venkatam)",
+    "Skanda Purana, Vaishnava Khanda (Venkatachala Mahatmya)",
+    "Bhavishyottara Purana",
+    "Annamacharya's kirtanas"
+   ],
+   "variations": [
+    "The Alvar hymns (c. 7th-9th centuries) and possibly the Silappatikaram praise Vishnu at Venkatam, but the narratives of Bhrigu, Padmavati and Kubera's loan come from the later Venkatachala Mahatmya and related texts.",
+    "Some Shaiva and Shakta claims historically identified the deity with Shiva, Skanda or the Devi; Ramanuja is traditionally credited with confirming his Vaishnava identity.",
+    "In the Mahatmya, Vakula Devi is Yashoda reborn so that she could witness Krishna's marriage, which she had missed in her earlier life."
+   ]
+  }
+ },
+ "edges": {
+  "brahma|vishnu|created-by": {
+   "label": "Brahma was born on the lotus that grew from Vishnu's navel",
+   "variation": "Shaiva texts (Shiva Purana, Linga Purana) have Brahma and Vishnu both emanate from Shiva; Shakta texts (Devi Bhagavata) from the Great Goddess; Manusmriti has Brahma born in the golden cosmic egg."
+  },
+  "brahma|brahman|form-of": {
+   "label": "Brahma, Vishnu and Shiva are described as the foremost forms of the one Brahman (Maitri Upanishad; later Trimurti theology)",
+   "variation": "Each sect identifies its own supreme god with Brahman and treats Brahma as a created, subordinate deity."
+  },
+  "brahma|prajapati|form-of": {
+   "label": "The Puranic Brahma inherits the name and creative role of the Vedic Prajapati"
+  },
+  "brahma|hiranyagarbha|form-of": {
+   "label": "Brahma is called Hiranyagarbha, born within the golden cosmic egg",
+   "variation": "Manusmriti 1 and several Puranas; in the Rig Veda Hiranyagarbha is a separate creator figure."
+  },
+  "brahma|saraswati|spouse": {
+   "label": "Saraswati, goddess of speech and learning, is Brahma's consort",
+   "variation": "The Pushkar tradition (Padma Purana) also names Savitri and Gayatri as his consorts."
+  },
+  "saraswati|brahma|created-by": {
+   "label": "The Matsya Purana tells that Saraswati (Shatarupa, Savitri) emanated from Brahma's own body before becoming his consort",
+   "variation": "Brahmavaivarta Purana has her emerge from Krishna's mouth; Devi Bhagavata from the primordial Prakriti; many texts simply call her Brahma's wife."
+  },
+  "brahma|daksha|parent": {
+   "label": "Daksha was born from Brahma's right thumb and made a Prajapati",
+   "variation": "Rig Veda 10.72 makes Daksha the son of Aditi; Vishnu and Bhagavata Puranas give him a later birth as son of the Prachetas and Marisha."
+  },
+  "brahma|marichi|parent": {
+   "label": "Marichi is one of Brahma's mind-born sons (manasaputras)"
+  },
+  "brahma|atri|parent": {
+   "label": "Atri is one of Brahma's mind-born sons"
+  },
+  "brahma|angiras|parent": {
+   "label": "Angiras is one of Brahma's mind-born sons"
+  },
+  "brahma|pulastya|parent": {
+   "label": "Pulastya, grandfather of Ravana, is a mind-born son of Brahma"
+  },
+  "brahma|pulaha|parent": {
+   "label": "Pulaha is one of Brahma's mind-born sons"
+  },
+  "brahma|kratu|parent": {
+   "label": "Kratu is one of Brahma's mind-born sons"
+  },
+  "brahma|vashistha|parent": {
+   "label": "Vashistha is a mind-born son of Brahma",
+   "variation": "The Rig Veda (7.33) makes Vashistha the son of Mitra-Varuna and Urvashi."
+  },
+  "brahma|bhrigu|parent": {
+   "label": "Bhrigu is a mind-born son of Brahma",
+   "variation": "Some Brahmana and epic accounts make Bhrigu a son of Varuna (Varuni Bhrigu)."
+  },
+  "brahma|narada|parent": {
+   "label": "Narada was born from Brahma (from his lap or mind) and learnt from him",
+   "variation": "The Bhagavata Purana says Narada in an earlier life was the son of a maidservant."
+  },
+  "brahma|kumaras|parent": {
+   "label": "The four Kumaras were Brahma's first mind-born sons, who refused to procreate"
+  },
+  "brahma|svayambhuva-manu|parent": {
+   "label": "Svayambhuva Manu, the first Manu, is the son of the self-born Brahma",
+   "variation": "Several Puranas say Brahma divided his own body into Manu and Shatarupa."
+  },
+  "shatarupa|brahma|created-by": {
+   "label": "Shatarupa, the first woman, was brought forth from Brahma's body",
+   "variation": "The Matsya Purana identifies Shatarupa with Saraswati/Savitri as Brahma's consort; others make her Manu's wife only."
+  },
+  "rudra|brahma|created-by": {
+   "label": "The Vishnu Purana describes Rudra born from Brahma's anger (or forehead)",
+   "variation": "Shaiva texts reverse the relationship, making Brahma an emanation of Shiva."
+  },
+  "kamadeva|brahma|created-by": {
+   "label": "Kamadeva sprang from Brahma's mind at the beginning of creation (Shiva Purana)",
+   "variation": "Other accounts make Kama the son of Dharma, of Lakshmi and Vishnu, or self-born."
+  },
+  "chitragupta|brahma|created-by": {
+   "label": "Chitragupta emerged from Brahma's body to record the deeds of all beings",
+   "variation": "Late Puranic tradition (Padma, Garuda and Bhavishya Puranas)."
+  },
+  "jambavan|brahma|created-by": {
+   "label": "Jambavan, king of bears, was born from Brahma's yawn (Ramayana, Bala Kanda)"
+  },
+  "ahalya|brahma|created-by": {
+   "label": "Brahma created Ahalya as the most flawless of women (Ramayana, Uttara Kanda)"
+  },
+  "hamsa-vahana|brahma|vahana": {
+   "label": "The swan (hamsa) is Brahma's mount"
+  },
+  "brahma|hiranyakashipu|boon": {
+   "label": "Brahma granted Hiranyakashipu near-immortality: death neither by man nor beast, by day nor night, indoors nor outdoors"
+  },
+  "brahma|ravana|boon": {
+   "label": "Brahma made Ravana invulnerable to gods, demons and celestial beings; he disdained to ask protection from humans"
+  },
+  "brahma|kumbhakarna|boon": {
+   "label": "Kumbhakarna, meaning to ask for Indra's throne, asked Brahma for endless sleep because Saraswati twisted his tongue at the gods' request"
+  },
+  "brahma|vibhishana|boon": {
+   "label": "Brahma granted Vibhishana unwavering adherence to dharma and later immortality"
+  },
+  "brahma|indrajit|boon": {
+   "label": "After Meghanada captured Indra, Brahma named him Indrajit and granted him a boon in exchange for Indra's release"
+  },
+  "brahma|tarakasura|boon": {
+   "label": "Brahma granted Taraka that only a son of Shiva could kill him"
+  },
+  "brahma|mahishasura|boon": {
+   "label": "Brahma granted Mahisha that no man or god could kill him, leaving him vulnerable to a woman",
+   "variation": "Details vary between the Devi Mahatmya, Devi Bhagavata and other Puranas."
+  },
+  "brahma|tripurasura|boon": {
+   "label": "Brahma granted the three asura brothers three flying cities destructible only by a single arrow when they aligned"
+  },
+  "brahma|sunda|boon": {
+   "label": "Brahma made Sunda and his brother immune to all but each other (Mahabharata, Adi Parva)"
+  },
+  "brahma|upasunda|boon": {
+   "label": "Brahma made Upasunda and his brother immune to all but each other"
+  },
+  "brahma|durgamasura|boon": {
+   "label": "Brahma gave Durgama the Vedas, which the asura took from the world (Devi Bhagavata Purana)"
+  },
+  "brahma|hanuman|boon": {
+   "label": "Brahma blessed the infant Hanuman with invulnerability after Indra struck him down"
+  },
+  "brahma|vishvamitra|boon": {
+   "label": "Brahma at last acknowledged Vishvamitra as a brahmarshi after his long austerities"
+  },
+  "brahma|valmiki|guru": {
+   "label": "Brahma appeared to Valmiki and commanded him to compose the Ramayana in shloka verse"
+  },
+  "madhu|brahma|enemy": {
+   "label": "The demon Madhu attacked Brahma on the lotus at the beginning of creation"
+  },
+  "kaitabha|brahma|enemy": {
+   "label": "The demon Kaitabha attacked Brahma on the lotus at the beginning of creation"
+  },
+  "shiva|brahma|curse": {
+   "label": "Shiva cursed Brahma to receive little worship for falsely claiming he had seen the top of the pillar of fire",
+   "variation": "Shiva Purana / Linga Purana; the Ketaki flower, his false witness, was also cursed."
+  },
+  "saraswati|brahma|curse": {
+   "label": "Savitri, offended when Brahma performed the Pushkar sacrifice with Gayatri, cursed him to be worshipped almost only at Pushkar",
+   "variation": "Padma Purana; the goddess in the story is Savitri, whom many traditions identify with Saraswati."
+  },
+  "bhairava|brahma|enemy": {
+   "label": "Bhairava cut off Brahma's fifth head for its arrogance (Shiva Purana, Kurma Purana)"
+  },
+  "brahma|ganga|curse": {
+   "label": "Brahma cursed King Mahabhisha, who gazed at Ganga in his court, to be reborn on earth, decreeing that Ganga would go there too and wrong him; he became Shantanu (Mahabharata, Adi Parva)",
+   "variation": "The curse falls chiefly on Mahabhisha; Ganga's descent is tied to it and to the Vasus' request."
+  },
+  "vishnu|brahman|form-of": {
+   "label": "Vishnu is one of the three foremost forms of Brahman; Vaishnavas identify Narayana with Brahman itself",
+   "variation": "Shaiva and Shakta traditions reserve that identity for Shiva or the Devi."
+  },
+  "vishnu|lakshmi|spouse": {
+   "label": "Lakshmi, goddess of fortune, is Vishnu's eternal consort, dwelling on his chest"
+  },
+  "vishnu|prithvi|spouse": {
+   "label": "Bhudevi, the Earth goddess, is Vishnu's second consort in Vaishnava iconography",
+   "variation": "The Vedic Prithvi is paired with Dyaus; her role as Vishnu's consort is Puranic and especially South Indian (Sridevi and Bhudevi)."
+  },
+  "garuda|vishnu|vahana": {
+   "label": "Garuda, king of birds, is the mount of Vishnu"
+  },
+  "vishnu|garuda|boon": {
+   "label": "Pleased by Garuda's restraint in not drinking the amrita, Vishnu made him immortal and placed him on his banner"
+  },
+  "shesha|vishnu|devotee": {
+   "label": "The serpent Shesha forms Vishnu's couch on the cosmic ocean and serves him eternally"
+  },
+  "vishnu|indra|ally": {
+   "label": "In the Rig Veda, Vishnu is Indra's companion who helps him slay Vritra"
+  },
+  "vishnu|adityas|member-of": {
+   "label": "The epics and Puranas count Vishnu as the youngest of the twelve Adityas",
+   "variation": "The Rig Veda does not list Vishnu among the Adityas; the link is through his Vamana/Upendra form."
+  },
+  "vishnu|madhu|slayer": {
+   "label": "Vishnu awoke from yogic sleep and slew Madhu, earning the name Madhusudana",
+   "variation": "In the Devi Mahatmya the Goddess as Yoganidra enables the slaying."
+  },
+  "vishnu|kaitabha|slayer": {
+   "label": "Vishnu slew Kaitabha on his thighs, where there was no water"
+  },
+  "vishnu|kalanemi|slayer": {
+   "label": "Vishnu slew the asura Kalanemi in the war of gods and asuras (Harivamsha)",
+   "variation": "Kalanemi is reborn as Kamsa in some Puranas; the Kalanemi killed by Hanuman in later Ramayanas is a different rakshasa."
+  },
+  "vishnu|rahu|enemy": {
+   "label": "Vishnu severed the head of the asura Svarbhanu (Rahu) with his discus when he stole the amrita"
+  },
+  "vishnu|jalandhara|enemy": {
+   "label": "Vishnu broke the chastity of Jalandhara's wife Vrinda by taking her husband's form, making Jalandhara vulnerable"
+  },
+  "vrinda|vishnu|curse": {
+   "label": "Vrinda cursed Vishnu to become a stone (the Shaligram) and to suffer separation from his wife",
+   "variation": "Shiva Purana and Padma Purana; Vrinda is identified with the Tulasi plant."
+  },
+  "bhrigu|vishnu|curse": {
+   "label": "Bhrigu cursed Vishnu to be born repeatedly among humans after Vishnu killed Bhrigu's wife (Matsya Purana)",
+   "variation": "The Bhagavata instead tells of Bhrigu kicking Vishnu's chest to test his patience."
+  },
+  "narada|vishnu|curse": {
+   "label": "Narada, humiliated at a svayamvara, cursed Vishnu to suffer separation from his wife and need the help of monkeys",
+   "variation": "Shiva Purana, Rudra Samhita; popular through Tulsidas's Ramcharitmanas."
+  },
+  "shiva|vishnu|boon": {
+   "label": "Pleased when Vishnu offered his own eye to complete a thousand-lotus worship, Shiva gave him the Sudarshana discus",
+   "variation": "Shiva Purana; the Vishnu Purana says Vishvakarma forged the discus from the sun's trimmed radiance."
+  },
+  "vishnu|shiva|ally": {
+   "label": "The preserver and the destroyer are complementary gods, each described as worshipping the other",
+   "variation": "Sectarian myths (the pillar of fire, Sharabha and Narasimha) portray rivalry; Harihara embodies their unity."
+  },
+  "vishnu|parvati|sibling": {
+   "label": "Tamil tradition makes Vishnu the brother of Parvati (Minakshi), who gives her away to Shiva",
+   "variation": "Tamil temple tradition (Madurai); not found in the Sanskrit Puranas."
+  },
+  "vishnu|valli|parent": {
+   "label": "Kanda Puranam says Valli was previously Sundaravalli, a daughter of Vishnu",
+   "variation": "Tamil tradition only."
+  },
+  "vishnu|devasena|parent": {
+   "label": "Kanda Puranam says Devasena was previously Amritavalli, a daughter of Vishnu",
+   "variation": "Tamil tradition only; the Mahabharata calls her a daughter of Prajapati."
+  },
+  "gajendra|vishnu|devotee": {
+   "label": "The elephant king Gajendra, seized by a crocodile, called on Vishnu, who rescued him (Bhagavata, Canto 8)"
+  },
+  "dhruva|vishnu|devotee": {
+   "label": "The child Dhruva performed austerities to Vishnu"
+  },
+  "vishnu|dhruva|boon": {
+   "label": "Vishnu granted Dhruva the eternal Pole Star position"
+  },
+  "prahlada|vishnu|devotee": {
+   "label": "Prahlada remained devoted to Vishnu despite his father's persecution"
+  },
+  "ambarisha|vishnu|devotee": {
+   "label": "King Ambarisha was protected by Vishnu's discus from the wrath of Durvasa"
+  },
+  "jaya|vishnu|devotee": {
+   "label": "Jaya is a gatekeeper of Vishnu's abode Vaikuntha"
+  },
+  "vijaya|vishnu|devotee": {
+   "label": "Vijaya is a gatekeeper of Vishnu's abode Vaikuntha"
+  },
+  "kumaras|vishnu|devotee": {
+   "label": "The four Kumaras came to Vaikuntha to see Vishnu, and cursed his gatekeepers who barred them"
+  },
+  "markandeya|vishnu|devotee": {
+   "label": "Markandeya saw Vishnu as an infant on a banyan leaf floating on the waters of dissolution"
+  },
+  "shiva|brahman|form-of": {
+   "label": "Shiva is one of the three foremost forms of Brahman; Shaivas identify Shiva with Brahman itself",
+   "variation": "Vaishnava and Shakta traditions reserve that identity for Vishnu or the Devi."
+  },
+  "rudra|shiva|form-of": {
+   "label": "The Vedic Rudra is the earlier form of Shiva; the Shvetashvatara Upanishad unites them"
+  },
+  "rudras-group|shiva|form-of": {
+   "label": "The eleven Rudras are regarded in the Puranas as forms or emanations of Shiva",
+   "variation": "In Vedic texts the Rudras are storm gods associated with Rudra, not forms of a supreme Shiva."
+  },
+  "shiva|parvati|spouse": {
+   "label": "Parvati won Shiva as her husband through austerity"
+  },
+  "shiva|sati|spouse": {
+   "label": "Sati, daughter of Daksha, was Shiva's first wife"
+  },
+  "shiva|ganga|spouse": {
+   "label": "Shiva bears Ganga in his matted locks; some traditions regard her as a co-consort",
+   "variation": "Mainly devotional and folk traditions; the Ramayana makes her Parvati's sister, and most texts only describe Shiva catching her descent."
+  },
+  "shiva|ganesha|parent": {
+   "label": "Ganesha is the son of Shiva, who beheaded him and restored him with an elephant's head",
+   "variation": "In the Shiva Purana Parvati creates Ganesha alone; the Brahmavaivarta makes him a gift of Krishna born to Shiva and Parvati."
+  },
+  "shiva|kartikeya|parent": {
+   "label": "Kartikeya was born of Shiva's fiery seed to destroy Taraka"
+  },
+  "shiva|ashokasundari|parent": {
+   "label": "Ashokasundari is a daughter of Shiva and Parvati (Padma Purana)"
+  },
+  "shiva|andhaka|parent": {
+   "label": "Andhaka was born from the sweat of Shiva when Parvati playfully covered his eyes, and was raised by Hiranyaksha",
+   "variation": "Shiva Purana and Kurma Purana; other accounts make Andhaka purely a son of Hiranyaksha."
+  },
+  "shiva|ayyappa|parent": {
+   "label": "Ayyappa (Hariharaputra) is the son of Shiva and Vishnu's Mohini form",
+   "variation": "Kerala tradition; not found in the major Sanskrit Puranas."
+  },
+  "shiva|manasa|parent": {
+   "label": "Bengali Manasamangal poems make the serpent goddess Manasa a daughter of Shiva",
+   "variation": "The Mahabharata and Puranas make Manasa (Jaratkaru) a daughter of Kashyapa and sister of Vasuki."
+  },
+  "jalandhara|shiva|created-by": {
+   "label": "Jalandhara was born when Shiva cast the fire of his third eye into the ocean (Shiva Purana)"
+  },
+  "virabhadra|shiva|created-by": {
+   "label": "Virabhadra sprang from the lock of hair Shiva tore out in rage at Sati's death"
+  },
+  "hanuman|shiva|avatar-of": {
+   "label": "The Shiva Purana describes Hanuman as an incarnation (the eleventh Rudra) of Shiva",
+   "variation": "Valmiki's Ramayana makes Hanuman the son of Vayu with no Shiva connection."
+  },
+  "nandi|shiva|vahana": {
+   "label": "The bull Nandi is Shiva's mount and chief attendant"
+  },
+  "shiva|tripurasura|slayer": {
+   "label": "Shiva destroyed the three flying cities of the asuras with a single arrow"
+  },
+  "shiva|jalandhara|slayer": {
+   "label": "Shiva slew Jalandhara once Vrinda's chastity no longer protected him"
+  },
+  "shiva|kamadeva|slayer": {
+   "label": "Shiva burned Kama to ashes with his third eye for disturbing his meditation",
+   "variation": "Kama survives bodiless (Ananga) or is reborn as Pradyumna."
+  },
+  "shiva|andhaka|enemy": {
+   "label": "Andhaka, lusting after Parvati, was impaled on Shiva's trident and, repenting, became a gana",
+   "variation": "Some versions have Andhaka become the devotee Bhringi."
+  },
+  "shiva|yama|enemy": {
+   "label": "As Kalantaka, Shiva struck down Yama to save his devotee Markandeya, later reviving him"
+  },
+  "shiva|daksha|enemy": {
+   "label": "Daksha insulted Shiva and excluded him from his sacrifice"
+  },
+  "shiva|ravana|boon": {
+   "label": "Shiva, pleased by Ravana's hymn after pinning him under Kailasa, gave him the sword Chandrahasa and his name",
+   "variation": "Valmiki Ramayana, Uttara Kanda."
+  },
+  "ravana|shiva|devotee": {
+   "label": "Ravana was a great devotee of Shiva, traditionally credited with the Shiva Tandava Stotra"
+  },
+  "shiva|bhasmasura|boon": {
+   "label": "Shiva granted Bhasmasura the power to burn to ash anyone on whose head he placed his hand"
+  },
+  "shiva|banasura|boon": {
+   "label": "Shiva granted Banasura a thousand arms and promised to guard his city"
+  },
+  "banasura|shiva|devotee": {
+   "label": "Banasura was a devoted worshipper of Shiva"
+  },
+  "shiva|arjuna|boon": {
+   "label": "After wrestling Arjuna in the form of a Kirata hunter, Shiva gave him the Pashupata weapon"
+  },
+  "shiva|markandeya|boon": {
+   "label": "Shiva made the boy Markandeya forever sixteen and deathless"
+  },
+  "markandeya|shiva|devotee": {
+   "label": "Markandeya clung to the linga as Yama came for him"
+  },
+  "shiva|amba|boon": {
+   "label": "Shiva granted Amba that she would slay Bhishma in her next life (as Shikhandi)"
+  },
+  "shiva|jayadratha|boon": {
+   "label": "Shiva granted Jayadratha the power to hold back all the Pandavas except Arjuna for one day"
+  },
+  "shiva|draupadi|boon": {
+   "label": "In a previous life Draupadi asked Shiva five times for a husband, and he granted her five husbands"
+  },
+  "shiva|soma|boon": {
+   "label": "Shiva relieved Soma of Daksha's curse at Prabhasa (Somnath) and wears the crescent moon",
+   "variation": "The Mahabharata has Soma cured by bathing in the Sarasvati."
+  },
+  "shiva|rati|boon": {
+   "label": "Shiva assured the grieving Rati that Kama would be restored (reborn as Pradyumna)"
+  },
+  "shiva|shukracharya|boon": {
+   "label": "Shiva taught Shukra the Mritasanjivani lore that revives the dead",
+   "variation": "Matsya Purana; the Mahabharata has a different story of Shiva swallowing Shukra."
+  },
+  "shiva|parashurama|guru": {
+   "label": "Shiva taught Parashurama the arts of war and gave him his axe",
+   "variation": "Brahmanda Purana and later tradition."
+  },
+  "bhringi|shiva|devotee": {
+   "label": "The sage Bhringi worshipped Shiva alone, refusing to honour Parvati"
+  },
+  "bhagiratha|shiva|devotee": {
+   "label": "Bhagiratha propitiated Shiva to break Ganga's fall in his matted locks"
+  },
+  "vasuki|shiva|devotee": {
+   "label": "The serpent king Vasuki coils around Shiva's neck"
+  },
+  "kubera|shiva|ally": {
+   "label": "Kubera, lord of wealth, is Shiva's friend and neighbour at Kailasa"
+  },
+  "saraswati|vak|form-of": {
+   "label": "The Brahmanas identify Saraswati with Vak, sacred speech"
+  },
+  "hamsa-vahana|saraswati|vahana": {
+   "label": "The swan (hamsa) is also Saraswati's mount"
+  },
+  "saraswati|vishnu|spouse": {
+   "label": "The Brahmavaivarta Purana makes Saraswati one of Vishnu's three wives",
+   "variation": "Brahmavaivarta Purana only."
+  },
+  "saraswati|ganga|curse": {
+   "label": "In a quarrel among Vishnu's wives, Saraswati and Ganga cursed each other to flow as rivers on earth",
+   "variation": "Brahmavaivarta Purana."
+  },
+  "saraswati|lakshmi|curse": {
+   "label": "Saraswati cursed Lakshmi to become a plant (Tulasi) and a river in the same quarrel",
+   "variation": "Brahmavaivarta Purana."
+  },
+  "saraswati|adi-parashakti|form-of": {
+   "label": "Shakta theology makes Mahasaraswati one of the three great forms of the supreme Goddess",
+   "variation": "Devi Mahatmya (angas) and Devi Bhagavata."
+  },
+  "saraswati|ashvins|ally": {
+   "label": "With the Ashvins, Saraswati healed Indra in the Sautramani rite (Yajurveda, Shatapatha Brahmana)"
+  },
+  "yajnavalkya|saraswati|devotee": {
+   "label": "Yajnavalkya praised Saraswati to regain his learning",
+   "variation": "Devi Bhagavata / Brahmavaivarta tradition."
+  },
+  "bhrigu|lakshmi|parent": {
+   "label": "The Vishnu Purana makes Shri the daughter of Bhrigu and Khyati, hence Bhargavi",
+   "variation": "Most Puranas stress her rising from the ocean of milk."
+  },
+  "lakshmi|prajapati|created-by": {
+   "label": "In the Shatapatha Brahmana, Shri came forth from Prajapati's austerity"
+  },
+  "sita|lakshmi|avatar-of": {
+   "label": "Sita is the incarnation of Lakshmi as Rama's wife",
+   "variation": "Explicit in the Puranas and later Ramayanas; Valmiki's core books present Sita as born from the earth without this identification."
+  },
+  "rukmini|lakshmi|avatar-of": {
+   "label": "Rukmini, Krishna's chief queen, is an incarnation of Lakshmi",
+   "variation": "Vishnu and Bhagavata Puranas; the Mahabharata calls her a partial incarnation of Shri."
+  },
+  "radha|lakshmi|avatar-of": {
+   "label": "Some traditions regard Radha as an incarnation of Lakshmi",
+   "variation": "Gaudiya and Brahmavaivarta theology make Radha the source of Lakshmi rather than her incarnation."
+  },
+  "vedavati|lakshmi|avatar-of": {
+   "label": "Vedavati, reborn as Sita, is held to be a form of Lakshmi",
+   "variation": "Later tradition; Valmiki's Uttara Kanda describes her rebirth without calling her Lakshmi."
+  },
+  "uluka|lakshmi|vahana": {
+   "label": "The owl is Lakshmi's mount, especially in eastern India",
+   "variation": "Elsewhere she sits on a lotus flanked by elephants."
+  },
+  "kamala|lakshmi|form-of": {
+   "label": "The Mahavidya Kamala is the Tantric form of Lakshmi"
+  },
+  "lakshmi|alakshmi|sibling": {
+   "label": "Jyeshtha (Alakshmi) is Lakshmi's elder sister, who rose from the ocean before her"
+  },
+  "lakshmi|soma|sibling": {
+   "label": "Lakshmi and the Moon both rose from the churned ocean, so she is called the Moon's sister",
+   "variation": "Other genealogies make Soma the son of Atri."
+  },
+  "lakshmi|adi-parashakti|form-of": {
+   "label": "Shakta theology makes Mahalakshmi a form, or the source, of the supreme Goddess",
+   "variation": "Devi Mahatmya and Devi Bhagavata."
+  },
+  "venkateshvara|lakshmi|spouse": {
+   "label": "Lakshmi dwells on Venkateshvara's chest and incarnated as Padmavati to marry him"
+  },
+  "himavan|parvati|parent": {
+   "label": "Parvati is the daughter of Himavan, king of mountains"
+  },
+  "mena|parvati|parent": {
+   "label": "Mena is Parvati's mother"
+  },
+  "parvati|sati|reincarnation-of": {
+   "label": "After Sati's death she was reborn as Parvati to win Shiva again"
+  },
+  "parvati|ganesha|parent": {
+   "label": "Parvati fashioned Ganesha from the paste of her body"
+  },
+  "parvati|kartikeya|parent": {
+   "label": "Parvati is Kartikeya's mother",
+   "variation": "In the Ramayana and Mahabharata he is not born from Parvati's womb (Agni, Ganga, the Krittikas or Svaha bear him); later Puranas make her his mother or adoptive mother."
+  },
+  "parvati|ashokasundari|parent": {
+   "label": "Parvati created Ashokasundari from the wish-fulfilling tree (Padma Purana)"
+  },
+  "parvati|ganga|sibling": {
+   "label": "Parvati (Uma) and Ganga are the two daughters of Himavan and Mena (Ramayana)"
+  },
+  "parvati|mainaka|sibling": {
+   "label": "The mountain Mainaka is Parvati's brother"
+  },
+  "parvati|adi-parashakti|form-of": {
+   "label": "Shakta traditions regard Parvati as a gentle form of the supreme Goddess"
+  },
+  "parvati|prithvi|curse": {
+   "label": "Angered that her union with Shiva was interrupted, Uma cursed the Earth to have many lords (Ramayana, Bala Kanda)"
+  },
+  "parvati|shiva|devotee": {
+   "label": "Parvati won Shiva through years of austerity"
+  },
+  "narada|parvati|guru": {
+   "label": "Narada counselled Parvati to undertake austerities and gave her Shiva's mantra (Shiva Purana)"
+  },
+  "andhaka|parvati|enemy": {
+   "label": "Andhaka desired Parvati and tried to seize her"
+  },
+  "parvati|bhringi|curse": {
+   "label": "Parvati drew away the flesh and blood of Bhringi when he refused to honour her",
+   "variation": "Mainly South Indian tellings of the Ardhanarishvara story."
+  },
+  "daksha|sati|parent": {
+   "label": "Sati is the daughter of Daksha"
+  },
+  "prasuti|sati|parent": {
+   "label": "Sati is the youngest daughter of Prasuti"
+  },
+  "sati|adi-parashakti|avatar-of": {
+   "label": "Shakta texts make Sati an incarnation of the supreme Goddess",
+   "variation": "Devi Bhagavata, Kalika Purana."
+  },
+  "mahavidyas|sati|created-by": {
+   "label": "The Ten Mahavidyas emerged from Sati when Shiva tried to stop her from attending Daksha's sacrifice",
+   "variation": "Mahabhagavata and Brihaddharma Puranas; other accounts link them to Parvati or Kali."
+  },
+  "ganesha|kartikeya|sibling": {
+   "label": "Ganesha and Kartikeya are the sons of Shiva and Parvati",
+   "variation": "Their relative age differs: Ganesha is the elder in North India, the younger in much of the South and in some Puranas."
+  },
+  "ganesha|ashokasundari|sibling": {
+   "label": "Ashokasundari is Ganesha's sister in the Padma Purana tradition"
+  },
+  "ganesha|riddhi|spouse": {
+   "label": "Riddhi is a consort of Ganesha in popular North Indian tradition",
+   "variation": "The Shiva Purana names Buddhi instead; South Indian tradition holds Ganesha to be a brahmachari."
+  },
+  "ganesha|siddhi|spouse": {
+   "label": "Siddhi is a consort of Ganesha (Shiva Purana, Ganesha Purana)",
+   "variation": "South Indian tradition holds Ganesha to be a brahmachari."
+  },
+  "mushika|ganesha|vahana": {
+   "label": "The mouse (or rat) is Ganesha's mount"
+  },
+  "ganesha|vyasa|ally": {
+   "label": "Ganesha wrote down the Mahabharata as Vyasa dictated it",
+   "variation": "This episode is absent from the Critical Edition and is considered an interpolation."
+  },
+  "parashurama|ganesha|enemy": {
+   "label": "Parashurama broke one of Ganesha's tusks when Ganesha barred him from Shiva (Brahmanda Purana)",
+   "variation": "Other stories explain the broken tusk differently."
+  },
+  "ganesha|soma|curse": {
+   "label": "Ganesha cursed the Moon for laughing at him, so it is inauspicious to see the moon on Ganesha Chaturthi",
+   "variation": "Popular vrata-katha tradition, with Puranic variants."
+  },
+  "ravana|ganesha|enemy": {
+   "label": "Ganesha tricked Ravana into setting down Shiva's atmalinga at Gokarna",
+   "variation": "Regional temple legend (Gokarna)."
+  },
+  "agni|kartikeya|parent": {
+   "label": "Agni carried Shiva's seed and is called Kartikeya's father",
+   "variation": "In the Mahabharata Agni fathers Skanda on Svaha; elsewhere he is only a carrier of Shiva's seed."
+  },
+  "svaha|kartikeya|parent": {
+   "label": "In the Mahabharata, Svaha bore Skanda to Agni, taking the forms of six sages' wives",
+   "variation": "Mahabharata, Aranyaka Parva."
+  },
+  "ganga|kartikeya|parent": {
+   "label": "Ganga received Shiva's seed from Agni and deposited it in the reeds where Kartikeya was born",
+   "variation": "Valmiki Ramayana; called Gangeya."
+  },
+  "kartikeya|devasena|spouse": {
+   "label": "Indra gave Devasena to Skanda after he became commander of the gods"
+  },
+  "kartikeya|valli|spouse": {
+   "label": "Murugan wooed and married the huntress Valli",
+   "variation": "Tamil tradition."
+  },
+  "kartikeya|tarakasura|slayer": {
+   "label": "Kartikeya, born for the purpose, slew the demon Taraka"
+  },
+  "kartikeya|mahishasura|slayer": {
+   "label": "In the Mahabharata Skanda slays the demon Mahisha",
+   "variation": "Later texts (Devi Mahatmya) attribute Mahisha's death to Durga."
+  },
+  "paravani|kartikeya|vahana": {
+   "label": "The peacock Paravani is Kartikeya's mount"
+  },
+  "kartikeya|shiva|guru": {
+   "label": "As Swaminatha, the child Murugan explained the meaning of Om to his father Shiva",
+   "variation": "Tamil tradition (Swamimalai)."
+  },
+  "kartikeya|indra|ally": {
+   "label": "Indra, after first fighting the infant Skanda, made him commander of the gods' army"
+  },
+  "kaumari|kartikeya|created-by": {
+   "label": "The Matrika Kaumari is the shakti that emerged from Kumara (Devi Mahatmya)"
+  },
+  "kartikeya|agastya|guru": {
+   "label": "Tamil tradition holds that Murugan taught the Tamil language and grammar to Agastya",
+   "variation": "Tamil tradition only."
+  },
+  "ashokasundari|nahusha|spouse": {
+   "label": "Ashokasundari married King Nahusha, who slew the asura Hunda (Padma Purana)"
+  },
+  "ashokasundari|yayati|parent": {
+   "label": "The Padma Purana makes Ashokasundari the mother of King Yayati",
+   "variation": "Other genealogies do not name her as Yayati's mother."
+  },
+  "riddhi|siddhi|sibling": {
+   "label": "Riddhi and Siddhi are popularly regarded as sisters married to Ganesha",
+   "variation": "The Shiva Purana's pair is Siddhi and Buddhi, daughters of Prajapati Vishvarupa."
+  },
+  "indra|devasena|parent": {
+   "label": "South Indian tradition makes Devasena (Deivanai) the daughter of Indra",
+   "variation": "In the Mahabharata Indra rescues her from Keshin and gives her away as her guardian; she is called a daughter of Prajapati."
+  },
+  "shachi|devasena|parent": {
+   "label": "Tamil tradition makes Deivanai the daughter of Indra and Shachi",
+   "variation": "Later South Indian tradition only."
+  },
+  "devasena|valli|sibling": {
+   "label": "Kanda Puranam says Devasena and Valli were sisters in a previous birth, daughters of Vishnu",
+   "variation": "Tamil tradition only."
+  },
+  "ganesha|valli|ally": {
+   "label": "Ganesha appeared as a wild elephant to drive Valli into Murugan's arms",
+   "variation": "Kanda Puranam and Tamil tradition."
+  },
+  "himavan|mena|spouse": {
+   "label": "Mena is the queen of Himavan"
+  },
+  "himavan|ganga|parent": {
+   "label": "Ganga is the elder daughter of Himavan (Ramayana, Bala Kanda)",
+   "variation": "Vaishnava texts derive her from Vishnu's foot."
+  },
+  "mena|ganga|parent": {
+   "label": "Mena is the mother of Ganga (Ramayana, Bala Kanda)"
+  },
+  "himavan|mainaka|parent": {
+   "label": "The winged mountain Mainaka is Himavan's son"
+  },
+  "mena|mainaka|parent": {
+   "label": "Mena is the mother of Mainaka"
+  },
+  "daksha|prasuti|spouse": {
+   "label": "Prasuti, daughter of Svayambhuva Manu, is Daksha's wife",
+   "variation": "Daksha's second wife Asikni (Virini) bears the sixty daughters in the Bhagavata and Vishnu Puranas."
+  },
+  "daksha|aditi|parent": {
+   "label": "Aditi, mother of the Adityas, is Daksha's daughter",
+   "variation": "Rig Veda 10.72 also states the reverse: Daksha was born of Aditi."
+  },
+  "daksha|diti|parent": {
+   "label": "Diti, mother of the Daityas, is Daksha's daughter"
+  },
+  "daksha|danu|parent": {
+   "label": "Danu, mother of the Danavas, is Daksha's daughter"
+  },
+  "daksha|kadru|parent": {
+   "label": "Kadru, mother of the Nagas, is Daksha's daughter"
+  },
+  "daksha|vinata|parent": {
+   "label": "Vinata, mother of Garuda and Aruna, is Daksha's daughter"
+  },
+  "daksha|rohini|parent": {
+   "label": "Rohini is one of the twenty-seven nakshatra daughters of Daksha married to Soma"
+  },
+  "daksha|svaha|parent": {
+   "label": "Svaha, wife of Agni, is a daughter of Daksha (Vishnu Purana)"
+  },
+  "prasuti|svaha|parent": {
+   "label": "Svaha is a daughter of Prasuti (Vishnu Purana)"
+  },
+  "daksha|anasuya|parent": {
+   "label": "The Vishnu Purana names Anasuya, wife of Atri, as a daughter of Daksha",
+   "variation": "The Bhagavata makes her a daughter of Kardama and Devahuti."
+  },
+  "prasuti|anasuya|parent": {
+   "label": "The Vishnu Purana names Anasuya as a daughter of Prasuti",
+   "variation": "The Bhagavata makes her a daughter of Kardama and Devahuti."
+  },
+  "daksha|soma|curse": {
+   "label": "Daksha cursed Soma with a wasting disease for favouring Rohini, causing the moon to wane"
+  },
+  "daksha|shiva|curse": {
+   "label": "Daksha cursed Shiva to be denied a share in sacrifices (Bhagavata, Canto 4)"
+  },
+  "nandi|daksha|curse": {
+   "label": "Nandi cursed Daksha in return for insulting Shiva (Bhagavata, Canto 4)"
+  },
+  "daksha|narada|curse": {
+   "label": "Daksha cursed Narada to wander forever for leading his sons into renunciation (Bhagavata, Canto 6)"
+  },
+  "virabhadra|daksha|slayer": {
+   "label": "Virabhadra beheaded Daksha at the sacrifice; Shiva later revived him with a goat's head",
+   "variation": "Some versions have the head burnt in the fire; the goat's head is from the Bhagavata and Shiva Purana."
+  },
+  "daksha|vishnu|devotee": {
+   "label": "Daksha worshipped Vishnu with the Hamsaguhya prayers (Bhagavata, Canto 6)"
+  },
+  "svayambhuva-manu|prasuti|parent": {
+   "label": "Prasuti is the daughter of Svayambhuva Manu"
+  },
+  "shatarupa|prasuti|parent": {
+   "label": "Prasuti is the daughter of Shatarupa"
+  },
+  "prasuti|devahuti|sibling": {
+   "label": "Prasuti and Devahuti are daughters of Svayambhuva Manu and Shatarupa"
+  },
+  "ganga|vishnu|created-by": {
+   "label": "As Vishnupadi, Ganga issued from Vishnu's foot when Vamana's stride pierced the cosmic shell (Bhagavata, Canto 5)",
+   "variation": "The Ramayana makes her Himavan's daughter; later tellings add Brahma's kamandalu."
+  },
+  "ganga|shantanu|spouse": {
+   "label": "Ganga married King Shantanu on condition that he never question her actions"
+  },
+  "ganga|bhishma|parent": {
+   "label": "Bhishma (Devavrata) is the eighth son of Ganga and Shantanu"
+  },
+  "ganga|vasus|parent": {
+   "label": "Ganga bore the eight Vasus as her sons with Shantanu, releasing seven of them at birth"
+  },
+  "makara|ganga|vahana": {
+   "label": "The makara is Ganga's mount"
+  },
+  "bhagiratha|ganga|devotee": {
+   "label": "Bhagiratha's austerities brought Ganga down from heaven to purify his ancestors' ashes"
+  },
+  "alakshmi|uddalaka|spouse": {
+   "label": "The Padma Purana marries Jyeshtha to the sage Uddalaka",
+   "variation": "The Linga Purana names the sage Dussaha instead."
+  },
+  "dhumavati|alakshmi|form-of": {
+   "label": "Scholars compare the widow goddess Dhumavati with Alakshmi/Jyeshtha, sharing the crow and winnowing basket",
+   "variation": "A scholarly comparison rather than an explicit textual identification."
+  },
+  "nataraja|shiva|form-of": {
+   "label": "Nataraja is Shiva as the cosmic dancer"
+  },
+  "kali|nataraja|enemy": {
+   "label": "Kali and Nataraja competed in a dance contest at Tiruvalangadu, which Shiva won",
+   "variation": "Tamil temple legend."
+  },
+  "shesha|nataraja|devotee": {
+   "label": "As the sage Patanjali, Adishesha did penance to behold Shiva's dance at Chidambaram",
+   "variation": "Chidambaram tradition (Koyil Puranam)."
+  },
+  "ardhanarishvara|shiva|form-of": {
+   "label": "Ardhanarishvara is Shiva united with his Shakti, half male and half female"
+  },
+  "ardhanarishvara|parvati|form-of": {
+   "label": "The left half of Ardhanarishvara is Parvati"
+  },
+  "ardhanarishvara|brahma|boon": {
+   "label": "Shiva appeared to Brahma as Ardhanarishvara so that creation could continue through male and female (Shiva Purana)",
+   "variation": "In the Vishnu Purana Rudra is born from Brahma half male, half female."
+  },
+  "dakshinamurti|shiva|form-of": {
+   "label": "Dakshinamurti is Shiva as the supreme teacher facing south"
+  },
+  "dakshinamurti|kumaras|guru": {
+   "label": "Dakshinamurti taught the four Kumaras through silence beneath the banyan tree"
+  },
+  "pashupati|shiva|form-of": {
+   "label": "Pashupati, lord of creatures, is a form and epithet of Shiva"
+  },
+  "pashupati|rudra|form-of": {
+   "label": "Pashupati is already an epithet of Rudra in the Atharva Veda and the Brahmanas"
+  },
+  "harihara|shiva|form-of": {
+   "label": "Harihara combines Shiva (the right half) with Vishnu"
+  },
+  "harihara|vishnu|form-of": {
+   "label": "Harihara combines Vishnu (the left half) with Shiva"
+  },
+  "jagannatha|krishna|form-of": {
+   "label": "Jagannatha of Puri is worshipped as Krishna",
+   "variation": "Scholars trace tribal roots; some Odia traditions also identify him with Buddha."
+  },
+  "jagannatha|vishnu|form-of": {
+   "label": "Jagannatha is Vishnu as Purushottama, lord of the universe"
+  },
+  "jagannatha|balarama|sibling": {
+   "label": "Jagannatha is enshrined at Puri with his elder brother Balabhadra"
+  },
+  "jagannatha|subhadra|sibling": {
+   "label": "Jagannatha is enshrined at Puri with his sister Subhadra"
+  },
+  "jagannatha|vishvakarma|created-by": {
+   "label": "Vishvakarma, disguised as an old carpenter, carved the wooden images of Jagannatha",
+   "variation": "Skanda Purana (Purushottama Kshetra Mahatmya) and Odia tradition; some versions say Vishnu himself came as the carpenter."
+  },
+  "venkateshvara|vishnu|form-of": {
+   "label": "Venkateshvara is Vishnu who came to the Venkata hill in the Kali Yuga"
+  },
+  "kubera|venkateshvara|ally": {
+   "label": "Kubera lent Srinivasa the wealth for his wedding to Padmavati",
+   "variation": "Venkatachala Mahatmya."
+  },
+  "shesha|venkateshvara|devotee": {
+   "label": "The seven hills of Tirumala are held to be the body of Adishesha supporting the Lord",
+   "variation": "Tirumala tradition."
+  },
+  "lakshmi|indra|ally": {
+   "label": "Shri abandoned the asura Bali and came to dwell with Indra (Mahabharata, Shanti Parva)",
+   "variation": "In the Vishnu Purana she leaves Indra after Durvasa's curse and returns after the churning of the ocean."
+  },
+  "jagannatha|lakshmi|spouse": {
+   "label": "Lakshmi is Jagannatha's consort at Puri, with her own shrine in the temple complex",
+   "variation": "Puri temple tradition."
+  },
+  "matangi|saraswati|form-of": {
+   "label": "The Mahavidya Matangi is often called the Tantric Saraswati, goddess of speech and music",
+   "variation": "Tantric tradition; she is also regarded as a form of Parvati."
+  },
+  "vishvamitra|saraswati|curse": {
+   "label": "Vishvamitra cursed the river Sarasvati to flow with blood for carrying Vashistha away from him (Mahabharata, Shalya Parva)"
+  },
+  "saraswati|indra|ally": {
+   "label": "Saraswati, with the Ashvins, restored Indra's strength in the Sautramani rite (Yajurveda)"
+  },
+  "saraswati|kumbhakarna|enemy": {
+   "label": "At the gods' request Saraswati entered Kumbhakarna's speech so that he asked Brahma for sleep instead of Indra's throne",
+   "variation": "Valmiki Ramayana, Uttara Kanda; some versions have Brahma himself send Saraswati."
+  }
+ }
+}

@@ -1,0 +1,823 @@
+{
+ "section": "11-ramayana-vanara",
+ "nodes": {
+  "hanuman": {
+   "name": "Hanuman",
+   "aliases": [
+    "Hanumat",
+    "Anjaneya",
+    "Maruti",
+    "Pavanaputra",
+    "Vayuputra",
+    "Kesarinandana",
+    "Bajrangbali",
+    "Mahavira",
+    "Sankatmochan",
+    "Ramadoota",
+    "Anjaniputra"
+   ],
+   "description": "The mighty vanara son of the Wind god Vayu and Anjana (and, as her husband, of the vanara chief Kesari), minister to Sugriva and the foremost messenger and devotee of Rama. In the Valmiki Ramayana he leaps the ocean to find Sita, burns Lanka and fetches the healing herbs that revive Lakshmana. Later tradition venerates him as a chiranjivi (deathless one), as an avatar of Shiva (Rudra), and as the embodiment of strength, learning, celibacy and selfless devotion.",
+   "story": "When the southern search party despaired on the ocean shore, the aged Jambavan reminded Hanuman of his birth from the Wind and of the powers he had forgotten. Swelling to mountainous size, Hanuman pressed Mount Mahendra until its springs gushed, then sprang into the sky. Over the sea the golden mountain Mainaka rose to offer him rest; he touched it courteously and flew on. Surasa, mother of the nagas, blocked his path with gaping jaws; he grew vast, then shrank to the size of a thumb, darted in and out of her mouth, and won her blessing. The shadow-seizing Simhika dragged him down by his shadow, and he tore her apart from within. Alighting on Mount Lamba, he shrank to the size of a cat and slipped into Lanka at dusk to search for Sita.",
+   "symbols": [
+    "gada (mace)",
+    "Dronagiri mountain bearing the Sanjivani herb, held aloft",
+    "Rama's signet ring",
+    "chest opened to reveal Rama and Sita",
+    "vermilion (sindoor) and red or saffron complexion",
+    "hands folded in anjali"
+   ],
+   "weapons": [
+    "gada (mace)",
+    "uprooted trees and boulders",
+    "his tail",
+    "immense strength and power to change size at will"
+   ],
+   "vahana": null,
+   "abode": "Kishkindha; as a chiranjivi, Gandhamadana mountain (and, in devotion, wherever Rama's name is sung)",
+   "sources": [
+    "Valmiki Ramayana, Kishkindha Kanda",
+    "Valmiki Ramayana, Sundara Kanda",
+    "Valmiki Ramayana, Yuddha Kanda",
+    "Valmiki Ramayana, Uttara Kanda (childhood and boons)",
+    "Mahabharata, Vana Parva (meeting with Bhima)",
+    "Shiva Purana (as avatar of Rudra)",
+    "Adhyatma Ramayana",
+    "Ramcharitmanas (Tulsidas)",
+    "Hanuman Chalisa (attributed to Tulsidas)"
+   ],
+   "variations": [
+    "Shiva Purana and much later tradition: Hanuman is an avatar of Shiva (Rudra), Vayu carrying Shiva's energy into Anjana's womb.",
+    "Some later and regional tellings link his birth to Rama's: a bird carried a portion of Dasharatha's sacred payasa to Anjana, who ate it and conceived.",
+    "The infant leap at the Sun, Indra's vajra and the gods' boons appear in the Uttara Kanda, which many scholars regard as a later layer of the Valmiki text.",
+    "Madhva (Dvaita) tradition: Hanuman is the first manifestation of Vayu (Mukhyaprana), followed by Bhima and by Madhvacharya himself.",
+    "Jain Paumacariya (Vimalasuri): Hanuman is a vidyadhara prince, son of Pavanamjaya and Anjanasundari, who marries several wives and finally renounces the world as a Jain monk.",
+    "Thai Ramakien and other Southeast Asian versions: Hanuman is a playful, amorous hero with wives, including the mermaid Suvannamaccha, mother of his son Macchanu.",
+    "Pan-Indian devotion holds him a lifelong brahmachari; the Makardhvaja and Ahiravana (Mahiravana) episodes come from later regional Ramayanas such as the Krittivasi.",
+    "The image of Hanuman tearing open his chest to show Rama and Sita derives from later devotional legend about Sita's pearl necklace, not from Valmiki."
+   ]
+  },
+  "anjana": {
+   "name": "Anjana",
+   "aliases": [
+    "Anjani",
+    "Punjikasthala",
+    "Anjana Devi",
+    "Anjanasundari"
+   ],
+   "description": "The mother of Hanuman and wife of the vanara chief Kesari. In the Valmiki Ramayana she was once the apsara Punjikasthala, born as a vanari through a curse, who conceived Hanuman through the Wind god Vayu. Hills at Anjaneri (near Nashik) and Anjanadri (near Hampi) are revered locally as her home and Hanuman's birthplace.",
+   "story": "Anjana was once Punjikasthala, a celebrated apsara, who through a curse was born on earth as a vanari, daughter of the vanara Kunjara, and became the wife of Kesari. One day, taking a lovely human form, she wandered on a mountain peak in fine garments and garlands, glowing like a rain-cloud touched by lightning. The Wind god Vayu, captivated, gently stirred her robe and embraced her with his subtle, invisible form. Alarmed, she cried out, asking who dared violate her vow of fidelity. Vayu reassured her that her chastity was untouched: he had entered her only through his mind and energy, and she would bear a son equal to him in speed and leaping, mighty and wise. In a mountain cave she gave birth to Hanuman.",
+   "symbols": [
+    "infant Hanuman in her arms",
+    "mountain cave"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Mountain home of Kesari; local traditions name Anjaneri (Nashik) or Anjanadri (Hampi)",
+   "sources": [
+    "Valmiki Ramayana, Kishkindha Kanda (Jambavan's account of Hanuman's birth)",
+    "Valmiki Ramayana, Uttara Kanda",
+    "Shiva Purana",
+    "Paumacariya of Vimalasuri (Jain, as Anjanasundari)"
+   ],
+   "variations": [
+    "Shiva Purana and Shaiva tradition: Anjana performed austerities to Shiva, whose energy Vayu placed in her womb, so that Hanuman is Rudra's avatar.",
+    "Some regional tellings make Anjana the daughter of the sage Gautama and Ahalya.",
+    "Some later accounts have her conceive after eating a portion of Dasharatha's sacred payasa dropped by a bird.",
+    "Jain Paumacariya: Anjanasundari, a vidyadhara princess wrongly banished by her husband Pavanamjaya, gives birth to Hanuman in exile; her story is a major Jain narrative in its own right."
+   ]
+  },
+  "kesari": {
+   "name": "Kesari",
+   "aliases": [
+    "Kesarin",
+    "Kapiraja Kesari"
+   ],
+   "description": "A powerful vanara chief, husband of Anjana and father of Hanuman, who is called Kesarinandana, son of Kesari, after him. Valmiki credits him with slaying the demon Shambasadana at Gokarna and lists him among the vanara leaders who fought for Rama at Lanka.",
+   "story": "Seeking to win Sita's trust in the ashoka grove, Hanuman introduced himself through his father. He told her of Kesari, a vanara lord who dwelt on Malyavan, finest of mountains, and who once journeyed to sacred Gokarna by the sea. There, at the bidding of the divine sages, he fought and slew Shambasadana, a demon who had been tormenting the holy men at that shrine. Hanuman declared that he himself had been born in Kesari's field of the Wind god, and was known throughout the world by his own deeds as Hanuman. When Rama's army later marched on Lanka, Kesari himself was counted among the great vanara chiefs leading their troops, and Ravana's spies pointed him out among the host arrayed before the city.",
+   "symbols": [],
+   "weapons": [
+    "trees and rocks, as a vanara warrior"
+   ],
+   "vahana": null,
+   "abode": "Mount Malyavan (Sundara Kanda); Mount Sumeru (Uttara Kanda)",
+   "sources": [
+    "Valmiki Ramayana, Sundara Kanda (Hanuman's self-introduction to Sita)",
+    "Valmiki Ramayana, Kishkindha Kanda",
+    "Valmiki Ramayana, Yuddha Kanda",
+    "Valmiki Ramayana, Uttara Kanda"
+   ],
+   "variations": [
+    "Popular tradition names Kesari as a son of Brihaspati; this is not found in Valmiki.",
+    "Jain Paumacariya replaces him with the vidyadhara prince Pavanamjaya as Hanuman's father."
+   ]
+  },
+  "sugriva": {
+   "name": "Sugriva",
+   "aliases": [
+    "Sugreeva",
+    "Suryaputra",
+    "Kapiraja",
+    "Vanararaja"
+   ],
+   "description": "The vanara king of Kishkindha, son of the Sun god Surya and younger brother of Vali. Exiled by Vali, he allied with Rama by a vow sworn before fire: Rama slew Vali and restored his throne, and Sugriva sent the vanara hosts to find Sita and fight at Lanka.",
+   "story": "Driven out by his brother Vali and robbed of his wife Ruma, Sugriva hid on Mount Rishyamuka, the one place Vali dared not enter because of the sage Matanga's curse. When two bow-bearing princes approached, he sent Hanuman to learn who they were. Hanuman brought Rama and Lakshmana to him, and before a kindled fire Rama and Sugriva swore friendship: Rama would kill Vali, and Sugriva would search out Sita. Sugriva showed Rama the jewels Sita had dropped from Ravana's chariot, and Rama wept. To reassure Sugriva, Rama pierced seven sala trees with a single arrow. Yet once crowned in Kishkindha, Sugriva lost himself in pleasures through the rainy season, until Lakshmana's fury, softened by Tara's words, roused him to summon vanaras from every quarter of the earth.",
+   "symbols": [
+    "golden garland of Kishkindha's kings (inherited from Vali)"
+   ],
+   "weapons": [
+    "trees and boulders",
+    "fists and teeth"
+   ],
+   "vahana": null,
+   "abode": "Kishkindha; in exile, Mount Rishyamuka",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda (birth from Surya)",
+    "Valmiki Ramayana, Kishkindha Kanda",
+    "Valmiki Ramayana, Yuddha Kanda",
+    "Valmiki Ramayana, Uttara Kanda (birth of Vali and Sugriva from Riksharaja)",
+    "Mahabharata, Vana Parva (Ramopakhyana)"
+   ],
+   "variations": [
+    "Uttara Kanda: Vali and Sugriva are born to the vanara Riksharaja, who had been transformed into a woman; Indra fathered Vali and Surya fathered Sugriva.",
+    "Kamba Ramayanam and Ramcharitmanas soften Sugriva's lapse and stress his repentance and devotion to Rama.",
+    "In the Jain Paumacariya Sugriva is a vidyadhara king whose throne is usurped by an impostor, Sahasagati, whom Rama defeats."
+   ]
+  },
+  "vali": {
+   "name": "Vali",
+   "aliases": [
+    "Bali",
+    "Vaali",
+    "Indraputra",
+    "Kapiraja of Kishkindha"
+   ],
+   "description": "The mighty vanara king of Kishkindha, son of Indra, husband of Tara and father of Angada. Estranged from his brother Sugriva after a misunderstanding in the demon Mayavi's cave, he was slain by Rama, an act Valmiki presents as justice yet leaves open to Vali's own sharp protest.",
+   "story": "Challenged by Sugriva at the gates of Kishkindha, Vali brushed aside Tara's warning that his brother now had a powerful ally. In the first fight Rama could not tell the brothers apart and held back; the second time Sugriva wore a flowering creeper so that Rama could know him. As the brothers grappled, Rama shot Vali in the chest from behind a tree. Dying, Vali reproached Rama for striking unseen a warrior who had done him no wrong. Rama answered that the earth belonged to the Ikshvakus, and that Vali, by taking his younger brother's wife, had committed a crime deserving death. Vali accepted the judgement, entrusted Angada and Tara to Sugriva and Rama, and gave Sugriva his golden garland, Indra's gift, before he died.",
+   "symbols": [
+    "golden garland given by Indra"
+   ],
+   "weapons": [
+    "trees and boulders",
+    "fists"
+   ],
+   "vahana": null,
+   "abode": "Kishkindha",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda (birth from Indra)",
+    "Valmiki Ramayana, Kishkindha Kanda",
+    "Valmiki Ramayana, Uttara Kanda (Vali and Ravana)",
+    "Mahabharata, Vana Parva (Ramopakhyana)",
+    "Kamba Ramayanam",
+    "Ramcharitmanas"
+   ],
+   "variations": [
+    "Later retellings add a boon by which Vali drew half the strength of anyone who faced him, explaining why Rama shot from hiding; Valmiki does not mention it.",
+    "Uttara Kanda: Vali seized Ravana, who had come to challenge him, tucked him under his arm while performing his evening rites at the four oceans, and then made friends with him.",
+    "A popular tradition holds that Vali was reborn as the hunter Jara, whose arrow ended Krishna's earthly life, balancing Rama's hidden shot.",
+    "Jain Paumacariya: Vali defeats Ravana but then renounces kingship to become an ascetic; he is not killed by Rama.",
+    "Kamba Ramayanam gives Vali a moving death scene in which he recognises Rama's divinity and asks his forgiveness."
+   ]
+  },
+  "tara-kishkindha": {
+   "name": "Tara (queen of Kishkindha)",
+   "aliases": [
+    "Tara",
+    "Taara"
+   ],
+   "description": "The wise queen of Kishkindha, daughter of the vanara physician Sushena, wife of Vali and mother of Angada, and after Vali's death the consort of Sugriva. Famed for political insight, she is counted among the Panchakanya, the five exemplary women whose names are recited at dawn.",
+   "story": "When Sugriva roared a second challenge at the gates of Kishkindha, Tara held her husband back. A defeated foe, she reasoned, would not return so boldly without a mighty protector, and she reported what Angada had learned from spies: Sugriva had allied himself with Rama, prince of Ayodhya. She urged Vali to make peace, name Sugriva his heir and befriend Rama. Proud and unafraid, Vali went out and fell to Rama's arrow. Tara ran to the battlefield and lamented over his body with a grief that moved even the victors. Later, when Lakshmana stormed into Kishkindha, furious at Sugriva's delay, it was Tara, calm and dignified, who went out to meet him, soothed his anger with measured words and saved the kingdom.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kishkindha",
+   "sources": [
+    "Valmiki Ramayana, Kishkindha Kanda",
+    "Adhyatma Ramayana, Kishkindha Kanda",
+    "Kamba Ramayanam"
+   ],
+   "variations": [
+    "Some later traditions say Tara emerged from the churning of the ocean and was claimed by Vali.",
+    "Adhyatma Ramayana: Rama consoles the grieving Tara with teaching on the Self, and she attains wisdom.",
+    "Some regional tellings have Tara curse Rama that he too would lose Sita soon after regaining her.",
+    "She is named with Ahalya, Draupadi, Sita (or Kunti) and Mandodari in the Panchakanya verse."
+   ]
+  },
+  "ruma": {
+   "name": "Ruma",
+   "aliases": [
+    "Rumaa"
+   ],
+   "description": "The wife of Sugriva, seized by Vali when he drove his brother into exile. Her abduction parallels Sita's and is the wrong Rama cites to justify slaying Vali; she was restored to Sugriva when he became king.",
+   "story": "Ruma was the beloved wife of Sugriva. When Vali, believing his brother had sealed him inside the cave of the demon Mayavi to seize the throne, returned victorious and drove Sugriva into exile, he also took Ruma for himself. Sugriva fled to Mount Rishyamuka with Hanuman and a few loyal ministers, grieving for his lost wife and kingdom. When he met Rama, whose own wife had been carried off by Ravana, the shared sorrow of two husbands torn from their wives became the bond of their alliance. As Vali lay dying, Rama named the seizure of Ruma, his younger brother's wife, as the crime that justified his punishment. With Vali dead, Sugriva was crowned in Kishkindha and Ruma was restored to his side.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Kishkindha",
+   "sources": [
+    "Valmiki Ramayana, Kishkindha Kanda"
+   ],
+   "variations": [
+    "Some retellings name her father as the vanara Panasa; Valmiki gives few details of her lineage."
+   ]
+  },
+  "angada": {
+   "name": "Angada",
+   "aliases": [
+    "Vali-putra",
+    "Yuvaraja of Kishkindha"
+   ],
+   "description": "The son of Vali and Tara, made crown prince of Kishkindha by Sugriva at Rama's wish. He led the southern search party that included Hanuman and Jambavan, and served as Rama's envoy to Ravana's court before the war.",
+   "story": "Before the final assault on Lanka, Rama chose Angada as his envoy. Leaping over the walls, the young prince entered Ravana's court and delivered Rama's message: give back Sita or perish with your whole race. Ravana ordered him seized; four rakshasas grabbed his arms, but Angada sprang up to the palace roof carrying them, shook them off to fall to the ground, shattered the rooftop pinnacle with his foot and flew back to Rama. Later retellings expand the scene: in the Ramcharitmanas and other versions, Angada plants his foot in the assembly and dares any warrior to shift it. One champion after another fails, and when Ravana himself bends down to try, Angada withdraws his foot and tells him to clasp Rama's feet instead.",
+   "symbols": [
+    "armlets (angada) of a vanara prince"
+   ],
+   "weapons": [
+    "trees and boulders",
+    "mace in some depictions"
+   ],
+   "vahana": null,
+   "abode": "Kishkindha",
+   "sources": [
+    "Valmiki Ramayana, Kishkindha Kanda",
+    "Valmiki Ramayana, Yuddha Kanda (embassy to Ravana)",
+    "Ramcharitmanas, Lanka Kanda",
+    "Kamba Ramayanam"
+   ],
+   "variations": [
+    "The famous planted-foot challenge (Angad ka pair) belongs to the Ramcharitmanas and other later retellings, not to Valmiki.",
+    "In the Kishkindha Kanda, despairing of finding Sita within Sugriva's deadline, Angada resolves to fast to death until Sampati's news revives the party."
+   ]
+  },
+  "jambavan": {
+   "name": "Jambavan",
+   "aliases": [
+    "Jambavat",
+    "Jambavanta",
+    "Riksharaja",
+    "King of the Bears"
+   ],
+   "description": "The ancient and wise king of the rikshas (bears), created by Brahma, who counselled Sugriva's army and reminded Hanuman of his forgotten powers. His life spans the ages: in the Puranas and Harivamsha he fights Krishna over the Syamantaka jewel and gives him his daughter Jambavati in marriage.",
+   "story": "Long after the war of Lanka, the radiant jewel Syamantaka, a gift of Surya to the Yadava Satrajit, vanished when Satrajit's brother Prasena wore it on a hunt. A lion killed Prasena, and Jambavan killed the lion and carried the gem to his cave as a plaything for his child. Suspected of stealing it, Krishna followed the trail into the cave and fought Jambavan for twenty-eight days (twenty-one in some tellings). As his strength ebbed, the aged bear-king realised that only his own lord Rama, come again, could overcome him. He bowed before Krishna, returned the jewel and gave him his daughter Jambavati in marriage. Krishna restored the Syamantaka to Satrajit before the assembly of the Yadavas, clearing his name.",
+   "symbols": [
+    "bear form",
+    "white hair and beard of great age"
+   ],
+   "weapons": [
+    "his strength and claws",
+    "trees and rocks"
+   ],
+   "vahana": null,
+   "abode": "Mountain cave (Riksha-bila); with Sugriva's army in Kishkindha",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda (born from Brahma's yawn)",
+    "Valmiki Ramayana, Kishkindha Kanda",
+    "Valmiki Ramayana, Yuddha Kanda",
+    "Harivamsha (Syamantaka episode)",
+    "Vishnu Purana, Book 4",
+    "Bhagavata Purana, Canto 10"
+   ],
+   "variations": [
+    "Valmiki: Brahma says Jambavan was born from his mouth as he yawned; other texts simply call him Brahma's son.",
+    "Bhagavata Purana gives the duel with Krishna as twenty-eight days, Vishnu Purana as twenty-one.",
+    "In the Kishkindha Kanda he recalls circumambulating Vishnu as Trivikrama during Bali's sacrifice, when he was young and strong.",
+    "Some traditions and translations describe Jambavan as a vanara rather than a bear; Jain versions make him a vidyadhara."
+   ]
+  },
+  "nala-vanara": {
+   "name": "Nala (vanara engineer)",
+   "aliases": [
+    "Nala",
+    "Setu-builder"
+   ],
+   "description": "A vanara son of Vishvakarma, the divine architect, who inherited his father's skill and built the bridge (setu) across the ocean from India to Lanka for Rama's army. Distinct from Nala, the king of Nishadha and husband of Damayanti.",
+   "story": "When Rama's army stood helpless on the southern shore, the Ocean god rose from the waves and told Rama that Nala, son of the celestial architect Vishvakarma, had inherited his father's art and could build a bridge that the ocean would bear up. Nala stepped forward and declared that he could do it, admitting he had kept silent only because no one had asked. At his direction the vanaras uprooted trees and hurled boulders and whole hills into the sea, measuring and binding the causeway with care. In five days they completed a bridge a hundred yojanas long and ten wide, and the vast army crossed to Lanka while gods and sages gazed on in wonder at the marvel.",
+   "symbols": [
+    "stones and measuring cords of the bridge builder"
+   ],
+   "weapons": [
+    "trees and boulders"
+   ],
+   "vahana": null,
+   "abode": "Kishkindha",
+   "sources": [
+    "Valmiki Ramayana, Yuddha Kanda (building of the setu)",
+    "Mahabharata, Vana Parva (Ramopakhyana)",
+    "Ramcharitmanas, Lanka Kanda"
+   ],
+   "variations": [
+    "Popular tradition: as boys, Nala and Nila threw sages' belongings into the water, and a sage decreed that anything they threw would float, which later let the stones of the bridge float.",
+    "Many later tellings credit Nala and Nila jointly, or say the stones floated because Rama's name was written on them."
+   ]
+  },
+  "nila": {
+   "name": "Nila",
+   "aliases": [
+    "Neela",
+    "Agniputra",
+    "Senapati of the vanaras"
+   ],
+   "description": "A vanara son of the fire god Agni and commander-in-chief of Sugriva's army in the Lanka war. He slew Ravana's general Prahasta and survived Ravana's fire-weapon thanks to his divine father.",
+   "story": "Nila, son of the fire god Agni, led the vanara army as Sugriva's commander. When Ravana sent his general Prahasta out through the eastern gate of Lanka, Nila met him in a furious duel. With chariot and bow broken, the two fought on with trees and maces; Prahasta struck Nila on the head, but Nila seized a great rock and brought it down on Prahasta's head, killing him. Soon after, when Ravana himself took the field, Nila made himself small and leapt nimbly about, perching on the top of Ravana's flagstaff, then on his bow and his crown, to mock him. Enraged, Ravana loosed a fire-weapon at him; it hurled him to the ground but could not kill him, for he was the son of Fire.",
+   "symbols": [],
+   "weapons": [
+    "trees and boulders"
+   ],
+   "vahana": null,
+   "abode": "Kishkindha",
+   "sources": [
+    "Valmiki Ramayana, Bala Kanda (birth from Agni)",
+    "Valmiki Ramayana, Yuddha Kanda (slaying of Prahasta)"
+   ],
+   "variations": [
+    "Many later tellings, including the Ramcharitmanas, make Nila a co-builder of the bridge with Nala."
+   ]
+  },
+  "surasa": {
+   "name": "Surasa",
+   "aliases": [
+    "Nagamata",
+    "Mother of the Nagas"
+   ],
+   "description": "The mother of the nagas, sent by the gods, gandharvas and siddhas to test Hanuman's strength and wit as he flew over the ocean. She assumes a monstrous form, is outwitted, and blesses his mission.",
+   "story": "As Hanuman soared over the ocean, the gods, gandharvas and siddhas asked Surasa, mother of the nagas, to test him. Assuming a hideous rakshasi form, she rose before him and declared that the gods had decreed that whoever passed must enter her mouth. Hanuman told her of his mission for Rama and promised to return to her later, but she would not relent. So he expanded himself to ten yojanas, and she opened her jaws wider still; each outgrew the other until her mouth gaped a hundred yojanas. Then Hanuman shrank to the size of a thumb, darted into her mouth and out again, and bowed to her. Delighted, Surasa resumed her true form and blessed him to succeed in uniting Rama with Sita.",
+   "symbols": [
+    "vast open mouth"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The ocean",
+   "sources": [
+    "Valmiki Ramayana, Sundara Kanda (Hanuman's leap)",
+    "Valmiki Ramayana, Aranya Kanda (genealogy told by Jatayu)",
+    "Vishnu Purana, Book 1",
+    "Ramcharitmanas, Sundara Kanda"
+   ],
+   "variations": [
+    "Valmiki's genealogy makes Surasa a granddaughter of Daksha through Krodhavasha; Puranic lists (e.g. Vishnu Purana) name her as a daughter of Daksha and wife of Kashyapa, mother of many-headed serpents.",
+    "Ramcharitmanas: Surasa's mouth grows to a hundred yojanas before Hanuman takes a tiny form and slips through."
+   ]
+  },
+  "simhika": {
+   "name": "Simhika",
+   "aliases": [
+    "Chhayagrahi (shadow-seizer)",
+    "Angaraka (in Sugriva's description)"
+   ],
+   "description": "A monstrous rakshasi of the southern ocean who seized flying creatures by gripping their shadows and devoured them. She tried to swallow Hanuman during his leap to Lanka, and he killed her from within.",
+   "story": "Soon after passing Surasa, Hanuman felt his flight dragged to a halt, like a ship held back by a contrary wind. Looking down, he saw a huge rakshasi rising from the sea: Simhika, who caught creatures flying overhead by seizing their shadows and devoured them. Recognising the fearsome being Sugriva had described, Hanuman grew enormous; as she opened her cavernous mouth, he suddenly made himself small, dived into it, and tore at her vitals with his nails before shooting back out, swift as thought. Simhika sank dead into the ocean. The beings of the sky praised him, saying that one who possesses steadiness, vision, wisdom and skill, as Hanuman did, never fails in any task.",
+   "symbols": [
+    "grasping the shadow of a flying being"
+   ],
+   "weapons": [
+    "the power to seize by the shadow",
+    "vast jaws"
+   ],
+   "vahana": null,
+   "abode": "The southern ocean between India and Lanka",
+   "sources": [
+    "Valmiki Ramayana, Sundara Kanda (Hanuman's leap)",
+    "Valmiki Ramayana, Kishkindha Kanda (Sugriva's description of the southern ocean)",
+    "Ramcharitmanas, Sundara Kanda"
+   ],
+   "variations": [
+    "Some commentators and later traditions identify her with the Puranic Simhika, daughter of Diti, sister of Hiranyakashipu and mother of Rahu; others treat them as distinct.",
+    "In the Kishkindha Kanda Sugriva warns of a shadow-seizing rakshasi in the southern ocean named Angaraka, often equated with Simhika."
+   ]
+  },
+  "lankini": {
+   "name": "Lankini",
+   "aliases": [
+    "Lanka (the city personified)",
+    "Lankadevi",
+    "Lanka-lakshmi"
+   ],
+   "description": "The guardian spirit of Lanka, the city itself embodied as a fierce rakshasi, who challenged Hanuman at the gates and was subdued by a blow of his fist. Valmiki calls her simply Lanka; the name Lankini comes from later retellings such as the Ramcharitmanas.",
+   "story": "At nightfall Hanuman, shrunk to the size of a cat, approached the gleaming gates of Lanka. There the city's guardian, Lanka herself in the form of a fearsome rakshasi, barred his way and demanded who he was. When he calmly replied that he wished to see the city, she struck him. Hanuman roared and, restraining his strength because she was a woman, hit her with his left fist. She fell, her face contorted, and then revealed that Brahma had once told her: on the day a vanara overpowers you, know that the doom of the rakshasas has come. Acknowledging that the time had arrived, she stood aside and let him enter the city that Ravana ruled, to search for Sita.",
+   "symbols": [
+    "city gate"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The gates of Lanka",
+   "sources": [
+    "Valmiki Ramayana, Sundara Kanda",
+    "Ramcharitmanas, Sundara Kanda",
+    "Kamba Ramayanam"
+   ],
+   "variations": [
+    "Valmiki presents her as the presiding deity of the city (Lanka) and she is not killed; some popular retellings say Hanuman slew her.",
+    "Ramcharitmanas: struck by Hanuman, she vomits blood, recalls Brahma's prophecy and then praises the company of the holy and blesses Hanuman's mission."
+   ]
+  },
+  "mainaka": {
+   "name": "Mainaka",
+   "aliases": [
+    "Mainaka Parvata",
+    "Sunabha"
+   ],
+   "description": "The golden winged mountain, son of Himavan and Mena and brother of Parvati and Ganga, who alone kept his wings when Indra clipped the mountains, by hiding in the ocean with Vayu's help. Out of gratitude to the Wind god, he rose from the sea to offer rest to Hanuman.",
+   "story": "In the age when mountains had wings, they flew wherever they pleased, crushing towns and frightening sages, until Indra severed their wings with his thunderbolt. As Indra came for Mainaka, son of Himavan and Mena, the Wind god swept him into the ocean, where he lay hidden. Ages later, as Hanuman flew toward Lanka, the Ocean, honouring the Ikshvaku line and remembering Vayu's kindness, asked Mainaka to rise and offer the weary traveller rest. The golden-peaked mountain surged from the waves, a figure in human form standing upon its summit, and invited Hanuman to stay. Unwilling to pause in Rama's service, Hanuman touched him courteously and flew on. Indra, pleased by Mainaka's help to Rama's cause, granted him freedom from fear.",
+   "symbols": [
+    "golden peaks",
+    "wings"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Beneath the southern ocean",
+   "sources": [
+    "Valmiki Ramayana, Sundara Kanda (Hanuman's leap)",
+    "Mahabharata",
+    "Kalidasa, Kumarasambhava (as brother of Parvati)",
+    "Ramcharitmanas, Sundara Kanda"
+   ],
+   "variations": [
+    "In some tellings Mainaka hides in the ocean on his own initiative; Valmiki credits Vayu with carrying him there.",
+    "Some later texts locate Mainaka in the northern mountains rather than beneath the southern sea."
+   ]
+  },
+  "makardhvaja": {
+   "name": "Makardhvaja",
+   "aliases": [
+    "Makaradhwaja",
+    "Macchanu (Thai Ramakien)"
+   ],
+   "description": "In later regional Ramayana traditions, the son of Hanuman born of a sea creature (makara) that swallowed a drop of his sweat, who guarded the gates of Ahiravana's netherworld. He is absent from Valmiki and conflicts with Hanuman's celibacy, but is worshipped at shrines such as Beyt Dwarka in Gujarat.",
+   "story": "According to later regional tellings, after Hanuman set Lanka ablaze he cooled his burning tail in the ocean, and a drop of his sweat fell into the jaws of a great makara, which conceived. The child, part vanara and part sea creature, was found and raised in Patala by Ahiravana, who made him guardian of his gates. When Hanuman came to rescue Rama and Lakshmana from Ahiravana, the young warrior barred his path and fought him fiercely, proclaiming himself the son of Hanuman. Astonished, since he was sworn to celibacy, Hanuman learned the story of his birth. Loyal to his master, Makardhvaja still would not let him pass, so Hanuman overpowered and bound him. After Ahiravana's death, Rama crowned Makardhvaja king of Patala.",
+   "symbols": [
+    "makara (sea-creature) emblem",
+    "half-vanara, half-fish form in some images"
+   ],
+   "weapons": [
+    "mace"
+   ],
+   "vahana": null,
+   "abode": "Patala (the netherworld)",
+   "sources": [
+    "Krittivasi Ramayana (Bengali, 15th century)",
+    "Regional Ahiravana/Mahiravana narratives (Hindi, Odia, Marathi folk Ramkathas)",
+    "Thai Ramakien (as Macchanu)"
+   ],
+   "variations": [
+    "Not found in the Valmiki Ramayana; the story arose in medieval regional Ramayanas and folk tradition.",
+    "Thai Ramakien: Macchanu is the son of Hanuman and the mermaid Suvannamaccha, and guards the underworld for Maiyarap.",
+    "Accounts differ on whether Hanuman's sweat, or a drop of his perspiration fallen from the sky, was swallowed by a fish or a crocodile-like makara."
+   ]
+  },
+  "ahiravana": {
+   "name": "Ahiravana",
+   "aliases": [
+    "Mahiravana",
+    "Mahiravan",
+    "Airavan",
+    "Maiyarap (Thai Ramakien)"
+   ],
+   "description": "A sorcerer-king of Patala who, in later regional Ramayanas, abducted Rama and Lakshmana to sacrifice them to his goddess and was slain by Hanuman in his five-faced form. He does not appear in Valmiki; his relation to Ravana, as brother, son or friend, varies by telling.",
+   "story": "In Bengali and other regional Ramayanas, when Ravana's champions had fallen, he summoned Ahiravana, a master of sorcery who ruled the netherworld. Taking the form of Vibhishana, Ahiravana slipped through the fortress Hanuman had made with his coiled tail, cast the camp into sleep, and carried Rama and Lakshmana down to Patala to offer them to his goddess. Hanuman followed, overcame his own son Makardhvaja at the gates, and learned that Ahiravana's life lay in five lamps burning in five directions. Assuming his five-faced form, Panchamukha Hanuman, with the faces of Hanuman, Narasimha, Garuda, Varaha and Hayagriva, he blew out all five lamps at once, slew the sorcerer and carried the brothers home on his shoulders.",
+   "symbols": [
+    "five lamps",
+    "sacrificial altar"
+   ],
+   "weapons": [
+    "sorcery (maya)",
+    "sacrificial sword"
+   ],
+   "vahana": null,
+   "abode": "Patala (the netherworld)",
+   "sources": [
+    "Krittivasi Ramayana (Bengali, 15th century)",
+    "Regional Ahiravana/Mahiravana narratives in Hindi, Odia, Marathi, Tamil and Telugu folk Ramkathas",
+    "Thai Ramakien (as Maiyarap)"
+   ],
+   "variations": [
+    "Absent from the Valmiki Ramayana; the episode is a medieval regional addition.",
+    "Relationship to Ravana varies: brother, son, stepbrother, or simply an ally from the underworld.",
+    "The goddess he serves is named variously as Mahamaya, Kali, Bhadrakali or Kamakshi; in some versions Hanuman enters her image and devours the offerings.",
+    "Some versions distinguish Ahiravana and Mahiravana as two brothers, both killed by Hanuman."
+   ]
+  }
+ },
+ "edges": {
+  "vayu|hanuman|parent": {
+   "label": "Vayu, the Wind god, is Hanuman's divine father, having entered Anjana through his subtle energy"
+  },
+  "kesari|hanuman|parent": {
+   "label": "Kesari is Hanuman's father as Anjana's husband; Hanuman is called Kesarinandana"
+  },
+  "anjana|hanuman|parent": {
+   "label": "Anjana bore Hanuman in a mountain cave"
+  },
+  "surya|hanuman|guru": {
+   "label": "Surya taught Hanuman the scriptures and granted him a share of his radiance",
+   "variation": "Popular tradition: Hanuman studied facing the Sun, moving backwards across the sky as Surya's chariot travelled."
+  },
+  "indra|hanuman|boon": {
+   "label": "After his vajra struck the infant Hanuman's jaw (hanu) as he leapt at the Sun, Indra granted that the thunderbolt would never harm him",
+   "variation": "Uttara Kanda; the name Hanuman is explained by the injured jaw."
+  },
+  "brahma|hanuman|boon": {
+   "label": "Brahma revived the stricken infant and granted him invulnerability to weapons and the power to take any form at will"
+  },
+  "varuna|hanuman|boon": {
+   "label": "Varuna granted the infant Hanuman immunity from death by water and his noose (Uttara Kanda)"
+  },
+  "yama|hanuman|boon": {
+   "label": "Yama granted the infant Hanuman immunity from his staff and freedom from disease (Uttara Kanda)"
+  },
+  "kubera|hanuman|boon": {
+   "label": "Kubera granted the infant Hanuman immunity from his mace in battle (Uttara Kanda)"
+  },
+  "vishvakarma|hanuman|boon": {
+   "label": "Vishvakarma granted that no weapon he had fashioned could slay Hanuman (Uttara Kanda)"
+  },
+  "hanuman|rama|devotee": {
+   "label": "Hanuman is the supreme devotee and messenger (Ramadoota) of Rama"
+  },
+  "sita|hanuman|boon": {
+   "label": "Sita blessed Hanuman for bringing Rama's ring and later gave him her pearl necklace",
+   "variation": "Hanuman Chalisa: by Janaki's boon he bestows the eight siddhis and nine nidhis. In Valmiki, Sita also prays to Agni to be cool to Hanuman when his tail is set alight."
+  },
+  "hanuman|lakshmana|ally": {
+   "label": "Hanuman carried Lakshmana in battle and flew to the Himalayas for the herbs that revived him"
+  },
+  "hanuman|sugriva|ally": {
+   "label": "Hanuman was Sugriva's loyal minister who stayed with him in exile on Rishyamuka"
+  },
+  "hanuman|vibhishana|ally": {
+   "label": "Hanuman met Vibhishana in Lanka and later supported his admission to Rama's side",
+   "variation": "Ramcharitmanas makes their meeting in Lanka, among the Tulsi plants of Vibhishana's house, an explicit scene."
+  },
+  "hanuman|jambavan|ally": {
+   "label": "Jambavan reminded Hanuman of powers forgotten through a sages' curse, spurring his leap to Lanka, and later sent him for the healing herbs"
+  },
+  "hanuman|angada|ally": {
+   "label": "Hanuman served in Angada's southern search party that found the way to Lanka"
+  },
+  "mainaka|hanuman|ally": {
+   "label": "The winged mountain Mainaka rose from the ocean to offer Hanuman rest during his leap"
+  },
+  "surasa|hanuman|boon": {
+   "label": "Surasa, sent by the gods to test Hanuman, blessed his mission after he outwitted her"
+  },
+  "hanuman|simhika|slayer": {
+   "label": "Hanuman killed the shadow-seizing Simhika by tearing her apart from inside"
+  },
+  "hanuman|akshayakumara|slayer": {
+   "label": "Hanuman slew Ravana's young son Akshayakumara in the ashoka grove"
+  },
+  "hanuman|lankini|enemy": {
+   "label": "Hanuman subdued Lanka's guardian with a blow of his fist at the city gate; in Valmiki she is not killed"
+  },
+  "hanuman|ahiravana|slayer": {
+   "label": "As five-faced Panchamukha Hanuman he blew out five lamps at once and slew Ahiravana",
+   "variation": "Later regional tradition (Krittivasi and folk Ramkathas); absent from Valmiki."
+  },
+  "hanuman|makardhvaja|parent": {
+   "label": "Makardhvaja was born of a sea creature that swallowed a drop of Hanuman's sweat",
+   "variation": "Later regional tradition, in tension with Hanuman's celibacy; in the Thai Ramakien the son is Macchanu, born of the mermaid Suvannamaccha."
+  },
+  "hanuman|ravana|enemy": {
+   "label": "Hanuman defied Ravana in his court, set Lanka ablaze and struck him down with his fist in battle"
+  },
+  "hanuman|indrajit|enemy": {
+   "label": "Indrajit bound Hanuman with Brahma's weapon and brought him before Ravana"
+  },
+  "hanuman|bhima|sibling": {
+   "label": "Half-brothers as sons of Vayu; Hanuman humbled Bhima on the road to Gandhamadana and blessed him",
+   "variation": "Mahabharata, Vana Parva."
+  },
+  "hanuman|arjuna|ally": {
+   "label": "Hanuman rode on Arjuna's chariot banner (Kapidhvaja) at Kurukshetra"
+  },
+  "hanuman|bharata|ally": {
+   "label": "Hanuman carried news of Rama's return to Bharata at Nandigrama"
+  },
+  "hanuman|shani|ally": {
+   "label": "Freed by Hanuman from Ravana's captivity, Shani promised to spare Hanuman's devotees",
+   "variation": "Popular folk tradition; not in Valmiki."
+  },
+  "anjana|kesari|spouse": {
+   "label": "Anjana was the wife of the vanara chief Kesari"
+  },
+  "vayu|anjana|boon": {
+   "label": "Vayu promised Anjana a son equal to himself in speed and strength"
+  },
+  "anjana|shiva|devotee": {
+   "label": "Anjana worshipped Shiva, who blessed her with Hanuman as his own portion",
+   "variation": "Shiva Purana and Shaiva tradition; not in Valmiki."
+  },
+  "gautama|anjana|parent": {
+   "label": "Some regional tellings make Anjana the daughter of the sage Gautama and Ahalya",
+   "variation": "Valmiki names her father as the vanara Kunjara."
+  },
+  "kesari|rama|ally": {
+   "label": "Kesari led vanara troops for Rama in the war against Lanka"
+  },
+  "kesari|sugriva|ally": {
+   "label": "Kesari was one of the vanara chiefs who answered Sugriva's summons"
+  },
+  "surya|sugriva|parent": {
+   "label": "Surya fathered Sugriva"
+  },
+  "vali|sugriva|sibling": {
+   "label": "Vali and Sugriva were brothers, sons of Indra and Surya respectively",
+   "variation": "Uttara Kanda makes the vanara Riksharaja their common parent."
+  },
+  "vali|sugriva|enemy": {
+   "label": "After the Mayavi cave misunderstanding Vali exiled Sugriva and took his wife"
+  },
+  "sugriva|ruma|spouse": {
+   "label": "Ruma was Sugriva's wife, seized by Vali and restored after his death"
+  },
+  "sugriva|tara-kishkindha|spouse": {
+   "label": "After Vali's death Tara became Sugriva's queen"
+  },
+  "sugriva|rama|ally": {
+   "label": "Rama and Sugriva swore friendship before fire: Rama would kill Vali, Sugriva would find Sita"
+  },
+  "sugriva|lakshmana|ally": {
+   "label": "Lakshmana sealed the alliance and later confronted Sugriva over his delay in searching for Sita"
+  },
+  "sugriva|vibhishana|ally": {
+   "label": "Sugriva at first suspected Vibhishana but accepted him as an ally at Rama's word"
+  },
+  "sugriva|angada|ally": {
+   "label": "Sugriva made his nephew Angada crown prince of Kishkindha"
+  },
+  "sugriva|jambavan|ally": {
+   "label": "Jambavan served as an elder counsellor in Sugriva's army"
+  },
+  "sugriva|nila|ally": {
+   "label": "Nila was Sugriva's commander-in-chief"
+  },
+  "sugriva|kumbhakarna|enemy": {
+   "label": "Kumbhakarna carried off the stunned Sugriva, who escaped by biting off his ears and nose"
+  },
+  "sugriva|ravana|enemy": {
+   "label": "Sugriva leapt from Mount Suvela and wrestled Ravana on the ramparts of Lanka"
+  },
+  "indra|vali|parent": {
+   "label": "Indra fathered Vali and gave him a golden garland"
+  },
+  "vali|tara-kishkindha|spouse": {
+   "label": "Tara was Vali's wise queen, who warned him against fighting Sugriva"
+  },
+  "vali|angada|parent": {
+   "label": "Vali was the father of Angada"
+  },
+  "rama|vali|slayer": {
+   "label": "Rama shot Vali from concealment while he fought Sugriva",
+   "variation": "Vali's protest and Rama's justification are debated across Valmiki, Kamba and later commentators."
+  },
+  "vali|ravana|enemy": {
+   "label": "Vali carried Ravana under his arm across the four oceans before they made peace (Uttara Kanda)"
+  },
+  "jara|vali|reincarnation-of": {
+   "label": "The hunter Jara, who shot Krishna, is held to be Vali reborn",
+   "variation": "Popular tradition; not stated in Valmiki or the Mahabharata."
+  },
+  "vali|ruma|enemy": {
+   "label": "Vali seized Sugriva's wife Ruma, the wrong Rama cited in killing him"
+  },
+  "tara-kishkindha|angada|parent": {
+   "label": "Tara was the mother of Angada"
+  },
+  "tara-kishkindha|lakshmana|ally": {
+   "label": "Tara calmed the enraged Lakshmana when he stormed Kishkindha"
+  },
+  "rama|tara-kishkindha|guru": {
+   "label": "Rama consoled the widowed Tara with teaching on the Self",
+   "variation": "Adhyatma Ramayana; in Valmiki Rama consoles her more briefly."
+  },
+  "rama|ruma|ally": {
+   "label": "By killing Vali, Rama restored Ruma to Sugriva"
+  },
+  "angada|rama|ally": {
+   "label": "Angada served Rama as envoy to Ravana's court"
+  },
+  "angada|ravana|enemy": {
+   "label": "Angada defied Ravana in his assembly before the war"
+  },
+  "angada|jambavan|ally": {
+   "label": "Jambavan advised Angada's southern search party"
+  },
+  "sampati|angada|ally": {
+   "label": "Sampati told Angada's despairing search party that Sita was held in Lanka"
+  },
+  "angada|indrajit|enemy": {
+   "label": "Angada fought Indrajit at night and smashed his chariot"
+  },
+  "angada|lakshmana|ally": {
+   "label": "Lakshmana rode on Angada's shoulders in the battle with Ravana"
+  },
+  "jambavan|brahma|created-by": {
+   "label": "Brahma says Jambavan was born from his mouth as he yawned",
+   "variation": "Valmiki, Bala Kanda; other texts simply call him a son of Brahma."
+  },
+  "jambavan|jambavati|parent": {
+   "label": "Jambavan was the father of Jambavati, whom he gave to Krishna"
+  },
+  "jambavan|rama|ally": {
+   "label": "Jambavan counselled Rama's army in the search for Sita and the war at Lanka"
+  },
+  "jambavan|krishna|devotee": {
+   "label": "Jambavan fought Krishna over the Syamantaka jewel, then recognised him as Rama and surrendered"
+  },
+  "jambavan|vamana|devotee": {
+   "label": "Jambavan circumambulated Vishnu as Trivikrama during the three strides"
+  },
+  "vishvakarma|nala-vanara|parent": {
+   "label": "Nala was the son of Vishvakarma and inherited his art"
+  },
+  "nala-vanara|rama|ally": {
+   "label": "Nala built the bridge across the ocean for Rama's army"
+  },
+  "nala-vanara|nila|ally": {
+   "label": "Nala and Nila are paired as the vanara bridge-builders",
+   "variation": "Valmiki credits Nala alone; later tellings add Nila."
+  },
+  "nala-vanara|sugriva|ally": {
+   "label": "Nala was a vanara chief in Sugriva's army"
+  },
+  "agni|nila|parent": {
+   "label": "Agni fathered Nila"
+  },
+  "nila|prahasta|slayer": {
+   "label": "Nila killed Ravana's general Prahasta with a great rock"
+  },
+  "nila|rama|ally": {
+   "label": "Nila led Rama's vanara army as commander-in-chief"
+  },
+  "nila|ravana|enemy": {
+   "label": "Nila taunted Ravana by perching on his flagstaff and crown and survived his fire-weapon"
+  },
+  "kashyapa|surasa|spouse": {
+   "label": "Surasa is named among the wives of Kashyapa, mother of serpents",
+   "variation": "Puranic lists (e.g. Vishnu Purana); Valmiki makes her a granddaughter of Daksha."
+  },
+  "daksha|surasa|parent": {
+   "label": "Puranic lists name Surasa as a daughter of Daksha",
+   "variation": "Valmiki (Aranya Kanda) makes her the daughter of Krodhavasha, Daksha's daughter."
+  },
+  "surasa|kadru|sibling": {
+   "label": "Surasa and Kadru, both mothers of serpents, are sisters in the Daksha genealogy"
+  },
+  "simhika|rahu|parent": {
+   "label": "The Puranic Simhika is the mother of Rahu",
+   "variation": "Only if the Ramayana rakshasi is identified with the Puranic daughter of Diti; many treat them as distinct."
+  },
+  "simhika|hiranyakashipu|sibling": {
+   "label": "The Puranic Simhika is the sister of Hiranyakashipu",
+   "variation": "Depends on identifying the ocean rakshasi with the Puranic Simhika."
+  },
+  "lankini|ravana|ally": {
+   "label": "Lankini guarded Ravana's city of Lanka"
+  },
+  "lankini|rama|devotee": {
+   "label": "Humbled by Hanuman, Lankini praises Rama and blesses his mission",
+   "variation": "Ramcharitmanas; Valmiki only records her recognition of Brahma's prophecy."
+  },
+  "himavan|mainaka|parent": {
+   "label": "Himavan, king of mountains, is the father of Mainaka"
+  },
+  "mena|mainaka|parent": {
+   "label": "Mena is the mother of Mainaka"
+  },
+  "vayu|mainaka|ally": {
+   "label": "Vayu carried Mainaka into the ocean to save his wings from Indra"
+  },
+  "indra|mainaka|boon": {
+   "label": "Indra, who had clipped the mountains' wings, granted Mainaka freedom from fear for helping Hanuman"
+  },
+  "mainaka|parvati|sibling": {
+   "label": "Mainaka and Parvati are children of Himavan and Mena"
+  },
+  "mainaka|ganga|sibling": {
+   "label": "Ganga is a daughter of Himavan and Mena, Mainaka's sister",
+   "variation": "Valmiki, Bala Kanda makes Ganga and Uma daughters of Himavan and Mena."
+  },
+  "makardhvaja|ahiravana|ally": {
+   "label": "Makardhvaja guarded the gates of Ahiravana's netherworld",
+   "variation": "Later regional tradition."
+  },
+  "rama|makardhvaja|ally": {
+   "label": "Rama crowned Makardhvaja king of Patala after Ahiravana's death",
+   "variation": "Later regional tradition."
+  },
+  "ahiravana|ravana|ally": {
+   "label": "Ravana summoned Ahiravana from Patala to destroy Rama",
+   "variation": "Called Ravana's brother, son, stepbrother or friend in different tellings."
+  },
+  "ahiravana|rama|enemy": {
+   "label": "Ahiravana abducted the sleeping Rama to sacrifice him in Patala",
+   "variation": "Later regional tradition."
+  },
+  "ahiravana|lakshmana|enemy": {
+   "label": "Ahiravana abducted Lakshmana with Rama for sacrifice",
+   "variation": "Later regional tradition."
+  },
+  "ahiravana|kali|devotee": {
+   "label": "Ahiravana worshipped a fierce goddess, often named Mahamaya or Kali, to whom he meant to sacrifice Rama",
+   "variation": "The goddess is also named Bhadrakali, Kamakshi or Patala-devi."
+  }
+ }
+}

@@ -1,0 +1,1195 @@
+{
+ "section": "15-kaurava-allies",
+ "nodes": {
+  "duryodhana": {
+   "name": "Duryodhana",
+   "aliases": [
+    "Suyodhana",
+    "Kurushreshtha",
+    "Gandhareya",
+    "Dhartarashtra",
+    "Kururaja"
+   ],
+   "description": "Eldest of the hundred sons of Dhritarashtra and Gandhari and the leader of the Kaurava side in the Kurukshetra war. The Adi Parva calls him a portion of Kali; the epic also shows him as a generous friend to Karna, a master of the mace and a king who died unrepentant but, in its own words, as a kshatriya.",
+   "story": "After the eighteenth day's slaughter Duryodhana hid beneath the waters of a lake, but the Pandavas found him and taunted him until he rose, mace in hand. Yudhishthira let him choose any one opponent; he chose Bhima. Their teacher Balarama arrived to watch his two disciples fight. The duel was even until Krishna reminded Arjuna of Bhima's vow, and Arjuna slapped his own thigh. Bhima struck below the navel and shattered Duryodhana's thighs, the very thigh he had once bared to Draupadi. Balarama raged at the foul blow. Lying broken, Duryodhana listed Krishna's stratagems against Bhishma, Drona, Karna and Bhurishravas, declaring that he had lived as a king and would die as one. The epic says flowers then rained from the sky upon him while celestial music sounded.",
+   "symbols": [
+    "Mace (gada)",
+    "Jewelled serpent banner",
+    "Royal parasol"
+   ],
+   "weapons": [
+    "Mace (gada)",
+    "Bow"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Shalya Parva"
+   ],
+   "variations": [
+    "Some southern and folk retellings (and the Sanskrit drama Urubhanga by Bhasa) portray him as a tragic hero reconciled in his last hours.",
+    "He is worshipped as a deity at the Poruvazhy Peruviruthy Malanada temple in Kerala and in several villages of the upper Tons valley (Uttarakhand).",
+    "Draupadi's mocking laughter at the Maya Sabha, often cited as the root of his hatred, is a later embellishment; in the Critical Edition Bhima and the attendants laugh at his fall."
+   ]
+  },
+  "dushasana": {
+   "name": "Dushasana",
+   "aliases": [
+    "Duhshasana",
+    "Dussasana",
+    "Dhartarashtra"
+   ],
+   "description": "Second of the hundred Kaurava brothers and Duryodhana's most devoted follower. He is remembered above all for dragging Draupadi into the assembly hall after the game of dice, an outrage that Bhima avenged on the seventeenth day of the war.",
+   "story": "When Yudhishthira had staked and lost Draupadi, Duryodhana sent Dushasana to fetch her. She was in her season and wearing a single garment, but he seized her by her long hair and dragged her into the hall of elders, mocking her as a slave. At Karna's urging he began to strip her before the silent court, yet each garment he pulled away was replaced by another until a heap of cloth lay on the floor and he sank down exhausted. Bhima then swore a terrible oath: he would tear open Dushasana's chest and drink his blood. Years later on the battlefield Bhima brought him down, broke him, ripped open his breast and tasted his blood before both armies, crying that it was sweeter than milk or honey.",
+   "symbols": [
+    "Bow",
+    "Mace"
+   ],
+   "weapons": [
+    "Bow",
+    "Mace",
+    "Sword"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Karna Parva"
+   ],
+   "variations": [
+    "In the vulgate and in devotional tradition Draupadi's endless garments are Krishna's direct answer to her prayer; the Critical Edition relegates the explicit invocation of Krishna to an appendix and keeps only the miracle.",
+    "In some retellings Draupadi vows to leave her hair unbound until she can wash it in Dushasana's blood."
+   ]
+  },
+  "vikarna": {
+   "name": "Vikarna",
+   "aliases": [
+    "Vikarna Kaurava"
+   ],
+   "description": "One of the hundred sons of Dhritarashtra, celebrated as the conscience of the Kauravas. He alone among Duryodhana's brothers protested in the dice hall that Draupadi had not been lawfully won, yet he still fought for his elder brother and was killed by Bhima.",
+   "story": "Dragged into the assembly, Draupadi asked the elders whether Yudhishthira, having already lost himself, had any right to stake her. Bhishma equivocated and the kings sat silent. Then young Vikarna rose. Gambling, he said, is a vice of kings; Yudhishthira was goaded by Shakuni and staked her only after he had lost his own freedom, and she was in any case the wife of all five brothers. Therefore she had not been won. The hall roared its approval until Karna rebuked him as a mere boy speaking out of turn and ordered Draupadi stripped. Loyal nonetheless to Duryodhana, Vikarna took the field at Kurukshetra and was cut down by Bhima's arrows during the fighting around Drona's array, one of many Kaurava brothers whom Bhima had sworn to destroy.",
+   "symbols": [
+    "Bow"
+   ],
+   "weapons": [
+    "Bow"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Drona Parva"
+   ],
+   "variations": [
+    "Popular retellings add a lament in which Bhima grieves that he must kill the one Kaurava who spoke for dharma; the scene is elaborated in later and regional versions.",
+    "Some modern adaptations make him a larger moral voice throughout the epic, which goes beyond the textual evidence."
+   ]
+  },
+  "dushala": {
+   "name": "Dushala",
+   "aliases": [
+    "Duhshala",
+    "Dussala"
+   ],
+   "description": "The only daughter of Dhritarashtra and Gandhari, sister of the hundred Kauravas, and wife of Jayadratha, king of the Sindhus. After the war she moved Arjuna to spare her people during Yudhishthira's horse sacrifice.",
+   "story": "When Vyasa divided Gandhari's hard mass of flesh into pots, Gandhari silently wished for a daughter as well, and the sage made one more portion from which Dushala was born. She was married to Jayadratha of Sindhu, who died by Arjuna's arrow. Years later Yudhishthira's sacrificial horse wandered into Sindhu with Arjuna following, and the Sindhu warriors attacked him. Hearing that Arjuna had come, Dushala's son Suratha died of grief and terror. Dushala then came to the battlefield with her infant grandson in her arms and begged her brother's foe for mercy. Remembering Gandhari and Dhritarashtra, Arjuna put down Gandiva, reproached himself for the war's slaughter, embraced the child and sent her home in peace.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Sindhu kingdom",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Ashvamedhika Parva"
+   ],
+   "variations": [
+    "Accounts of how the extra portion for a daughter was created vary slightly between recensions."
+   ]
+  },
+  "jayadratha": {
+   "name": "Jayadratha",
+   "aliases": [
+    "Saindhava",
+    "Sindhuraja",
+    "Sauvira"
+   ],
+   "description": "King of Sindhu and Sauvira, husband of the Kaurava princess Dushala. He tried to abduct Draupadi in the forest and, armed with a boon from Shiva, held back the Pandavas at the Chakravyuha on the day Abhimanyu was killed.",
+   "story": "While the Pandavas were hunting, Jayadratha came upon Draupadi alone at their hermitage in the Kamyaka forest and carried her off in his chariot. The brothers pursued him; Bhima dragged him down and would have killed him, but Yudhishthira spared him for the sake of their cousin Dushala. Bhima shaved his head into five tufts and made him declare himself a slave of the Pandavas. Burning with shame, Jayadratha performed austerities until Shiva granted that he could hold back all the Pandavas except Arjuna for a single day. That day came when Drona formed the Chakravyuha: Abhimanyu broke in, and Jayadratha sealed the breach behind him. Arjuna vowed to kill Jayadratha before the next sunset or enter fire, and as the light failed on the fourteenth day his arrow took Jayadratha's head.",
+   "symbols": [
+    "Silver boar banner"
+   ],
+   "weapons": [
+    "Bow",
+    "Sword"
+   ],
+   "vahana": null,
+   "abode": "Sindhu-Sauvira",
+   "sources": [
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Drona Parva"
+   ],
+   "variations": [
+    "In one version his father Vriddhakshatra had decreed that whoever made his son's head fall to the ground would have his own head burst; Arjuna therefore sent the head flying into the old king's lap.",
+    "Krishna's darkening of the sky (by yoga, or in later retellings by covering the sun with the Sudarshana) that drew Jayadratha out of hiding is told differently across versions."
+   ]
+  },
+  "yuyutsu": {
+   "name": "Yuyutsu",
+   "aliases": [
+    "Dhartarashtra",
+    "Vaishyaputra",
+    "Karani"
+   ],
+   "description": "Son of Dhritarashtra by a Vaishya woman who attended him during Gandhari's long pregnancy. On the eve of battle he crossed over to the Pandavas, survived the war, and was later entrusted with guarding the kingdom.",
+   "story": "At Kurukshetra, with both armies drawn up, Yudhishthira took off his armour, walked across to pay respect to his elders, and then called out that anyone who wished to join the side of dharma could still do so. Of all Dhritarashtra's sons only Yuyutsu answered. As drums sounded he crossed the field to the Pandava lines, choosing conscience over kinship. He fought for them through the war and was among the very few of his father's line to survive it. When Duryodhana fell, Yuyutsu escorted the widowed royal women back to Hastinapura, and Vidura praised him for acting rightly. Decades later, when the Pandavas set out on their last journey, Yudhishthira placed the kingdom under Yuyutsu's care while the young Parikshit reigned.",
+   "symbols": [],
+   "weapons": [
+    "Bow"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Bhishma Parva",
+    "Mahabharata, Shalya Parva",
+    "Mahabharata, Mahaprasthanika Parva"
+   ],
+   "variations": []
+  },
+  "shakuni": {
+   "name": "Shakuni",
+   "aliases": [
+    "Saubala",
+    "Gandhararaja",
+    "Subalaputra"
+   ],
+   "description": "Prince of Gandhara, son of King Subala and brother of Gandhari, who lived at the Kuru court as Duryodhana's maternal uncle and chief counsellor. A master of dice, he won Yudhishthira's kingdom, brothers and wife in the fateful game and was killed by Sahadeva on the last day of the war.",
+   "story": "Consumed with envy after Yudhishthira's royal consecration and his humiliating stumble in the Pandavas' magical hall, Duryodhana confided in his uncle. Shakuni proposed a gentler weapon than war: Yudhishthira loved dice but did not know them, while he himself had no equal at the throw. With Dhritarashtra's reluctant consent the invitation was sent. In the new assembly hall Shakuni played on Duryodhana's behalf and, throw after throw, cried 'I have won!' Yudhishthira lost his jewels, his armies, his kingdom, each of his brothers, himself and finally Draupadi. Sahadeva, the youngest Pandava, swore then that he would kill Shakuni. On the eighteenth day of the war, after slaying Shakuni's son Uluka, Sahadeva struck off his head with a broad arrow, fulfilling the vow.",
+   "symbols": [
+    "Dice"
+   ],
+   "weapons": [
+    "Dice",
+    "Bow",
+    "Sword",
+    "Spear"
+   ],
+   "vahana": null,
+   "abode": "Gandhara; Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Shalya Parva"
+   ],
+   "variations": [
+    "Popular folk tales, absent from the Mahabharata, say Bhishma imprisoned Subala's family and starved them, and that Shakuni's dice were carved from his dead father's bones so that they obeyed him, making his whole life a revenge on the Kurus.",
+    "The Adi Parva identifies Shakuni as an incarnation of Dvapara, the personified age of doubt."
+   ]
+  },
+  "drona": {
+   "name": "Drona",
+   "aliases": [
+    "Dronacharya",
+    "Bharadvaja",
+    "Kumbhayoni",
+    "Acharya"
+   ],
+   "description": "Brahmin master of arms, son of the sage Bharadvaja, who became preceptor of both the Kaurava and Pandava princes. Bound to Hastinapura, he commanded the Kaurava army after Bhishma and was slain by Dhrishtadyumna, the son born to avenge his humiliation of Drupada.",
+   "story": "As boys Drona and Prince Drupada studied together, and Drupada promised to share his kingdom. Years later Drona was so poor that his little son drank flour stirred in water believing it was milk. He went to Drupada, now king, and greeted him as a friend, but was spurned: a king cannot be friends with a beggar. Drona came to Hastinapura, lifted the princes' ball from a well with blades of grass, and Bhishma made him their teacher. When his pupils' training was complete he asked a single fee: bring Drupada to me bound. Arjuna did so. Drona took half of Panchala and returned the rest, saying now they were equals and could be friends. Drupada left with a fire of vengeance, and performed a sacrifice for a son who would kill Drona.",
+   "symbols": [
+    "Water-pot (kamandalu)",
+    "Golden altar banner",
+    "Bow"
+   ],
+   "weapons": [
+    "Bow",
+    "Brahmastra",
+    "Brahmashira",
+    "Divine astras received from Parashurama"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura; northern Panchala (Ahichhatra)",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Shanti Parva"
+   ],
+   "variations": [
+    "The Adi Parva calls him a partial incarnation of Brihaspati, guru of the gods.",
+    "His name ('born of a vessel') refers to his birth from Bharadvaja's seed caught in a drona after the sage saw the apsara Ghritachi.",
+    "In Haryana tradition Gurugram (Gurgaon) is held to be the village gifted to him by the Kurus."
+   ]
+  },
+  "kripi": {
+   "name": "Kripi",
+   "aliases": [
+    "Gautami",
+    "Sharadvati"
+   ],
+   "description": "Twin sister of Kripa, born of the sage Sharadvan and raised in the palace by King Shantanu. She married Drona and was the mother of Ashwatthama.",
+   "story": "The sage Sharadvan, son of Gautama, cared more for the science of archery than for the Vedas, and his austerities alarmed Indra, who sent the apsara Janapadi to distract him. At the sight of her his seed fell upon a clump of reeds, split in two, and from it twins were born. Soldiers of King Shantanu, out hunting, found the infants lying beside a bow, arrows and a deerskin and brought them to the king, who raised them out of compassion and named them Kripa and Kripi. Kripi grew up at the Kuru court and was given in marriage to the impoverished brahmin Drona. Their son Ashwatthama neighed like a horse at birth, and for his sake she endured years of poverty before Drona found favour with Bhishma.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": [
+    "In the Bhagavata Purana Draupadi pleads for Ashwatthama's life after the night raid, not wishing Kripi to grieve for a son as she grieves for hers."
+   ]
+  },
+  "ashwatthama": {
+   "name": "Ashwatthama",
+   "aliases": [
+    "Ashvatthaman",
+    "Drauni",
+    "Dronaputra",
+    "Drona's son"
+   ],
+   "description": "Son of Drona and Kripi, born with a jewel on his forehead and said to embody portions of Shiva, Yama, desire and wrath. He became the last commander of the Kauravas, massacred the sleeping Pandava camp and was cursed by Krishna to wander the earth; he is counted among the Chiranjivis.",
+   "story": "With Duryodhana dying, Ashwatthama lay awake beneath a banyan tree and watched an owl slaughter a roost of sleeping crows. He resolved to do the same. Ignoring Kripa's pleas, he went to the Pandava camp, where a vast, terrible being barred the gate. His weapons vanished into it, so he offered himself as a sacrifice to Shiva; the god entered his body and gave him a gleaming sword. Inside, he kicked the sleeping Dhrishtadyumna awake and beat and strangled him, refusing him a warrior's death, then cut down Shikhandi and all five sons of Draupadi while Kripa and Kritavarma killed those fleeing at the gate. Pursued, he loosed the Brahmashira and turned it on Uttara's unborn child. For this Krishna cursed him to roam for three thousand years, friendless and diseased.",
+   "symbols": [
+    "Jewel on the forehead",
+    "Lion's-tail banner"
+   ],
+   "weapons": [
+    "Narayanastra",
+    "Brahmashira",
+    "Bow",
+    "Sword given by Shiva"
+   ],
+   "vahana": null,
+   "abode": null,
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Sauptika Parva",
+    "Bhagavata Purana, Canto 1"
+   ],
+   "variations": [
+    "In the Bhagavata Purana Arjuna captures him and brings him before Draupadi, who asks for his release; his head is shaved and his jewel taken instead of his life.",
+    "Folk belief holds that he still wanders, and he is said to visit places such as the Asirgarh fort in Madhya Pradesh and the banks of the Narmada.",
+    "He is listed among the seven (or eight) Chiranjivis in a popular Sanskrit verse."
+   ]
+  },
+  "kripa": {
+   "name": "Kripa",
+   "aliases": [
+    "Kripacharya",
+    "Gautama",
+    "Sharadvata",
+    "Acharya"
+   ],
+   "description": "Twin brother of Kripi, born of the sage Sharadvan and fostered by King Shantanu, who became the first arms-teacher of the Kuru princes. He fought for the Kauravas, survived the war, later taught Parikshit and is counted among the Chiranjivis.",
+   "story": "Born from Sharadvan's seed that fell on a clump of reeds, the infant twins were found by Shantanu's hunters and raised at Hastinapura. Their father later came in secret and taught Kripa the four branches of archery, and Kripa became teacher to the young Kauravas and Pandavas before Drona arrived. Loyal to the throne he served, he rode with Duryodhana through all eighteen days, often speaking plainly against Karna's boasts. When only three Kaurava warriors survived, Kripa begged Ashwatthama not to attack sleeping men, counselling him to consult Dhritarashtra, Gandhari and Vidura. Overruled, he nevertheless stood at the gate of the Pandava camp during the massacre. After the war he returned to the Kuru court, and when the Pandavas departed on their last journey, Kripa was appointed preceptor of the young King Parikshit.",
+   "symbols": [
+    "Bull banner",
+    "Bow"
+   ],
+   "weapons": [
+    "Bow",
+    "Divine astras"
+   ],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sauptika Parva",
+    "Mahabharata, Mahaprasthanika Parva",
+    "Bhagavata Purana, Canto 8"
+   ],
+   "variations": [
+    "The Bhagavata Purana names him as one of the Saptarishis of the future eighth Manvantara.",
+    "The Adi Parva says he was born from a portion of the host of Rudras."
+   ]
+  },
+  "drupada": {
+   "name": "Drupada",
+   "aliases": [
+    "Yajnasena",
+    "Panchalaraja",
+    "Parshata",
+    "Somaka"
+   ],
+   "description": "King of Panchala, son of Prishata, and father of Draupadi, Dhrishtadyumna and Shikhandi. Drona's boyhood friend turned bitter enemy, he became the Pandavas' father-in-law and chief ally, and died by Drona's hand in the war.",
+   "story": "Captured by Arjuna and dragged before Drona as a teacher's fee, Drupada lost half his kingdom and all his peace. Unable to defeat the brahmin warrior in arms, he wandered among ascetics seeking a priest who would perform a sacrifice for an avenging son. The sage Upayaja refused, but his elder brother Yaja agreed. From the fire of the rite a young man rose in armour, bearing sword and bow, and mounted a chariot as a heavenly voice proclaimed that he was born to slay Drona. From the middle of the altar then rose a dark, lotus-eyed maiden, and the voice declared that she would bring about the destruction of the kshatriyas. Drupada named them Dhrishtadyumna and Krishnaa, later called Draupadi, and in time gave her in marriage to the Pandavas at her svayamvara.",
+   "symbols": [
+    "Bow"
+   ],
+   "weapons": [
+    "Bow",
+    "Sword"
+   ],
+   "vahana": null,
+   "abode": "Kampilya, southern Panchala",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Drona Parva"
+   ],
+   "variations": [
+    "The Adi Parva says he was born of a portion of the Marut host.",
+    "His epithet Yajnasena is sometimes linked to his sacrifice for children."
+   ]
+  },
+  "dhrishtadyumna": {
+   "name": "Dhrishtadyumna",
+   "aliases": [
+    "Parshata",
+    "Drupadaputra",
+    "Panchalya",
+    "Yajnaseni-brother"
+   ],
+   "description": "Son of Drupada, born fully armed from a sacrificial fire to kill Drona, and twin of Draupadi. He served as supreme commander of the Pandava army throughout the Kurukshetra war and was murdered in his sleep by Ashwatthama.",
+   "story": "Drona knew the prophecy that Dhrishtadyumna had been born to kill him, yet he took the Panchala prince as a pupil and taught him arms, holding that destiny could not be escaped. On the fifteenth day of the war the Pandavas, desperate, let Drona hear that Ashwatthama was dead; Yudhishthira confirmed it, murmuring that it was an elephant of that name. Grief-stricken, Drona laid down his weapons and sat on his chariot in yogic meditation. Dhrishtadyumna leapt up, seized him by the hair and struck off his head, while Arjuna cried out to spare the teacher. The act divided even the Pandavas, and Satyaki denounced him. It also sealed his fate: three nights later Ashwatthama crept into his tent, kicked him awake and killed him with blows, denying him a death by weapons.",
+   "symbols": [
+    "Sword",
+    "Bow",
+    "Armour"
+   ],
+   "weapons": [
+    "Sword",
+    "Bow"
+   ],
+   "vahana": null,
+   "abode": "Kampilya, Panchala",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Sauptika Parva"
+   ],
+   "variations": [
+    "The Adi Parva calls him a portion of Agni.",
+    "Retellings differ on whether Drona had already left his body in yoga before Dhrishtadyumna's blow, which some use to soften the charge of killing a disarmed teacher."
+   ]
+  },
+  "shikhandi": {
+   "name": "Shikhandi",
+   "aliases": [
+    "Shikhandin",
+    "Shikhandini",
+    "Yajnaseni"
+   ],
+   "description": "Child of Drupada, born a daughter and later transformed into a man, who was the rebirth of Princess Amba. Because Bhishma would not raise arms against one born female, Arjuna shot him down from behind Shikhandi on the tenth day of the war.",
+   "story": "Amba, abducted by Bhishma and then rejected by everyone, burned herself in a fire vowing to be reborn as his killer. Drupada, who had prayed to Shiva for a son, was told he would have a daughter who would become a man. The child Shikhandini was raised as a boy and even married to a princess of Dasharna, whose father, discovering the truth, threatened war. In despair Shikhandini went into the forest, where the yaksha Sthunakarna agreed to exchange sexes with her for a time; Kubera then cursed the yaksha to remain female until Shikhandi's death. At Kurukshetra Bhishma revealed that he would not fight Shikhandi, and on the tenth day Arjuna, sheltering behind him, pierced the grandsire with arrows until he fell. Shikhandi died in Ashwatthama's night raid.",
+   "symbols": [
+    "Bow"
+   ],
+   "weapons": [
+    "Bow"
+   ],
+   "vahana": null,
+   "abode": "Kampilya, Panchala",
+   "sources": [
+    "Mahabharata, Udyoga Parva (Ambopakhyana)",
+    "Mahabharata, Bhishma Parva",
+    "Mahabharata, Sauptika Parva"
+   ],
+   "variations": [
+    "The Adi Parva's list of partial incarnations says Shikhandi was born from a portion of a rakshasa, alongside the fuller Amba rebirth story of the Udyoga Parva.",
+    "Modern readers have discussed Shikhandi in connection with gender identity; interpretations differ widely."
+   ]
+  },
+  "virata": {
+   "name": "Virata",
+   "aliases": [
+    "Matsyaraja",
+    "Matsyapati"
+   ],
+   "description": "King of the Matsyas, at whose court in Viratanagara the Pandavas spent their thirteenth year of exile in disguise. His daughter Uttara married Abhimanyu, and he fought for the Pandavas until Drona killed him on the fifteenth day.",
+   "story": "In the year of hiding the Pandavas entered Virata's service in disguise: Yudhishthira as the dice-playing brahmin Kanka, Bhima as the cook Ballava, Arjuna as the dance-master Brihannala, Nakula and Sahadeva as keepers of horses and cattle, and Draupadi as the maid Sairandhri. When the Kauravas raided Virata's cattle, his young son Uttara rode out with Brihannala as charioteer and returned victorious. Virata, back from fighting the Trigartas, boasted of his son; when Kanka insisted the credit belonged to Brihannala, the angry king flung the dice at his face and drew blood, which Draupadi caught in a cup. Days later the Pandavas revealed themselves. Mortified and honoured, Virata offered Uttara to Arjuna, who accepted her as a bride for his son Abhimanyu.",
+   "symbols": [
+    "Bow"
+   ],
+   "weapons": [
+    "Bow",
+    "Sword"
+   ],
+   "vahana": null,
+   "abode": "Viratanagara, Matsya kingdom",
+   "sources": [
+    "Mahabharata, Virata Parva",
+    "Mahabharata, Drona Parva"
+   ],
+   "variations": [
+    "The Adi Parva says he was born of a portion of the Marut host.",
+    "Viratanagara is traditionally identified with Bairat in Rajasthan."
+   ]
+  },
+  "sudeshna": {
+   "name": "Sudeshna",
+   "aliases": [
+    "Kaikeyi (of Virata)",
+    "Matsya queen"
+   ],
+   "description": "Queen of King Virata of Matsya, mother of Uttara and sister of the commander Kichaka. She took the disguised Draupadi into service as her maid Sairandhri.",
+   "story": "When a beautiful woman calling herself Sairandhri came to the palace seeking work, Queen Sudeshna hesitated, fearing that the king himself might be captivated. Draupadi reassured her that five gandharva husbands guarded her virtue, and the queen took her in. But Sudeshna's brother Kichaka soon burned with desire for the maid and pleaded with his sister to help him. Sudeshna yielded and sent Sairandhri to Kichaka's house on the pretext of fetching wine, setting in motion the assault, the humiliation in court and at last Kichaka's death at Bhima's hands. Terrified afterwards of Sairandhri's invisible protectors, the queen begged her to leave the city; Draupadi asked for only thirteen more days, the time remaining in the Pandavas' year of hiding.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Viratanagara, Matsya kingdom",
+   "sources": [
+    "Mahabharata, Virata Parva"
+   ],
+   "variations": [
+    "She is called a Kekaya princess in the Virata Parva, while her brother Kichaka is called a suta (charioteer-caste) warrior; later retellings explain the family's origins differently."
+   ]
+  },
+  "kichaka": {
+   "name": "Kichaka",
+   "aliases": [
+    "Sutaputra",
+    "Matsya senapati"
+   ],
+   "description": "The mighty commander of King Virata's army and brother of Queen Sudeshna. His assault on the disguised Draupadi led Bhima to kill him secretly in the dance hall of Viratanagara.",
+   "story": "Kichaka, whose strength made him the true power in the Matsya kingdom, became obsessed with his sister's maid Sairandhri. When she came to his house he seized her; she fled into the royal court, where he kicked her to the ground before King Virata, who did nothing. That night Draupadi went to Bhima in the palace kitchen and wept. They laid a plan: she would promise to meet Kichaka alone in the dance hall after dark. Kichaka came, perfumed and eager, and found Bhima waiting in the shadows. The two wrestled like bulls until Bhima crushed Kichaka's limbs into his body, leaving a shapeless ball of flesh. When his many brothers tried to burn Sairandhri on his pyre, Bhima uprooted a tree and killed them all.",
+   "symbols": [],
+   "weapons": [
+    "Mace",
+    "Bare strength"
+   ],
+   "vahana": null,
+   "abode": "Viratanagara, Matsya kingdom",
+   "sources": [
+    "Mahabharata, Virata Parva"
+   ],
+   "variations": [
+    "Duryodhana guessed from the manner of Kichaka's death that only Bhima could have killed him, and so suspected the Pandavas were hiding in Matsya.",
+    "Kathakali and other regional theatre traditions stage Kichaka-vadha as a celebrated set piece."
+   ]
+  },
+  "ekalavya": {
+   "name": "Ekalavya",
+   "aliases": [
+    "Naishadi",
+    "Nishadaputra"
+   ],
+   "description": "Son of Hiranyadhanus, chief of the Nishada forest people, who learned archery by practising before a clay image of Drona after the teacher turned him away. Drona demanded his right thumb as a teacher's fee so that Arjuna would remain unsurpassed.",
+   "story": "Ekalavya came to Drona asking to be taught, but Drona, teacher of the Kuru princes, would not accept a Nishada. The boy went back to the forest, made an image of Drona from earth, honoured it as his guru and practised until he became a superb archer. One day a dog belonging to the princes' hunting party barked at him, and he silenced it with seven arrows shot into its mouth, without killing it. The princes marvelled; Arjuna, whom Drona had promised no pupil would surpass, complained to his teacher. Drona went to Ekalavya, accepted his homage, and asked for his right thumb as fee. Without hesitation Ekalavya cut it off and gave it. Afterwards, the epic says, he no longer shot as swiftly, and Arjuna's fever of rivalry passed.",
+   "symbols": [
+    "Clay image of Drona",
+    "Bow"
+   ],
+   "weapons": [
+    "Bow"
+   ],
+   "vahana": null,
+   "abode": "Forest of the Nishadas",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Sabha Parva",
+    "Harivamsha"
+   ],
+   "variations": [
+    "The Harivamsha makes him a son of Devashravas, a Yadava, raised among the Nishadas, and places him with Jarasandha against Krishna.",
+    "A passage attributed to Krishna in the Drona Parva lists Ekalavya among those he removed for Arjuna's sake; later retellings say Krishna killed him, which is not uniformly attested.",
+    "Modern Dalit and Adivasi readings see the thumb episode as a paradigm of caste exclusion; regional traditions add later lives for him."
+   ]
+  },
+  "shalya": {
+   "name": "Shalya",
+   "aliases": [
+    "Madraraja",
+    "Madresha",
+    "Artayani"
+   ],
+   "description": "King of Madra and brother of Madri, and so maternal uncle of Nakula and Sahadeva. Tricked by Duryodhana's hospitality into fighting for the Kauravas, he served as Karna's charioteer, commanded the Kaurava army on the last day and was killed by Yudhishthira.",
+   "story": "Shalya set out with a great army to join his nephews, but Duryodhana had rest-houses built along his route, stocked with food, wine and entertainments. Delighted, Shalya asked who had arranged them, promising a boon to his host. Duryodhana stepped forward and asked him to lead his army. Bound by his word, Shalya agreed, then went on to Yudhishthira and confessed. Yudhishthira asked one favour: if Shalya was ever made Karna's charioteer, let him sap Karna's spirit. On the seventeenth day that came to pass. As they drove to battle Shalya praised Arjuna and belittled Karna, telling him the fable of the crow who challenged the swans. The next day, as the Kauravas' last commander, Shalya faced Yudhishthira, whose hurled spear struck him in the chest and killed him.",
+   "symbols": [
+    "Golden ploughshare banner"
+   ],
+   "weapons": [
+    "Spear (shakti)",
+    "Mace",
+    "Bow"
+   ],
+   "vahana": null,
+   "abode": "Shakala, Madra kingdom",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Karna Parva",
+    "Mahabharata, Shalya Parva"
+   ],
+   "variations": [
+    "The Adi Parva says he was an incarnation of the asura Samhlada, brother of Prahlada.",
+    "Bhishma paid Shalya a rich bride-price when Madri was married to Pandu, a Madra custom the epic notes with some disapproval."
+   ]
+  },
+  "bhagadatta": {
+   "name": "Bhagadatta",
+   "aliases": [
+    "Pragjyotishesha",
+    "Pragjyotishadhipa",
+    "Shailalaya"
+   ],
+   "description": "King of Pragjyotisha (in present-day Assam), son of the asura-king Naraka and a renowned elephant warrior. An ally of the Kauravas, he fought on his great elephant Supratika and was slain by Arjuna on the twelfth day.",
+   "story": "Bhagadatta, old but undaunted, drove his elephant Supratika through the Pandava ranks, scattering chariots and nearly trampling Bhima. When Arjuna came against him, the king hurled his elephant-goad, charged with the Vaishnava weapon, straight at him. Krishna rose in the chariot and took the weapon on his own chest, where it turned into a garland. To the protesting Arjuna he explained that he had once given this weapon to the Earth for her son Naraka, from whom it passed to Bhagadatta; no one else could have withstood it. Freed of that danger, Arjuna shot Supratika through the temple and pierced Bhagadatta's heart with a crescent-headed arrow. The aged king fell from his elephant like a flowering tree toppled by the wind.",
+   "symbols": [
+    "War elephant",
+    "Elephant-goad (ankusha)"
+   ],
+   "weapons": [
+    "Vaishnavastra",
+    "Ankusha",
+    "Bow",
+    "Spear"
+   ],
+   "vahana": "Supratika (war elephant)",
+   "abode": "Pragjyotisha",
+   "sources": [
+    "Mahabharata, Sabha Parva",
+    "Mahabharata, Drona Parva"
+   ],
+   "variations": [
+    "A popular detail says he tied up his drooping eyelids with a silk band, which Arjuna cut before killing him.",
+    "The Sabha Parva calls him a friend of Indra and says he fought Arjuna for eight days during the Pandava conquests before offering tribute."
+   ]
+  },
+  "bhurishravas": {
+   "name": "Bhurishravas",
+   "aliases": [
+    "Saumadatti",
+    "Bhuri",
+    "Yupaketu"
+   ],
+   "description": "A Kuru prince, son of Somadatta and grandson of Bahlika, who fought for Duryodhana. His death on the fourteenth day, when Arjuna severed his arm and Satyaki beheaded him as he sat in meditation, became one of the war's great controversies.",
+   "story": "The feud began a generation earlier, when Shini of the Vrishnis defeated Somadatta at Devaki's svayamvara and dragged him by the hair; Somadatta then won by austerity a son to avenge him. On the fourteenth day that son, Bhurishravas, met Shini's grandson Satyaki, who was worn out by battle. He threw Satyaki down, seized his hair and raised his sword. Krishna urged Arjuna to save his disciple, and Arjuna's arrow cut off Bhurishravas' sword-arm. Bhurishravas reproached Arjuna for striking a man engaged with another, then spread out arrows, sat upon them and entered meditation to die. Satyaki rose, and ignoring the cries of both armies, struck off his head. Arguments over who was in the wrong raged across the field that day.",
+   "symbols": [
+    "Sacrificial-post banner (yupa)"
+   ],
+   "weapons": [
+    "Bow",
+    "Sword"
+   ],
+   "vahana": null,
+   "abode": "Bahlika kingdom",
+   "sources": [
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Drona Parva"
+   ],
+   "variations": [
+    "Some retellings stress that Bhurishravas was renowned as a generous sacrificer, which is reflected in his banner, the sacrificial post."
+   ]
+  },
+  "satyaki": {
+   "name": "Satyaki",
+   "aliases": [
+    "Yuyudhana",
+    "Shaineya",
+    "Shinipungava",
+    "Madhava"
+   ],
+   "description": "A Vrishni-Yadava hero, grandson of Shini, who learned archery from Arjuna and was Krishna's close companion. He was one of the few Yadavas to fight for the Pandavas, and was killed in the drunken brawl at Prabhasa after beheading Kritavarma.",
+   "story": "Satyaki, also called Yuyudhana, rode at Krishna's side on the peace embassy to Hastinapura and brought an akshauhini to the Pandavas. On the fourteenth day, while Arjuna fought his way toward Jayadratha, Yudhishthira ordered Satyaki to follow and support him. He forced his way through Drona's array, fought Drona, Kritavarma and Karna's forces in turn and reached Arjuna exhausted, only to be thrown down by Bhurishravas, the son of his family's old enemy. Saved by Arjuna's arrow, he beheaded the dying Bhurishravas. Years later at Prabhasa, when the Yadavas had drunk deeply, Satyaki mocked Kritavarma for murdering sleeping men. Tempers flared, he struck off Kritavarma's head, and the Bhojas and Andhakas fell upon him and killed him, beginning the Yadavas' self-destruction.",
+   "symbols": [
+    "Bow",
+    "Silver-white chariot"
+   ],
+   "weapons": [
+    "Bow",
+    "Sword"
+   ],
+   "vahana": null,
+   "abode": "Dvaraka",
+   "sources": [
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Drona Parva",
+    "Mahabharata, Mausala Parva",
+    "Harivamsha"
+   ],
+   "variations": [
+    "The Adi Parva says he was born of a portion of the Marut host.",
+    "Puranic genealogies give his descent from Shini, son of Satyaka, in the Vrishni branch of the Yadavas."
+   ]
+  },
+  "kritavarma": {
+   "name": "Kritavarma",
+   "aliases": [
+    "Kritavarman",
+    "Hardikya",
+    "Bhoja"
+   ],
+   "description": "A Bhoja-Yadava chief, son of Hridika, who led an akshauhini for Duryodhana even though Krishna fought beside the Pandavas. One of the three Kaurava warriors to survive the war, he took part in Ashwatthama's night raid and was later killed by Satyaki at Prabhasa.",
+   "story": "When Duryodhana and Arjuna both sought Krishna's help, the Yadavas divided, and Kritavarma marched with a full akshauhini to the Kaurava side. He fought through all eighteen days and was among the last three standing with Kripa and Ashwatthama. On the night after Duryodhana fell he followed Ashwatthama to the Pandava camp and, with Kripa, guarded the gates, cutting down those who fled the slaughter and setting fire to the tents. He returned home to Dvaraka, but the deed was not forgotten. At Prabhasa, where the Yadavas had gone on pilgrimage and drunk heavily, Satyaki taunted him with killing sleeping men. Kritavarma retorted with the death of Bhurishravas; Satyaki leapt up and beheaded him, and the brawl that destroyed the Yadavas began.",
+   "symbols": [
+    "Bow"
+   ],
+   "weapons": [
+    "Bow",
+    "Mace"
+   ],
+   "vahana": null,
+   "abode": "Dvaraka",
+   "sources": [
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Sauptika Parva",
+    "Mahabharata, Mausala Parva",
+    "Harivamsha",
+    "Vishnu Purana, Book 4"
+   ],
+   "variations": [
+    "In the Syamantaka jewel episode of the Harivamsha and Puranas, Kritavarma and Akrura encourage Shatadhanva to kill Satrajit, then refuse to protect him from Krishna.",
+    "The Adi Parva says he was born of a portion of the Marut host."
+   ]
+  },
+  "sanjaya": {
+   "name": "Sanjaya",
+   "aliases": [
+    "Gavalgani",
+    "Suta",
+    "Sanjaya Gavalgani"
+   ],
+   "description": "Charioteer, counsellor and envoy of the blind king Dhritarashtra, son of the suta Gavalgana. Granted divine sight by Vyasa, he narrated the Kurukshetra war, including the Bhagavad Gita, to the king as it happened.",
+   "story": "Before the battle Vyasa offered sight to his son Dhritarashtra so that he could watch the war, but the king did not wish to see his kin slaughtered; he asked only to hear of it. So Vyasa gave Sanjaya divine vision: he would see everything, openly or secretly, by day or night, even men's thoughts, and would come through the war unharmed. From the field Sanjaya reported Bhishma's fall and then recounted the whole conflict, beginning with the dialogue between Krishna and Arjuna and the vision of the universal form. He ends the Gita declaring that wherever Krishna and Arjuna stand there will be fortune, victory and righteousness. His divine sight faded when Duryodhana died. Years later he accompanied Dhritarashtra, Gandhari and Kunti to the forest and survived the fire that consumed them.",
+   "symbols": [],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Hastinapura",
+   "sources": [
+    "Mahabharata, Udyoga Parva",
+    "Mahabharata, Bhishma Parva (Bhagavad Gita)",
+    "Mahabharata, Sauptika Parva",
+    "Mahabharata, Ashramavasika Parva"
+   ],
+   "variations": [
+    "Some readers treat Sanjaya's divine sight as an image for the narrator's omniscience; devotional tradition treats it as a literal gift of Vyasa's power."
+   ]
+  }
+ },
+ "edges": {
+  "dhritarashtra|duryodhana|parent": {
+   "label": "Duryodhana was the eldest of Dhritarashtra's hundred sons"
+  },
+  "gandhari|duryodhana|parent": {
+   "label": "First to emerge from the pots of ghee in which Vyasa placed Gandhari's divided embryo"
+  },
+  "dhritarashtra|dushasana|parent": {
+   "label": "Dushasana was Dhritarashtra's second son"
+  },
+  "gandhari|dushasana|parent": {
+   "label": "Dushasana was Gandhari's second son"
+  },
+  "dhritarashtra|vikarna|parent": {
+   "label": "Vikarna was one of Dhritarashtra's hundred sons"
+  },
+  "gandhari|vikarna|parent": {
+   "label": "Vikarna was one of Gandhari's hundred sons"
+  },
+  "dhritarashtra|dushala|parent": {
+   "label": "Dushala was Dhritarashtra's only daughter"
+  },
+  "gandhari|dushala|parent": {
+   "label": "Dushala was born from the extra portion Vyasa made when Gandhari wished for a daughter"
+  },
+  "dhritarashtra|yuyutsu|parent": {
+   "label": "Yuyutsu was Dhritarashtra's son by a Vaishya woman who served him during Gandhari's pregnancy"
+  },
+  "duryodhana|dushasana|sibling": {
+   "label": "Dushasana was Duryodhana's closest brother and enforcer"
+  },
+  "duryodhana|vikarna|sibling": {
+   "label": "Vikarna questioned his brother's conduct yet died fighting for him"
+  },
+  "duryodhana|dushala|sibling": {
+   "label": "Dushala was the sister of the hundred Kauravas"
+  },
+  "duryodhana|yuyutsu|sibling": {
+   "label": "Half-brothers; Yuyutsu deserted Duryodhana for the Pandavas before the battle"
+  },
+  "dushasana|dushala|sibling": {
+   "label": "Brother and sister among Gandhari's children"
+  },
+  "dushasana|vikarna|sibling": {
+   "label": "Brothers who took opposite stands on Draupadi in the dice hall"
+  },
+  "jayadratha|dushala|spouse": {
+   "label": "Dushala, the Kaurava princess, was married to Jayadratha of Sindhu"
+  },
+  "shakuni|gandhari|sibling": {
+   "label": "Shakuni and Gandhari were children of King Subala of Gandhara"
+  },
+  "duryodhana|karna|ally": {
+   "label": "Duryodhana crowned Karna king of Anga at the tournament; Karna stayed loyal to the end"
+  },
+  "shakuni|duryodhana|ally": {
+   "label": "Maternal uncle and chief counsellor who devised the game of dice for him"
+  },
+  "drona|duryodhana|guru": {
+   "label": "Drona taught Duryodhana arms along with the other Kuru princes"
+  },
+  "kripa|duryodhana|guru": {
+   "label": "Kripa was the first arms-teacher of the Kaurava princes"
+  },
+  "balarama|duryodhana|guru": {
+   "label": "Balarama taught Duryodhana the mace and came to watch his final duel with Bhima"
+  },
+  "bhima|duryodhana|slayer": {
+   "label": "Bhima broke Duryodhana's thighs with his mace, fulfilling his vow from the dice hall"
+  },
+  "duryodhana|bhima|enemy": {
+   "label": "Lifelong rivals: Duryodhana poisoned Bhima as a boy and threw him into the Ganga"
+  },
+  "duryodhana|yudhishthira|enemy": {
+   "label": "Rival claimants to the Kuru throne, whose enmity led to the war"
+  },
+  "duryodhana|draupadi|enemy": {
+   "label": "Had Draupadi dragged into the assembly and bared his thigh to her"
+  },
+  "duryodhana|krishna|enemy": {
+   "label": "Rejected Krishna's peace embassy and tried to seize him at Hastinapura"
+  },
+  "duryodhana|kali-purusha|avatar-of": {
+   "label": "The Adi Parva says Duryodhana was born of a portion of Kali",
+   "variation": "Partial incarnation (amsha) in the Adi Parva's list of divine births"
+  },
+  "bhishma|duryodhana|ally": {
+   "label": "Bhishma commanded Duryodhana's army for ten days while wishing the Pandavas well"
+  },
+  "bhima|dushasana|slayer": {
+   "label": "On the seventeenth day Bhima tore open Dushasana's chest and drank his blood as he had sworn"
+  },
+  "dushasana|draupadi|enemy": {
+   "label": "Dragged Draupadi into the assembly by her hair and tried to strip her"
+  },
+  "shakuni|dushasana|ally": {
+   "label": "Member of Duryodhana's inner circle with Shakuni and Karna"
+  },
+  "karna|dushasana|ally": {
+   "label": "Karna urged Dushasana to strip Draupadi in the dice hall"
+  },
+  "bhima|vikarna|slayer": {
+   "label": "Bhima killed Vikarna in the fighting around Drona's array",
+   "variation": "Later retellings add Bhima's lament for the one Kaurava who spoke for dharma"
+  },
+  "vikarna|draupadi|ally": {
+   "label": "Alone among the Kauravas, Vikarna argued in the assembly that Draupadi had not been lawfully won"
+  },
+  "dushala|arjuna|ally": {
+   "label": "Arjuna laid down his bow and spared the Sindhus at Dushala's plea during the horse sacrifice"
+  },
+  "arjuna|jayadratha|slayer": {
+   "label": "Arjuna beheaded Jayadratha at sunset on the fourteenth day, fulfilling his vow"
+  },
+  "shiva|jayadratha|boon": {
+   "label": "Shiva granted that Jayadratha could hold back all the Pandavas except Arjuna for one day"
+  },
+  "jayadratha|draupadi|enemy": {
+   "label": "Jayadratha abducted Draupadi from the Kamyaka forest"
+  },
+  "bhima|jayadratha|enemy": {
+   "label": "Bhima captured Jayadratha, shaved his head into five tufts and made him declare himself a slave"
+  },
+  "jayadratha|abhimanyu|enemy": {
+   "label": "Jayadratha sealed the Chakravyuha behind Abhimanyu, leaving him trapped alone"
+  },
+  "jayadratha|duryodhana|ally": {
+   "label": "Duryodhana's brother-in-law and ally in the war"
+  },
+  "drona|jayadratha|ally": {
+   "label": "Drona arrayed a vast formation to shield Jayadratha from Arjuna on the fourteenth day"
+  },
+  "krishna|jayadratha|enemy": {
+   "label": "Krishna's stratagem of darkness drew Jayadratha out of hiding before sunset",
+   "variation": "The CE has Krishna create darkness by yoga; later retellings say he covered the sun with the Sudarshana"
+  },
+  "yuyutsu|yudhishthira|ally": {
+   "label": "Answered Yudhishthira's call and crossed over to the Pandavas before the battle"
+  },
+  "yuyutsu|parikshit|ally": {
+   "label": "Entrusted with guarding the kingdom for young King Parikshit when the Pandavas departed"
+  },
+  "vidura|yuyutsu|ally": {
+   "label": "Vidura praised Yuyutsu for escorting the royal women safely back to Hastinapura"
+  },
+  "sahadeva|shakuni|slayer": {
+   "label": "Sahadeva beheaded Shakuni on the eighteenth day, fulfilling his vow from the dice hall"
+  },
+  "shakuni|yudhishthira|enemy": {
+   "label": "Shakuni won Yudhishthira's kingdom, brothers and wife at dice"
+  },
+  "shakuni|karna|ally": {
+   "label": "Fellow counsellors of Duryodhana"
+  },
+  "shakuni|dhritarashtra|ally": {
+   "label": "Gandhari's brother, who won Dhritarashtra's consent for the dice game"
+  },
+  "shakuni|draupadi|enemy": {
+   "label": "Goaded Yudhishthira into staking Draupadi and won her for Duryodhana"
+  },
+  "vidura|shakuni|enemy": {
+   "label": "Vidura denounced Shakuni's dice as a ruinous fraud"
+  },
+  "shakuni|bhishma|enemy": {
+   "label": "Folk tales make Shakuni's life a revenge on Bhishma for imprisoning his family",
+   "variation": "Popular folk and television retellings only; absent from the Mahabharata"
+  },
+  "sahadeva|shakuni|enemy": {
+   "label": "Sahadeva swore in the dice hall to kill Shakuni"
+  },
+  "vikarna|shakuni|enemy": {
+   "label": "Vikarna argued in the dice hall that Shakuni had goaded Yudhishthira into staking Draupadi"
+  },
+  "bharadvaja|drona|parent": {
+   "label": "Drona was born from Bharadvaja's seed, caught in a vessel (drona) when the sage saw the apsara Ghritachi"
+  },
+  "drona|brihaspati|avatar-of": {
+   "label": "The Adi Parva says Drona was born of a portion of Brihaspati",
+   "variation": "Partial incarnation (amsha); not a full avatar"
+  },
+  "parashurama|drona|guru": {
+   "label": "Parashurama gave the penniless Drona all his weapons and the knowledge to use them"
+  },
+  "drona|kripi|spouse": {
+   "label": "Drona married Kripi, sister of Kripa"
+  },
+  "drona|arjuna|guru": {
+   "label": "Arjuna was Drona's favourite pupil, to whom he gave the Brahmashira"
+  },
+  "drona|yudhishthira|guru": {
+   "label": "Drona taught Yudhishthira, who excelled with the spear and chariot"
+  },
+  "drona|bhima|guru": {
+   "label": "Drona trained Bhima, who became a master of the mace"
+  },
+  "drona|nakula|guru": {
+   "label": "Drona trained Nakula, famed as a swordsman"
+  },
+  "drona|sahadeva|guru": {
+   "label": "Drona trained Sahadeva with his brothers"
+  },
+  "drona|karna|guru": {
+   "label": "The Adi Parva lists Karna among Drona's pupils; Karna later sought the Brahmastra from Parashurama",
+   "variation": "Shanti Parva: Drona refused Karna the Brahmastra; popular retellings have Drona reject him outright"
+  },
+  "drona|ashwatthama|guru": {
+   "label": "Drona taught his son the secret astras, including the Brahmashira"
+  },
+  "drona|dhrishtadyumna|guru": {
+   "label": "Drona taught Dhrishtadyumna knowing the prince was born to kill him"
+  },
+  "drona|ekalavya|guru": {
+   "label": "Refused as a pupil, Ekalavya learned before a clay image of Drona, who then took his thumb as fee",
+   "variation": "Drona never taught him directly; the guru bond is through the image"
+  },
+  "drona|drupada|enemy": {
+   "label": "Boyhood friends; Drupada spurned the poor Drona, who had Arjuna capture him and took half his kingdom"
+  },
+  "dhrishtadyumna|drona|slayer": {
+   "label": "Dhrishtadyumna beheaded Drona as he sat in meditation after hearing the false news of Ashwatthama's death"
+  },
+  "drona|drupada|slayer": {
+   "label": "Drona killed Drupada on the fifteenth day of the war"
+  },
+  "drona|virata|slayer": {
+   "label": "Drona killed Virata on the fifteenth day of the war"
+  },
+  "bhishma|drona|ally": {
+   "label": "Bhishma appointed Drona preceptor of the Kuru princes and settled him at Hastinapura"
+  },
+  "drona|abhimanyu|enemy": {
+   "label": "Drona formed the Chakravyuha in which Abhimanyu was trapped and killed"
+  },
+  "drona|yudhishthira|enemy": {
+   "label": "Yudhishthira's half-truth that 'Ashwatthama is dead' made Drona lay down his arms"
+  },
+  "drona|ashwatthama|parent": {
+   "label": "Ashwatthama was the only son of Drona"
+  },
+  "kripi|ashwatthama|parent": {
+   "label": "Kripi bore Ashwatthama, who neighed like a horse at birth"
+  },
+  "kripa|kripi|sibling": {
+   "label": "Twins born of the sage Sharadvan from seed fallen on reeds"
+  },
+  "shantanu|kripa|parent": {
+   "label": "Foster father: Shantanu found the abandoned twins while hunting and raised them out of compassion (kripa)"
+  },
+  "shantanu|kripi|parent": {
+   "label": "Foster father: Shantanu raised Kripi with her twin at Hastinapura"
+  },
+  "kripa|yudhishthira|guru": {
+   "label": "Kripa taught the Pandava princes before Drona came"
+  },
+  "kripa|bhima|guru": {
+   "label": "Kripa taught the Pandava princes before Drona came"
+  },
+  "kripa|arjuna|guru": {
+   "label": "Kripa taught the Pandava princes before Drona came"
+  },
+  "kripa|nakula|guru": {
+   "label": "Kripa taught the Pandava princes before Drona came"
+  },
+  "kripa|sahadeva|guru": {
+   "label": "Kripa taught the Pandava princes before Drona came"
+  },
+  "kripa|parikshit|guru": {
+   "label": "Kripa was appointed preceptor of the young King Parikshit"
+  },
+  "kripa|rudras-group|avatar-of": {
+   "label": "The Adi Parva says Kripa was born of a portion of the host of Rudras",
+   "variation": "Partial incarnation (amsha)"
+  },
+  "kripa|saptarishi|member-of": {
+   "label": "Named as one of the Saptarishis of the future eighth Manvantara",
+   "variation": "Bhagavata Purana, Canto 8; not in the Mahabharata"
+  },
+  "kripa|karna|enemy": {
+   "label": "Kripa and Karna repeatedly quarrelled over Karna's boasts, notably in the Virata cattle raid"
+  },
+  "kripa|kritavarma|ally": {
+   "label": "With Ashwatthama, the last three Kaurava warriors left alive"
+  },
+  "ashwatthama|dhrishtadyumna|slayer": {
+   "label": "In the night raid Ashwatthama kicked, beat and strangled the sleeping Dhrishtadyumna"
+  },
+  "ashwatthama|shikhandi|slayer": {
+   "label": "Ashwatthama cut down Shikhandi in the night raid"
+  },
+  "ashwatthama|upapandavas|slayer": {
+   "label": "Ashwatthama killed the five sleeping sons of Draupadi in the night raid"
+  },
+  "ashwatthama|dhrishtadyumna|enemy": {
+   "label": "Sworn to avenge his father's beheading by Dhrishtadyumna"
+  },
+  "krishna|ashwatthama|curse": {
+   "label": "Krishna cursed him to wander the earth for three thousand years, friendless and diseased, for aiming the Brahmashira at Uttara's womb"
+  },
+  "ashwatthama|shiva|avatar-of": {
+   "label": "The Adi Parva says he was born of combined portions of Mahadeva, Yama, desire and wrath",
+   "variation": "Partial incarnation; often simply called a portion of Rudra-Shiva"
+  },
+  "shiva|ashwatthama|boon": {
+   "label": "Shiva entered Ashwatthama's body and gave him a sword before the night raid"
+  },
+  "ashwatthama|duryodhana|ally": {
+   "label": "The dying Duryodhana appointed Ashwatthama the last Kaurava commander"
+  },
+  "ashwatthama|arjuna|enemy": {
+   "label": "Released rival Brahmashira weapons after the night raid; Vyasa and Narada intervened"
+  },
+  "ashwatthama|uttara|enemy": {
+   "label": "Turned the Brahmashira on the unborn child in Uttara's womb"
+  },
+  "ashwatthama|bhima|enemy": {
+   "label": "Bhima pursued him after the night raid; he surrendered his forehead jewel, which went to Draupadi"
+  },
+  "ashwatthama|kripa|ally": {
+   "label": "His maternal uncle, who stood at the camp gate during the night raid despite opposing it"
+  },
+  "ashwatthama|kritavarma|ally": {
+   "label": "Kritavarma guarded the camp gates during Ashwatthama's night raid"
+  },
+  "drupada|dhrishtadyumna|parent": {
+   "label": "Born fully armed from the fire of Drupada's yajna to slay Drona"
+  },
+  "drupada|draupadi|parent": {
+   "label": "Born from the altar of Drupada's yajna"
+  },
+  "drupada|shikhandi|parent": {
+   "label": "Born a daughter to Drupada after Shiva's boon, later transformed into a man"
+  },
+  "shiva|drupada|boon": {
+   "label": "Shiva promised Drupada a daughter who would become a man"
+  },
+  "drupada|maruts|avatar-of": {
+   "label": "The Adi Parva says Drupada was born of a portion of the Marut host",
+   "variation": "Partial incarnation (amsha)"
+  },
+  "drupada|yudhishthira|ally": {
+   "label": "Father-in-law of the Pandavas, who led the Panchala army for them"
+  },
+  "drupada|arjuna|ally": {
+   "label": "Captured by Arjuna as Drona's fee, Drupada later gave him Draupadi and became his ally"
+  },
+  "drupada|virata|ally": {
+   "label": "The Pandavas' two principal royal allies, both killed by Drona on the fifteenth day"
+  },
+  "dhrishtadyumna|draupadi|sibling": {
+   "label": "Twins born from Drupada's sacrificial fire"
+  },
+  "dhrishtadyumna|shikhandi|sibling": {
+   "label": "Children of Drupada"
+  },
+  "shikhandi|draupadi|sibling": {
+   "label": "Children of Drupada"
+  },
+  "dhrishtadyumna|agni|avatar-of": {
+   "label": "The Adi Parva says Dhrishtadyumna was born of a portion of Agni",
+   "variation": "Partial incarnation (amsha)"
+  },
+  "dhrishtadyumna|yudhishthira|ally": {
+   "label": "Supreme commander of the Pandava army throughout the war"
+  },
+  "satyaki|dhrishtadyumna|enemy": {
+   "label": "Satyaki denounced him for beheading the meditating Drona; Krishna and Bhima restrained them"
+  },
+  "shikhandi|amba|reincarnation-of": {
+   "label": "Shikhandi was Amba reborn to bring about Bhishma's death"
+  },
+  "shikhandi|bhishma|enemy": {
+   "label": "Bhishma would not fight Shikhandi, and fell to Arjuna's arrows shot from behind him"
+  },
+  "shikhandi|arjuna|ally": {
+   "label": "Arjuna shot Bhishma while sheltering behind Shikhandi on the tenth day"
+  },
+  "virata|sudeshna|spouse": {
+   "label": "Queen Sudeshna was Virata's wife"
+  },
+  "virata|uttara|parent": {
+   "label": "Uttara, who married Abhimanyu, was Virata's daughter"
+  },
+  "sudeshna|uttara|parent": {
+   "label": "Uttara was Sudeshna's daughter"
+  },
+  "virata|yudhishthira|ally": {
+   "label": "Sheltered the disguised Pandavas in their year of hiding and fought for them"
+  },
+  "virata|abhimanyu|ally": {
+   "label": "Gave his daughter Uttara in marriage to Abhimanyu"
+  },
+  "virata|maruts|avatar-of": {
+   "label": "The Adi Parva says Virata was born of a portion of the Marut host",
+   "variation": "Partial incarnation (amsha)"
+  },
+  "virata|duryodhana|enemy": {
+   "label": "Duryodhana's Kauravas raided Virata's cattle to flush out the hidden Pandavas"
+  },
+  "kichaka|sudeshna|sibling": {
+   "label": "Kichaka was Queen Sudeshna's brother"
+  },
+  "sudeshna|draupadi|ally": {
+   "label": "Took in the disguised Draupadi as her maid Sairandhri, though she later sent her to Kichaka"
+  },
+  "bhima|kichaka|slayer": {
+   "label": "Bhima crushed Kichaka to death in the dark dance hall of Viratanagara"
+  },
+  "kichaka|draupadi|enemy": {
+   "label": "Kichaka lusted after the disguised Draupadi and kicked her before the king's court"
+  },
+  "kichaka|virata|ally": {
+   "label": "Commander of Virata's army and the real power in Matsya"
+  },
+  "ekalavya|arjuna|enemy": {
+   "label": "Rival archer: Drona demanded Ekalavya's thumb so that Arjuna would remain unsurpassed"
+  },
+  "krishna|ekalavya|slayer": {
+   "label": "Krishna is said to have killed Ekalavya",
+   "variation": "Implied in a Drona Parva passage and in later retellings; not uniformly attested"
+  },
+  "ekalavya|jarasandha|ally": {
+   "label": "Ekalavya served Jarasandha and fought alongside him against the Yadavas",
+   "variation": "Sabha Parva and Harivamsha"
+  },
+  "shalya|madri|sibling": {
+   "label": "Shalya was Madri's brother and maternal uncle of Nakula and Sahadeva"
+  },
+  "shalya|duryodhana|ally": {
+   "label": "Tricked by Duryodhana's lavish hospitality into leading an army for him"
+  },
+  "shalya|yudhishthira|ally": {
+   "label": "Promised Yudhishthira to undermine Karna's morale if made his charioteer"
+  },
+  "yudhishthira|shalya|slayer": {
+   "label": "Yudhishthira killed Shalya with a hurled spear on the eighteenth day"
+  },
+  "shalya|karna|enemy": {
+   "label": "Karna's reluctant charioteer, who belittled him and praised Arjuna as they drove to battle"
+  },
+  "shalya|pandu|ally": {
+   "label": "Gave his sister Madri in marriage to Pandu for a bride-price paid by Bhishma"
+  },
+  "narakasura|bhagadatta|parent": {
+   "label": "Bhagadatta was the son of Naraka, king of Pragjyotisha"
+  },
+  "arjuna|bhagadatta|slayer": {
+   "label": "Arjuna killed Bhagadatta and his elephant Supratika on the twelfth day"
+  },
+  "bhagadatta|duryodhana|ally": {
+   "label": "Brought an akshauhini of eastern warriors to Duryodhana"
+  },
+  "bhagadatta|krishna|enemy": {
+   "label": "Krishna received Bhagadatta's Vaishnava weapon on his chest; he had slain Bhagadatta's father Naraka"
+  },
+  "bhagadatta|indra|ally": {
+   "label": "Called a friend of Indra in the Sabha Parva"
+  },
+  "bhagadatta|bhima|enemy": {
+   "label": "Bhagadatta's elephant Supratika routed and nearly crushed Bhima"
+  },
+  "satyaki|bhurishravas|slayer": {
+   "label": "Satyaki beheaded Bhurishravas as he sat in meditation after Arjuna severed his arm"
+  },
+  "satyaki|bhurishravas|enemy": {
+   "label": "Heirs to the feud between Shini and Somadatta born at Devaki's svayamvara"
+  },
+  "arjuna|bhurishravas|enemy": {
+   "label": "Arjuna severed Bhurishravas' sword-arm to save Satyaki"
+  },
+  "bhurishravas|duryodhana|ally": {
+   "label": "Fought for Duryodhana with his father Somadatta"
+  },
+  "pratipa|bhurishravas|ancestor-of": {
+   "label": "Great-grandson of Pratipa through Bahlika and Somadatta"
+  },
+  "arjuna|satyaki|guru": {
+   "label": "Satyaki learned archery from Arjuna"
+  },
+  "satyaki|krishna|ally": {
+   "label": "Krishna's companion and charioteer-warrior on the peace embassy"
+  },
+  "satyaki|yudhishthira|ally": {
+   "label": "Brought an akshauhini to the Pandavas and guarded Yudhishthira"
+  },
+  "satyaki|kritavarma|slayer": {
+   "label": "At Prabhasa Satyaki beheaded Kritavarma after taunting him over the night raid"
+  },
+  "satyaki|maruts|avatar-of": {
+   "label": "The Adi Parva says Satyaki was born of a portion of the Marut host",
+   "variation": "Partial incarnation (amsha)"
+  },
+  "yadu|satyaki|ancestor-of": {
+   "label": "Satyaki descended from Yadu through the Vrishni line of Shini"
+  },
+  "yadu|kritavarma|ancestor-of": {
+   "label": "Kritavarma descended from Yadu through the Bhoja line of Hridika"
+  },
+  "kritavarma|duryodhana|ally": {
+   "label": "Led an akshauhini of Yadava warriors for Duryodhana"
+  },
+  "kritavarma|maruts|avatar-of": {
+   "label": "The Adi Parva says Kritavarma was born of a portion of the Marut host",
+   "variation": "Partial incarnation (amsha)"
+  },
+  "kritavarma|akrura|ally": {
+   "label": "Conspired with Akrura in the Syamantaka jewel affair",
+   "variation": "Harivamsha and Puranas, not the Mahabharata"
+  },
+  "kritavarma|krishna|enemy": {
+   "label": "A Yadava who fought against Krishna's side and joined the night raid",
+   "variation": "In the Syamantaka episode he also defied Krishna"
+  },
+  "sanjaya|dhritarashtra|ally": {
+   "label": "Charioteer, counsellor and narrator of the war to the blind king"
+  },
+  "vyasa|sanjaya|boon": {
+   "label": "Vyasa granted Sanjaya divine sight to witness and narrate the entire war"
+  },
+  "sanjaya|krishna|devotee": {
+   "label": "Beheld Krishna's universal form and ended the Gita in his praise"
+  },
+  "satyaki|sanjaya|enemy": {
+   "label": "Satyaki captured Sanjaya on the eighteenth day and was about to kill him when Vyasa intervened"
+  },
+  "sanjaya|gandhari|ally": {
+   "label": "Accompanied Gandhari, Dhritarashtra and Kunti into the forest in their last years"
+  },
+  "sanjaya|yudhishthira|ally": {
+   "label": "Dhritarashtra's envoy to Yudhishthira at Upaplavya before the war"
+  }
+ }
+}

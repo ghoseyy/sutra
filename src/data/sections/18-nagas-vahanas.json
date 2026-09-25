@@ -1,0 +1,1661 @@
+{
+  "section": "18-nagas-vahanas",
+  "nodes": [
+    {
+      "id": "shesha",
+      "name": "Shesha (Ananta)",
+      "devanagari": "शेष",
+      "aliases": [
+        "Ananta",
+        "Adishesha",
+        "Sheshanaga",
+        "Anantashesha",
+        "Sankarshana"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The thousand-hooded king of the nagas, eldest son of Kashyapa and Kadru, who holds the earth on his hoods and forms the coiled couch on which Vishnu reclines upon the cosmic ocean. His name means 'the remainder', that which endures when the universe is dissolved.",
+      "story": "The Mahabharata tells that Shesha, eldest of Kadru's thousand serpent sons, grew weary of his brothers' hostility toward Vinata and her son Garuda. Renouncing them, he wandered to Gandhamadana, Badari, Gokarna and the Himalayan slopes, practising such austerities that his flesh and sinews dried away. Brahma appeared, pleased by his steadiness, and offered a boon. Shesha asked only that his mind should always delight in dharma, tranquillity and austerity. Brahma granted it and gave him a great charge: the earth, with its mountains, forests, seas and cities, was unsteady, and Shesha was to hold it firm. Entering a cleft in the earth, the serpent took the world upon his head, and there he bears it still. The Puranas add that at the close of an age a destroying fire issues from his mouths, while Vishnu sleeps upon his coils on the waters.",
+      "symbols": [
+        "thousand hoods",
+        "coiled serpent couch",
+        "white or silver colour",
+        "earth held on the hoods",
+        "plough and pestle (as Sankarshana)"
+      ],
+      "weapons": [
+        "plough (hala)",
+        "pestle (musala)"
+      ],
+      "vahana": null,
+      "abode": "Patala, beneath the earth; the Ocean of Milk (Kshira Sagara) as Vishnu's couch",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Vishnu Purana, Book 2 (ch. 5)",
+        "Bhagavata Purana, Canto 5 (ch. 25)",
+        "Harivamsha",
+        "Bhagavad Gita 10.29"
+      ],
+      "variations": [
+        "Most Puranas treat Shesha and Ananta as one being; the Vishnu and Bhagavata Puranas describe him beneath Patala as Ananta or Sankarshana, a tamasic form of Vishnu himself.",
+        "In the Mahabharata's account of the churning of the ocean, Ananta uproots Mount Mandara at the command of Brahma and Narayana.",
+        "Lakshmana (Ramayana tradition, especially later texts) and Balarama (Mahabharata, Mausala Parva; Puranas) are regarded as incarnations of Shesha; some texts instead make Balarama born of a white hair of Vishnu.",
+        "Shesha and Vasuki are occasionally conflated in later popular tradition, but the Mahabharata lists them as distinct brothers."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "vasuki",
+      "name": "Vasuki",
+      "devanagari": "वासुकि",
+      "aliases": [
+        "Vasuki Naga",
+        "Nagaraja",
+        "Sarparaja"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "King of the nagas and son of Kashyapa and Kadru, famed as the living rope with which the devas and asuras churned the Ocean of Milk. He is the brother of the naga maiden Jaratkaru, mother of Astika, and is shown coiled around Shiva's neck.",
+      "story": "When the devas and asuras resolved to churn the Ocean of Milk for amrita, they took Mount Mandara as the churning rod and Vasuki, king of the serpents, as the rope. Coiled about the mountain, which rested on the back of the great tortoise, Vasuki was hauled back and forth for ages; the Puranas say the asuras seized his head and the devas his tail, so that the smoke and fire of his breath scorched the demons. In the Ramayana's telling it was Vasuki who, in his agony, spewed the deadly halahala poison from his heads, threatening to burn the worlds until Shiva drank it. Earlier, fearing his mother Kadru's curse on the serpents, Vasuki had sought the counsel of the gods and learned that his sister's son would save their race, so he gave her in marriage to the sage Jaratkaru.",
+      "symbols": [
+        "many-hooded serpent",
+        "gem on the hood (nagamani)",
+        "coiled around Shiva's neck",
+        "churning rope"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Bhogavati in Patala (the naga capital)",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Valmiki Ramayana, Bala Kanda",
+        "Bhagavata Purana, Canto 8",
+        "Vishnu Purana, Book 1",
+        "Bhagavad Gita 10.28"
+      ],
+      "variations": [
+        "In the Ramayana the halahala poison issues from Vasuki's heads; in the Bhagavata it simply rises from the churned ocean.",
+        "The Mahabharata names Vasuki as the naga king who crowns himself and cares for the serpents after Shesha withdraws; later popular tradition sometimes conflates him with Shesha.",
+        "Vasuki around Shiva's neck is a feature of later Shaiva iconography rather than the epics."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "takshaka",
+      "name": "Takshaka",
+      "devanagari": "तक्षक",
+      "aliases": [
+        "Takshaka Vaishaleya",
+        "Nagaraja Takshaka"
+      ],
+      "category": "celestial",
+      "era": "later-vedic",
+      "group": false,
+      "description": "A mighty naga king, son of Kashyapa and Kadru, who killed King Parikshit and thereby provoked Janamejaya's snake sacrifice. Once a dweller of the Khandava forest and a friend of Indra, he survived the sacrifice only through Astika's intervention.",
+      "story": "King Parikshit, grandson of Arjuna, once draped a dead snake around the neck of a sage who was keeping a vow of silence. The sage's son Shringin, enraged, cursed the king to die within seven days from the bite of Takshaka. Parikshit withdrew to a palace raised on a single pillar, guarded by physicians and mantras. On the way Takshaka met a brahmin healer named Kashyapa hastening to save the king; after watching him revive a tree the serpent had burnt to ash, Takshaka turned him back with riches. Then nagas disguised as ascetics brought fruits to the king. Hidden as a tiny worm within one fruit, Takshaka emerged at sunset, swelled to his true form, coiled about the king and struck him dead, an act that led Parikshit's son Janamejaya to begin the great snake sacrifice.",
+      "symbols": [
+        "serpent",
+        "hood"
+      ],
+      "weapons": [
+        "venom"
+      ],
+      "vahana": null,
+      "abode": "Khandava forest; later Kurukshetra and Takshashila in some traditions",
+      "sources": [
+        "Atharva Veda 8.10",
+        "Panchavimsha Brahmana (the serpents' sattra)",
+        "Mahabharata, Adi Parva (Paushya, Astika and Khandava-daha Parvas)",
+        "Bhagavata Purana, Canto 1 and Canto 12"
+      ],
+      "variations": [
+        "In the Mahabharata, Parikshit retires to a pillar-palace; in the Bhagavata Purana he spends his final seven days hearing the Bhagavata from Shuka before Takshaka's bite.",
+        "At the burning of Khandava, Takshaka was away at Kurukshetra; his son Ashvasena escaped and later sought revenge on Arjuna by entering Karna's arrow.",
+        "In the snake sacrifice, Takshaka takes refuge with Indra; when the mantras draw Indra too, Indra lets him go, and Astika halts his fall."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "karkotaka",
+      "name": "Karkotaka",
+      "devanagari": "कर्कोटक",
+      "aliases": [
+        "Karkota",
+        "Karkotaka Naga"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "A naga king, son of Kashyapa and Kadru, best known from the tale of Nala, whom he bit in order to disguise and protect him. He is also revered as a naga guardian in Kashmir and the Kathmandu Valley.",
+      "story": "Wandering in the forest after abandoning Damayanti, King Nala heard a voice calling from a blazing wildfire. It was the naga Karkotaka, cursed by the sage Narada to lie motionless until Nala should carry him. Shrinking to the size of a thumb, the serpent let Nala lift him from the flames, then asked him to walk on, counting his steps. At the tenth step, 'dasha', which also means 'bite!', Karkotaka struck. Nala's handsome body shrivelled and changed, and he became unrecognisable. The serpent explained that his venom would torment Kali, the spirit who had possessed Nala, while keeping Nala himself safe from enemies and poisons. He counselled Nala to serve King Rituparna as the charioteer Bahuka, and gave him a pair of garments that would restore his true form when the time came.",
+      "symbols": [
+        "serpent",
+        "hood"
+      ],
+      "weapons": [
+        "venom"
+      ],
+      "vahana": null,
+      "abode": "Forest near Nishadha; regional traditions place him in Kashmir and in Taudaha lake, Kathmandu Valley",
+      "sources": [
+        "Mahabharata, Adi Parva (list of Kadru's sons)",
+        "Mahabharata, Vana Parva (Nalopakhyana)"
+      ],
+      "variations": [
+        "Kashmir's Karkota dynasty claimed descent from him (Kalhana, Rajatarangini).",
+        "In Newar tradition of Nepal, Karkotaka is the naga king of the primordial lake of the Kathmandu Valley, resettled in Taudaha when Manjushri drained the lake."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "manasa",
+      "name": "Manasa",
+      "devanagari": "मनसा",
+      "aliases": [
+        "Manasa Devi",
+        "Jaratkaru",
+        "Vishahari",
+        "Padmavati",
+        "Nityā",
+        "Jagadgauri"
+      ],
+      "category": "devi",
+      "era": "late-puranas",
+      "group": false,
+      "description": "The goddess of snakes, worshipped especially in Bengal, Assam, Bihar and Odisha for protection from snakebite and for fertility and prosperity. Puranic tradition identifies her with Jaratkaru, the naga sister of Vasuki, wife of the sage Jaratkaru and mother of Astika.",
+      "story": "In the Bengali Manasamangal poems, Manasa longs for worship among mortals, but the wealthy Shaiva merchant Chand Sadagar refuses her. In revenge she ruins his gardens, sinks his ships and kills his six sons by snakebite. When his last son Lakhindar marries Behula, the couple sleep in an iron chamber built to keep out every serpent, yet Manasa's snake slips through a tiny gap and Lakhindar dies on his wedding night. Refusing to give him up, Behula sets out on a raft with her husband's body, drifting downriver for months until she reaches the gods. Her dance pleases them, and Manasa agrees to restore Lakhindar and all of Chand's losses if the merchant will worship her. Chand at last offers a flower, with his left hand, and Manasa's worship spreads across the land.",
+      "symbols": [
+        "seven-hooded serpent canopy",
+        "serpents",
+        "pot (ghata)",
+        "snuhi (spurge) plant",
+        "lotus"
+      ],
+      "weapons": [],
+      "vahana": "swan or serpent",
+      "abode": "Nagaloka; Kailasa (Manasamangal)",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva), as Jaratkaru",
+        "Brahmavaivarta Purana, Prakriti Khanda",
+        "Devi Bhagavata Purana, Book 9",
+        "Manasamangal kavyas (Bengal)"
+      ],
+      "variations": [
+        "The Mahabharata names Vasuki's sister only Jaratkaru; the name Manasa and her full cult as a goddess appear in the Brahmavaivarta and Devi Bhagavata Puranas and the Bengali Manasamangal.",
+        "Brahmavaivarta Purana: a mind-born daughter of Kashyapa, sister of Ananta/Vasuki; Bengali Manasamangal: born of Shiva's seed, hence daughter of Shiva, and in conflict with his wife Chandi.",
+        "Her cult likely absorbed older regional and tribal snake-goddess worship; she is also linked with the Jain and Buddhist snake goddess Padmavati/Janguli."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "astika",
+      "name": "Astika",
+      "devanagari": "आस्तीक",
+      "aliases": [
+        "Astika Muni"
+      ],
+      "category": "rishi",
+      "era": "mahabharata",
+      "group": false,
+      "description": "A young brahmin sage, son of the ascetic Jaratkaru and the naga maiden Jaratkaru, who persuaded King Janamejaya to end the snake sacrifice. Serpents promise not to harm anyone who recalls his name.",
+      "story": "Janamejaya, vowing to avenge his father Parikshit, began a great snake sacrifice at which the priests' mantras dragged serpents from every corner of the world into the fire. Vasuki, seeing his kin perish, sent his sister's son Astika, a young brahmin who had learned the Vedas from the sage Chyavana. Astika entered the sacrificial enclosure and praised the king, the priests and the fire so eloquently that Janamejaya offered him any boon he wished. At that moment Takshaka, who had fled to Indra, was being drawn helplessly toward the flames; Astika cried 'Stay!' and the serpent hung in the air. Then Astika asked that the sacrifice end. Bound by his word, Janamejaya agreed, and the grateful nagas promised safety from snakes to all who remember the story of Astika.",
+      "symbols": [
+        "sacred thread",
+        "water-pot"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Hermitage; raised in the house of Vasuki",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Devi Bhagavata Purana, Book 9",
+        "Brahmavaivarta Purana, Prakriti Khanda"
+      ],
+      "variations": [
+        "The name is explained from 'asti' ('he is'), the sage Jaratkaru's assurance that the child had been conceived.",
+        "Bengali and later Puranic tradition calls his mother Manasa."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "jaratkaru",
+      "name": "Jaratkaru (the sage)",
+      "devanagari": "जरत्कारु",
+      "aliases": [
+        "Jaratkaru Muni",
+        "Yayavara"
+      ],
+      "category": "rishi",
+      "era": "mahabharata",
+      "group": false,
+      "description": "A severe ascetic of the Yayavara clan who married the naga maiden of the same name, sister of Vasuki, and fathered Astika. His story explains the duty to continue one's lineage for the sake of the ancestors.",
+      "story": "The ascetic Jaratkaru wandered without a home, living on air and refusing marriage. One day he found his ancestors hanging head-down in a pit, clinging to a single grass root that a rat was gnawing away: without a descendant, they would fall. Moved, he agreed to marry, but only a maiden of his own name, given freely, whom he need not support. Vasuki, knowing his sister was destined to bear a son who would save the serpents, offered her; she too was called Jaratkaru. The sage lived with her on condition that she never displease him. When she woke him from sleep so that he would not miss the evening rites, he took offence and resolved to leave. Assuring her that the child she carried 'is' (asti), he departed, and that son was Astika.",
+      "symbols": [
+        "matted hair",
+        "emaciated ascetic body"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Wandering ascetic; hermitage",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Devi Bhagavata Purana, Book 9",
+        "Brahmavaivarta Purana, Prakriti Khanda"
+      ],
+      "variations": [
+        "The Mahabharata tells the story twice, in slightly differing forms, in the Adi Parva.",
+        "Later Puranic and Bengali tradition names his wife Manasa."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kadru",
+      "name": "Kadru",
+      "devanagari": "कद्रू",
+      "aliases": [
+        "Kadru Devi",
+        "Mother of serpents"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "A daughter of Daksha and wife of the sage Kashyapa, mother of the thousand nagas. Her deceitful wager with her sister Vinata over the tail of the horse Uchchaihshravas began the enmity between serpents and Garuda.",
+      "story": "Kashyapa granted boons to his wives, the sisters Kadru and Vinata. Kadru asked for a thousand powerful serpent sons; Vinata asked for only two, each surpassing Kadru's. Long afterwards the sisters saw the white horse Uchchaihshravas, risen from the churning ocean, and wagered on the colour of its tail, the loser to become the winner's slave. Vinata said white; Kadru said black. That night Kadru ordered her sons to cling to the tail as black hairs. Some refused, and in fury she cursed them to perish in the fire of Janamejaya's snake sacrifice. Those who obeyed darkened the tail, and Vinata was enslaved. Brahma let the curse stand, for the serpents had grown too many and too venomous. The bondage ended only when Vinata's son Garuda brought the amrita to Kadru's sons as ransom.",
+      "symbols": [
+        "serpent eggs"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Hermitage of Kashyapa",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Vishnu Purana, Book 1",
+        "Bhagavata Purana, Canto 6"
+      ],
+      "variations": [
+        "In some Puranic versions Kadru herself blackens the horse's tail by sending serpents, without a separate curse episode.",
+        "The number and names of her serpent sons differ among the Mahabharata and the Puranas."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "vinata",
+      "name": "Vinata",
+      "devanagari": "विनता",
+      "aliases": [
+        "Suparni",
+        "Mother of Garuda"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "A daughter of Daksha and wife of Kashyapa, mother of Garuda and Aruna. Enslaved to her sister Kadru through a rigged wager, she was freed when Garuda brought the amrita.",
+      "story": "Vinata received two eggs from Kashyapa's boon and waited five hundred years while Kadru's thousand eggs hatched. Impatient and ashamed, she broke one open: inside was a son whose body was formed only in its upper half. This child, Aruna, cursed his mother for her haste: she would serve her rival as a slave until her other son freed her. Then he rose into the sky to become the charioteer of the Sun. Vinata, losing the wager over the colour of Uchchaihshravas's tail, served Kadru until the second egg hatched into Garuda, blazing like the fire at the end of an age. When Garuda learned that the price of her freedom was the amrita, he stormed heaven, seized the nectar and redeemed his mother, and the enmity between birds and serpents was born of her suffering.",
+      "symbols": [
+        "eggs"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Hermitage of Kashyapa",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Vishnu Purana, Book 1",
+        "Bhagavata Purana, Canto 6"
+      ],
+      "variations": [
+        "Some genealogies also give Vinata a daughter, Sumati, who married King Sagara (Ramayana calls Sumati the sister of Garuda).",
+        "The Ramayana and some Puranas list Vinata among the daughters of Daksha married to Kashyapa, with minor differences in the list."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "garuda",
+      "name": "Garuda",
+      "devanagari": "गरुड",
+      "aliases": [
+        "Garutman",
+        "Suparna",
+        "Vainateya",
+        "Khagendra",
+        "Pakshiraja",
+        "Tarkshya",
+        "Nagantaka",
+        "Vishnuratha"
+      ],
+      "category": "animal",
+      "era": "rigveda",
+      "group": false,
+      "description": "The king of birds, son of Kashyapa and Vinata, who stole the amrita from heaven to free his mother and became the mount and banner of Vishnu. Eternal foe of the serpents, he is invoked against poison and is the narrator-recipient of the Garuda Purana.",
+      "story": "To free his mother Vinata from slavery, Garuda flew to heaven to steal the amrita. He scattered the gods, raised a storm of dust to blind them, quenched the ring of fire with water drawn from many rivers, and slipped through the spokes of a whirling wheel of blades. Killing the two serpents guarding the vessel, he flew off with it without tasting a drop. Pleased by his restraint, Vishnu granted him immortality without the amrita and a place above himself, on his banner; Garuda in turn agreed to become Vishnu's mount. Indra hurled his thunderbolt, but Garuda, honouring the sage whose bones had made it, merely shed a single feather. The two became friends: Garuda gave the amrita to the serpents, freeing Vinata, but Indra took it back before they could drink, and granted that serpents would be Garuda's food.",
+      "symbols": [
+        "eagle or kite form, often with human torso",
+        "wings",
+        "hooked beak",
+        "serpents as ornaments",
+        "folded hands (anjali mudra)",
+        "Garuda-dhvaja banner"
+      ],
+      "weapons": [
+        "talons",
+        "beak"
+      ],
+      "vahana": null,
+      "abode": "Vaikuntha, in the service of Vishnu",
+      "sources": [
+        "Rig Veda 1.164.46 (Garutman/Suparna)",
+        "Rig Veda 4.26-27 (the soma-bearing eagle)",
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Valmiki Ramayana, Yuddha Kanda",
+        "Bhagavata Purana",
+        "Garuda Purana",
+        "Bhagavad Gita 10.30"
+      ],
+      "variations": [
+        "The Rig Veda's Suparna/Garutman, a celestial bird linked with the sun and with fetching soma, is a precursor; the explicit identification with Garuda, son of Vinata and mount of Vishnu, is later (epics and Puranas).",
+        "The Mahabharata says Garuda kills the serpent guards and gives the amrita to the nagas; in some retellings the serpents lick the kusha grass on which it was placed, splitting their tongues.",
+        "In Buddhist and Southeast Asian traditions garudas are a race of great birds; Garuda is the national emblem of Indonesia and Thailand."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "aruna",
+      "name": "Aruna",
+      "devanagari": "अरुण",
+      "aliases": [
+        "Anuru",
+        "Suryasarathi",
+        "Vinatasuta"
+      ],
+      "category": "celestial",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The personified red dawn, elder son of Kashyapa and Vinata, born from an egg opened too early and so lacking thighs. He serves as the charioteer of Surya and, in the Ramayana, is the father of the vulture brothers Jatayu and Sampati.",
+      "story": "The Mahabharata explains why a red glow rises before the Sun. Surya, angry that the gods had watched Rahu seize him without helping, resolved to burn the worlds and blazed ever hotter. Terrified, the gods and sages went to Brahma, who remembered Aruna, the mighty son of Kashyapa and Vinata, born from an egg broken too soon: radiant, but without thighs, and so called Anuru. Brahma had Aruna placed in front of Surya's chariot as his charioteer, so that his great body would absorb the Sun's scorching heat and shield creation. So Aruna took up the reins of the seven horses, and his crimson light, going ahead of the Sun each morning, became the dawn that softens the fierce brilliance of the day.",
+      "symbols": [
+        "reddish body",
+        "reins of seven horses",
+        "incomplete lower body"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Front of Surya's chariot, in the sky",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Valmiki Ramayana, Aranya Kanda",
+        "Vishnu Purana",
+        "Bhagavata Purana, Canto 5"
+      ],
+      "variations": [
+        "The Ramayana (Aranya Kanda) makes Jatayu and Sampati sons of Aruna by Shyeni; some Puranic genealogies differ.",
+        "A late regional tale (found in some vernacular Ramayana traditions) has Aruna take a female form, Aruni, and bear Vali and Sugriva by Indra and Surya; this is not in Valmiki."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "nandi",
+      "name": "Nandi",
+      "devanagari": "नन्दी",
+      "aliases": [
+        "Nandin",
+        "Nandikeshvara",
+        "Nandishvara",
+        "Shailadi",
+        "Basava (Kannada)",
+        "Vrishabha"
+      ],
+      "category": "animal",
+      "era": "ramayana",
+      "group": false,
+      "description": "The bull who is Shiva's mount and the chief of his ganas, guardian of the gate of Kailasa and a model of devotion. His image sits facing the sanctum in nearly every Shiva temple.",
+      "story": "The Ramayana's Uttara Kanda tells how Ravana, flush from defeating his half-brother Kubera, flew over Kailasa in the Pushpaka chariot, until it suddenly stopped. Before him stood Nandishvara, Shiva's attendant, dark and tawny, dwarf-like and monkey-faced, holding a trident. He warned Ravana to turn back, for Shiva was sporting on the mountain. Ravana laughed scornfully at his monkey-like face. Nandi, angered, cursed him: since Ravana had mocked his form, beings of that same monkey form, equal to him in might and splendour, would arise to destroy Ravana and his race. Unheeding, Ravana tried to uproot Kailasa itself; Shiva pressed it down with his toe, trapping the rakshasa's arms until he howled. Nandi's curse was fulfilled when Hanuman and the vanaras laid waste to Lanka.",
+      "symbols": [
+        "white bull",
+        "hump",
+        "bell and garlands",
+        "seated facing Shiva",
+        "anthropomorphic form with bull head and four arms (Nandikeshvara)"
+      ],
+      "weapons": [
+        "trident (trishula)",
+        "staff"
+      ],
+      "vahana": null,
+      "abode": "Kailasa, at the gate of Shiva's abode",
+      "sources": [
+        "Valmiki Ramayana, Uttara Kanda",
+        "Mahabharata, Anushasana Parva",
+        "Shiva Purana (Shatarudra Samhita)",
+        "Linga Purana",
+        "Bhagavata Purana, Canto 4 (ch. 2)"
+      ],
+      "variations": [
+        "Nandi appears both as the bull mount and as Nandikeshvara, an anthropomorphic gana-chief; early texts do not always identify the two.",
+        "Shiva Purana: son of the sage Shilada, granted to him by Shiva; some Puranic accounts instead make the bull a son of Surabhi (Kamadhenu), given to Shiva.",
+        "Nandi is credited as the primordial teacher of Shaiva lineages (Nandinatha sampradaya) and, in the Kamasutra, as the first author of the science of kama.",
+        "In Lingayat tradition Basava (Basavanna) is regarded as an incarnation of Nandi."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "airavata",
+      "name": "Airavata",
+      "devanagari": "ऐरावत",
+      "aliases": [
+        "Airavana",
+        "Abhramatanga",
+        "Arkasodara",
+        "Shvetagaja",
+        "Gajendra of Indra"
+      ],
+      "category": "animal",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The white elephant, often four-tusked, who is the mount of Indra and the guardian elephant of the east. Most accounts say he rose from the churning of the Ocean of Milk.",
+      "story": "The Vishnu Purana tells how the sage Durvasa, wandering in an ecstatic mood, received a garland of heavenly flowers from a vidyadhari. Meeting Indra riding Airavata, he respectfully offered the garland to the king of the gods. Indra placed it on the elephant's head; Airavata, drawn by its fragrance, pulled it off with his trunk and trampled it into the ground. Durvasa, incensed at the insult, cursed Indra that the three worlds would lose their Shri, their prosperity and splendour. The gods weakened, the asuras triumphed, and Vishnu advised the churning of the Ocean of Milk to restore what was lost. Other texts, such as the Bhagavata Purana, list a four-tusked white elephant named Airavata among the treasures that rose from that ocean, so traditions differ over whether Airavata preceded the churning or was born from it.",
+      "symbols": [
+        "white elephant",
+        "four tusks",
+        "multiple trunks in some images",
+        "rain clouds"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Svarga (Amaravati), Indra's heaven; guardian of the eastern quarter",
+      "sources": [
+        "Mahabharata, Adi Parva",
+        "Valmiki Ramayana, Aranya Kanda",
+        "Vishnu Purana, Book 1 (ch. 9)",
+        "Bhagavata Purana, Canto 8",
+        "Bhagavad Gita 10.27",
+        "Matangalila"
+      ],
+      "variations": [
+        "Origin: from the churning of the ocean (Mahabharata, Bhagavata); from the right half of the cosmic eggshell over which Brahma chanted Samans (Matangalila and elephant-lore texts); a descendant of Iravati in Kashyapa's line (Ramayana, Aranya Kanda).",
+        "Distinct from the naga Airavata, ancestor of Ulupi's father Kauravya in the Mahabharata.",
+        "Airavata is sometimes said to have worshipped Shiva at the Airavateshvara temple, Darasuram (local sthala-purana)."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "mushika",
+      "name": "Mushika (Ganesha's mouse)",
+      "devanagari": "मूषिक",
+      "aliases": [
+        "Mushaka",
+        "Akhu",
+        "Mushakaraja",
+        "Krauncha (in his previous life)",
+        "Dinka"
+      ],
+      "category": "animal",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "The mouse or rat that serves as the mount of Ganesha, symbolising desire and restlessness brought under the control of wisdom, and the ability to penetrate every obstacle. Various Puranic and regional tales explain how a proud being became Ganesha's humble vehicle.",
+      "story": "A story attributed to the Ganesha Purana tells of Krauncha, a gandharva musician in Indra's court, who carelessly trod on the foot of the sage Vamadeva. The sage cursed him to become a mouse. Krauncha became a mouse as vast as a mountain, and in his wanderings fell upon the hermitage of the sage Parashara, devouring stores of grain, gnawing clothes and books and terrifying the ascetics. Ganesha, a guest there, cast his noose; it caught the mouse by the neck and dragged him before the elephant-headed god. Humbled, Krauncha begged for mercy. Ganesha offered him a boon, but the still-proud mouse replied that he would rather grant one, so Ganesha asked him to be his mount. When Ganesha climbed on, the mouse was nearly crushed by his weight and begged him to lighten himself, which Ganesha graciously did.",
+      "symbols": [
+        "mouse or rat",
+        "sweet (modaka) in its paws",
+        "sitting at Ganesha's feet"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "At the feet of Ganesha; Kailasa",
+      "sources": [
+        "Ganesha Purana",
+        "Mudgala Purana",
+        "Puranic iconography of Ganesha (epithet Mushakavahana)"
+      ],
+      "variations": [
+        "Mudgala Purana and South Indian tradition: the asura Gajamukha, struck by Ganesha's broken tusk, turned into a mouse and became his mount.",
+        "In Mudgala Purana, different forms of Ganesha have different mounts (lion, peacock, serpent), the mouse being one of them.",
+        "The mouse appears as Ganesha's vehicle in art from about the 6th-7th centuries CE; its symbolism (conquered desire, penetration of obstacles) is a traditional interpretation."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "paravani",
+      "name": "Paravani (Kartikeya's peacock)",
+      "devanagari": "परवाणि",
+      "aliases": [
+        "Mayura",
+        "Parvani",
+        "Shikhi",
+        "Mayil (Tamil)"
+      ],
+      "category": "animal",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The peacock who serves as the mount of Kartikeya (Skanda, Murugan), symbol of splendour and of pride and passion subdued. In Tamil tradition it is the transformed asura Surapadman.",
+      "story": "In the Tamil Kanda Puranam, the asura king Surapadman, whose tyranny had enslaved the gods, faced Murugan in the final battle by the sea at Tiruchendur. Wielding sorcery, the asura changed shape again and again, and at last stood in the ocean as a gigantic mango tree. Murugan hurled his vel, the lance given to him by his mother, and split the tree in two. Touched by the god's grace, Surapadman's hostility fell away: one half became a peacock and the other a rooster. Murugan took the peacock as his mount and set the rooster on his banner, so that his vanquished foe became his devotee and eternal companion. The Sanskrit Mahabharata tells a simpler story: at Skanda's consecration as general of the gods, the peacock was among the gifts presented to him.",
+      "symbols": [
+        "peacock",
+        "spread tail feathers",
+        "serpent in its claws"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "With Kartikeya; Skandagiri / the six abodes of Murugan",
+      "sources": [
+        "Mahabharata, Shalya Parva (Skanda's consecration)",
+        "Skanda Purana",
+        "Kanda Puranam (Kachiyappa Sivachariyar, Tamil)",
+        "Devi Mahatmya (Markandeya Purana), ch. 8"
+      ],
+      "variations": [
+        "Mahabharata: the peacock is presented to Skanda by Garuda at his consecration; Kanda Puranam: the peacock is the transformed asura Surapadman.",
+        "Some retellings say Indra himself took the form of a peacock to carry Skanda.",
+        "The personal name 'Paravani' is used in later Puranic and popular literature; many texts simply say 'mayura' (peacock)."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "hamsa-vahana",
+      "name": "Hamsa (the divine swan)",
+      "devanagari": "हंस",
+      "aliases": [
+        "Hamsa",
+        "Rajahamsa",
+        "Brahma's swan",
+        "Saraswati's swan"
+      ],
+      "category": "animal",
+      "era": "early-puranas",
+      "group": false,
+      "description": "The swan or wild goose that is the mount of Brahma and Saraswati, emblem of discernment, purity and the liberated soul. It is famed for its supposed power to separate milk from water.",
+      "story": "The hamsa, the swan or wild goose that carries Brahma and Saraswati, is prized in Indian tradition for a single gift: it is said to be able to sip the milk from a mixture of milk and water and leave the water behind. This power of discernment, nira-kshira-viveka, made it the emblem of the wise, who draw out truth and leave illusion behind. Upanishadic seers spoke of the soul as a hamsa wandering in the great wheel of Brahman, and the highest renunciants are still honoured as paramahamsas. The Puranas give the swan to Brahma, lord of the Vedas, and to Saraswati, goddess of learning, as their mount. When the Matrikas marched against the asuras in the Devi Mahatmya, Brahmani came forth from Brahma in a celestial car drawn by swans, carrying a rosary and a water-pot.",
+      "symbols": [
+        "white swan or goose",
+        "lotus",
+        "milk and water"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Brahmaloka; the Manasarovar lake of poetic tradition",
+      "sources": [
+        "Shvetashvatara Upanishad 1.6 (hamsa as the soul)",
+        "Devi Mahatmya (Markandeya Purana), ch. 8",
+        "Matsya Purana",
+        "Puranic and Shilpa-shastra iconography of Brahma and Saraswati"
+      ],
+      "variations": [
+        "Scholars note that the bird of early texts is likely the bar-headed goose rather than the mute swan.",
+        "Saraswati is also shown seated on a lotus or with a peacock in some regional images.",
+        "Distinct from Vishnu's Hamsa avatar (Bhagavata Purana, Canto 11), and from Brahma himself taking swan form in the Lingodbhava legend."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "uluka",
+      "name": "Uluka (Lakshmi's owl)",
+      "devanagari": "उलूक",
+      "aliases": [
+        "Ulooka",
+        "Lakshmi-pencha (Bengali)",
+        "Pechaka"
+      ],
+      "category": "animal",
+      "era": "late-puranas",
+      "group": false,
+      "description": "The owl regarded, chiefly in Bengal and eastern India, as the mount of the goddess Lakshmi. It is an ambivalent bird: a watchful guardian of the night and of the granary, but also an old omen of misfortune.",
+      "story": "In Bengal and eastern India, Lakshmi's mount is the owl, the lakshmi-pencha. On Kojagari Purnima, the full-moon night of the month of Ashvin, the goddess is said to descend and roam the earth asking 'Ko jagarti?', 'Who is awake?', blessing with prosperity those who keep vigil, and families stay up singing her praises. The owl, which sees in the dark and keeps watch through the night, suits this wakeful goddess; farmers also value it as a guardian of granaries against rats. Yet the bird is ambivalent: in a Vedic hymn the owl is a messenger of misfortune, and in everyday speech 'ullu' means a fool. Some modern interpreters therefore read the owl as a warning that wealth pursued blindly leads to folly, though this is a later reflection rather than a scriptural teaching.",
+      "symbols": [
+        "owl",
+        "white barn owl in Bengali images"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "With Lakshmi",
+      "sources": [
+        "Rig Veda 10.165 (owl as ill-omened messenger)",
+        "Bengali Lakshmi Puja and Kojagari vrata-katha traditions",
+        "Regional iconography of Lakshmi"
+      ],
+      "variations": [
+        "Lakshmi's mount as an owl is a regional and relatively late tradition; classical texts more often show her seated on a lotus and bathed by elephants (Gajalakshmi), and some images give her an elephant as mount.",
+        "The owl is also associated with Chamunda in some iconography.",
+        "Not to be confused with Uluka, son of Shakuni, who served as Duryodhana's envoy in the Mahabharata."
+      ],
+      "disputed": true
+    },
+    {
+      "id": "dawon",
+      "name": "Dawon (the Goddess's lion)",
+      "devanagari": "सिंह",
+      "aliases": [
+        "Simha",
+        "Mahasimha",
+        "Vyaghra (tiger form)",
+        "Sherawali's lion",
+        "Gaurishankar (regional)"
+      ],
+      "category": "animal",
+      "era": "early-puranas",
+      "group": false,
+      "description": "The lion (or, in many northern Indian images, the tiger) that serves as the mount of Durga and of many forms of the Goddess. In the Devi Mahatmya it fights beside her against the asuras.",
+      "story": "When the gods, humiliated by the buffalo demon Mahishasura, poured out their wrath, a blazing radiance gathered into the form of the Goddess. Each god gave her a weapon or ornament: Shiva his trident, Vishnu his discus, Indra his thunderbolt. Himavan, lord of the mountains, gave her a lion as her mount. Riding it, she roared with a laughter that shook the earth, and the asura armies rushed upon her. In the battle that followed, the lion, shaking its mane in fury, ranged through the enemy host like fire through a forest, while the Goddess cut the demons down with her many arms. Painters and sculptors ever since have shown the lion, or in many images a tiger, springing upon Mahishasura as Durga's trident pierces him.",
+      "symbols": [
+        "lion with flowing mane",
+        "tiger (northern Indian iconography)"
+      ],
+      "weapons": [
+        "claws",
+        "teeth"
+      ],
+      "vahana": null,
+      "abode": "With the Goddess; the Vindhya and Himalaya mountains",
+      "sources": [
+        "Devi Mahatmya (Markandeya Purana), ch. 2 and ch. 5",
+        "Devi Bhagavata Purana",
+        "Skanda Purana",
+        "Shilpa-shastra iconography of Durga"
+      ],
+      "variations": [
+        "The Sanskrit texts simply call the mount 'simha' (lion); the name 'Dawon' is a modern label of uncertain origin used in popular and reference works.",
+        "Lion versus tiger: the Devi Mahatmya specifies a lion; the tiger is common in later north Indian and Himalayan iconography (e.g. Sherawali Mata).",
+        "A Puranic tale has Parvati, performing austerities to become fair (Gauri), adopt as her mount a hungry lion that had waited by her in patience.",
+        "Among the Navadurga, Chandraghanta, Kushmanda, Skandamata, Katyayani and Siddhidatri are commonly shown on a lion or tiger, but Shailaputri and Mahagauri ride a bull."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "uchchaihshravas",
+      "name": "Uchchaihshravas",
+      "devanagari": "उच्चैःश्रवस्",
+      "aliases": [
+        "Uchchaishravas",
+        "Ucchaihsravas",
+        "Ashvaraja",
+        "Amritodbhava"
+      ],
+      "category": "animal",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The radiant white horse, king of horses, who rose from the churning of the Ocean of Milk and is usually said to be the steed of Indra. Later tradition gives him seven heads.",
+      "story": "When the devas and asuras churned the Ocean of Milk, wonders rose one after another from the foaming waters. Among them came a white horse of dazzling beauty, swift as thought, whose name means 'long-eared' or 'neighing aloud'. Later tradition gives him seven heads. In most tellings Indra, king of the gods, took him as his steed along with the elephant Airavata; the Bhagavata Purana instead says that the asura king Bali desired the horse and received him. The same horse later became the occasion of a family tragedy: Kadru and Vinata wagered on the colour of his tail, and Kadru's deceit, making her serpent sons cling to it as black hairs, enslaved Vinata. In the Bhagavad Gita, Krishna names Uchchaihshravas, 'born of the nectar', as his own glory among horses.",
+      "symbols": [
+        "white horse",
+        "seven heads (later iconography)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Svarga, Indra's heaven",
+      "sources": [
+        "Mahabharata, Adi Parva (Astika Parva)",
+        "Bhagavata Purana, Canto 8",
+        "Vishnu Purana, Book 1",
+        "Bhagavad Gita 10.27"
+      ],
+      "variations": [
+        "Most accounts give him to Indra; the Bhagavata Purana (8.8) says Bali took him.",
+        "Some texts associate him with the Sun (Surya), whose son Revanta is shown riding him.",
+        "The seven heads are a later iconographic development; the epic simply describes a white horse."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "kamadhenu",
+      "name": "Kamadhenu",
+      "devanagari": "कामधेनु",
+      "aliases": [
+        "Surabhi",
+        "Kamaduh",
+        "Kamadhuk",
+        "Gomata",
+        "Sabala (in some tellings)"
+      ],
+      "category": "animal",
+      "era": "mahabharata",
+      "group": false,
+      "description": "The divine wish-fulfilling cow, mother of all cattle, revered as a form of the sacred cow in which all gods dwell. She is said to have risen from the churning of the ocean, or to have been born of Daksha, and is the mother of Nandini.",
+      "story": "The Bhagavata Purana tells that King Kartavirya Arjuna, the thousand-armed lord of the Haihayas, once visited the hermitage of the sage Jamadagni while hunting. With the help of his wish-granting cow, the humble sage feasted the king and his whole army with royal abundance. Envious, Kartavirya seized the cow and her calf and carried them off to his capital, Mahishmati, while the cow lowed piteously. When Jamadagni's son Parashurama returned and learned of the theft, he pursued the king with his axe, cut off his thousand arms, slew him and brought the cow home. This began the long feud between Parashurama and the Haihaya kshatriyas. The Mahabharata tells a similar tale, in which the king's men carry off the calf of Jamadagni's sacrificial cow.",
+      "symbols": [
+        "white cow",
+        "woman's face and peacock tail with wings (later popular iconography)",
+        "gods depicted within her body",
+        "calf"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Goloka; the hermitages of the sages",
+      "sources": [
+        "Mahabharata, Adi Parva and Anushasana Parva",
+        "Valmiki Ramayana, Ayodhya Kanda and Aranya Kanda",
+        "Bhagavata Purana, Canto 8 and Canto 9",
+        "Bhagavad Gita 10.28"
+      ],
+      "variations": [
+        "Origin: rose from the churning of the ocean and was given to the sages (Bhagavata Purana); born from Daksha as he drank amrita (Mahabharata, Anushasana Parva); a daughter of Daksha and wife of Kashyapa (several Puranas); daughter of Krodhavasha (Ramayana, Aranya Kanda).",
+        "The wish-granting cows of Vashistha (Nandini/Shabala) and Jamadagni are sometimes identified with Kamadhenu herself, sometimes with her offspring.",
+        "The image of Kamadhenu with a woman's face, wings and a peacock tail is a modern popular form."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "nandini",
+      "name": "Nandini (Shabala)",
+      "devanagari": "नन्दिनी",
+      "aliases": [
+        "Shabala",
+        "Sabala",
+        "Homadhenu of Vashistha"
+      ],
+      "category": "animal",
+      "era": "ramayana",
+      "group": false,
+      "description": "The wish-fulfilling cow of the sage Vashistha, daughter of Kamadhenu (Surabhi). Kings and gods coveted her, and the attempt of King Vishvamitra to seize her set him on the path to becoming a brahmarshi.",
+      "story": "King Vishvamitra, touring his realm with a great army, stopped at the hermitage of Vashistha. With the help of his wondrous cow, called Shabala in the Ramayana, the sage fed the whole host with every kind of food. Dazzled, the king demanded the cow, offering thousands of elephants, horses and gold. Vashistha refused, and Vishvamitra's men began to drag her away. Breaking free, she ran weeping to the sage and asked why he had abandoned her; Vashistha replied that he could not resist a king. She answered that a brahmin's power is greater, and at his word she brought forth hosts of warriors, Pahlavas, Shakas, Yavanas and Kambojas, who routed the royal army. Humbled, Vishvamitra renounced his throne for austerities, determined to win a brahmin's power.",
+      "symbols": [
+        "white cow",
+        "calf",
+        "sacrificial milk"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Hermitage of Vashistha",
+      "sources": [
+        "Valmiki Ramayana, Bala Kanda",
+        "Mahabharata, Adi Parva (Adivamsavatarana and Chaitraratha Parvas)",
+        "Kalidasa, Raghuvamsha, Canto 2"
+      ],
+      "variations": [
+        "The Ramayana calls Vashistha's cow Shabala (and also Kamadhuk); the Mahabharata names her Nandini, daughter of Surabhi.",
+        "Mahabharata: the Vasus, urged by the wife of Dyu (Prabhasa), stole Nandini; Vashistha cursed them to be born as humans, and Dyu was born as Bhishma.",
+        "Raghuvamsha: King Dilipa served Nandini and offered his own body to a lion to protect her, earning the boon of a son, Raghu."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "makara",
+      "name": "Makara",
+      "devanagari": "मकर",
+      "aliases": [
+        "Jalebha",
+        "Jalarupa",
+        "Kantaka",
+        "Makara (Capricorn)"
+      ],
+      "category": "animal",
+      "era": "mahabharata",
+      "group": false,
+      "description": "A composite water creature, part crocodile, part fish or dolphin, with an elephant-like snout in art, that serves as the mount of the river goddess Ganga and of Varuna, lord of the waters. It is the emblem of Kamadeva's banner and the sign of Capricorn.",
+      "story": "The makara belongs to the realm of the waters. Varuna, lord of oceans and cosmic order, is shown riding it holding his noose, and from the Gupta period onward temple doorways often show the river goddess Ganga standing on a makara, pot in hand, welcoming worshippers as purifying water. Its open jaws spout garlands, vines and pearls on gateways and arches, a sign of the life-giving abundance of water. Kamadeva, god of love, bears the makara on his banner and is called Makaradhvaja. In the Bhagavad Gita, Krishna names the makara as his glory among water creatures. Regional Ramayana traditions add that when Hanuman cooled himself in the ocean after burning Lanka, a great fish or makara swallowed a drop of his sweat and bore his son Makardhvaja.",
+      "symbols": [
+        "crocodile or fish body",
+        "elephant-like snout",
+        "curling tail of foliage",
+        "open jaws"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Rivers and oceans; Varuna's waters",
+      "sources": [
+        "Bhagavad Gita 10.31",
+        "Vishnu Purana",
+        "Matsya Purana (iconography of Varuna and Ganga)",
+        "Regional Ramayana traditions (Makardhvaja legend)"
+      ],
+      "variations": [
+        "The makara is variously interpreted as a crocodile (mugger), a Gangetic dolphin or a purely mythical composite; its artistic form changes over time.",
+        "The Makardhvaja birth story is found in regional Ramayanas, not in Valmiki.",
+        "Makara is also the zodiac sign Capricorn, giving its name to Makar Sankranti."
+      ],
+      "disputed": false
+    },
+    {
+      "id": "bhringi",
+      "name": "Bhringi",
+      "devanagari": "भृङ्गी",
+      "aliases": [
+        "Bhringin",
+        "Bhringiriti",
+        "Bhringirita",
+        "Bhringisha"
+      ],
+      "category": "rishi",
+      "era": "middle-puranas",
+      "group": false,
+      "description": "A sage and gana devoted exclusively to Shiva, who refused to honour Parvati and is shown as an emaciated, three-legged figure beside Shiva and Ardhanarishvara. His story is a traditional explanation of the inseparability of Shiva and Shakti.",
+      "story": "The sage Bhringi worshipped Shiva alone and would not honour Parvati. When he came to Kailasa to circumambulate his lord, he asked the goddess to step aside. To teach him, Parvati sat on Shiva's lap, but Bhringi became a bee and bored his way between them to circle Shiva alone. Then Shiva and Parvati fused into one body, half male and half female, as Ardhanarishvara. Unmoved, Bhringi tried to drill through the middle of that single form. Parvati then cursed him to lose all that a mother gives the body, its flesh and blood, and he collapsed as a mere skeleton, unable to stand. Repenting, he acknowledged the goddess, and Shiva, in compassion, gave him a third leg to support himself; he remained a devoted gana at Kailasa.",
+      "symbols": [
+        "emaciated skeletal body",
+        "three legs",
+        "dancing posture",
+        "bee (bhringa)"
+      ],
+      "weapons": [],
+      "vahana": null,
+      "abode": "Kailasa, among Shiva's ganas",
+      "sources": [
+        "Shiva Purana",
+        "Skanda Purana",
+        "Tamil and Kannada Shaiva sthala-puranas",
+        "Shaiva temple iconography (e.g. Ardhanarishvara panels)"
+      ],
+      "variations": [
+        "The Ardhanarishvara episode is known mainly from South Indian Shaiva tradition and temple iconography rather than a single early Sanskrit text.",
+        "Shiva Purana and Linga Purana: the asura Andhaka, defeated and held aloft on Shiva's trident until wasted away, repented and was made the gana Bhringi (Bhringirita).",
+        "In some versions Parvati's resulting penance leads to her merging with Shiva, rather than the fusion occurring during Bhringi's visit."
+      ],
+      "disputed": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "kashyapa",
+      "target": "shesha",
+      "type": "parent",
+      "label": "Shesha is the eldest son of the sage Kashyapa"
+    },
+    {
+      "source": "kadru",
+      "target": "shesha",
+      "type": "parent",
+      "label": "Shesha is the eldest of Kadru's thousand serpent sons"
+    },
+    {
+      "source": "shesha",
+      "target": "vasuki",
+      "type": "sibling",
+      "label": "Shesha and Vasuki are sons of Kadru; Vasuki became naga king after Shesha withdrew"
+    },
+    {
+      "source": "shesha",
+      "target": "takshaka",
+      "type": "sibling",
+      "label": "Shesha and Takshaka are both sons of Kashyapa and Kadru"
+    },
+    {
+      "source": "shesha",
+      "target": "vishnu",
+      "type": "devotee",
+      "label": "Shesha serves Vishnu as the coiled couch on which he reclines on the cosmic ocean"
+    },
+    {
+      "source": "shesha",
+      "target": "vishnu",
+      "type": "form-of",
+      "label": "The Vishnu and Bhagavata Puranas describe Ananta-Shesha as a form of Vishnu (Sankarshana)",
+      "disputed": true,
+      "variation": "The Mahabharata presents Shesha as a naga son of Kadru rather than a form of Vishnu"
+    },
+    {
+      "source": "brahma",
+      "target": "shesha",
+      "type": "boon",
+      "label": "Pleased by his austerities, Brahma granted Shesha a mind devoted to dharma and the task of holding the earth"
+    },
+    {
+      "source": "shesha",
+      "target": "prithvi",
+      "type": "ally",
+      "label": "Shesha bears the earth upon his hoods and keeps it steady"
+    },
+    {
+      "source": "lakshmana",
+      "target": "shesha",
+      "type": "avatar-of",
+      "label": "Lakshmana is traditionally regarded as an incarnation of Shesha",
+      "variation": "Explicit in later Ramayana traditions and Puranas rather than early Valmiki"
+    },
+    {
+      "source": "balarama",
+      "target": "shesha",
+      "type": "avatar-of",
+      "label": "Balarama is an incarnation of Shesha; at his death a great white serpent left his mouth (Mahabharata, Mausala Parva)",
+      "variation": "Some texts say Balarama was born of a white hair of Vishnu"
+    },
+    {
+      "source": "shesha",
+      "target": "krishna",
+      "type": "form-of",
+      "label": "'Among nagas I am Ananta' (Bhagavad Gita 10.29)",
+      "variation": "Bhagavad Gita 10: Krishna names his vibhutis (divine glories)"
+    },
+    {
+      "source": "kashyapa",
+      "target": "vasuki",
+      "type": "parent",
+      "label": "Vasuki is a son of Kashyapa"
+    },
+    {
+      "source": "kadru",
+      "target": "vasuki",
+      "type": "parent",
+      "label": "Vasuki is a son of Kadru"
+    },
+    {
+      "source": "kadru",
+      "target": "vasuki",
+      "type": "curse",
+      "label": "Kadru cursed her disobedient serpent sons, Vasuki's kin, to perish in Janamejaya's snake sacrifice"
+    },
+    {
+      "source": "vasuki",
+      "target": "manasa",
+      "type": "sibling",
+      "label": "Vasuki's sister Jaratkaru, later identified with the goddess Manasa",
+      "variation": "The Mahabharata calls the sister only Jaratkaru; the name Manasa comes from the Brahmavaivarta, Devi Bhagavata and Bengali tradition"
+    },
+    {
+      "source": "vasuki",
+      "target": "takshaka",
+      "type": "sibling",
+      "label": "Vasuki and Takshaka are both naga sons of Kadru"
+    },
+    {
+      "source": "vasuki",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Vasuki coils around Shiva's neck as his ornament",
+      "variation": "A feature of later Shaiva iconography"
+    },
+    {
+      "source": "vasuki",
+      "target": "jaratkaru",
+      "type": "ally",
+      "label": "Vasuki gave his sister in marriage to the sage Jaratkaru so that a saviour of the serpents would be born"
+    },
+    {
+      "source": "vasuki",
+      "target": "astika",
+      "type": "ally",
+      "label": "Vasuki raised his nephew Astika and sent him to stop the snake sacrifice"
+    },
+    {
+      "source": "vasuki",
+      "target": "bhima",
+      "type": "boon",
+      "label": "When the poisoned Bhima sank into the naga realm, Vasuki gave him a draught granting the strength of thousands of elephants"
+    },
+    {
+      "source": "vasuki",
+      "target": "krishna",
+      "type": "form-of",
+      "label": "'Among serpents I am Vasuki' (Bhagavad Gita 10.28)",
+      "variation": "Bhagavad Gita 10: Krishna names his vibhutis (divine glories)"
+    },
+    {
+      "source": "kashyapa",
+      "target": "takshaka",
+      "type": "parent",
+      "label": "Takshaka is a son of Kashyapa"
+    },
+    {
+      "source": "kadru",
+      "target": "takshaka",
+      "type": "parent",
+      "label": "Takshaka is a son of Kadru"
+    },
+    {
+      "source": "kadru",
+      "target": "takshaka",
+      "type": "curse",
+      "label": "Kadru's curse doomed Takshaka and the serpents to Janamejaya's sacrificial fire"
+    },
+    {
+      "source": "takshaka",
+      "target": "parikshit",
+      "type": "slayer",
+      "label": "Takshaka killed King Parikshit, fulfilling the curse of the sage's son Shringin"
+    },
+    {
+      "source": "takshaka",
+      "target": "janamejaya",
+      "type": "enemy",
+      "label": "Janamejaya held the snake sacrifice chiefly to destroy Takshaka, his father's killer"
+    },
+    {
+      "source": "takshaka",
+      "target": "indra",
+      "type": "ally",
+      "label": "Indra was Takshaka's friend, defended his Khandava home and sheltered him during the snake sacrifice"
+    },
+    {
+      "source": "takshaka",
+      "target": "arjuna",
+      "type": "enemy",
+      "label": "Arjuna and Krishna burned Takshaka's home, the Khandava forest; Takshaka's son sought revenge"
+    },
+    {
+      "source": "kashyapa",
+      "target": "karkotaka",
+      "type": "parent",
+      "label": "Karkotaka is a son of Kashyapa"
+    },
+    {
+      "source": "kadru",
+      "target": "karkotaka",
+      "type": "parent",
+      "label": "Karkotaka is named among Kadru's serpent sons"
+    },
+    {
+      "source": "narada",
+      "target": "karkotaka",
+      "type": "curse",
+      "label": "Narada cursed Karkotaka to lie motionless until Nala carried him"
+    },
+    {
+      "source": "karkotaka",
+      "target": "nala-king",
+      "type": "ally",
+      "label": "Nala rescued Karkotaka from a forest fire; the naga's bite disguised and protected him"
+    },
+    {
+      "source": "karkotaka",
+      "target": "kali-purusha",
+      "type": "enemy",
+      "label": "Karkotaka's venom tormented Kali, who had possessed Nala"
+    },
+    {
+      "source": "jaratkaru",
+      "target": "manasa",
+      "type": "spouse",
+      "label": "The sage Jaratkaru married Vasuki's sister, the naga maiden Jaratkaru (Manasa)",
+      "variation": "Mahabharata: wife named Jaratkaru; Brahmavaivarta and Bengali tradition: Manasa"
+    },
+    {
+      "source": "manasa",
+      "target": "astika",
+      "type": "parent",
+      "label": "Manasa (the naga Jaratkaru) is the mother of Astika"
+    },
+    {
+      "source": "jaratkaru",
+      "target": "astika",
+      "type": "parent",
+      "label": "The sage Jaratkaru is the father of Astika, whose name comes from his word 'asti'"
+    },
+    {
+      "source": "kashyapa",
+      "target": "manasa",
+      "type": "parent",
+      "label": "Brahmavaivarta Purana: Manasa is a mind-born daughter of Kashyapa",
+      "disputed": true,
+      "variation": "Bengali Manasamangal makes her the daughter of Shiva"
+    },
+    {
+      "source": "kadru",
+      "target": "manasa",
+      "type": "parent",
+      "label": "As Vasuki's sister Jaratkaru, she would be a daughter of Kadru (Mahabharata)",
+      "disputed": true,
+      "variation": "The Brahmavaivarta makes her mind-born of Kashyapa; Bengali tradition makes her Shiva's daughter"
+    },
+    {
+      "source": "shiva",
+      "target": "manasa",
+      "type": "parent",
+      "label": "Bengali Manasamangal: Manasa was born of Shiva's seed",
+      "disputed": true,
+      "variation": "Regional Bengali tradition, not Sanskrit Puranas"
+    },
+    {
+      "source": "manasa",
+      "target": "parvati",
+      "type": "enemy",
+      "label": "In the Manasamangal, Manasa quarrels with her stepmother Chandi (Parvati), who blinds one of her eyes",
+      "disputed": true,
+      "variation": "Regional Bengali tradition"
+    },
+    {
+      "source": "chyavana",
+      "target": "astika",
+      "type": "guru",
+      "label": "Astika learned the Vedas from the sage Chyavana"
+    },
+    {
+      "source": "janamejaya",
+      "target": "astika",
+      "type": "boon",
+      "label": "Janamejaya granted Astika's boon and ended the snake sacrifice"
+    },
+    {
+      "source": "astika",
+      "target": "takshaka",
+      "type": "ally",
+      "label": "Astika's cry of 'Stay!' halted Takshaka's fall into the sacrificial fire"
+    },
+    {
+      "source": "daksha",
+      "target": "kadru",
+      "type": "parent",
+      "label": "Kadru is a daughter of Daksha"
+    },
+    {
+      "source": "daksha",
+      "target": "vinata",
+      "type": "parent",
+      "label": "Vinata is a daughter of Daksha"
+    },
+    {
+      "source": "kashyapa",
+      "target": "kadru",
+      "type": "spouse",
+      "label": "Kadru is a wife of the sage Kashyapa"
+    },
+    {
+      "source": "kashyapa",
+      "target": "vinata",
+      "type": "spouse",
+      "label": "Vinata is a wife of the sage Kashyapa"
+    },
+    {
+      "source": "kadru",
+      "target": "vinata",
+      "type": "sibling",
+      "label": "Kadru and Vinata are sisters, daughters of Daksha"
+    },
+    {
+      "source": "kadru",
+      "target": "vinata",
+      "type": "enemy",
+      "label": "Kadru won their wager over Uchchaihshravas's tail by deceit and enslaved Vinata"
+    },
+    {
+      "source": "kashyapa",
+      "target": "garuda",
+      "type": "parent",
+      "label": "Garuda is the son of the sage Kashyapa"
+    },
+    {
+      "source": "vinata",
+      "target": "garuda",
+      "type": "parent",
+      "label": "Garuda hatched from Vinata's second egg"
+    },
+    {
+      "source": "kashyapa",
+      "target": "aruna",
+      "type": "parent",
+      "label": "Aruna is the son of the sage Kashyapa"
+    },
+    {
+      "source": "vinata",
+      "target": "aruna",
+      "type": "parent",
+      "label": "Aruna was born from the egg Vinata broke open too early"
+    },
+    {
+      "source": "aruna",
+      "target": "vinata",
+      "type": "curse",
+      "label": "Aruna, born incomplete, cursed his mother to serve Kadru as a slave until Garuda freed her"
+    },
+    {
+      "source": "garuda",
+      "target": "vishnu",
+      "type": "vahana",
+      "label": "Garuda is the mount of Vishnu and the emblem on his banner"
+    },
+    {
+      "source": "vishnu",
+      "target": "garuda",
+      "type": "boon",
+      "label": "Vishnu granted Garuda immortality without amrita and a place above him on his banner"
+    },
+    {
+      "source": "vishnu",
+      "target": "garuda",
+      "type": "guru",
+      "label": "Vishnu's teachings to Garuda form the Garuda Purana"
+    },
+    {
+      "source": "garuda",
+      "target": "indra",
+      "type": "enemy",
+      "label": "Garuda overcame Indra and the gods when he stole the amrita from heaven"
+    },
+    {
+      "source": "indra",
+      "target": "garuda",
+      "type": "boon",
+      "label": "Indra befriended Garuda and granted that serpents would be his food"
+    },
+    {
+      "source": "garuda",
+      "target": "aruna",
+      "type": "sibling",
+      "label": "Garuda and Aruna are the two sons of Vinata"
+    },
+    {
+      "source": "garuda",
+      "target": "takshaka",
+      "type": "enemy",
+      "label": "Garuda is the foe of Kadru's serpent sons, among them Takshaka"
+    },
+    {
+      "source": "garuda",
+      "target": "kaliya",
+      "type": "enemy",
+      "label": "The naga Kaliya fled from Garuda to the Yamuna pool that Garuda could not enter (Bhagavata Purana)"
+    },
+    {
+      "source": "garuda",
+      "target": "kadru",
+      "type": "enemy",
+      "label": "Garuda served Kadru and her sons until he ransomed his mother with the amrita"
+    },
+    {
+      "source": "garuda",
+      "target": "rama",
+      "type": "ally",
+      "label": "Garuda freed Rama and Lakshmana from Indrajit's serpent-arrows (Ramayana, Yuddha Kanda)"
+    },
+    {
+      "source": "garuda",
+      "target": "krishna",
+      "type": "vahana",
+      "label": "Krishna rode Garuda with Satyabhama to battle Narakasura"
+    },
+    {
+      "source": "garuda",
+      "target": "krishna",
+      "type": "form-of",
+      "label": "'Among birds I am Vainateya (Garuda)' (Bhagavad Gita 10.30)",
+      "variation": "Bhagavad Gita 10: Krishna names his vibhutis (divine glories)"
+    },
+    {
+      "source": "garuda",
+      "target": "paravani",
+      "type": "ally",
+      "label": "Garuda presented the peacock to Skanda at his consecration (Mahabharata, Shalya Parva)",
+      "variation": "Tamil tradition instead makes the peacock the transformed Surapadman"
+    },
+    {
+      "source": "aruna",
+      "target": "surya",
+      "type": "ally",
+      "label": "Aruna is the charioteer of Surya, shielding the world from the Sun's heat as the dawn"
+    },
+    {
+      "source": "aruna",
+      "target": "jatayu",
+      "type": "parent",
+      "label": "Jatayu is the son of Aruna and Shyeni (Ramayana, Aranya Kanda)",
+      "variation": "Some Puranic genealogies differ"
+    },
+    {
+      "source": "aruna",
+      "target": "sampati",
+      "type": "parent",
+      "label": "Sampati, elder brother of Jatayu, is a son of Aruna (Ramayana)",
+      "variation": "Some Puranic genealogies differ"
+    },
+    {
+      "source": "nandi",
+      "target": "shiva",
+      "type": "vahana",
+      "label": "Nandi the bull is the mount of Shiva"
+    },
+    {
+      "source": "nandi",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Nandi is Shiva's foremost devotee, chief of his ganas and guardian of Kailasa's gate"
+    },
+    {
+      "source": "nandi",
+      "target": "ravana",
+      "type": "curse",
+      "label": "Mocked for his monkey-like face, Nandi cursed Ravana to be destroyed by monkey-formed beings (Ramayana, Uttara Kanda)"
+    },
+    {
+      "source": "nandi",
+      "target": "daksha",
+      "type": "curse",
+      "label": "At Daksha's assembly, Nandishvara cursed Daksha for insulting Shiva (Bhagavata Purana, Canto 4)"
+    },
+    {
+      "source": "bhrigu",
+      "target": "nandi",
+      "type": "curse",
+      "label": "Bhrigu counter-cursed Nandi and Shiva's followers after Nandi's curse on Daksha (Bhagavata Purana, Canto 4)"
+    },
+    {
+      "source": "nandi",
+      "target": "bhringi",
+      "type": "ally",
+      "label": "Nandi and Bhringi are Shiva's foremost ganas at Kailasa"
+    },
+    {
+      "source": "nandi",
+      "target": "maheshvari",
+      "type": "vahana",
+      "label": "Maheshvari, Shiva's shakti among the Matrikas, rides a bull (Devi Mahatmya, ch. 8)"
+    },
+    {
+      "source": "nandi",
+      "target": "shailaputri",
+      "type": "vahana",
+      "label": "Shailaputri rides a bull, often identified with Nandi",
+      "disputed": true,
+      "variation": "The bull is not always named as Nandi"
+    },
+    {
+      "source": "kamadhenu",
+      "target": "nandi",
+      "type": "parent",
+      "label": "Some Puranic accounts make the bull Nandi a son of Surabhi (Kamadhenu), given to Shiva",
+      "disputed": true,
+      "variation": "The Shiva Purana makes Nandi the son of the sage Shilada"
+    },
+    {
+      "source": "airavata",
+      "target": "indra",
+      "type": "vahana",
+      "label": "Airavata, the white elephant, is the mount of Indra"
+    },
+    {
+      "source": "airavata",
+      "target": "aindri",
+      "type": "vahana",
+      "label": "Aindri, Indra's shakti, rides the lord of elephants (Devi Mahatmya, ch. 8)"
+    },
+    {
+      "source": "airavata",
+      "target": "brahma",
+      "type": "created-by",
+      "label": "Elephant-lore texts say Airavata was born from the cosmic eggshell as Brahma chanted Samans",
+      "disputed": true,
+      "variation": "Most Puranas say he rose from the churning of the ocean"
+    },
+    {
+      "source": "kashyapa",
+      "target": "airavata",
+      "type": "ancestor-of",
+      "label": "The Ramayana traces Airavata to Kashyapa's line through Krodhavasha and Iravati",
+      "disputed": true,
+      "variation": "Ramayana, Aranya Kanda; differs from the churning origin"
+    },
+    {
+      "source": "airavata",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Local tradition says Airavata worshipped Shiva at Darasuram (Airavateshvara temple)",
+      "disputed": true,
+      "variation": "Temple sthala-purana"
+    },
+    {
+      "source": "airavata",
+      "target": "krishna",
+      "type": "form-of",
+      "label": "'Among lordly elephants, know me as Airavata' (Bhagavad Gita 10.27)",
+      "variation": "Bhagavad Gita 10: Krishna names his vibhutis (divine glories)"
+    },
+    {
+      "source": "mushika",
+      "target": "ganesha",
+      "type": "vahana",
+      "label": "The mouse is the mount of Ganesha"
+    },
+    {
+      "source": "mushika",
+      "target": "ganesha",
+      "type": "devotee",
+      "label": "Subdued by Ganesha's noose, the proud mouse became his humble servant"
+    },
+    {
+      "source": "mushika",
+      "target": "parashara",
+      "type": "enemy",
+      "label": "As the giant mouse Krauncha, he ravaged the hermitage of Parashara until Ganesha captured him",
+      "disputed": true,
+      "variation": "Story attributed to the Ganesha Purana; other versions make the mouse the asura Gajamukha"
+    },
+    {
+      "source": "paravani",
+      "target": "kartikeya",
+      "type": "vahana",
+      "label": "The peacock is the mount of Kartikeya (Skanda, Murugan)"
+    },
+    {
+      "source": "paravani",
+      "target": "kaumari",
+      "type": "vahana",
+      "label": "Kaumari, Skanda's shakti, rides a peacock (Devi Mahatmya, ch. 8)"
+    },
+    {
+      "source": "hamsa-vahana",
+      "target": "brahma",
+      "type": "vahana",
+      "label": "The swan is the mount of Brahma"
+    },
+    {
+      "source": "hamsa-vahana",
+      "target": "saraswati",
+      "type": "vahana",
+      "label": "The swan is the mount of Saraswati, goddess of learning"
+    },
+    {
+      "source": "hamsa-vahana",
+      "target": "brahmani",
+      "type": "vahana",
+      "label": "Brahmani rides a celestial car drawn by swans (Devi Mahatmya, ch. 8)"
+    },
+    {
+      "source": "uluka",
+      "target": "lakshmi",
+      "type": "vahana",
+      "label": "The owl is Lakshmi's mount in Bengali and eastern Indian tradition",
+      "disputed": true,
+      "variation": "Regional and late; Lakshmi is more often shown on a lotus or with elephants"
+    },
+    {
+      "source": "uluka",
+      "target": "chamunda",
+      "type": "vahana",
+      "label": "Some images of Chamunda show an owl as her mount",
+      "disputed": true,
+      "variation": "Chamunda is also shown on a corpse (preta)"
+    },
+    {
+      "source": "dawon",
+      "target": "durga",
+      "type": "vahana",
+      "label": "The lion is the mount of Durga"
+    },
+    {
+      "source": "dawon",
+      "target": "parvati",
+      "type": "vahana",
+      "label": "Parvati as Gauri adopted as her mount the lion that waited through her austerities",
+      "disputed": true,
+      "variation": "Puranic tale; Parvati is also shown with Nandi beside Shiva"
+    },
+    {
+      "source": "dawon",
+      "target": "kaushiki",
+      "type": "vahana",
+      "label": "Kaushiki-Ambika rides her lion against Shumbha and Nishumbha (Devi Mahatmya)"
+    },
+    {
+      "source": "dawon",
+      "target": "katyayani",
+      "type": "vahana",
+      "label": "Katyayani is shown riding a lion"
+    },
+    {
+      "source": "dawon",
+      "target": "skandamata",
+      "type": "vahana",
+      "label": "Skandamata is shown riding a lion"
+    },
+    {
+      "source": "himavan",
+      "target": "dawon",
+      "type": "ally",
+      "label": "Himavan gave the lion to the Goddess as her mount (Devi Mahatmya, ch. 2)"
+    },
+    {
+      "source": "dawon",
+      "target": "mahishasura",
+      "type": "enemy",
+      "label": "The Goddess's lion tore through Mahishasura's armies and springs upon the buffalo demon"
+    },
+    {
+      "source": "uchchaihshravas",
+      "target": "indra",
+      "type": "vahana",
+      "label": "Uchchaihshravas is generally the steed of Indra"
+    },
+    {
+      "source": "uchchaihshravas",
+      "target": "surya",
+      "type": "vahana",
+      "label": "Some texts associate the horse with the Sun",
+      "disputed": true,
+      "variation": "Surya's son Revanta is shown riding him"
+    },
+    {
+      "source": "uchchaihshravas",
+      "target": "bali",
+      "type": "vahana",
+      "label": "The Bhagavata Purana says the asura king Bali took the horse after the churning",
+      "disputed": true,
+      "variation": "Bhagavata Purana 8.8; most accounts give him to Indra"
+    },
+    {
+      "source": "uchchaihshravas",
+      "target": "krishna",
+      "type": "form-of",
+      "label": "'Among horses know me as Uchchaihshravas, born of nectar' (Bhagavad Gita 10.27)",
+      "variation": "Bhagavad Gita 10: Krishna names his vibhutis (divine glories)"
+    },
+    {
+      "source": "kamadhenu",
+      "target": "nandini",
+      "type": "parent",
+      "label": "Nandini is the daughter of Surabhi (Kamadhenu)"
+    },
+    {
+      "source": "kamadhenu",
+      "target": "daksha",
+      "type": "created-by",
+      "label": "The Mahabharata says Surabhi was born from Daksha as he drank amrita",
+      "disputed": true,
+      "variation": "Other texts: from the churning of the ocean, or a daughter of Daksha married to Kashyapa"
+    },
+    {
+      "source": "kashyapa",
+      "target": "kamadhenu",
+      "type": "spouse",
+      "label": "Several Puranas list Surabhi among Kashyapa's wives, mother of cattle",
+      "disputed": true,
+      "variation": "Other accounts make her born of the churning"
+    },
+    {
+      "source": "jamadagni",
+      "target": "kamadhenu",
+      "type": "ally",
+      "label": "Jamadagni's wish-granting cow fed Kartavirya Arjuna's army at his hermitage",
+      "disputed": true,
+      "variation": "Sometimes identified with Kamadhenu, sometimes her offspring; in the Mahabharata only the calf is taken"
+    },
+    {
+      "source": "kamadhenu",
+      "target": "kartavirya-arjuna",
+      "type": "enemy",
+      "label": "Kartavirya Arjuna seized the wish-granting cow from Jamadagni, provoking Parashurama",
+      "disputed": true,
+      "variation": "Bhagavata Purana, Canto 9"
+    },
+    {
+      "source": "kamadhenu",
+      "target": "krishna",
+      "type": "form-of",
+      "label": "'Among cows I am Kamadhuk' (Bhagavad Gita 10.28)",
+      "variation": "Bhagavad Gita 10: Krishna names his vibhutis (divine glories)"
+    },
+    {
+      "source": "vashistha",
+      "target": "nandini",
+      "type": "ally",
+      "label": "Nandini (Shabala) is the wish-granting cow of Vashistha's hermitage"
+    },
+    {
+      "source": "nandini",
+      "target": "vishvamitra",
+      "type": "enemy",
+      "label": "When Vishvamitra tried to seize her, Shabala brought forth armies that routed him (Ramayana, Bala Kanda)"
+    },
+    {
+      "source": "nandini",
+      "target": "vasus",
+      "type": "enemy",
+      "label": "The Vasus stole Nandini, and Vashistha cursed them to be born as humans (Mahabharata, Adi Parva)"
+    },
+    {
+      "source": "nandini",
+      "target": "dilipa",
+      "type": "boon",
+      "label": "Pleased by King Dilipa's service, Nandini granted him a son, Raghu (Raghuvamsha)"
+    },
+    {
+      "source": "makara",
+      "target": "ganga",
+      "type": "vahana",
+      "label": "The makara is the mount of the river goddess Ganga"
+    },
+    {
+      "source": "makara",
+      "target": "varuna",
+      "type": "vahana",
+      "label": "The makara is the mount of Varuna, lord of the waters"
+    },
+    {
+      "source": "makara",
+      "target": "kamadeva",
+      "type": "ally",
+      "label": "The makara is the emblem on Kamadeva's banner (Makaradhvaja)"
+    },
+    {
+      "source": "makara",
+      "target": "krishna",
+      "type": "form-of",
+      "label": "'Among water creatures I am the makara' (Bhagavad Gita 10.31)",
+      "variation": "Bhagavad Gita 10: Krishna names his vibhutis (divine glories)"
+    },
+    {
+      "source": "makara",
+      "target": "makardhvaja",
+      "type": "parent",
+      "label": "Regional Ramayanas: a great fish or makara swallowed Hanuman's sweat and bore Makardhvaja",
+      "disputed": true,
+      "variation": "Not in Valmiki; regional tradition"
+    },
+    {
+      "source": "bhringi",
+      "target": "shiva",
+      "type": "devotee",
+      "label": "Bhringi worshipped Shiva alone and became one of his ganas"
+    },
+    {
+      "source": "parvati",
+      "target": "bhringi",
+      "type": "curse",
+      "label": "Parvati cursed Bhringi to lose the flesh and blood a mother gives, for refusing to honour her"
+    },
+    {
+      "source": "shiva",
+      "target": "bhringi",
+      "type": "boon",
+      "label": "Shiva gave the enfeebled Bhringi a third leg to stand on"
+    },
+    {
+      "source": "bhringi",
+      "target": "ardhanarishvara",
+      "type": "devotee",
+      "label": "Shiva took the Ardhanarishvara form to show Bhringi that Shiva and Shakti are inseparable; Bhringi is shown beside it"
+    },
+    {
+      "source": "bhringi",
+      "target": "andhaka",
+      "type": "reincarnation-of",
+      "label": "Shiva and Linga Puranas: the defeated, repentant Andhaka was made the gana Bhringi",
+      "disputed": true,
+      "variation": "A transformation rather than rebirth; the Ardhanarishvara story treats Bhringi as a sage"
+    }
+  ]
+}

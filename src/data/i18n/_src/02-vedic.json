@@ -1,0 +1,1400 @@
+{
+ "section": "02-vedic",
+ "nodes": {
+  "indra": {
+   "name": "Indra",
+   "aliases": [
+    "Shakra",
+    "Vasava",
+    "Purandara",
+    "Maghavan",
+    "Vritrahan",
+    "Devendra",
+    "Surapati",
+    "Vajrapani",
+    "Sahasraksha",
+    "Devaraja"
+   ],
+   "description": "King of the devas and wielder of the thunderbolt, Indra is the most-praised deity of the Rig Veda, where about a quarter of the hymns celebrate his soma-fuelled victories over Vritra and other foes. In the epics and Puranas he remains lord of Svarga and the rains, but becomes a more fallible figure who loses his throne, is cursed by sages and is outshone by Vishnu, Shiva and Krishna.",
+   "story": "Having drunk deep of soma, Indra took up the vajra that Tvashtr had forged and went out against Vritra, the serpent who lay coiled upon the mountains holding back the waters. He struck the dragon between the shoulders and split him like a tree felled by an axe. Vritra's mother Danu fell over her son, lying above him like a cow with her calf, and was struck down too. Then the imprisoned waters, lowing like cows rushing to their stalls, streamed over the dragon's body toward the sea, and Indra, 'king of what moves and what rests', set the sun in the sky. The Rig Veda sings this victory again and again; later texts add that the killing brought on Indra the stain of brahmin-slaying, which drove him into hiding.",
+   "symbols": [
+    "vajra (thunderbolt)",
+    "bow (Indradhanus, the rainbow)",
+    "soma cup",
+    "thousand eyes",
+    "white elephant"
+   ],
+   "weapons": [
+    "Vajra",
+    "Indradhanus (bow)",
+    "Vasavi Shakti",
+    "ankusha (goad)"
+   ],
+   "vahana": "Airavata (white elephant); the horse Uchchaihshravas in later texts",
+   "abode": "Amaravati in Svarga (Indraloka)",
+   "sources": [
+    "Rig Veda 1.32",
+    "Rig Veda (c. 250 hymns)",
+    "Taittiriya Samhita",
+    "Shatapatha Brahmana",
+    "Kena Upanishad",
+    "Ramayana, Bala Kanda",
+    "Mahabharata, Udyoga Parva",
+    "Vishnu Purana",
+    "Bhagavata Purana, Canto 10"
+   ],
+   "variations": [
+    "Rig Veda: supreme warrior-king and soma-drinker; epics and Puranas: a lesser king of the gods, often proud, lustful or fearful and dependent on Vishnu or Shiva.",
+    "Parentage: the Rig Veda hints at Dyaus as his father and speaks of a mother who bore him (later commentary names her Nishtigri); the epics and Puranas make him a son of Kashyapa and Aditi and one of the twelve Adityas.",
+    "In Puranic cosmology 'Indra' is an office held by a different being in each Manvantara; the Indra of the present age is Purandara.",
+    "His slaying of Vritra and Vishvarupa is heroic in the Rig Veda, but the Brahmanas and Mahabharata treat it as incurring brahmahatya (the sin of killing a brahmin)."
+   ]
+  },
+  "shachi": {
+   "name": "Shachi (Indrani)",
+   "aliases": [
+    "Indrani",
+    "Paulomi",
+    "Aindri",
+    "Mahendri"
+   ],
+   "description": "Shachi, called Indrani, is the queen of Indra and daughter of the Danava Puloman. Her name means 'might' or 'divine power', and a Rig Vedic hymn (10.159) in which she exults over her rivals is ascribed to 'Shachi Paulomi'. In the epics she is the model of the faithful wife, most famously in her resistance to Nahusha.",
+   "story": "When Indra hid himself in a lotus stalk to escape the sin of killing Vishvarupa, the gods crowned the virtuous mortal king Nahusha in his place. Power made Nahusha arrogant, and he demanded Shachi as his queen. She took refuge with Brihaspati, then asked Nahusha for time. Praying to the goddess of rumour, Upashruti, she was led across the Himalaya to a lake where Indra lay hidden in the fibres of a lotus. On Indra's advice she told Nahusha she would receive him only if he came in a palanquin borne by the great seers. Impatient, Nahusha drove the sages on and touched Agastya with his foot; the sage cursed him to fall to earth as a serpent, and Indra returned to his throne and his queen.",
+   "symbols": [
+    "crown",
+    "boon-giving gesture",
+    "elephant emblem"
+   ],
+   "weapons": [
+    "vajra (as Aindri)"
+   ],
+   "vahana": "Airavata (shared with Indra)",
+   "abode": "Amaravati in Svarga",
+   "sources": [
+    "Rig Veda 10.159",
+    "Rig Veda 10.86",
+    "Mahabharata, Udyoga Parva",
+    "Devi Bhagavata Purana"
+   ],
+   "variations": [
+    "Rig Veda 10.86 (the Vrishakapi hymn) shows Indrani as outspoken and jealous; epic tradition presents her as the ideal chaste queen.",
+    "She is often identified with Aindri, the Matrika who is Indra's shakti, though Matrika lists treat Aindri as a separate battle-goddess.",
+    "Some Puranas name her children as Jayanta, Jayanti and Devasena; Devasena's parentage differs widely between texts."
+   ]
+  },
+  "agni": {
+   "name": "Agni",
+   "aliases": [
+    "Vahni",
+    "Pavaka",
+    "Anala",
+    "Jatavedas",
+    "Vaishvanara",
+    "Havyavahana",
+    "Hutashana",
+    "Tanunapat"
+   ],
+   "description": "Agni, the god of fire, opens the Rig Veda (1.1) and is its second most-praised deity: the priest of the gods and the messenger who carries offerings from the sacrificial fire to heaven. He dwells in the hearth, the lightning, the sun and the waters, and remains central to every Hindu rite, from marriage to cremation. Later he becomes guardian of the south-east and a figure in epic tales such as the burning of the Khandava forest.",
+   "story": "Once Agni was asked by the rakshasa Puloman whether the woman in the ashram was Puloma, wife of the sage Bhrigu, whom the demon had long ago claimed. Bound to truth, Agni admitted that she was. The demon carried her off, and her unborn child Chyavana fell from her womb blazing so brightly that the demon was burnt to ash. Bhrigu, enraged that Agni had betrayed his wife, cursed him to devour everything, clean and unclean alike. Agni protested that he had only spoken the truth, and withdrew from the world, so that all sacrifices ceased. Brahma then softened the curse: whatever Agni touches would be made pure, and his hunger would purify rather than defile the world.",
+   "symbols": [
+    "two faces",
+    "seven tongues of flame",
+    "ladle and ghee",
+    "fire",
+    "ram"
+   ],
+   "weapons": [
+    "shakti (spear)",
+    "flaming arrows",
+    "the Agneyastra"
+   ],
+   "vahana": "Ram (mesha)",
+   "abode": "The sacrificial fire; Agniloka",
+   "sources": [
+    "Rig Veda 1.1",
+    "Rig Veda 10.51",
+    "Shatapatha Brahmana",
+    "Kena Upanishad",
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Vana Parva",
+    "Vishnu Purana"
+   ],
+   "variations": [
+    "Rig Veda: born of heaven and earth, of the waters (as Apam Napat) or of the fire-drills; Vishnu Purana: eldest son of Brahma; other lists make him one of the eight Vasus (Anala).",
+    "Agni's role in Kartikeya's birth varies: the Mahabharata makes Agni and Svaha his parents, while the Ramayana and Shaiva Puranas have Agni only carry Shiva's seed.",
+    "The Brahmanas sometimes identify Agni with Rudra, reflecting Rudra's fiery nature."
+   ]
+  },
+  "svaha": {
+   "name": "Svaha",
+   "aliases": [
+    "Agnayi",
+    "Svahadevi"
+   ],
+   "description": "Svaha is the wife of Agni and the personification of the sacred exclamation svaha, uttered as each offering is poured into the fire. The word is Vedic, but her story as a goddess first appears in the Mahabharata and the Puranas, which make her a daughter of Daksha and Prasuti.",
+   "story": "Agni once fell in love with the wives of the Seven Sages, and wasted away with longing he could not honourably fulfil. Svaha, Daksha's daughter, had long loved Agni. She took the form of Shiva, wife of Angiras, and came to him; then, one by one, she assumed the forms of five more of the sages' wives. Each time she flew away in the shape of a bird to a white mountain and cast Agni's seed into a golden vessel among the reeds. Only the form of Arundhati, the steadfast wife of Vasishtha, she could not take. From the seed collected six times a radiant child was born with six heads: Skanda. Agni accepted Svaha as his wife, and ever since offerings are made to the fire with her name.",
+   "symbols": [
+    "ladle of ghee",
+    "fire",
+    "the mantra svaha"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "With Agni in the sacrificial fire",
+   "sources": [
+    "Mahabharata, Vana Parva",
+    "Vishnu Purana",
+    "Bhagavata Purana, Canto 4",
+    "Brahmavaivarta Purana, Prakriti Khanda",
+    "Devi Bhagavata Purana, Book 9"
+   ],
+   "variations": [
+    "Mahabharata: Svaha takes the forms of six sages' wives and is Skanda's mother; Shaiva Puranas make Skanda the son of Shiva and Parvati, with Agni only a carrier of the seed.",
+    "The Brahmavaivarta and Devi Bhagavata Puranas treat Svaha as a part-form of Prakriti, the supreme Goddess.",
+    "Her sons with Agni are named as Pavaka, Pavamana and Shuchi in the Vishnu Purana."
+   ]
+  },
+  "varuna": {
+   "name": "Varuna",
+   "aliases": [
+    "Pracheta",
+    "Jalapati",
+    "Pashin",
+    "Yadapati",
+    "Apam Pati"
+   ],
+   "description": "In the Rig Veda Varuna is the sovereign guardian of rita, the cosmic and moral order: an all-seeing king who binds wrongdoers with his noose and forgives the penitent. Over time he loses this ethical supremacy and becomes chiefly lord of the waters and the ocean, guardian of the west among the Dikpalas.",
+   "story": "King Harishchandra had a hundred wives but no son. On Narada's advice he prayed to Varuna, promising that if a son were born he would sacrifice him to the god. Rohita was born, but each time Varuna came to claim him the king found an excuse, until the boy, grown, took his bow and fled to the forest. Varuna struck Harishchandra with dropsy. After years of wandering, Rohita bought Shunahshepa, a brahmin boy, from his poor father Ajigarta for a hundred cows as a substitute. Bound to the sacrificial post, Shunahshepa praised Prajapati, Agni, Savitr, Varuna and Ushas in turn. With each verse a fetter loosened and the king's belly shrank, until the boy was free and Harishchandra was healed. Vishvamitra then adopted Shunahshepa as his son.",
+   "symbols": [
+    "noose (pasha)",
+    "water pot",
+    "makara",
+    "white umbrella",
+    "conch"
+   ],
+   "weapons": [
+    "Pasha (noose)",
+    "Varunastra"
+   ],
+   "vahana": "Makara",
+   "abode": "A palace of a thousand doors in heaven (Vedic); the ocean and Sukha in the west (Puranic)",
+   "sources": [
+    "Rig Veda 7.86",
+    "Rig Veda 7.33",
+    "Aitareya Brahmana 7.13-18",
+    "Taittiriya Upanishad (Bhriguvalli)",
+    "Mahabharata, Adi Parva",
+    "Bhagavata Purana, Canto 10"
+   ],
+   "variations": [
+    "Rig Veda: supreme moral sovereign paired with Mitra; epics and Puranas: lord of the waters and a regional guardian (west).",
+    "Bhrigu is called Varuni, son of Varuna, in the Taittiriya Upanishad and Brahmanas, but a mind-born son of Brahma in the Puranas.",
+    "Some scholars link Varuna with the Greek Ouranos; the etymology is debated."
+   ]
+  },
+  "mitra": {
+   "name": "Mitra",
+   "aliases": [
+    "Mitra Aditya"
+   ],
+   "description": "Mitra, whose name means both 'friend' and 'contract', is the Aditya of alliances, treaties and social harmony, almost always invoked together with Varuna as Mitra-Varuna. He is one of the oldest attested Indo-Iranian gods: he appears with Varuna, Indra and the Nasatyas in a Mitanni treaty of the fourteenth century BCE, and as Mithra in Iran.",
+   "story": "The Shatapatha Brahmana tells that when the gods resolved to press and so 'slay' King Soma for the sacrifice, they called on Mitra to join them. Mitra refused, saying 'I am the friend of all beings'. Yet the gods insisted he take a share, and when he did, the cattle turned away from him, murmuring that he who was called Friend had done a cruel deed. The Rig Veda paints a warmer picture: Mitra, speaking, brings people together; he upholds earth and sky and watches the tillers of the soil with unwinking eye. With Varuna he guards rita, the true order, and the pair are the joint fathers of the sages Vasishtha and Agastya, born when their seed fell into a jar at the sight of the apsara Urvashi.",
+   "symbols": [
+    "the sun's eye",
+    "day (as Varuna rules night)",
+    "clasped hands of friendship"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The heavens, with Varuna",
+   "sources": [
+    "Rig Veda 3.59",
+    "Rig Veda 7.33",
+    "Shatapatha Brahmana",
+    "Mahabharata, Adi Parva",
+    "Vishnu Purana"
+   ],
+   "variations": [
+    "Later Vedic texts pair Mitra with day and Varuna with night.",
+    "In the Puranas Mitra is simply one of twelve Adityas presiding over a month of the solar year, with little independent mythology."
+   ]
+  },
+  "surya": {
+   "name": "Surya (Vivasvat)",
+   "aliases": [
+    "Vivasvat",
+    "Vivasvan",
+    "Aditya",
+    "Martanda",
+    "Bhaskara",
+    "Ravi",
+    "Dinakara",
+    "Savitr",
+    "Arka",
+    "Mitra"
+   ],
+   "description": "Surya is the Sun god, the visible eye of Mitra and Varuna in the Rig Veda, crossing the sky in a chariot drawn by seven horses. Vivasvat, originally a separate Vedic figure and father of Yama and Manu, merged with Surya, so that in the epics and Puranas the Sun is the ancestor of the Solar dynasty and father of Yama, Yami, Manu, the Ashvins, Shani, Karna and Sugriva. He is worshipped daily in the Gayatri and at sunrise, and in his own cults at Konark and Multan.",
+   "story": "Sanjna, daughter of Vishvakarma, could not bear the blazing heat of her husband Surya. Leaving behind a shadow-double, Chhaya, to care for their children, she fled to her father and then to the northern lands, where she practised austerities in the form of a mare. Chhaya bore Surya children of her own and favoured them, until Yama, in anger, raised his foot against her and she cursed him. Surya, seeing that no true mother would curse her son, forced Chhaya to confess. He went to Vishvakarma, who set him on his lathe and trimmed away part of his brilliance, fashioning weapons for the gods from the shavings. Surya then took the form of a stallion and found Sanjna; from their union were born the twin Ashvins.",
+   "symbols": [
+    "seven-horse chariot",
+    "two lotuses",
+    "sun disc (halo)",
+    "boots (in northern iconography)"
+   ],
+   "weapons": [
+    "chakra",
+    "lotuses"
+   ],
+   "vahana": "Chariot of seven horses driven by Aruna",
+   "abode": "Suryaloka; the solar disc",
+   "sources": [
+    "Rig Veda 1.50",
+    "Rig Veda 1.115",
+    "Rig Veda 10.17",
+    "Ramayana, Yuddha Kanda (Aditya Hridayam)",
+    "Mahabharata, Vana Parva",
+    "Harivamsha",
+    "Markandeya Purana",
+    "Vishnu Purana 3.2",
+    "Samba Purana"
+   ],
+   "variations": [
+    "Vivasvat and Surya are distinct in the Rig Veda; the epics and Puranas treat them as one.",
+    "The Sun's wife is Sanjna (Saranyu) with her shadow Chhaya in the Puranas; in Rig Veda 10.17 the substitute is an unnamed 'savarna' (look-alike).",
+    "Sugriva is Surya's son in the Valmiki Ramayana; later retellings add that both Vali and Sugriva were born to Riksharaja.",
+    "Shani and Savarni Manu are sons of Chhaya, while Yama, Yami, Vaivasvata Manu and the Ashvins are sons of Sanjna; some Puranas differ on individual children.",
+    "The Aditya Hridayam hymn, taught to Rama by Agastya, is placed by the Critical Edition of the Ramayana among later additions."
+   ]
+  },
+  "sanjna": {
+   "name": "Sanjna (Saranyu)",
+   "aliases": [
+    "Saranyu",
+    "Saranyu Tvashtri",
+    "Samjna",
+    "Rajni",
+    "Sadhya"
+   ],
+   "description": "Sanjna, the Vedic Saranyu, is the daughter of the divine artisan Tvashtr (Vishvakarma in the Puranas) and the wife of the Sun, Vivasvat. She is the mother of Yama and Yami, of Vaivasvata Manu and of the twin Ashvins, and her flight from her husband, leaving a substitute behind, is one of the oldest stories in Indian literature.",
+   "story": "The Rig Veda preserves the tale in two riddling verses. Tvashtr held a wedding for his daughter Saranyu, and the whole world gathered. But the mother of Yama, once wed to the great Vivasvat, vanished. The immortals hid her away from mortals, fashioned a woman of like appearance and gave her to Vivasvat; and Saranyu bore the Ashvins and abandoned the twins. Later commentators fill in the gaps: Saranyu, having borne Yama and Yami, left a look-alike and fled in the form of a mare. Vivasvat, discovering the deceit, became a stallion and followed her, and from their union the Ashvins were born. The Puranas retell the same story with the shadow-wife named Chhaya and the Sun's unbearable brightness as the reason for Sanjna's flight.",
+   "symbols": [
+    "mare",
+    "shadow (her double)"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Suryaloka; Uttarakuru during her penance",
+   "sources": [
+    "Rig Veda 10.17",
+    "Nirukta of Yaska",
+    "Brihaddevata",
+    "Harivamsha",
+    "Markandeya Purana",
+    "Vishnu Purana 3.2"
+   ],
+   "variations": [
+    "Rig Veda: daughter of Tvashtr; Puranas: daughter of Vishvakarma (the two craftsmen being identified).",
+    "In Rig Veda 10.17 the substitute is unnamed; the Puranas call her Chhaya ('shadow').",
+    "The Vaivasvata Manu is Sanjna's son in the Puranas; some interpreters of Rig Veda 10.17 make Manu the son of the substitute."
+   ]
+  },
+  "chhaya": {
+   "name": "Chhaya",
+   "aliases": [
+    "Savarna",
+    "Chhaya-Sanjna"
+   ],
+   "description": "Chhaya, 'Shadow', is the double whom Sanjna created from herself to take her place beside the Sun. She became Surya's second wife and the mother of Shani, Savarni Manu and the river-goddess Tapati. The figure grows out of the unnamed look-alike wife (savarna) of Rig Veda 10.17.",
+   "story": "Sanjna made Chhaya from her own shadow and asked her to keep the secret and care for her children. Chhaya served Surya faithfully and bore him children of her own, but she could not love Sanjna's children as she loved hers. Yama, hurt by her partiality, raised his foot to kick her, and Chhaya cursed him that his leg would rot and fall. Yama ran to his father. Surya, unable to undo the curse, softened it so that worms would carry flesh from the wound to the earth and Yama would be healed. Then he confronted Chhaya: no mother curses her own son. Threatened with his anger, she confessed the truth, and Surya set out to find Sanjna. Chhaya's son Shani, the slow planet Saturn, inherited her dark complexion.",
+   "symbols": [
+    "shadow",
+    "dark complexion"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Suryaloka",
+   "sources": [
+    "Harivamsha",
+    "Markandeya Purana",
+    "Vishnu Purana 3.2",
+    "Matsya Purana"
+   ],
+   "variations": [
+    "Rig Veda 10.17 speaks only of an unnamed substitute 'of like appearance' (savarna); the name Chhaya appears in the Harivamsha and Puranas.",
+    "Details of Yama's curse and Surya's remedy differ between the Harivamsha, Markandeya and other Puranas.",
+    "Later popular tradition attributes Shani's darkness to Chhaya's penance in the sun while pregnant with him."
+   ]
+  },
+  "soma": {
+   "name": "Soma (Chandra)",
+   "aliases": [
+    "Chandra",
+    "Indu",
+    "Chandrama",
+    "Shashin",
+    "Nishakara",
+    "Somanatha",
+    "Pavamana",
+    "Oshadhipati"
+   ],
+   "description": "In the Rig Veda Soma is the sacred plant, the drink pressed from it and the god who embodies it; the entire ninth book is devoted to Soma Pavamana, 'the purifying'. Already in late Vedic texts Soma is identified with the Moon, the cup from which the gods drink the elixir, and in the epics and Puranas he is Chandra, son of Atri, husband of the twenty-seven Nakshatras and ancestor of the Lunar dynasty through his son Budha.",
+   "story": "Soma performed a great royal sacrifice and, intoxicated by power, carried off Tara, wife of Brihaspati, guru of the gods. Brihaspati demanded her back, but Soma refused. Shukra, rival guru of the asuras, took Soma's side, and Rudra, a pupil of Angiras, took Brihaspati's, so that gods and asuras were drawn into the Tarakamaya war. Brahma finally intervened and restored Tara to her husband, but she was pregnant. When a child of dazzling beauty was born, both Soma and Brihaspati claimed him. Tara, ashamed, would not speak until Brahma asked her gently, and she confessed that the child was Soma's. Soma named his son Budha, the planet Mercury, and through Budha's son Pururavas the Lunar dynasty began.",
+   "symbols": [
+    "crescent moon",
+    "soma plant and press-stones",
+    "white lotus",
+    "club",
+    "chariot drawn by ten white horses or antelope"
+   ],
+   "weapons": [
+    "gada (club)"
+   ],
+   "vahana": "Chariot drawn by ten white horses (or an antelope)",
+   "abode": "Chandraloka; in the Vedic view, the highest heaven and the mountains where the soma plant grows",
+   "sources": [
+    "Rig Veda, Mandala 9",
+    "Rig Veda 10.85",
+    "Shatapatha Brahmana",
+    "Chandogya Upanishad",
+    "Mahabharata, Shalya Parva",
+    "Vishnu Purana 4.6",
+    "Bhagavata Purana, Canto 9",
+    "Shiva Purana"
+   ],
+   "variations": [
+    "Origin: the Rig Veda has the soma plant brought from heaven by an eagle; the Vishnu and Bhagavata Puranas make Chandra the son of Atri (and Anasuya), born from Atri's eyes; other Puranas have him rise from the Churning of the Ocean.",
+    "Daksha cursed Soma to waste away for favouring Rohini above her 26 sisters; the curse was softened into the monthly waxing and waning, and Soma is said to have been restored at Prabhasa (Somnath) by worshipping Shiva.",
+    "In Rig Veda 10.85 Soma marries Surya, daughter of Savitr; the later husband of the Nakshatras reflects the lunar identification.",
+    "Some Vedic texts name Soma, not Kubera, as guardian of the north."
+   ]
+  },
+  "vayu": {
+   "name": "Vayu",
+   "aliases": [
+    "Vata",
+    "Pavana",
+    "Marut",
+    "Anila",
+    "Prana",
+    "Samirana",
+    "Gandhavaha",
+    "Matarishvan"
+   ],
+   "description": "Vayu is the god of the wind and of breath (prana), in the Rig Veda a swift, beautiful charioteer who has the right to drink the first draught of soma, often paired with Indra. In the Upanishads he is the vital breath and in the epics he is guardian of the north-west and the divine father of Hanuman and Bhima.",
+   "story": "After a victory over the asuras, the gods grew proud, thinking it their own doing. Brahman appeared before them as a mysterious spirit (yaksha). They sent Agni to find out who it was, and when Agni boasted he could burn anything on earth, the spirit set down a blade of grass; Agni could not burn it. Then Vayu went, declaring, 'I am Matarishvan; I can carry off whatever there is on earth'. The spirit placed the blade of grass before him, and Vayu rushed at it with all his force but could not stir it. Humbled, he returned. Only when Indra approached did the spirit vanish, and the goddess Uma Haimavati revealed that it was Brahman, the power behind every victory.",
+   "symbols": [
+    "banner (dhvaja)",
+    "fluttering garment",
+    "gazelle",
+    "chariot"
+   ],
+   "weapons": [
+    "ankusha (goad)",
+    "Vayavyastra"
+   ],
+   "vahana": "Gazelle or antelope; a chariot of red or purple horses (Vedic)",
+   "abode": "The atmosphere (antariksha); Vayuloka in the north-west",
+   "sources": [
+    "Rig Veda 1.2",
+    "Rig Veda 10.90",
+    "Rig Veda 10.168",
+    "Kena Upanishad 3",
+    "Chandogya Upanishad",
+    "Ramayana, Kishkindha Kanda",
+    "Mahabharata, Adi Parva"
+   ],
+   "variations": [
+    "The Rig Veda distinguishes Vayu (wind as a god) from Vata (the physical wind); later texts merge them.",
+    "Madhva's Dvaita tradition holds that Hanuman, Bhima and Madhvacharya himself are successive incarnations of Vayu.",
+    "Regional and Puranic tales tell of a contest between Vayu and Shesha in which Vayu blew a peak off Mount Meru, which became Lanka's Trikuta or a sacred hill in the south; versions vary."
+   ]
+  },
+  "rudra": {
+   "name": "Rudra",
+   "aliases": [
+    "Bhava",
+    "Sharva",
+    "Pashupati",
+    "Ugra",
+    "Ishana",
+    "Mahadeva",
+    "Tryambaka",
+    "Nilagriva",
+    "Kapardin",
+    "Shiva (as epithet)"
+   ],
+   "description": "Rudra, the 'roarer' or 'howler', is the fierce Vedic god of storms, wild places, disease and healing, father of the Maruts, whose arrows are feared and whose medicines are prayed for. The Yajur Veda's Shatarudriya litany and the Brahmanas expand his many names, and the Shvetashvatara Upanishad proclaims him the one supreme lord; through these stages the Vedic Rudra becomes the Shiva of the epics and Puranas.",
+   "story": "The Shatapatha Brahmana tells that when Prajapati brought forth the creatures, a boy was born at the end of a year, and he cried. Prajapati asked him why he wept, when he had been born out of toil and austerity. 'Because I have no name,' said the boy; 'give me a name.' Prajapati called him Rudra, and because he still cried, he gave him name after name: Sharva, Pashupati, Ugra, Ashani, Bhava, Mahadeva and Ishana. Each name was a form of Agni: the waters, the plants, the wind, the lightning, the rain, the moon and the sun. With eight names the boy became Kumara. The Rig Veda addresses the same god with awe, begging him to spare children and cattle and to heal with his thousand remedies.",
+   "symbols": [
+    "bow and arrows",
+    "braided hair (kapardin)",
+    "blue throat",
+    "healing herbs",
+    "wild animals"
+   ],
+   "weapons": [
+    "bow (Pinaka in later texts)",
+    "arrows",
+    "thunderbolt"
+   ],
+   "vahana": null,
+   "abode": "Mountains and wild places (Vedic); Mount Mujavat",
+   "sources": [
+    "Rig Veda 2.33",
+    "Rig Veda 1.114",
+    "Rig Veda 7.59 (Tryambaka mantra)",
+    "Taittiriya Samhita 4.5 (Shatarudriya)",
+    "Shatapatha Brahmana, Kanda 6",
+    "Aitareya Brahmana",
+    "Shvetashvatara Upanishad"
+   ],
+   "variations": [
+    "Rig Veda: a secondary but feared and healing god; Yajur Veda and Brahmanas: an outsider god excluded from the main sacrifice and given leftover offerings; Shvetashvatara Upanishad: the supreme lord, identified with Shiva.",
+    "Puranic accounts make Rudra born from Brahma's anger or forehead and divided into eleven Rudras; Shaiva texts instead hold Shiva to be the unborn source of Brahma and Vishnu.",
+    "The Brahmanas equate Rudra with Agni; the Aitareya Brahmana tells of Rudra (as Bhutavat) shooting Prajapati for pursuing his own daughter."
+   ]
+  },
+  "yama": {
+   "name": "Yama (Dharmaraja)",
+   "aliases": [
+    "Dharmaraja",
+    "Dharma",
+    "Vaivasvata",
+    "Kala",
+    "Antaka",
+    "Mrityu",
+    "Pitripati",
+    "Shraddhadeva",
+    "Samavartin"
+   ],
+   "description": "In the Rig Veda Yama, son of Vivasvat, is the first mortal to die and the king who rules the blissful world of the ancestors. In later literature he becomes the stern but just lord of death and judge of the dead, guardian of the south, and is identified with Dharma, the divine father of Yudhishthira in the Mahabharata.",
+   "story": "The Rig Veda's funeral hymn honours Yama as the one who first went down the great slopes and found the path for many, the way by which our fathers of old departed. The dead are sent along those ancient paths to meet the fathers and King Yama in the highest heaven, and are told to run past the two four-eyed, broad-nosed dogs, sons of Sarama, who guard the way and watch over men. Later tradition gives Yama a darker, stricter office: seated in his hall with his scribe Chitragupta reading out each soul's deeds, he assigns reward and punishment. Yet he is never merely cruel; to Nachiketa he teaches the secret of the deathless Self, and to Savitri he returns her husband's life in reward for her wisdom and steadfastness.",
+   "symbols": [
+    "noose (pasha)",
+    "danda (staff of punishment)",
+    "buffalo",
+    "two four-eyed dogs",
+    "dark complexion"
+   ],
+   "weapons": [
+    "Kaladanda (staff of death)",
+    "Pasha (noose)"
+   ],
+   "vahana": "Buffalo (mahisha)",
+   "abode": "Yamaloka and the city Samyamani in the south",
+   "sources": [
+    "Rig Veda 10.14",
+    "Rig Veda 10.10",
+    "Katha Upanishad",
+    "Mahabharata, Vana Parva",
+    "Mahabharata, Adi Parva",
+    "Garuda Purana",
+    "Markandeya Purana"
+   ],
+   "variations": [
+    "Rig Veda: a benign king of the ancestors in heaven; epics and Puranas: the judge of the dead presiding over the hells.",
+    "The Mahabharata usually identifies Yama with Dharma (father of Yudhishthira and, through Mandavya's curse, born as Vidura), but some passages treat Dharma as a distinct deity, son of Brahma.",
+    "Comparative scholars link Yama with the Iranian Yima, the first king of a golden age."
+   ]
+  },
+  "yami": {
+   "name": "Yami (Yamuna)",
+   "aliases": [
+    "Yamuna",
+    "Kalindi",
+    "Yamai"
+   ],
+   "description": "Yami is the twin sister of Yama and daughter of Vivasvat and Saranyu, known from a famous Rig Vedic dialogue with her brother. Later tradition identifies her with the river-goddess Yamuna, and the festival of Yama Dvitiya (Bhai Dooj) celebrates her love for her brother.",
+   "story": "In a Rig Vedic dialogue the twins speak as the first pair of humans. Yami urges Yama to unite with her so that their line may continue; Yama refuses, saying that what is right among kin forbids it and that the watchers of the gods never rest, and he bids her seek another. A later Vedic text tells what followed Yama's death. Yami grieved without end, and when the gods tried to console her she would only say, 'Today he died.' Since there was as yet only day, her grief could never grow old. So the gods created night; after night came a new morning, and she forgot her sorrow. Thus, it is said, day and night together make people forget grief. In later lore Yami flows as the Yamuna, whom Yama visits each year for her blessing.",
+   "symbols": [
+    "river",
+    "tortoise",
+    "water pot",
+    "dark complexion"
+   ],
+   "weapons": [],
+   "vahana": "Tortoise (as Yamuna)",
+   "abode": "The Yamuna river; Yamunotri in the Himalaya",
+   "sources": [
+    "Rig Veda 10.10",
+    "Maitrayani Samhita",
+    "Harivamsha",
+    "Markandeya Purana",
+    "Bhagavata Purana, Canto 10"
+   ],
+   "variations": [
+    "The identification of the Vedic Yami with the river Yamuna is post-Vedic.",
+    "The Bhagavata Purana's Kalindi, daughter of the Sun who marries Krishna, is identified with the Yamuna by many traditions, though not all equate her with Yami.",
+    "Yama Dvitiya legends of Yami feeding her brother are regional and late."
+   ]
+  },
+  "savitr": {
+   "name": "Savitr",
+   "aliases": [
+    "Savita",
+    "Savitar",
+    "Hiranyapani (golden-handed)",
+    "Prasavitr"
+   ],
+   "description": "Savitr, 'the Impeller', is the golden Vedic god who rouses all beings to activity at dawn and lays them to rest at dusk. He is the deity of the Gayatri mantra (Rig Veda 3.62.10), recited daily by twice-born Hindus. Later he merges with Surya and is listed among the twelve Adityas.",
+   "story": "The Rig Veda pictures Savitr as a golden god with golden arms and hands, riding a golden chariot along ancient dustless paths. At morning he raises his arms and all creatures stir and go to their work; at evening he spreads out his arms again and the weaver rolls up her cloth, the traveller turns home and the birds return to their nests, for none can transgress his ordinances. It was to him that the seer Vishvamitra addressed the verse that became the holiest of all mantras: 'May we meditate on the adorable splendour of the god Savitr, who shall stimulate our thoughts.' Known as the Gayatri or Savitri, it is taught to every boy at his sacred-thread initiation and recited at dawn and dusk to this day.",
+   "symbols": [
+    "golden arms and hands",
+    "golden chariot",
+    "raised arms",
+    "the Gayatri mantra"
+   ],
+   "weapons": [],
+   "vahana": "Golden chariot drawn by brown, white-footed horses",
+   "abode": "The heavens and the paths of the sun",
+   "sources": [
+    "Rig Veda 3.62.10",
+    "Rig Veda 2.38",
+    "Rig Veda 1.35",
+    "Shatapatha Brahmana",
+    "Brihadaranyaka Upanishad",
+    "Vishnu Purana"
+   ],
+   "variations": [
+    "In the Rig Veda Savitr is distinct from Surya; later texts identify the two.",
+    "A Brahmana legend explains his golden hands as a replacement for hands lost at the sacrifice; versions differ.",
+    "Savitr's daughter Surya marries Soma in Rig Veda 10.85."
+   ]
+  },
+  "pushan": {
+   "name": "Pushan",
+   "aliases": [
+    "Pusha",
+    "Pathaspati (lord of paths)",
+    "Aghrini"
+   ],
+   "description": "Pushan, 'the Nourisher', is the Vedic god of roads, journeys and herds, who finds lost cattle, protects travellers and guides the souls of the dead. He rides a chariot drawn by goats and eats gruel (karambha), and later becomes one of the twelve Adityas with solar associations.",
+   "story": "The Rig Veda knows Pushan as the god who eats mashed gruel, and later tradition explains why. At Daksha's great sacrifice, when Daksha insulted Shiva, Pushan laughed and showed his teeth in approval. When Sati gave up her life and Shiva's fury took form as Virabhadra, the ganas fell upon the assembly: Bhrigu's beard was torn out, Bhaga was blinded and Pushan's teeth were knocked out. Afterwards the gods begged Shiva to restore the sacrifice. Shiva relented and ruled that Pushan would henceforth eat through the teeth of the sacrificer, taking only soft, ground offerings. Yet the Vedic Pushan is gentle and helpful: he knows every path, drives away wolves and robbers, and leads the departed safely to the fathers.",
+   "symbols": [
+    "goad",
+    "goats",
+    "braided hair",
+    "gruel pot"
+   ],
+   "weapons": [
+    "golden spear",
+    "goad (ara)"
+   ],
+   "vahana": "Chariot drawn by goats",
+   "abode": "The roads and the paths between worlds",
+   "sources": [
+    "Rig Veda 6.53-58",
+    "Rig Veda 10.17",
+    "Shatapatha Brahmana",
+    "Isha Upanishad",
+    "Bhagavata Purana, Canto 4",
+    "Vishnu Purana"
+   ],
+   "variations": [
+    "The Brahmanas attribute Pushan's lost teeth to eating a dangerous portion of Rudra's (or Prajapati's) sacrifice; the Puranas to Virabhadra's attack on Daksha's yajna.",
+    "Pushan appears among the twelve Adityas only in later lists; in the Rig Veda he is not usually called an Aditya."
+   ]
+  },
+  "bhaga": {
+   "name": "Bhaga",
+   "aliases": [
+    "Bhaga Aditya"
+   ],
+   "description": "Bhaga, 'the Dispenser' or 'Share', is the Aditya who apportions wealth, good fortune and marital happiness. His name lies at the root of the title Bhagavan, 'the fortunate' or 'blessed one', and is cognate with Slavic bog, 'god'.",
+   "story": "The Rig Veda invokes Bhaga at dawn, for the morning is the time of apportioning; Ushas is called his sister, and people pray that they may be 'rich in Bhaga'. The Brahmanas tell how, at a sacrifice, a dangerous portion was set before Bhaga, and when he looked at it his eyes were destroyed; therefore, they say, Bhaga is blind, and fortune is dealt out without seeing. The Puranas give the tale a new setting. At Daksha's sacrifice Bhaga signalled his approval with his eyes when Daksha reviled Shiva, and Virabhadra plucked them out. When Shiva was appeased, he granted that Bhaga would see through the eyes of Mitra, and so good fortune was restored to the world.",
+   "symbols": [
+    "treasure",
+    "blindness"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "The heavens, with the Adityas",
+   "sources": [
+    "Rig Veda 7.41",
+    "Rig Veda 1.123",
+    "Rig Veda 2.27",
+    "Shatapatha Brahmana",
+    "Bhagavata Purana, Canto 4"
+   ],
+   "variations": [
+    "The Brahmanas blame his blindness on a sacrificial portion; the Puranas on Virabhadra at Daksha's yajna.",
+    "The Bhagavata Purana names Siddhi as Bhaga's wife and gives him children; this is absent from Vedic sources."
+   ]
+  },
+  "aryaman": {
+   "name": "Aryaman",
+   "aliases": [
+    "Aryama"
+   ],
+   "description": "Aryaman is the Aditya of hospitality, custom, marriage and the bonds between clans, the third of the great Adityas alongside Mitra and Varuna. Later he becomes chief of the Pitris (ancestors), and in the Bhagavad Gita Krishna says, 'Among the ancestors I am Aryaman' (10.29).",
+   "story": "Aryaman's greatest role is at the wedding. In the Rig Veda's marriage hymn the bride is freed from her father's house and bound to her husband's, and the couple pray that Aryaman will unite them in harmony until old age. In later rites the bride offers parched grain to Aryaman as she circles the sacred fire, asking that the bond be firm and long. As keeper of hospitality he oversees the exchange of gifts and the welcome of guests between clans. Later Vedic texts speak of the Milky Way as 'Aryaman's path', and in time he becomes king of the ancestors, to whom offerings are made at shraddha rites, a role the Bhagavad Gita recalls when Krishna names Aryaman as his own glory among the Pitris.",
+   "symbols": [
+    "the Milky Way (Aryaman's path)",
+    "marriage fire",
+    "parched grain"
+   ],
+   "weapons": [],
+   "vahana": null,
+   "abode": "Pitriloka (later)",
+   "sources": [
+    "Rig Veda 10.85",
+    "Rig Veda 2.27",
+    "Taittiriya Brahmana",
+    "Grihya Sutras",
+    "Bhagavad Gita 10.29",
+    "Vishnu Purana"
+   ],
+   "variations": [
+    "Rig Veda: god of hospitality and alliance; epics and Puranas: chief of the Pitris.",
+    "His Iranian counterpart Airyaman is a god of healing and friendship."
+   ]
+  },
+  "tvashtr": {
+   "name": "Tvashtr",
+   "aliases": [
+    "Tvashta",
+    "Tvashtri"
+   ],
+   "description": "Tvashtr is the Vedic divine craftsman who shapes living forms in the womb, forged Indra's vajra and made the cup of the gods. He is father of Saranyu and of the three-headed Vishvarupa, whose killing turned him into Indra's enemy. Epics and Puranas list him among the twelve Adityas and often merge him with Vishvakarma.",
+   "story": "Tvashtr's three-headed son Vishvarupa served as priest of the gods, but his mother was of the asuras, and he secretly offered part of the sacrifice to them. Indra, fearing his power, cut off his three heads, which flew off as birds: the francolin, the sparrow and the partridge. Grieving, Tvashtr held a soma sacrifice from which he excluded Indra, but Indra seized the soma and drank it by force. Tvashtr poured what remained into the fire, crying 'Grow, you whose foe is Indra!' From the fire arose Vritra, who grew an arrow's length each day. But Tvashtr had misplaced the accent of his words, so that they meant 'you whom Indra shall slay', and the curse turned back upon his own creation.",
+   "symbols": [
+    "axe",
+    "tools of the artisan",
+    "the cup of the gods"
+   ],
+   "weapons": [
+    "iron axe"
+   ],
+   "vahana": null,
+   "abode": "The heavens",
+   "sources": [
+    "Rig Veda 1.32",
+    "Rig Veda 10.17",
+    "Taittiriya Samhita 2.5",
+    "Shatapatha Brahmana 1.6.3",
+    "Mahabharata, Udyoga Parva",
+    "Bhagavata Purana, Canto 6"
+   ],
+   "variations": [
+    "In the Rig Veda Tvashtr is Indra's armourer; the Brahmanas and Mahabharata make him Indra's enemy after Vishvarupa's death.",
+    "The Bhagavata Purana has Vritra rise from Tvashtr's fire with the mis-accented mantra, as in the Brahmanas, while the Mahabharata varies the details.",
+    "Epics and Puranas often identify Tvashtr with Vishvakarma; he is also listed as one of the twelve Adityas."
+   ]
+  },
+  "vishvakarma": {
+   "name": "Vishvakarma",
+   "aliases": [
+    "Vishvakarman",
+    "Devashilpi",
+    "Tvashta (in Puranic identification)"
+   ],
+   "description": "In two hymns of the Rig Veda (10.81-82) Vishvakarman, the 'All-Maker', is a cosmic creator who sacrifices the worlds into being. In the epics and Puranas he becomes the architect and engineer of the gods, builder of cities such as Lanka and Dvaraka and maker of celestial weapons and chariots. He is widely worshipped by craftspeople on Vishvakarma Puja.",
+   "story": "The Rig Veda asks: what was the ground, what the wood and what the tree from which the All-Maker, seeing all, fashioned heaven and earth? He is the seer and priest who offered all the worlds in sacrifice and, with eyes, faces, arms and feet on every side, forged sky and earth together with his arms and wings. In later ages he becomes the craftsman of the gods. When his daughter Sanjna could not bear her husband's brilliance, he placed Surya on his lathe and trimmed away an eighth of his light, and from the glowing shavings fashioned Vishnu's Sudarshana discus, Shiva's trident and other weapons of the gods. He built the golden city of Lanka, the Pushpaka chariot and, at Krishna's request, the island fortress-city of Dvaraka.",
+   "symbols": [
+    "measuring rod",
+    "water pot",
+    "book",
+    "craftsman's tools",
+    "swan"
+   ],
+   "weapons": [
+    "hammer",
+    "axe"
+   ],
+   "vahana": "Hamsa (swan) or elephant in popular iconography",
+   "abode": "Heaven; the celestial workshop",
+   "sources": [
+    "Rig Veda 10.81",
+    "Rig Veda 10.82",
+    "Shatapatha Brahmana",
+    "Ramayana, Uttara Kanda",
+    "Ramayana, Yuddha Kanda",
+    "Mahabharata",
+    "Vishnu Purana 3.2",
+    "Bhagavata Purana, Canto 10"
+   ],
+   "variations": [
+    "Rig Veda: a supreme creator, sometimes equated with Prajapati; epics and Puranas: the artisan of the gods.",
+    "Parentage differs: the Vishnu Purana makes him son of the Vasu Prabhasa and Yogasiddha, sister of Brihaspati.",
+    "He is frequently identified with Tvashtr, which makes him Sanjna's father in the Puranas.",
+    "Maya, not Vishvakarma, is the architect of the asuras and of the Pandavas' hall at Indraprastha."
+   ]
+  },
+  "parjanya": {
+   "name": "Parjanya",
+   "aliases": [
+    "Megha (cloud)"
+   ],
+   "description": "Parjanya is the Vedic god of the rain-cloud, who roars like a bull, quickens plants, cattle and women with his seed and makes the earth fruitful. Three Rig Vedic hymns are addressed to him; later his rain-giving role passes largely to Indra, while Parjanya survives as an Aditya and as a word for rain-cloud.",
+   "story": "When Parjanya comes, the Rig Veda sings, the winds rush out, the lightning flies, the plants shoot up and the sky swells; the earth becomes ready for every creature when he quickens her with his seed. Like a charioteer lashing his horses he drives forth the messengers of rain; from afar the lion's roar of thunder rises. Trees are shattered, demons are struck down, and even the innocent flee before the mighty one, while the wicked tremble. Then the singer asks him to rest: you have poured the rain, now hold it back; you have made the deserts passable and the plants grow. Another hymn describes the frogs, silent through the dry year like brahmins keeping a vow, bursting into chant at the first rains Parjanya brings.",
+   "symbols": [
+    "rain-cloud",
+    "thunder",
+    "bull",
+    "lightning"
+   ],
+   "weapons": [
+    "lightning"
+   ],
+   "vahana": null,
+   "abode": "The rain-clouds of the atmosphere",
+   "sources": [
+    "Rig Veda 5.83",
+    "Rig Veda 7.101",
+    "Rig Veda 7.102",
+    "Rig Veda 7.103",
+    "Atharva Veda 12.1",
+    "Mahabharata, Adi Parva",
+    "Vishnu Purana"
+   ],
+   "variations": [
+    "Rig Veda: son of Dyaus and husband of the earth; later lexicons give Parjanya as a name of Indra.",
+    "Some epic and Puranic lists of the twelve Adityas include Parjanya; others do not."
+   ]
+  },
+  "brihaspati": {
+   "name": "Brihaspati",
+   "aliases": [
+    "Brahmanaspati",
+    "Guru",
+    "Vachaspati",
+    "Angirasa",
+    "Devaguru",
+    "Jiva"
+   ],
+   "description": "Brihaspati, 'Lord of Prayer', is the Vedic priest of the gods, embodiment of the power of sacred speech. In the epics and Puranas he is the guru of the devas, son of the sage Angiras, rival of the asura teacher Shukra, husband of Tara, and the planet Jupiter (Guru) among the Navagraha.",
+   "story": "The Panis had hidden the cattle of the gods in the rock-cave of Vala. Brihaspati, leading the Angiras seers, came singing to the mountain. With his roaring chant, the Rig Veda says, he split the rock as easily as a bird's egg is broken; he drove out the cows from the cave like the kernel from a husk, and with them brought forth the dawn, the sun and the light. As a seer takes honey from a stone, he drew the treasure from the hollow mountain, and Vala mourned his lost cattle like a tree its fallen leaves. The Rig Veda gives the same deed to Indra, who shatters Vala with the Angirases' help. Later Brihaspati is the wise counsellor of the gods and the teacher who seeks to regain the lore of reviving the dead.",
+   "symbols": [
+    "book",
+    "rosary",
+    "water pot",
+    "golden colour",
+    "staff"
+   ],
+   "weapons": [
+    "golden axe (Vedic)",
+    "bow"
+   ],
+   "vahana": "Chariot drawn by eight horses (Puranic); elephant in some iconography",
+   "abode": "Svarga; the planet Jupiter",
+   "sources": [
+    "Rig Veda 10.68",
+    "Rig Veda 4.50",
+    "Rig Veda 2.23",
+    "Mahabharata, Adi Parva",
+    "Mahabharata, Udyoga Parva",
+    "Vishnu Purana 4.6",
+    "Matsya Purana"
+   ],
+   "variations": [
+    "In the Rig Veda Brihaspati is a form of priestly power closely linked with Agni and Indra; the epics make him a son of Angiras and guru of the gods.",
+    "The Puranas agree that Tara bore Budha to Soma, but differ on how the paternity dispute with Brihaspati was settled and on Budha's own reaction.",
+    "Later tradition attributes the materialist Barhaspatya (Charvaka) doctrine to Brihaspati, sometimes as a ruse to mislead the asuras."
+   ]
+  }
+ },
+ "edges": {
+  "indra|vritra|slayer": {
+   "label": "Indra split Vritra with the vajra and released the imprisoned waters (Rig Veda 1.32)"
+  },
+  "indra|namuchi|slayer": {
+   "label": "Indra beheaded Namuchi with the foam of the waters, keeping a pact not to kill him with anything wet or dry",
+   "variation": "The foam device is from the Brahmanas and Mahabharata; the Rig Veda simply says Indra twisted off Namuchi's head"
+  },
+  "indra|vala|slayer": {
+   "label": "Indra shattered Vala's cave and freed the cattle with the help of the Angirases"
+  },
+  "indra|vishvarupa|slayer": {
+   "label": "Indra cut off the three heads of Tvashtr's son Vishvarupa, incurring the sin of brahmin-slaying"
+  },
+  "indra|shambara|slayer": {
+   "label": "Indra destroyed Shambara's ninety-nine forts for his protege Divodasa (Rig Veda)"
+  },
+  "indra|puloman|slayer": {
+   "label": "Indra is said to have killed the Danava Puloman, father of his wife Shachi",
+   "variation": "Found in some Puranic and commentarial traditions only"
+  },
+  "indra|shachi|spouse": {
+   "label": "Shachi (Indrani) is Indra's queen"
+  },
+  "indra|arjuna|parent": {
+   "label": "Indra is the divine father of Arjuna, born to Kunti through Durvasa's mantra"
+  },
+  "indra|vali|parent": {
+   "label": "Indra fathered the vanara king Vali (Ramayana)",
+   "variation": "Later retellings add the story of Riksharaja, who became a woman and bore Vali to Indra and Sugriva to Surya"
+  },
+  "aditi|indra|parent": {
+   "label": "Aditi is Indra's mother in the epics and Puranas",
+   "variation": "The Rig Veda does not clearly name Aditi as his mother"
+  },
+  "kashyapa|indra|parent": {
+   "label": "Kashyapa is Indra's father in the epics and Puranas"
+  },
+  "dyaus|indra|parent": {
+   "label": "The Rig Veda hints that Dyaus (Heaven) begot Indra",
+   "variation": "Only implied in a few Rig Vedic verses; later texts make Kashyapa his father"
+  },
+  "airavata|indra|vahana": {
+   "label": "The white elephant Airavata, born from the Churning of the Ocean, is Indra's mount"
+  },
+  "uchchaihshravas|indra|vahana": {
+   "label": "The seven-headed horse Uchchaihshravas became Indra's steed after the Churning of the Ocean",
+   "variation": "Some Puranas give the horse to Bali instead"
+  },
+  "gautama|indra|curse": {
+   "label": "Gautama cursed Indra for seducing Ahalya (loss of testicles in the Ramayana; a thousand marks, later eyes, in the Puranas)"
+  },
+  "durvasa|indra|curse": {
+   "label": "Durvasa cursed Indra and the gods to lose their fortune after Indra let Airavata trample his garland (Vishnu Purana 1.9)"
+  },
+  "indra|adityas|member-of": {
+   "label": "Indra (Shakra) is one of the twelve Adityas in epic and Puranic lists",
+   "variation": "Not counted among the Adityas in the Rig Veda's lists"
+  },
+  "indra|dikpalas|member-of": {
+   "label": "Indra is guardian of the east"
+  },
+  "indra|maruts|ally": {
+   "label": "The Maruts are Indra's storm-companions in the battle with Vritra"
+  },
+  "indra|agni|ally": {
+   "label": "Indra and Agni are invoked together as the dual deity Indragni"
+  },
+  "indra|vishnu|ally": {
+   "label": "Vishnu is Indra's companion in the Rig Veda, making room for the Vritra fight with his wide strides"
+  },
+  "indra|vamana|sibling": {
+   "label": "Vamana (Upendra), Aditi's youngest son, is Indra's younger brother who won back the three worlds for him"
+  },
+  "indra|bali|enemy": {
+   "label": "Bali displaced Indra from heaven until Vamana's three strides restored him"
+  },
+  "indra|tvashtr|enemy": {
+   "label": "Tvashtr forged Indra's vajra in the Rig Veda but became his foe after Indra killed Vishvarupa"
+  },
+  "indra|nahusha|enemy": {
+   "label": "Nahusha usurped Indra's throne and sought Shachi while Indra hid (Mahabharata, Udyoga Parva)"
+  },
+  "indra|indrajit|enemy": {
+   "label": "Meghanada defeated and captured Indra, earning the name Indrajit (Ramayana, Uttara Kanda)"
+  },
+  "indra|krishna|enemy": {
+   "label": "Krishna humbled Indra by lifting Govardhana and later took the parijata tree from his garden; Indra submitted and praised him",
+   "variation": "Harivamsha and Puranas; in the Mahabharata Indra also fights Krishna and Arjuna at Khandava but blesses them afterwards"
+  },
+  "indra|diti|enemy": {
+   "label": "Indra cut Diti's unborn son into forty-nine pieces, who became the Maruts, to prevent a rival to his power"
+  },
+  "dadhichi|indra|boon": {
+   "label": "Dadhichi gave his bones so the vajra could be forged to slay Vritra",
+   "variation": "Rig Veda 1.84.13 already has Indra slaying foes with Dadhyanch's bones; the sage's voluntary self-sacrifice is epic and Puranic"
+  },
+  "brihaspati|indra|guru": {
+   "label": "Brihaspati is the priest and guru of Indra and the devas"
+  },
+  "indra|karna|boon": {
+   "label": "Disguised as a brahmin, Indra took Karna's armour and earrings and gave him the Vasavi Shakti in return"
+  },
+  "indra|hanuman|boon": {
+   "label": "After striking the infant Hanuman with the vajra, Indra blessed him that the thunderbolt would never harm him"
+  },
+  "indra|garuda|boon": {
+   "label": "After Garuda won the amrita, Indra befriended him and granted that serpents would be his food"
+  },
+  "shachi|nahusha|enemy": {
+   "label": "Shachi resisted Nahusha's demand that she become his queen"
+  },
+  "puloman|shachi|parent": {
+   "label": "Shachi (Paulomi) is the daughter of the Danava Puloman"
+  },
+  "brihaspati|shachi|ally": {
+   "label": "Brihaspati sheltered Shachi from Nahusha"
+  },
+  "aindri|shachi|form-of": {
+   "label": "The Matrika Aindri is often identified with Indrani (Shachi), Indra's shakti",
+   "variation": "Matrika texts usually treat Aindri as a battle-goddess emanating from Indra rather than as Shachi herself"
+  },
+  "agni|svaha|spouse": {
+   "label": "Svaha is Agni's wife, invoked with every oblation"
+  },
+  "agni|kartikeya|parent": {
+   "label": "In the Mahabharata's Skanda story, Agni and Svaha are Skanda's parents",
+   "variation": "Ramayana and Shaiva Puranas: Agni only carried Shiva's seed; Shiva and Parvati are the parents"
+  },
+  "dyaus|agni|parent": {
+   "label": "The Rig Veda calls Agni the child of Heaven and Earth",
+   "variation": "The Rig Veda also has Agni born of the waters or of the fire-sticks"
+  },
+  "prithvi|agni|parent": {
+   "label": "The Rig Veda calls Agni the child of Heaven and Earth",
+   "variation": "One of several Vedic birth accounts of Agni"
+  },
+  "brahma|agni|parent": {
+   "label": "The Vishnu Purana calls Agni Abhimani the eldest son of Brahma",
+   "variation": "Puranic genealogy; Vedic texts give other origins"
+  },
+  "agni|dikpalas|member-of": {
+   "label": "Agni is guardian of the south-east"
+  },
+  "agni|vasus|member-of": {
+   "label": "Agni (Anala) is one of the eight Vasus in the Mahabharata's list"
+  },
+  "bhrigu|agni|curse": {
+   "label": "Bhrigu cursed Agni to consume everything after Agni revealed Puloma's identity to a rakshasa (Mahabharata, Adi Parva)"
+  },
+  "agni|nila|parent": {
+   "label": "The vanara general Nila is a son of Agni (Ramayana)"
+  },
+  "agni|arjuna|boon": {
+   "label": "Before the burning of Khandava, Agni had Varuna give Arjuna the Gandiva bow and chariot"
+  },
+  "agni|krishna|boon": {
+   "label": "Agni gave Krishna the Sudarshana discus and Kaumodaki mace for the burning of Khandava (Mahabharata, Adi Parva)"
+  },
+  "agni|sita|ally": {
+   "label": "Agni emerged from the fire ordeal bearing Sita and testified to her purity (Ramayana, Yuddha Kanda)"
+  },
+  "agni|soma|ally": {
+   "label": "Agni and Soma are invoked together as the dual deity Agnishoma"
+  },
+  "daksha|svaha|parent": {
+   "label": "Svaha is a daughter of Daksha (Vishnu Purana)"
+  },
+  "prasuti|svaha|parent": {
+   "label": "Svaha is a daughter of Prasuti and Daksha"
+  },
+  "svaha|kartikeya|parent": {
+   "label": "Svaha, in the forms of six sages' wives, became Skanda's mother (Mahabharata, Vana Parva)",
+   "variation": "Not in the Shaiva Puranic accounts of Kartikeya's birth"
+  },
+  "svaha|adi-parashakti|form-of": {
+   "label": "The Brahmavaivarta and Devi Bhagavata Puranas treat Svaha as a part-form of Prakriti, the Great Goddess",
+   "variation": "Late Shakta/Vaishnava theology"
+  },
+  "varuna|mitra|ally": {
+   "label": "Mitra and Varuna are invoked together as the paired sovereigns of rita"
+  },
+  "varuna|adityas|member-of": {
+   "label": "Varuna is the foremost of the Adityas, sons of Aditi"
+  },
+  "aditi|varuna|parent": {
+   "label": "Varuna is a son of Aditi"
+  },
+  "kashyapa|varuna|parent": {
+   "label": "Varuna is a son of Kashyapa in epic and Puranic genealogy"
+  },
+  "varuna|dikpalas|member-of": {
+   "label": "Varuna is guardian of the west"
+  },
+  "varuna|vashistha|parent": {
+   "label": "Vasishtha was born from the seed of Mitra and Varuna at the sight of Urvashi (Rig Veda 7.33)"
+  },
+  "varuna|agastya|parent": {
+   "label": "Agastya was born from a jar holding the seed of Mitra and Varuna"
+  },
+  "makara|varuna|vahana": {
+   "label": "The sea-creature Makara is Varuna's mount"
+  },
+  "varuna|harishchandra|boon": {
+   "label": "Varuna granted childless Harishchandra a son, Rohita, on condition he be sacrificed (Aitareya Brahmana)"
+  },
+  "varuna|harishchandra|curse": {
+   "label": "Varuna afflicted Harishchandra with dropsy when he kept delaying the promised sacrifice"
+  },
+  "varuna|rohita|enemy": {
+   "label": "Varuna claimed Rohita as his promised victim; Rohita fled to the forest"
+  },
+  "shunahshepa|varuna|devotee": {
+   "label": "Bound for sacrifice, Shunahshepa praised Varuna and the gods until his fetters fell away"
+  },
+  "varuna|bhrigu|parent": {
+   "label": "Bhrigu is called Varuni, son of Varuna, in the Brahmanas and Upanishads",
+   "variation": "The Puranas make Bhrigu a mind-born son of Brahma"
+  },
+  "varuna|bhrigu|guru": {
+   "label": "Varuna taught his son Bhrigu that Brahman is bliss (Taittiriya Upanishad, Bhriguvalli)"
+  },
+  "varuna|arjuna|boon": {
+   "label": "At Agni's request Varuna gave Arjuna the Gandiva bow, inexhaustible quivers and a chariot"
+  },
+  "varuna|krishna|devotee": {
+   "label": "After his servant seized Nanda, Varuna worshipped Krishna and begged forgiveness (Bhagavata Purana, Canto 10)"
+  },
+  "varuna|indra|ally": {
+   "label": "Indra and Varuna are paired as Indra-Varuna; a Rig Vedic dialogue weighs their rival claims to sovereignty"
+  },
+  "mitra|adityas|member-of": {
+   "label": "Mitra is one of the Adityas"
+  },
+  "aditi|mitra|parent": {
+   "label": "Mitra is a son of Aditi"
+  },
+  "kashyapa|mitra|parent": {
+   "label": "Mitra is a son of Kashyapa in Puranic genealogy"
+  },
+  "mitra|vashistha|parent": {
+   "label": "Vasishtha is a son of Mitra and Varuna (Maitravaruni)"
+  },
+  "mitra|agastya|parent": {
+   "label": "Agastya is a son of Mitra and Varuna (Maitravaruni)"
+  },
+  "mitra|aryaman|ally": {
+   "label": "Mitra, Varuna and Aryaman form the core triad of Adityas"
+  },
+  "surya|sanjna|spouse": {
+   "label": "Sanjna (Saranyu) is Surya's first wife"
+  },
+  "surya|chhaya|spouse": {
+   "label": "Chhaya, Sanjna's shadow-double, became Surya's second wife"
+  },
+  "surya|yama|parent": {
+   "label": "Yama is the son of Vivasvat (Surya) and Sanjna"
+  },
+  "surya|yami|parent": {
+   "label": "Yami is the daughter of Vivasvat and Sanjna"
+  },
+  "surya|vaivasvata-manu|parent": {
+   "label": "Vaivasvata Manu, ancestor of the Solar dynasty, is the son of Vivasvat"
+  },
+  "surya|ashvins|parent": {
+   "label": "The Ashvins were born when Surya as a stallion found Sanjna as a mare"
+  },
+  "surya|shani|parent": {
+   "label": "Shani is the son of Surya and Chhaya"
+  },
+  "surya|karna|parent": {
+   "label": "Surya fathered Karna on the maiden Kunti through Durvasa's mantra"
+  },
+  "surya|sugriva|parent": {
+   "label": "Sugriva is the son of Surya (Valmiki Ramayana, Bala Kanda)",
+   "variation": "Later retellings derive Sugriva's birth from Riksharaja"
+  },
+  "aditi|surya|parent": {
+   "label": "Surya (Vivasvat, Martanda) is a son of Aditi",
+   "variation": "Rig Veda 10.72 tells how Aditi cast away her eighth son Martanda"
+  },
+  "kashyapa|surya|parent": {
+   "label": "Surya is a son of Kashyapa in epic and Puranic genealogy"
+  },
+  "surya|adityas|member-of": {
+   "label": "Surya (Vivasvat) is one of the Adityas; later 'Aditya' is itself a name of the Sun"
+  },
+  "surya|navagraha|member-of": {
+   "label": "Surya heads the Navagraha as the Sun"
+  },
+  "aruna|surya|vahana": {
+   "label": "Aruna, Garuda's elder brother, is the charioteer of Surya's seven-horse chariot"
+  },
+  "surya|hanuman|guru": {
+   "label": "Hanuman learned the scriptures and grammar from Surya, keeping pace with his chariot"
+  },
+  "surya|yajnavalkya|guru": {
+   "label": "Surya revealed the White Yajur Veda to Yajnavalkya"
+  },
+  "surya|yudhishthira|boon": {
+   "label": "Surya gave Yudhishthira the Akshaya Patra, a copper vessel of inexhaustible food, in the forest (Mahabharata, Vana Parva)"
+  },
+  "rahu|surya|enemy": {
+   "label": "Rahu, exposed by the Sun and Moon at the Churning, swallows the Sun at eclipses"
+  },
+  "ketu|surya|enemy": {
+   "label": "Ketu, Rahu's headless body, pursues the Sun and causes eclipses"
+  },
+  "savitr|surya|form-of": {
+   "label": "Savitr, the Impeller, is later identified with Surya",
+   "variation": "Distinct deities in the Rig Veda; merged in later texts"
+  },
+  "rama|surya|devotee": {
+   "label": "Agastya taught Rama the Aditya Hridayam hymn to Surya before his last battle with Ravana",
+   "variation": "The Critical Edition of the Ramayana treats the Aditya Hridayam as an interpolation"
+  },
+  "sanjna|yama|parent": {
+   "label": "Yama is Sanjna's son"
+  },
+  "sanjna|yami|parent": {
+   "label": "Yami is Sanjna's daughter, Yama's twin"
+  },
+  "sanjna|vaivasvata-manu|parent": {
+   "label": "Vaivasvata Manu is Sanjna's son in the Puranas",
+   "variation": "Some readings of Rig Veda 10.17 make Manu the son of the substitute wife"
+  },
+  "sanjna|ashvins|parent": {
+   "label": "Sanjna bore the Ashvins in the form of a mare"
+  },
+  "tvashtr|sanjna|parent": {
+   "label": "Saranyu is the daughter of Tvashtr (Rig Veda 10.17)"
+  },
+  "vishvakarma|sanjna|parent": {
+   "label": "Sanjna is the daughter of Vishvakarma in the Puranas",
+   "variation": "Vishvakarma replaces or is identified with the Vedic Tvashtr"
+  },
+  "chhaya|sanjna|created-by": {
+   "label": "Sanjna created Chhaya from her own shadow to take her place"
+  },
+  "chhaya|shani|parent": {
+   "label": "Shani is the son of Chhaya"
+  },
+  "chhaya|yama|curse": {
+   "label": "Chhaya cursed Yama's leg when he raised his foot against her; Surya softened the curse"
+  },
+  "atri|soma|parent": {
+   "label": "Chandra was born from the sage Atri (from his eyes, in the Vishnu and Bhagavata Puranas)",
+   "variation": "Other Puranas have the Moon rise from the Churning of the Ocean"
+  },
+  "anasuya|soma|parent": {
+   "label": "In the Bhagavata Purana, Soma, Dattatreya and Durvasa are the sons of Atri and Anasuya",
+   "variation": "Other accounts give Soma no mother, born from Atri's eyes alone"
+  },
+  "soma|rohini|spouse": {
+   "label": "Rohini is Soma's favourite among his twenty-seven Nakshatra wives"
+  },
+  "daksha|soma|curse": {
+   "label": "Daksha cursed Soma to waste away for neglecting his other daughters for Rohini; the curse became the Moon's waxing and waning"
+  },
+  "soma|tara-brihaspati|spouse": {
+   "label": "Soma abducted Tara, wife of Brihaspati; she bore him Budha before being returned",
+   "variation": "Not a lawful marriage; Brahma restored Tara to Brihaspati (Vishnu Purana 4.6)"
+  },
+  "soma|budha|parent": {
+   "label": "Budha (Mercury) is the son of Soma and Tara"
+  },
+  "soma|brihaspati|enemy": {
+   "label": "Soma's abduction of Tara led to the Tarakamaya war with Brihaspati"
+  },
+  "soma|shukracharya|ally": {
+   "label": "Shukra sided with Soma against Brihaspati in the Tarakamaya war"
+  },
+  "soma|navagraha|member-of": {
+   "label": "Chandra, the Moon, is one of the Navagraha"
+  },
+  "soma|vasus|member-of": {
+   "label": "Soma is one of the eight Vasus in the Mahabharata's list"
+  },
+  "soma|shiva|devotee": {
+   "label": "The waning Moon was restored by worshipping Shiva at Prabhasa (Somnath), and Shiva wears the crescent on his head"
+  },
+  "rahu|soma|enemy": {
+   "label": "Rahu, exposed by the Moon at the Churning, swallows him at eclipses"
+  },
+  "ketu|soma|enemy": {
+   "label": "Ketu is the Moon's shadowy foe at eclipses"
+  },
+  "soma|indra|ally": {
+   "label": "Soma strengthens Indra for his battles; the two are invoked together as Indra-Soma"
+  },
+  "soma|dikpalas|member-of": {
+   "label": "Some Vedic and later texts name Soma guardian of the north (or north-east)",
+   "variation": "Kubera is the usual guardian of the north"
+  },
+  "vayu|hanuman|parent": {
+   "label": "Vayu is the divine father of Hanuman, born to Anjana"
+  },
+  "vayu|bhima|parent": {
+   "label": "Vayu is the divine father of Bhima, born to Kunti"
+  },
+  "vayu|dikpalas|member-of": {
+   "label": "Vayu is guardian of the north-west"
+  },
+  "vayu|vasus|member-of": {
+   "label": "Vayu (Anila) is one of the eight Vasus in the Mahabharata's list"
+  },
+  "vayu|indra|ally": {
+   "label": "Vayu and Indra share the first soma as the dual deity Indra-Vayu"
+  },
+  "vayu|purusha|created-by": {
+   "label": "Vayu was born from the breath of the cosmic Purusha (Rig Veda 10.90)"
+  },
+  "vayu|shesha|enemy": {
+   "label": "In a Puranic and regional tale Vayu and Shesha contested their strength over a peak of Mount Meru",
+   "variation": "Regional/late tradition; which peak broke off (Trikuta of Lanka, a southern hill) varies"
+  },
+  "rudra|shiva|form-of": {
+   "label": "The Vedic Rudra is the earliest form of Shiva; the Shvetashvatara Upanishad identifies them"
+  },
+  "rudra|maruts|parent": {
+   "label": "The Maruts are the sons of Rudra (Rig Veda 2.33)"
+  },
+  "rudra|prishni|spouse": {
+   "label": "Rudra and the cow-goddess Prishni are the parents of the Maruts (Rig Veda)"
+  },
+  "rudra|brahma|created-by": {
+   "label": "Puranas tell that Rudra sprang from Brahma's anger or forehead",
+   "variation": "Shaiva texts reverse this, making Shiva the source of Brahma"
+  },
+  "rudra|prajapati|enemy": {
+   "label": "Rudra shot Prajapati for pursuing his own daughter (Aitareya Brahmana)"
+  },
+  "pashupati|rudra|form-of": {
+   "label": "Pashupati, lord of creatures, is one of Rudra's names in the Vedic Samhitas and Brahmanas"
+  },
+  "rudras-group|rudra|created-by": {
+   "label": "Rudra divided himself into the eleven Rudras (Vishnu Purana)",
+   "variation": "Other lists derive the eleven Rudras from Kashyapa and Surabhi, or equate them with the vital breaths"
+  },
+  "rudra|soma|ally": {
+   "label": "Soma and Rudra are invoked together as a dual deity for healing (Rig Veda)"
+  },
+  "rudra|brihaspati|ally": {
+   "label": "Rudra, a pupil of Angiras, fought on Brihaspati's side in the Tarakamaya war (Vishnu Purana 4.6)"
+  },
+  "yama|yami|sibling": {
+   "label": "Yama and Yami are twins, children of Vivasvat and Saranyu (Rig Veda 10.10)"
+  },
+  "yama|yudhishthira|parent": {
+   "label": "Dharma, identified with Yama, is Yudhishthira's divine father",
+   "variation": "The Mahabharata sometimes distinguishes Dharma from Yama"
+  },
+  "vidura|yama|avatar-of": {
+   "label": "Vidura was Dharma (Yama) incarnate, born human through Mandavya's curse",
+   "variation": "The epic calls him an incarnation of Dharma; the equation with Yama rests on the Dharma-Yama identification"
+  },
+  "mandavya|yama|curse": {
+   "label": "Mandavya, impaled for a childhood fault, cursed Yama to be born as a shudra's son (Vidura)"
+  },
+  "yama|dikpalas|member-of": {
+   "label": "Yama is guardian of the south"
+  },
+  "yama|chitragupta|ally": {
+   "label": "Chitragupta is Yama's scribe who records every soul's deeds"
+  },
+  "yama|savitri|boon": {
+   "label": "Yama, moved by Savitri's wisdom and devotion, restored her husband Satyavan's life (Mahabharata, Vana Parva)"
+  },
+  "yama|nachiketa|guru": {
+   "label": "Yama taught Nachiketa the knowledge of the imperishable Self (Katha Upanishad)"
+  },
+  "yama|nachiketa|boon": {
+   "label": "Yama granted Nachiketa three boons for waiting three nights at his door"
+  },
+  "shiva|yama|enemy": {
+   "label": "As Kalantaka, Shiva struck down Yama to save his devotee Markandeya, then revived him"
+  },
+  "yama|shani|sibling": {
+   "label": "Yama and Shani are half-brothers, sons of Surya by Sanjna and Chhaya"
+  },
+  "yami|krishna|spouse": {
+   "label": "As Kalindi (Yamuna), daughter of the Sun, she married Krishna (Bhagavata Purana, Canto 10)",
+   "variation": "Kalindi's identification with Yami is traditional but not made in the Vedic texts"
+  },
+  "savitr|adityas|member-of": {
+   "label": "Savitr is one of the twelve Adityas in epic and Puranic lists"
+  },
+  "vishvamitra|savitr|devotee": {
+   "label": "Vishvamitra composed the Gayatri mantra addressed to Savitr (Rig Veda 3.62.10)"
+  },
+  "aditi|savitr|parent": {
+   "label": "Savitr is a son of Aditi in the Puranic lists of Adityas"
+  },
+  "savitr|soma|ally": {
+   "label": "Savitr gave his daughter Surya in marriage to Soma (Rig Veda 10.85)"
+  },
+  "pushan|adityas|member-of": {
+   "label": "Pushan is one of the twelve Adityas in epic and Puranic lists"
+  },
+  "virabhadra|pushan|enemy": {
+   "label": "Virabhadra knocked out Pushan's teeth at Daksha's sacrifice (Bhagavata Purana, Canto 4)"
+  },
+  "shiva|pushan|boon": {
+   "label": "Appeased, Shiva ruled that toothless Pushan would eat through the sacrificer's teeth"
+  },
+  "pushan|indra|ally": {
+   "label": "Pushan is invoked with Indra as helper in winning cattle (Rig Veda)"
+  },
+  "pushan|savitr|ally": {
+   "label": "Pushan and Savitr are closely linked solar guides in the Rig Veda"
+  },
+  "bhaga|adityas|member-of": {
+   "label": "Bhaga is one of the Adityas (Rig Veda 2.27)"
+  },
+  "virabhadra|bhaga|enemy": {
+   "label": "Virabhadra plucked out Bhaga's eyes at Daksha's sacrifice"
+  },
+  "shiva|bhaga|boon": {
+   "label": "Shiva granted that blinded Bhaga would see through Mitra's eyes"
+  },
+  "bhaga|ushas|sibling": {
+   "label": "Ushas is called Bhaga's sister in the Rig Veda"
+  },
+  "bhaga|mitra|ally": {
+   "label": "Bhaga sees through the eyes of Mitra after his blinding"
+  },
+  "aryaman|adityas|member-of": {
+   "label": "Aryaman is one of the Adityas (Rig Veda 2.27)"
+  },
+  "aryaman|varuna|ally": {
+   "label": "Aryaman is invoked with Mitra and Varuna as guardians of order and covenant"
+  },
+  "aryaman|bhaga|ally": {
+   "label": "Aryaman and Bhaga both preside over marriage and the sharing of fortune"
+  },
+  "tvashtr|vishvarupa|parent": {
+   "label": "Vishvarupa (Trishiras) is Tvashtr's three-headed son"
+  },
+  "vritra|tvashtr|created-by": {
+   "label": "Tvashtr raised Vritra from the sacrificial fire to avenge Vishvarupa (Taittiriya Samhita, Shatapatha Brahmana)",
+   "variation": "In the Rig Veda Vritra has no stated origin from Tvashtr"
+  },
+  "tvashtr|adityas|member-of": {
+   "label": "Tvashtr is one of the twelve Adityas in epic and Puranic lists"
+  },
+  "tvashtr|vishvakarma|form-of": {
+   "label": "Epic and Puranic texts often identify the Vedic craftsman Tvashtr with Vishvakarma",
+   "variation": "Distinct in the Rig Veda"
+  },
+  "vishvakarma|nala-vanara|parent": {
+   "label": "Nala, the vanara who built the bridge to Lanka, is Vishvakarma's son (Ramayana)"
+  },
+  "vishvakarma|krishna|ally": {
+   "label": "Vishvakarma built the city of Dvaraka for Krishna"
+  },
+  "vishvakarma|indra|ally": {
+   "label": "Vishvakarma built Indra's city Amaravati and, in Puranic tellings, fashioned the vajra from Dadhichi's bones"
+  },
+  "vishvakarma|prajapati|form-of": {
+   "label": "The Brahmanas identify the Rig Vedic All-Maker with Prajapati",
+   "variation": "Vedic identification not maintained in the Puranas"
+  },
+  "vishvakarma|surya|ally": {
+   "label": "Vishvakarma, Surya's father-in-law, trimmed the Sun's brilliance on his lathe to make divine weapons (Vishnu Purana 3.2)"
+  },
+  "parjanya|adityas|member-of": {
+   "label": "Parjanya appears among the twelve Adityas in some epic and Puranic lists",
+   "variation": "Other lists omit him"
+  },
+  "parjanya|indra|form-of": {
+   "label": "Later texts treat Parjanya as a name of Indra, who absorbed his rain-giving role",
+   "variation": "Separate deities in the Rig Veda"
+  },
+  "dyaus|parjanya|parent": {
+   "label": "Parjanya is called 'son of Dyaus' in the Rig Veda"
+  },
+  "parjanya|prithvi|spouse": {
+   "label": "The Atharva Veda calls Earth the wife of Parjanya, whose rain makes her fruitful"
+  },
+  "parjanya|maruts|ally": {
+   "label": "The Maruts bring on the rains with Parjanya"
+  },
+  "brihaspati|tara-brihaspati|spouse": {
+   "label": "Tara is Brihaspati's wife"
+  },
+  "brihaspati|kacha|parent": {
+   "label": "Kacha, who learned the Sanjivani lore from Shukra, is Brihaspati's son"
+  },
+  "angiras|brihaspati|parent": {
+   "label": "Brihaspati is a son of the sage Angiras (Angirasa)"
+  },
+  "brihaspati|shukracharya|enemy": {
+   "label": "Brihaspati, guru of the devas, and Shukra, guru of the asuras, are lasting rivals"
+  },
+  "brihaspati|bharadvaja|parent": {
+   "label": "Bharadvaja was born to Brihaspati by Mamata, wife of his brother Utathya"
+  },
+  "brihaspati|navagraha|member-of": {
+   "label": "Brihaspati is Guru, the planet Jupiter, among the Navagraha"
+  },
+  "brihaspati|vala|enemy": {
+   "label": "With his chant Brihaspati split Vala's rock and freed the cattle and the dawn (Rig Veda 10.68)"
+  }
+ }
+}
