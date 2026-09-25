@@ -231,7 +231,7 @@ export default function GraphView({
       const fontPx = mode === 'fixed' && !isFocus
         ? fixedFont
         : Math.max(10, Math.min(15, 9 + r * 0.35)) / scale;
-      ctx.font = `${isFocus ? 600 : 500} ${fontPx}px Inter, system-ui, sans-serif`;
+      ctx.font = `${isFocus ? 600 : 500} ${fontPx}px "Noto Sans Devanagari", Inter, system-ui, sans-serif`;
       ctx.textAlign = 'center';
       ctx.textBaseline = 'top';
       const y = node.y + (cat.shape === 'diamond' ? r * 1.35 : r) + 2 / scale;
@@ -241,7 +241,7 @@ export default function GraphView({
       ctx.strokeText(label, node.x, y);
       ctx.fillStyle = palette.label;
       ctx.fillText(label, node.x, y);
-      if (scale > 3 || (isFocus && scale > 1.5)) {
+      if ((scale > 3 || (isFocus && scale > 1.5)) && node.devanagari && node.devanagari !== label) {
         ctx.font = `${fontPx * 0.95}px "Tiro Devanagari Sanskrit", "Noto Sans Devanagari", serif`;
         ctx.strokeText(node.devanagari, node.x, y + fontPx * 1.15);
         ctx.fillStyle = rgba(color.startsWith('#') ? color : '#FFFFFF', 0.95);
