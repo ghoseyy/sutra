@@ -3,6 +3,7 @@
  * the graph data handed to <GraphView>. Components below it are presentational.
  */
 import { useCallback, useEffect, useMemo, useRef, useState, lazy, Suspense } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { nodes, links, nodeById, adjacency, stats } from './data/index.js';
 import { CATEGORIES, EDGE_TYPES, ERAS, LINEAGES, AVATAR_HUBS } from './data/meta.js';
 import { shortestPath, computeLineage, layoutFamilyTree, layoutAvatars } from './lib/graph.js';
@@ -396,6 +397,7 @@ export default function App() {
           )}
         </div>
       </main>
+      <Analytics />
     </div>
   );
 }
